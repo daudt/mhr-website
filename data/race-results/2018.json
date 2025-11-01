@@ -1,0 +1,187 @@
+[
+  {
+    "event_name": "Bobcat Boogie 5k",
+    "date": "2018-04-07",
+    "results": [
+      {"runner": "Bard Higgins", "placement": "6th overall", "division": "M30-39", "time": "19:13"},
+      {"runner": "Jennifer Fick", "placement": "", "division": "F40-49", "time": "27:06"}
+    ]
+  },
+  {
+    "event_name": "Boston Marathon",
+    "date": "2018-04-16",
+    "results": [
+      {"runner": "Sophia Tsai", "placement": "", "division": "F45-49", "time": "4:18:02"}
+    ]
+  },
+  {
+    "event_name": "Colfax 10 mile",
+    "date": "2018-05-20",
+    "results": [
+      {"runner": "Sophia Tsai", "placement": "", "division": "F45", "time": "1:30:07"},
+      {"runner": "Rich Vangilder", "placement": "", "division": "M49", "time": "1:35:26"}
+    ]
+  },
+  {
+    "event_name": "Colfax 5k",
+    "date": "2018-05-19",
+    "results": [
+      {"runner": "Jan Lobato", "placement": "1st in age", "division": "F60", "time": "25:25"},
+      {"runner": "Tim Lobato", "placement": "", "division": "M55", "time": "27:15"}
+    ]
+  },
+  {
+    "event_name": "Green Bay Cellcom Marathon",
+    "date": "2018-05-20",
+    "results": [
+      {"runner": "Sydnee Braun", "placement": "4th in age", "division": "F20-24", "time": "3:30:32"}
+    ]
+  },
+  {
+    "event_name": "2018 Bolder Boulder",
+    "date": "2018-05-28",
+    "results": [
+      {"runner": "Dale Hawkins", "placement": "7th PR", "division": "M44", "time": "40:39"},
+      {"runner": "Doug Croft", "placement": "13th", "division": "M52", "time": "44:24"},
+      {"runner": "Bobby Lehman", "placement": "17th", "division": "M46", "time": "45:03"},
+      {"runner": "Kim Mcconnell", "placement": "1st!!!", "division": "F50", "time": "45:30"},
+      {"runner": "Jeff Smith", "placement": "66th", "division": "M46", "time": "52:53"},
+      {"runner": "Jenny Fick", "placement": "28th", "division": "F45", "time": "54:01"},
+      {"runner": "Jan Lobato", "placement": "4th", "division": "F60", "time": "54:41"},
+      {"runner": "Michelle Allen", "placement": "16th", "division": "F40", "time": "49:57"},
+      {"runner": "Jim Carpenter", "placement": "119th", "division": "M46", "time": ""},
+      {"runner": "Bard Higgins", "placement": "11th", "division": "M38", "time": "40:23"},
+      {"runner": "Lena Lucas", "placement": "24th", "division": "F42", "time": "54:15"},
+      {"runner": "Dawn Cosio", "placement": "3rd", "division": "F44", "time": "45:13"}
+    ]
+  },
+  {
+    "event_name": "Deadwood Marathon",
+    "date": "2018-06-03",
+    "results": [
+      {"runner": "Elle Tyler", "placement": "", "division": "F25-29", "time": "4:50:57"}
+    ]
+  },
+  {
+    "event_name": "Deadwood Half Marathon",
+    "date": "2018-06-03",
+    "results": [
+      {"runner": "Kim Mcconnell", "placement": "1st in masters and 5th overall", "division": "F50-54", "time": "1:31:28"}
+    ]
+  },
+  {
+    "event_name": "Revel Marathon",
+    "date": "2018-06-03",
+    "results": [
+      {"runner": "Dale Hawkins", "placement": "BQ", "division": "M40-44", "time": "3:03:13"},
+      {"runner": "Doug Croft", "placement": "BQ", "division": "M50-54", "time": "3:28:38"},
+      {"runner": "AG", "placement": "", "division": "F19-24", "time": "3:40:01"},
+      {"runner": "Dan Nieman", "placement": "PR", "division": "M35-39", "time": "3:54:27"}
+    ]
+  },
+  {
+    "event_name": "Revel Half Marathon",
+    "date": "2018-06-03",
+    "results": [
+      {"runner": "Jeff Smith", "placement": "", "division": "M45-49", "time": "1:55:11"},
+      {"runner": "Alina Owczarek", "placement": "PR", "division": "F50-54", "time": "1:54:42"},
+      {"runner": "Sophia Tsai", "placement": "", "division": "F45-49", "time": "1:55:24"},
+      {"runner": "Cheri Vonfeldt", "placement": "PR", "division": "", "time": ""}
+    ]
+  },
+  {
+    "event_name": "Carbon Valley Firecracker 5k",
+    "date": "2018-07-04",
+    "results": [
+      {"runner": "Marci Peralta", "placement": "3rd in age, New PR by 4 mins", "division": "F30-39", "time": "24:37"},
+      {"runner": "Sydee Bruan", "placement": "1st overall female", "division": "", "time": "21:21"}
+    ]
+  },
+  {
+    "event_name": "Superior Downhill Mile",
+    "date": "2018-07-04",
+    "results": [
+      {"runner": "Jan Lobato", "placement": "1st in age", "division": "F60-100", "time": "6:55"},
+      {"runner": "Sophia Tsai", "placement": "3rd in age", "division": "F40-49", "time": "6:54"},
+      {"runner": "Su-Lai", "placement": "4th in age", "division": "F40-49", "time": "7:05"}
+    ]
+  },
+  {
+    "event_name": "Firecracker 4 Mile",
+    "date": "2018-07-04",
+    "results": [
+      {"runner": "Jan Lobato", "placement": "1st in age", "division": "F60-65", "time": "33:32"}
+    ]
+  },
+  {
+    "event_name": "2018 Fortitude 10k",
+    "date": "2018-09-03",
+    "results": [
+      {"runner": "Jeff Smith", "placement": "15th place", "division": "M46", "time": "50:06"},
+      {"runner": "Bobby Lehman", "placement": "3rd place", "division": "M46", "time": "41:32"},
+      {"runner": "Alina Owczark", "placement": "5th place NEW PR", "division": "F54", "time": ""},
+      {"runner": "Bard Higgins", "placement": "pace Jeff Smith", "division": "M38", "time": "49:34"},
+      {"runner": "Jennifer Fick", "placement": "10th place", "division": "F45", "time": "54:38"},
+      {"runner": "Sophia Tsai", "placement": "16th place", "division": "F46", "time": "54:38"},
+      {"runner": "Doug", "placement": "5th place", "division": "M52", "time": "45:15"}
+    ]
+  },
+  {
+    "event_name": "Steamboat Run Rabbit Run 101.9 Mile",
+    "date": "2018-09-15",
+    "results": [
+      {"runner": "Dan", "placement": "", "division": "", "time": "34:54"},
+      {"runner": "Dale", "placement": "", "division": "", "time": "34:32:47"},
+      {"runner": "Doug", "placement": "", "division": "", "time": "35:54:21"}
+    ]
+  },
+  {
+    "event_name": "Eerie Erie 10k",
+    "date": "2018-10-27",
+    "results": [
+      {"runner": "Mark Bridenstine", "placement": "3rd overall 2nd in age", "division": "30-39", "time": "40:09"}
+    ]
+  },
+  {
+    "event_name": "Eerie Erie 5k",
+    "date": "2018-10-27",
+    "results": [
+      {"runner": "Dan Nieman", "placement": "3rd in age", "division": "30-39", "time": "21:59"},
+      {"runner": "Bobby Lehman", "placement": "2nd in age", "division": "40-49", "time": "20:14"},
+      {"runner": "Jeff Smith", "placement": "7th in age", "division": "40-49", "time": "24:12"},
+      {"runner": "Keith Bader", "placement": "9th in age", "division": "40-49", "time": "27:32"},
+      {"runner": "Nicky Kent", "placement": "7th in age", "division": "40-49", "time": "28:21"},
+      {"runner": "Alina Owczarek", "placement": "3rd in age", "division": "50-59", "time": "24:36"},
+      {"runner": "Jan Lobato", "placement": "2nd in age, new PR!", "division": "60-69", "time": "24:00"}
+    ]
+  },
+  {
+    "event_name": "Monster Dash",
+    "date": "2018-10-28",
+    "results": [
+      {"runner": "Jake Kurzawa", "placement": "4th overall and 1st in age", "division": "40-49", "time": "19:39"},
+      {"runner": "Dale Hawkins", "placement": "3rd in age", "division": "40-49", "time": "20:44"}
+    ]
+  },
+  {
+    "event_name": "Westy Half Marathon",
+    "date": "2018-11-04",
+    "results": [
+      {"runner": "Dawn Cosio", "placement": "2nd overall", "division": "", "time": "1:38:54"}
+    ]
+  },
+  {
+    "event_name": "2018 Brighton 5k Turkey Trot",
+    "date": "2018-11-17",
+    "results": [
+      {"runner": "Mark BridenPRE", "placement": "3rd overall, 1st in age", "division": "35-39", "time": "18:05"},
+      {"runner": "Dave Mura", "placement": "2nd in age", "division": "35-39", "time": "20:04"},
+      {"runner": "Dan Nieman", "placement": "6th in age, New PR!!", "division": "35-39", "time": "21:29"},
+      {"runner": "Dale Hawkins", "placement": "1st in age", "division": "45-49", "time": "19:51"},
+      {"runner": "Bobby Lehman", "placement": "2nd in age", "division": "45-49", "time": "20:14"},
+      {"runner": "Doug", "placement": "3rd in age", "division": "50-54", "time": "20:23"},
+      {"runner": "Jan Lobato", "placement": "1st in age", "division": "60-64", "time": "25:13"},
+      {"runner": "Sophia Tsai", "placement": "Paced a friend to a 5 minute PR", "division": "", "time": ""}
+    ]
+  }
+]
