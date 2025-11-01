@@ -243,10 +243,10 @@
                     const raceDate = new Date(race.date);
                     const dateStr = raceDate.toLocaleDateString('en-US', { month: 'long', day: 'numeric' });
 
-                    html += `<p><strong>${race.event_name} – ${dateStr}</strong> `;
+                    html += `<p><strong>${race.event_name} – ${dateStr}</strong><br>`;
 
                     race.results.forEach((result, index) => {
-                        if (index > 0) html += ', ';
+                        if (index > 0) html += '<br>';
                         html += result.runner;
                         if (result.placement) html += ` – ${result.placement}`;
                         if (result.division) html += ` ${result.division}`;
