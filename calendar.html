@@ -1,38 +1,85 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Calendar - Mile High Runners</title>
+    <meta name="description" content="Mile High Runners - Erie, Colorado's premier running group for training and friendship">
+    <meta name="keywords" content="running, Colorado, Erie, training, running group, Mile High Runners">
+    <title>Mile High Runners | Erie, Colorado Running Group</title>
     <link rel="stylesheet" href="styles.css">
+    <!-- Font Awesome for icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&family=Montserrat:wght@700&display=swap" rel="stylesheet">
 </head>
-
 <body>
-    <header>
-        <div class="container">
-            <h1>Mile High Runners</h1>
-            <nav>
-                <ul>
-                    <li><a href="index.html">Home</a></li>
-                    <li><a href="race-results.html">Race Results</a></li>
-                    <li><a href="calendar.html" class="active">Calendar</a></li>
-                </ul>
-            </nav>
-        </div>
+    <header class="main-header">
+        <nav class="nav-container">
+            <div class="logo">
+                <a href="index.html"><img src="images/MHR_Logo_Small.png" alt="Mile High Runners Logo"></a>
+            </div>
+            <button class="mobile-menu-btn" aria-label="Toggle menu">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
+            <ul class="nav-menu">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="calendar.html">Calendar</a></li>
+                <li><a href="meet-coach.html">Meet the Coach</a></li>
+                <li><a href="membership.html">Membership</a></li>
+                <li><a href="race-results.html">Race Results</a></li>
+                <li><a href="sponsors.html">Sponsors</a></li>
+                <li><a href="contact.html" class="cta-button">Contact Us</a></li>
+            </ul>
+        </nav>
     </header>
 
-    <main class="container">
-        <h2>Upcoming Workouts</h2>
+    <main>
+        <section class="page-hero">
+            <div class="page-hero-content">
+                <h1>Calendar</h1>
+            </div>
+        </section>
 
-        <div id="workouts-container">
-            <div class="loading">Loading workouts...</div>
-        </div>
+        <section class="calendar-section">
+            <div class="content-container">
+                <h2>Upcoming Events</h2>
+                <div id="workouts-container">
+                    <p class="no-events">Loading upcoming events...</p>
+                </div>
+                <p>For more information about our training schedule and events, please <a href="contact.html">contact us</a>.</p>
+            </div>
+        </section>
     </main>
 
-    <footer>
-        <div class="container">
-            <p>&copy; 2024 Mile High Runners. All rights reserved.</p>
+    <footer class="main-footer">
+        <div class="footer-content">
+            <div class="footer-section">
+                <h3>Connect With Us</h3>
+                <div class="social-links">
+                    <a href="https://www.facebook.com/milehighrunners" target="_blank" aria-label="Facebook"><i class="fab fa-facebook"></i></a>
+                    <a href="https://www.instagram.com/milehighrunners" target="_blank" aria-label="Instagram"><i class="fab fa-instagram"></i></a>
+                </div>
+            </div>
+            <div class="footer-section">
+                <h3>Quick Links</h3>
+                <ul>
+                    <li><a href="meet-coach.html">About Us</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                    <li><a href="privacy.html">Privacy Policy</a></li>
+                </ul>
+            </div>
+            <div class="footer-section">
+                <h3>Contact Info</h3>
+                <p>Doug Croft</p>
+                <p>Erie, Colorado</p>
+                <p><a href="contact.html">Contact Us</a></p>
+                <p><a href="tel:303-396-5650">303-396-5650</a></p>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; 2025 Mile High Runners. All rights reserved.</p>
         </div>
     </footer>
 
@@ -43,78 +90,64 @@
 
         async function loadWorkouts() {
             const container = document.getElementById('workouts-container');
-            container.innerHTML = '<div class="loading">Loading workouts...</div>';
-
+            
             try {
                 const response = await fetch('data/workouts.json');
-
+                
                 if (!response.ok) {
-                    container.innerHTML = '<p class="no-results">No upcoming workouts scheduled</p>';
+                    container.innerHTML = '<p class="no-events">There are no upcoming events at this time. Please check back soon!</p>';
                     return;
                 }
 
                 const workouts = await response.json();
-
+                
                 if (!workouts || workouts.length === 0) {
-                    container.innerHTML = '<p class="no-results">No upcoming workouts scheduled</p>';
+                    container.innerHTML = '<p class="no-events">There are no upcoming events at this time. Please check back soon!</p>';
                     return;
                 }
 
-                // Sort workouts by date
+                // Sort by date
                 workouts.sort((a, b) => new Date(a.date) - new Date(b.date));
 
-                let html = '';
+                let html = '<div class="workouts-list">';
+                
                 workouts.forEach(workout => {
-                    const workoutDate = new Date(workout.date).toLocaleDateString('en-US', {
-                        weekday: 'long',
-                        year: 'numeric',
-                        month: 'long',
-                        day: 'numeric'
+                    const workoutDate = new Date(workout.date);
+                    const dateStr = workoutDate.toLocaleDateString('en-US', { 
+                        weekday: 'long', 
+                        year: 'numeric', 
+                        month: 'long', 
+                        day: 'numeric' 
                     });
 
-                    html += `
-                        <div class="workout-card">
-                            <div class="workout-header">
-                                <h3>${workoutDate}, ${workout.time}</h3>
-                                ${workout.location && workout.location.map_link ?
-                            `<a href="${workout.location.map_link}" target="_blank" class="location-link">
-                                        📍 ${workout.location.name || workout.location.address}
-                                    </a>` :
-                            `<p class="location">📍 ${workout.location}</p>`
+                    html += '<div class="workout-item">';
+                    html += `<h3>${dateStr} – ${workout.time}</h3>`;
+                    
+                    if (workout.location_name) {
+                        html += `<p><strong>Location:</strong> `;
+                        if (workout.map_link) {
+                            html += `<a href="${workout.map_link}" target="_blank">${workout.location_name}</a>`;
+                        } else {
+                            html += workout.location_name;
                         }
-                            </div>
-                            <div class="workout-description">
-                                ${formatWorkoutDescription(workout.description)}
-                            </div>
-                        </div>
-                    `;
+                        html += '</p>';
+                    }
+                    
+                    if (workout.description) {
+                        html += `<p>${workout.description}</p>`;
+                    }
+                    
+                    html += '</div>';
                 });
 
+                html += '</div>';
                 container.innerHTML = html;
             } catch (error) {
                 console.error('Error loading workouts:', error);
-                container.innerHTML = '<p class="error">Error loading workouts. Please try again later.</p>';
+                container.innerHTML = '<p class="no-events">There are no upcoming events at this time. Please check back soon!</p>';
             }
-        }
-
-        function formatWorkoutDescription(description) {
-            if (!description) return '';
-
-            // Convert line breaks to <br> tags
-            // Convert bullet points to <ul><li> format
-            let formatted = description
-                .replace(/\n/g, '<br>')
-                .replace(/\* {2}/g, '<li>')
-                .replace(/<br><li>/g, '<li>');
-
-            // If we have list items, wrap in <ul>
-            if (formatted.includes('<li>')) {
-                formatted = '<ul>' + formatted + '</ul>';
-            }
-
-            return formatted;
         }
     </script>
+   
 </body>
-
 </html>
