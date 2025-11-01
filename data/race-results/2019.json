@@ -1,0 +1,16 @@
+[
+  {
+    "event_name": "2019 Bolder Boulder 10k",
+    "date": "2019-05-27",
+    "results": [
+      {"runner": "Jan Lobato", "placement": "2nd", "division": "F61", "time": "51:25"},
+      {"runner": "Sophia Tsai", "placement": "39th", "division": "F47", "time": "57:59"},
+      {"runner": "Ty Keyes", "placement": "31st", "division": "M29", "time": "41:38"},
+      {"runner": "Bobby Lehman", "placement": "8th", "division": "M47", "time": "41:50"},
+      {"runner": "Dale Hawkins", "placement": "12th", "division": "M45", "time": "41:51"},
+      {"runner": "Tim Lobato", "placement": "76th", "division": "M56", "time": "1:00:08"},
+      {"runner": "Bard Higgins", "placement": "13th", "division": "M39", "time": "42:01"},
+      {"runner": "Jenny Fick", "placement": "28th", "division": "F46", "time": "54:25"}
+    ]
+  }
+]
