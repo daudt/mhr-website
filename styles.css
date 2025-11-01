@@ -164,6 +164,156 @@ h1, h2, h3, h4, h5, h6 {
     margin-bottom: 1rem;
 }
 
+/* Slideshow Section */
+.slideshow-section {
+    background-color: var(--white);
+    padding: 4rem 1rem;
+}
+
+.slideshow-container {
+    max-width: var(--max-width);
+    margin: 0 auto;
+}
+
+.slideshow-container h2 {
+    text-align: center;
+    color: var(--primary-color);
+    margin-bottom: 2rem;
+    font-size: 2rem;
+}
+
+.slideshow-wrapper {
+    position: relative;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.slideshow {
+    position: relative;
+    width: 100%;
+    height: 600px;
+    overflow: hidden;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
+
+.slide {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    transition: opacity 0.5s ease-in-out;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--light-gray);
+}
+
+.slide.active {
+    opacity: 1;
+    z-index: 1;
+}
+
+.slide img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.slideshow-btn {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: rgba(255, 255, 255, 0.9);
+    border: none;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    cursor: pointer;
+    z-index: 10;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+}
+
+.slideshow-btn:hover {
+    background-color: var(--white);
+    transform: translateY(-50%) scale(1.1);
+}
+
+.slideshow-btn.prev-btn {
+    left: 20px;
+}
+
+.slideshow-btn.next-btn {
+    right: 20px;
+}
+
+.slideshow-btn i {
+    color: var(--primary-color);
+    font-size: 1.2rem;
+}
+
+.slideshow-controls {
+    position: absolute;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    z-index: 10;
+    background-color: rgba(255, 255, 255, 0.9);
+    padding: 0.5rem 1rem;
+    border-radius: 25px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+    pointer-events: auto;
+}
+
+.slideshow-play-pause {
+    background: none;
+    border: none;
+    cursor: pointer;
+    color: var(--primary-color);
+    font-size: 1.2rem;
+    padding: 0.5rem;
+    transition: transform 0.3s ease;
+}
+
+.slideshow-play-pause:hover {
+    transform: scale(1.1);
+}
+
+.slideshow-indicators {
+    display: flex;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+    max-width: 400px;
+    justify-content: center;
+}
+
+.indicator {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background-color: rgba(44, 62, 80, 0.4);
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.indicator:hover {
+    transform: scale(1.2);
+}
+
+.indicator.active {
+    background-color: var(--primary-color);
+    transform: scale(1.3);
+}
+
 /* Upcoming Events Section */
 .upcoming-events {
     background-color: var(--light-gray);
@@ -338,5 +488,538 @@ h1, h2, h3, h4, h5, h6 {
 
     .social-links {
         justify-content: center;
+    }
+}
+
+/* Welcome Section (Home Page) */
+.welcome-section {
+    max-width: var(--max-width);
+    margin: 4rem auto;
+    padding: 3rem 1rem;
+    text-align: center;
+    background-color: var(--light-gray);
+    border-radius: 8px;
+}
+
+.welcome-content h2 {
+    color: var(--primary-color);
+    margin-bottom: 1.5rem;
+    font-size: 2rem;
+}
+
+.welcome-content p {
+    font-size: 1.1rem;
+    margin-bottom: 1rem;
+    line-height: 1.8;
+}
+
+.welcome-content .emphasis {
+    color: var(--secondary-color);
+    font-size: 1.15rem;
+    margin: 1.5rem 0;
+}
+
+.welcome-content a {
+    color: var(--accent-color);
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.welcome-content a:hover {
+    text-decoration: underline;
+}
+
+/* Page Hero Sections */
+.page-hero {
+    background: linear-gradient(135deg, var(--primary-color) 0%, var(--accent-color) 100%);
+    padding: 4rem 1rem;
+    text-align: center;
+    color: var(--white);
+    margin-top: 60px;
+}
+
+.page-hero-content h1 {
+    font-size: 2.5rem;
+    margin: 0;
+}
+
+/* Content Container */
+.content-container {
+    max-width: var(--max-width);
+    margin: 0 auto;
+    padding: 3rem 1rem;
+}
+
+/* Coach Bio Section */
+.coach-bio {
+    background-color: var(--white);
+}
+
+.coach-bio h2 {
+    color: var(--primary-color);
+    font-size: 2rem;
+    margin-bottom: 2rem;
+    text-align: center;
+}
+
+.bio-content {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.bio-content p {
+    margin-bottom: 1.5rem;
+    line-height: 1.8;
+}
+
+.bio-content h4 {
+    color: var(--secondary-color);
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    font-size: 1.3rem;
+}
+
+.bio-content ul {
+    list-style: disc;
+    margin-left: 2rem;
+    margin-bottom: 1.5rem;
+}
+
+.bio-content ul li {
+    margin-bottom: 0.5rem;
+    line-height: 1.6;
+}
+
+/* Membership Sections */
+.membership-intro {
+    background-color: var(--light-gray);
+    padding: 2rem 1rem;
+    text-align: center;
+}
+
+.free-week-callout {
+    font-size: 1.5rem;
+    color: var(--secondary-color);
+}
+
+.membership-details {
+    background-color: var(--white);
+}
+
+.membership-details h2 {
+    color: var(--primary-color);
+    font-size: 2rem;
+    margin-bottom: 2rem;
+}
+
+.membership-plan {
+    background-color: var(--light-gray);
+    padding: 2rem;
+    border-radius: 8px;
+    margin-bottom: 3rem;
+}
+
+.membership-plan h3 {
+    color: var(--secondary-color);
+    margin-bottom: 1rem;
+}
+
+.membership-plan ul {
+    list-style: disc;
+    margin-left: 2rem;
+    margin-bottom: 1.5rem;
+}
+
+.membership-plan ul li {
+    margin-bottom: 0.5rem;
+    line-height: 1.6;
+}
+
+.pricing-tiers {
+    margin: 2rem 0;
+    padding: 1.5rem;
+    background-color: var(--white);
+    border-radius: 8px;
+    border-left: 4px solid var(--secondary-color);
+}
+
+.pricing-tiers p {
+    font-size: 1.2rem;
+    margin-bottom: 0.5rem;
+}
+
+.prorated-note {
+    color: var(--accent-color);
+    margin: 1.5rem 0;
+}
+
+.specialized-training {
+    padding: 2rem;
+    background-color: var(--light-gray);
+    border-radius: 8px;
+}
+
+.specialized-training h2 {
+    color: var(--primary-color);
+    margin-bottom: 1rem;
+}
+
+.specialized-training p {
+    margin-bottom: 1rem;
+    line-height: 1.8;
+}
+
+.specialized-training a {
+    color: var(--accent-color);
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.specialized-training a:hover {
+    text-decoration: underline;
+}
+
+/* Race Results Section */
+.race-results-section {
+    background-color: var(--white);
+}
+
+.years-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 2rem;
+}
+
+.year-item {
+    background-color: var(--light-gray);
+    padding: 2rem;
+    border-radius: 8px;
+    text-align: center;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.year-item:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
+
+.year-item h3 {
+    color: var(--primary-color);
+    font-size: 1.8rem;
+    margin-bottom: 0.5rem;
+}
+
+.year-item p {
+    color: var(--text-color);
+}
+
+/* Sponsors Section */
+.sponsors-section {
+    background-color: var(--white);
+    text-align: center;
+}
+
+.sponsor-intro {
+    font-size: 1.2rem;
+    margin-bottom: 2rem;
+}
+
+.sponsor-logos {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 3rem;
+    margin-top: 2rem;
+}
+
+.sponsor-logo {
+    max-width: 300px;
+    height: auto;
+    transition: transform 0.3s ease;
+}
+
+.sponsor-logo:hover {
+    transform: scale(1.05);
+}
+
+/* Calendar Section */
+.calendar-section {
+    background-color: var(--white);
+    text-align: center;
+}
+
+.calendar-section h2 {
+    color: var(--primary-color);
+    margin-bottom: 1.5rem;
+}
+
+.no-events {
+    font-size: 1.1rem;
+    color: var(--text-color);
+    margin-bottom: 1rem;
+}
+
+.calendar-section a {
+    color: var(--accent-color);
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.calendar-section a:hover {
+    text-decoration: underline;
+}
+
+/* Contact Section */
+.contact-section {
+    background-color: var(--white);
+}
+
+.contact-section > .content-container > p {
+    text-align: center;
+    font-size: 1.1rem;
+    margin-bottom: 2rem;
+}
+
+.contact-info {
+    max-width: 600px;
+    margin: 0 auto 3rem;
+    padding: 2rem;
+    background-color: var(--light-gray);
+    border-radius: 8px;
+}
+
+.contact-info h3 {
+    color: var(--primary-color);
+    margin-bottom: 1rem;
+    text-align: center;
+}
+
+.contact-info p {
+    margin-bottom: 0.8rem;
+    line-height: 1.8;
+}
+
+.contact-info a {
+    color: var(--accent-color);
+    text-decoration: none;
+}
+
+.contact-info a:hover {
+    text-decoration: underline;
+}
+
+.contact-callout {
+    text-align: center;
+    padding: 2rem;
+    background-color: var(--secondary-color);
+    color: var(--white);
+    border-radius: 8px;
+    font-size: 1.2rem;
+}
+
+/* Contact Form Styles */
+.contact-form-container {
+    max-width: 600px;
+    margin: 0 auto 3rem;
+    padding: 2rem;
+    background-color: var(--light-gray);
+    border-radius: 8px;
+}
+
+.contact-form-container h3 {
+    color: var(--primary-color);
+    margin-bottom: 1.5rem;
+    text-align: center;
+    font-size: 1.8rem;
+}
+
+.contact-form {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+}
+
+.form-group {
+    display: flex;
+    flex-direction: column;
+}
+
+.form-group label {
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+    color: var(--primary-color);
+}
+
+.required {
+    color: var(--secondary-color);
+}
+
+.form-group input,
+.form-group textarea {
+    padding: 0.8rem;
+    border: 2px solid #ddd;
+    border-radius: 4px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1rem;
+    transition: border-color 0.3s ease;
+}
+
+.form-group input:focus,
+.form-group textarea:focus {
+    outline: none;
+    border-color: var(--accent-color);
+}
+
+.form-group textarea {
+    resize: vertical;
+    min-height: 120px;
+}
+
+.error-message {
+    color: var(--secondary-color);
+    font-size: 0.875rem;
+    margin-top: 0.25rem;
+    display: none;
+}
+
+.error-message.show {
+    display: block;
+}
+
+.form-group input.error,
+.form-group textarea.error {
+    border-color: var(--secondary-color);
+}
+
+.form-messages {
+    padding: 1rem;
+    border-radius: 4px;
+    margin-bottom: 1rem;
+    display: none;
+}
+
+.form-messages.show {
+    display: block;
+}
+
+.form-messages.success {
+    background-color: #d4edda;
+    color: #155724;
+    border: 1px solid #c3e6cb;
+}
+
+.form-messages.error {
+    background-color: #f8d7da;
+    color: #721c24;
+    border: 1px solid #f5c6cb;
+}
+
+.submit-button {
+    background-color: var(--secondary-color);
+    color: var(--white);
+    border: none;
+    padding: 1rem 2rem;
+    border-radius: 4px;
+    font-size: 1rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+    align-self: center;
+    min-width: 150px;
+}
+
+.submit-button:hover:not(:disabled) {
+    background-color: #c0392b;
+    transform: translateY(-2px);
+}
+
+.submit-button:disabled {
+    opacity: 0.7;
+    cursor: not-allowed;
+}
+
+.spinner {
+    display: inline-block;
+}
+
+.spinner i {
+    margin-right: 0.5rem;
+}
+
+/* reCAPTCHA styling */
+.g-recaptcha {
+    margin: 1rem 0;
+    display: flex;
+    justify-content: center;
+}
+
+@media (max-width: 768px) {
+    .g-recaptcha {
+        transform: scale(0.85);
+        transform-origin: 0 0;
+    }
+}
+
+/* Responsive adjustments for new sections */
+@media (max-width: 768px) {
+    .page-hero-content h1 {
+        font-size: 2rem;
+    }
+    
+    .welcome-content h2 {
+        font-size: 1.5rem;
+    }
+    
+    .coach-bio h2,
+    .membership-details h2 {
+        font-size: 1.8rem;
+    }
+    
+    .years-list {
+        grid-template-columns: 1fr;
+    }
+    
+    .sponsor-logo {
+        max-width: 200px;
+    }
+
+    .slideshow {
+        height: 400px;
+    }
+
+    .slideshow-btn {
+        width: 40px;
+        height: 40px;
+    }
+
+    .slideshow-btn.prev-btn {
+        left: 10px;
+    }
+
+    .slideshow-btn.next-btn {
+        right: 10px;
+    }
+
+    .slideshow-indicators {
+        max-width: 300px;
+        gap: 0.3rem;
+    }
+
+    .indicator {
+        width: 6px;
+        height: 6px;
+    }
+
+    .slideshow-container h2 {
+        font-size: 1.5rem;
+    }
+    
+    .contact-form-container {
+        padding: 1.5rem;
+    }
+    
+    .contact-form-container h3 {
+        font-size: 1.5rem;
     }
 } 
