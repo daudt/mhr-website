@@ -1,0 +1,183 @@
+[
+  {
+    "event_name": "Revel Marathon & Half",
+    "date": "2017-06-12",
+    "results": [
+      {"runner": "Sophia Tsai", "placement": "PR & BQ", "division": "", "time": "3:48:05"},
+      {"runner": "Dale Hawkins", "placement": "PR & BQ", "division": "", "time": "2:59:57"},
+      {"runner": "Cheri VonFeldt", "placement": "PR", "division": "", "time": "5:02:27"},
+      {"runner": "Kummi Ka", "placement": "PR", "division": "", "time": "3:45:45"},
+      {"runner": "Su-Lai Hamilton", "placement": "", "division": "", "time": "5:35:18"},
+      {"runner": "Doug Croft", "placement": "BQ", "division": "", "time": "3:22:41"},
+      {"runner": "Nicky Kent", "placement": "", "division": "", "time": "1:48:34"},
+      {"runner": "Jeff Smith", "placement": "PR", "division": "", "time": "1:47:26"},
+      {"runner": "Michelle Allen", "placement": "", "division": "", "time": "1:38.05"}
+    ]
+  },
+  {
+    "event_name": "Predict 5k @ Rock Creek",
+    "date": "2017-06-29",
+    "results": [
+      {"runner": "Bard", "placement": "5th", "division": "", "time": "20:04 (Actual 20:04, Predicted 21:00)"},
+      {"runner": "Jeff S", "placement": "2nd", "division": "", "time": "23:47 (Actual 23:47, Predicted 23:55)"},
+      {"runner": "Rich V", "placement": "3rd", "division": "", "time": "23:16 (Actual 23:16, Predicted 23:54)"},
+      {"runner": "Bret", "placement": "9th", "division": "", "time": "22:26 (Actual 22:26, Predicted 23:53)"},
+      {"runner": "Nitsara", "placement": "10th", "division": "", "time": "30:58 (Actual 30:58, Predicted 33:00)"},
+      {"runner": "Jan L.", "placement": "4th", "division": "", "time": "25:35 (Actual 25:35, Predicted 27:45)"},
+      {"runner": "Su-Lai", "placement": "7th", "division": "", "time": "30:54 (Actual 30:54, Predicted 32:11)"},
+      {"runner": "Dawn", "placement": "8th", "division": "", "time": "21:28 (Actual 21:28, Predicted 22:50)"},
+      {"runner": "Sophia", "placement": "1st Great job!!", "division": "", "time": "25:33 (Actual 25:33, Predicted 25:30)"},
+      {"runner": "Lena", "placement": "4th", "division": "", "time": "23:52 (Actual 23:52, Predicted 24:45)"},
+      {"runner": "Heidi", "placement": "6th", "division": "", "time": "23:50 (Actual 23:50, Predicted 24:50)"}
+    ]
+  },
+  {
+    "event_name": "Superior 1 mile Downhill Race",
+    "date": "2017-07-04",
+    "results": [
+      {"runner": "Rich V.", "placement": "", "division": "", "time": "5:41.7"},
+      {"runner": "Kummi Ka", "placement": "", "division": "", "time": "6:23.8"},
+      {"runner": "Sophia Tsai", "placement": "", "division": "", "time": "6:39.0"},
+      {"runner": "Su-Lai", "placement": "", "division": "", "time": "7:28.6"}
+    ]
+  },
+  {
+    "event_name": "Fire Cracker 4k/4 mile",
+    "date": "2017-07-04",
+    "results": [
+      {"runner": "Jeff Smith", "placement": "", "division": "", "time": "31:17 (4 mile)"},
+      {"runner": "Nicky Theiss", "placement": "", "division": "", "time": "31:48 (4 mile)"},
+      {"runner": "Dawn Cosio", "placement": "", "division": "", "time": "28:00"},
+      {"runner": "Dale Hawkins", "placement": "Overall winner!", "division": "", "time": "16:11 (4k)"}
+    ]
+  },
+  {
+    "event_name": "Breckenridge Independence Day 10K Trail Run",
+    "date": "2017-07-04",
+    "results": [
+      {"runner": "Lena Lucas", "placement": "", "division": "", "time": "1:02:16"}
+    ]
+  },
+  {
+    "event_name": "Fortitude 10 in Ft. Collins",
+    "date": "2017-09-04",
+    "results": [
+      {"runner": "Bret Butler", "placement": "4th in age", "division": "M26", "time": "38:53"},
+      {"runner": "Bardon Higgins", "placement": "5th in age PR", "division": "M37", "time": "40:22"},
+      {"runner": "Rich Vangilder", "placement": "18th in age", "division": "M49", "time": "48:41"},
+      {"runner": "Doug Croft", "placement": "4th in age", "division": "M51", "time": "41:32"},
+      {"runner": "Kayla Bruzdzinski", "placement": "3rd in age PR", "division": "F27", "time": "42:58"},
+      {"runner": "Jenny Fisk", "placement": "11th in age PR", "division": "F44", "time": "52:44"},
+      {"runner": "Sophia Tsai", "placement": "15th in age PR", "division": "F45", "time": "51:48"}
+    ]
+  },
+  {
+    "event_name": "St. George Marathon",
+    "date": "2017-10-07",
+    "results": [
+      {"runner": "Kummi KA", "placement": "PR", "division": "F43", "time": "3:45:41"},
+      {"runner": "Nicky Kent", "placement": "", "division": "F43", "time": "3:47:12"},
+      {"runner": "Cheri VonFeldt", "placement": "", "division": "F48", "time": "5:14:47"}
+    ]
+  },
+  {
+    "event_name": "Chicago Marathon",
+    "date": "2017-10-08",
+    "results": [
+      {"runner": "Dawn Cosic", "placement": "", "division": "F43", "time": "3:35:30"},
+      {"runner": "Lena Lucas", "placement": "", "division": "F41", "time": "3:54:59"},
+      {"runner": "Heidi Sorenson", "placement": "BQ", "division": "F44", "time": "3:49:59"}
+    ]
+  },
+  {
+    "event_name": "Denver Rock & Roll 5k",
+    "date": "2017-10-13",
+    "results": [
+      {"runner": "Sophia Tsai", "placement": "3rd place", "division": "F45-49", "time": "25:29"},
+      {"runner": "Rich Vangilder", "placement": "5th place", "division": "M45-49", "time": ""}
+    ]
+  },
+  {
+    "event_name": "Denver Rock & Roll Half Marathon",
+    "date": "2017-10-14",
+    "results": [
+      {"runner": "Sophia Tsai", "placement": "", "division": "F45-49", "time": "2:02:03"},
+      {"runner": "Rich Vangilder", "placement": "", "division": "M45-49", "time": "1:48:44"}
+    ]
+  },
+  {
+    "event_name": "2017 Eerie Erie 10K",
+    "date": "2017-10-28",
+    "results": [
+      {"runner": "Jake Kurzawa", "placement": "PR 5th overall 1st in age", "division": "M30-39", "time": "39:23"},
+      {"runner": "Dan Nieman", "placement": "New PR 4th in age", "division": "M30-39", "time": "47:14"},
+      {"runner": "Tim Lobato", "placement": "", "division": "M50-59", "time": "1:02:08"}
+    ]
+  },
+  {
+    "event_name": "2017 Eerie Erie 5K",
+    "date": "2017-10-28",
+    "results": [
+      {"runner": "Nicky Kent", "placement": "5th in age", "division": "F40-49", "time": "26:26"},
+      {"runner": "Jan Lobato", "placement": "4th in age", "division": "F50-59", "time": "27:32"}
+    ]
+  },
+  {
+    "event_name": "Highlands Ranch Half Marathon",
+    "date": "2017-11-04",
+    "results": [
+      {"runner": "Elle Tyler", "placement": "New PR for her!!", "division": "F20-29", "time": "2:12:22"},
+      {"runner": "Bard Higgins", "placement": "", "division": "M30-39", "time": "1:47:32"},
+      {"runner": "Doug Croft", "placement": "A-fib PR !!", "division": "M50-59", "time": "1:53:55"}
+    ]
+  },
+  {
+    "event_name": "Brighton 5k Turkey Trot",
+    "date": "2017-11-18",
+    "results": [
+      {"runner": "Jan Lobato", "placement": "1st place", "division": "F55-59", "time": ""},
+      {"runner": "Nicky Kent", "placement": "1st place (she won it last year also)", "division": "F40-44", "time": ""},
+      {"runner": "Sophia Tsai", "placement": "2nd place", "division": "F45-49", "time": ""},
+      {"runner": "Dave Mura", "placement": "2nd place", "division": "M35-39", "time": ""},
+      {"runner": "Dale Hawkins", "placement": "2nd place", "division": "M40-45", "time": ""},
+      {"runner": "Jeff Smith", "placement": "PR by 2 sec 3rd place", "division": "M45-49", "time": ""},
+      {"runner": "Rich Vangilder", "placement": "4th place", "division": "M45-49", "time": ""},
+      {"runner": "Keith Bader", "placement": "5th place", "division": "M45-49", "time": ""},
+      {"runner": "Tim Lobato", "placement": "6th place", "division": "M50-54", "time": ""},
+      {"runner": "Cheri VonFeldt", "placement": "12th place", "division": "F45-49", "time": ""},
+      {"runner": "Parker Driscoll", "placement": "20th place", "division": "M10-14", "time": ""}
+    ]
+  },
+  {
+    "event_name": "122nd Buffalo 8k Turkey Trot",
+    "date": "2017-11-23",
+    "results": [
+      {"runner": "Jake Kurzawa", "placement": "3rd place", "division": "M35-39", "time": "29:18"}
+    ]
+  },
+  {
+    "event_name": "Broomfield Turkey Trot 5k",
+    "date": "2017-11-23",
+    "results": [
+      {"runner": "Anna Grace", "placement": "4th place", "division": "F20-29", "time": "22:18"}
+    ]
+  },
+  {
+    "event_name": "Colder Boulder",
+    "date": "2017-12-02",
+    "results": [
+      {"runner": "Dale Hawkins", "placement": "", "division": "", "time": "20:16"}
+    ]
+  },
+  {
+    "event_name": "Jingle Bell Run",
+    "date": "2017-12-10",
+    "results": [
+      {"runner": "Bobby Lehman", "placement": "2nd place", "division": "M40-49", "time": "20:10"},
+      {"runner": "Dale Hawkins", "placement": "3rd place", "division": "M40-49", "time": "20:13"},
+      {"runner": "Jan Lobato", "placement": "3rd place", "division": "F50-59", "time": "26:17"},
+      {"runner": "Tim Lobato", "placement": "11th place", "division": "M50-59", "time": "26:17"},
+      {"runner": "Doug Croft", "placement": "1st place Masters", "division": "M50-59", "time": "19:41"}
+    ]
+  }
+]
