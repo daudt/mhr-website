@@ -26,7 +26,11 @@
         <h2>Race Results</h2>
 
         <div class="year-tabs">
-            <button class="year-tab active" data-year="2025">2025</button>
+            <button class="year-tab active" data-year="2024">2024</button>
+            <button class="year-tab" data-year="2023">2023</button>
+            <button class="year-tab" data-year="2019">2019</button>
+            <button class="year-tab" data-year="2018">2018</button>
+            <button class="year-tab" data-year="2017">2017</button>
         </div>
 
         <div id="results-container">
@@ -42,8 +46,8 @@
 
     <script src="main.js"></script>
     <script>
-        // Initialize race results page
-        let currentYear = new Date().getFullYear();
+        // Initialize race results page with most recent year
+        let currentYear = 2024;
 
         // Year tab switching
         document.querySelectorAll('.year-tab').forEach(tab => {
