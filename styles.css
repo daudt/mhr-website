@@ -1040,12 +1040,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .coach-image {
-    position: sticky;
-    top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
 }
 
 .coach-image img {
     width: 100%;
+    max-width: 400px;
     height: auto;
     border-radius: 8px;
     box-shadow: 0 4px 12px rgba(0,0,0,0.15);
@@ -1229,9 +1231,8 @@ h1, h2, h3, h4, h5, h6 {
         gap: 2rem;
     }
     
-    .coach-image {
-        position: relative;
-        top: 0;
+    .coach-image img {
+        max-width: 100%;
     }
     
     .coach-contact {
