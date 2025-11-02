@@ -47,37 +47,12 @@
                 <p class="intro-text">Check out some of our team's recent race achievements and highlights! Our runners compete in everything from local 5Ks to marathons and ultra races across Colorado and beyond.</p>
 
                 <div class="race-results-tabs">
-                    <div class="tab-navigation">
-                        <button class="tab-button active" data-year="2024">2024</button>
-                        <button class="tab-button" data-year="2023">2023</button>
-                        <button class="tab-button" data-year="2022">2022</button>
-                        <button class="tab-button" data-year="2019">2019</button>
-                        <button class="tab-button" data-year="2018">2018</button>
-                        <button class="tab-button" data-year="2017">2017</button>
+                    <div class="tab-navigation" id="tab-navigation">
+                        <!-- Tabs will be generated dynamically -->
                     </div>
 
-                    <div class="tab-content active" id="year-2024">
-                        <p>Loading 2024 results...</p>
-                    </div>
-
-                    <div class="tab-content" id="year-2023">
-                        <p>Loading 2023 results...</p>
-                    </div>
-
-                    <div class="tab-content" id="year-2022">
-                        <p>TBD</p>
-                    </div>
-
-                    <div class="tab-content" id="year-2019">
-                        <p>Loading 2019 results...</p>
-                    </div>
-
-                    <div class="tab-content" id="year-2018">
-                        <p>Loading 2018 results...</p>
-                    </div>
-
-                    <div class="tab-content" id="year-2017">
-                        <p>Loading 2017 results...</p>
+                    <div id="tab-content-container">
+                        <!-- Tab content will be generated dynamically -->
                     </div>
                 </div>
 
@@ -188,29 +163,75 @@
 
     <script src="main.js"></script>
     <script>
-        // Tab switching functionality
-        document.querySelectorAll('.tab-button').forEach(button => {
-            button.addEventListener('click', function() {
-                // Remove active class from all buttons and content
-                document.querySelectorAll('.tab-button').forEach(btn => btn.classList.remove('active'));
-                document.querySelectorAll('.tab-content').forEach(content => content.classList.remove('active'));
-                
-                // Add active class to clicked button
-                this.classList.add('active');
-                
-                // Show corresponding content
-                const year = this.getAttribute('data-year');
-                document.getElementById('year-' + year).classList.add('active');
-                
-                // Load data for this year if not already loaded
-                if (year !== '2022') {
-                    loadYearData(year);
-                }
-            });
-        });
+        // Initialize the race results page
+        initializeRaceResults();
 
-        // Load initial data for 2024
-        loadYearData('2024');
+        async function initializeRaceResults() {
+            try {
+                // Fetch the list of available years
+                const response = await fetch('data/race-results/years.json');
+                if (!response.ok) {
+                    console.error('Could not load years manifest');
+                    return;
+                }
+
+                const years = await response.json();
+                
+                // Generate tabs
+                generateTabs(years);
+                
+                // Set up tab switching functionality
+                setupTabSwitching();
+                
+                // Load data for the first (most recent) year
+                if (years.length > 0) {
+                    loadYearData(years[0]);
+                }
+            } catch (error) {
+                console.error('Error initializing race results:', error);
+            }
+        }
+
+        function generateTabs(years) {
+            const tabNav = document.getElementById('tab-navigation');
+            const tabContentContainer = document.getElementById('tab-content-container');
+            
+            years.forEach((year, index) => {
+                // Create tab button
+                const button = document.createElement('button');
+                button.className = 'tab-button' + (index === 0 ? ' active' : '');
+                button.setAttribute('data-year', year);
+                button.textContent = year;
+                tabNav.appendChild(button);
+                
+                // Create tab content
+                const content = document.createElement('div');
+                content.className = 'tab-content' + (index === 0 ? ' active' : '');
+                content.id = 'year-' + year;
+                content.innerHTML = '<p>Loading ' + year + ' results...</p>';
+                tabContentContainer.appendChild(content);
+            });
+        }
+
+        function setupTabSwitching() {
+            document.querySelectorAll('.tab-button').forEach(button => {
+                button.addEventListener('click', function() {
+                    // Remove active class from all buttons and content
+                    document.querySelectorAll('.tab-button').forEach(btn => btn.classList.remove('active'));
+                    document.querySelectorAll('.tab-content').forEach(content => content.classList.remove('active'));
+                    
+                    // Add active class to clicked button
+                    this.classList.add('active');
+                    
+                    // Show corresponding content
+                    const year = this.getAttribute('data-year');
+                    document.getElementById('year-' + year).classList.add('active');
+                    
+                    // Load data for this year
+                    loadYearData(year);
+                });
+            });
+        }
 
         async function loadYearData(year) {
             const container = document.getElementById('year-' + year);
@@ -224,7 +245,12 @@
                 const response = await fetch(`data/race-results/${year}.json`);
                 
                 if (!response.ok) {
-                    container.innerHTML = '<p>No results available for this year.</p>';
+                    // Special handling for 2022 to show "TBD" instead of "No results available"
+                    if (year === '2022') {
+                        container.innerHTML = '<p>TBD</p>';
+                    } else {
+                        container.innerHTML = '<p>No results available for this year.</p>';
+                    }
                     return;
                 }
 
