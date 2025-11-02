@@ -220,5 +220,75 @@
     </footer>
 
     <script src="main.js"></script>
+    <script>
+        // Load workouts on page load
+        loadUpcomingEvents();
+
+        async function loadUpcomingEvents() {
+            const container = document.querySelector('.events-container');
+            
+            try {
+                const response = await fetch('data/workouts.json');
+                
+                if (!response.ok) {
+                    container.innerHTML = '<p class="no-events">There are no upcoming events at this time. Please check back soon!</p>';
+                    return;
+                }
+
+                const workouts = await response.json();
+                
+                if (!workouts || workouts.length === 0) {
+                    container.innerHTML = '<p class="no-events">There are no upcoming events at this time. Please check back soon!</p>';
+                    return;
+                }
+
+                // Sort by date
+                workouts.sort((a, b) => new Date(a.date) - new Date(b.date));
+
+                let html = '<div class="workouts-list">';
+                
+                workouts.forEach(workout => {
+                    // Parse date as local time (not UTC) to avoid timezone shift issues
+                    const [year, month, day] = workout.date.split('-').map(Number);
+                    const workoutDate = new Date(year, month - 1, day); // month is 0-indexed
+                    const dateStr = workoutDate.toLocaleDateString('en-US', { 
+                        weekday: 'long', 
+                        year: 'numeric', 
+                        month: 'long', 
+                        day: 'numeric' 
+                    });
+
+                    html += '<div class="workout-item">';
+                    html += `<h3>${dateStr} – ${workout.time}</h3>`;
+                    
+                    if (workout.location && workout.location.name) {
+                        html += `<p><strong>Location:</strong> `;
+                        if (workout.location.map_link) {
+                            html += `<a href="${workout.location.map_link}" target="_blank">${workout.location.name}</a>`;
+                        } else {
+                            html += workout.location.name;
+                        }
+                        if (workout.location.address) {
+                            html += `<br><span class="location-address">${workout.location.address}</span>`;
+                        }
+                        html += '</p>';
+                    }
+                    
+                    if (workout.description) {
+                        html += `<p>${workout.description}</p>`;
+                    }
+                    
+                    html += '</div>';
+                });
+
+                html += '</div>';
+                html += '<p style="text-align: center; margin-top: 2rem;"><a href="calendar.html" class="primary-button">View Full Calendar</a></p>';
+                container.innerHTML = html;
+            } catch (error) {
+                console.error('Error loading workouts:', error);
+                container.innerHTML = '<p class="no-events">There are no upcoming events at this time. Please check back soon!</p>';
+            }
+        }
+    </script>
 </body>
 </html> 
