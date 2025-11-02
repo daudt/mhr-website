@@ -30,82 +30,6 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     });
 
-    // Newsletter form submission
-    const newsletterForm = document.querySelector('.newsletter-form');
-    if (newsletterForm) {
-        newsletterForm.addEventListener('submit', async (e) => {
-            e.preventDefault();
-            
-            const emailInput = newsletterForm.querySelector('input[type="email"]');
-            const email = emailInput.value;
-            const submitButton = newsletterForm.querySelector('button[type="submit"]');
-            
-            // Check if EmailJS is configured
-            if (!emailjs || EMAILJS_CONFIG.PUBLIC_KEY === 'YOUR_PUBLIC_KEY') {
-                showNewsletterMessage('error', 'Newsletter service not configured. Please contact us directly.');
-                return;
-            }
-            
-            // Disable button and show loading
-            submitButton.disabled = true;
-            submitButton.textContent = 'Subscribing...';
-            
-            try {
-                // Send notification email via EmailJS
-                const response = await emailjs.send(
-                    EMAILJS_CONFIG.SERVICE_ID,
-                    EMAILJS_CONFIG.NEWSLETTER_TEMPLATE_ID,
-                    {
-                        subscriber_email: email,
-                        signup_date: new Date().toLocaleString('en-US', {
-                            weekday: 'long',
-                            year: 'numeric',
-                            month: 'long',
-                            day: 'numeric',
-                            hour: '2-digit',
-                            minute: '2-digit'
-                        })
-                    }
-                );
-                
-                if (response.status === 200) {
-                    showNewsletterMessage('success', 'Thank you for subscribing! We\'ll keep you updated.');
-                    newsletterForm.reset();
-                } else {
-                    throw new Error('Subscription failed');
-                }
-            } catch (error) {
-                console.error('Newsletter subscription error:', error);
-                showNewsletterMessage('error', 'Sorry, there was an error. Please try again later.');
-            } finally {
-                submitButton.disabled = false;
-                submitButton.textContent = 'Subscribe';
-            }
-        });
-        
-        function showNewsletterMessage(type, message) {
-            // Remove any existing messages
-            const existingMessage = newsletterForm.querySelector('.newsletter-message');
-            if (existingMessage) {
-                existingMessage.remove();
-            }
-            
-            // Create and show new message
-            const messageElement = document.createElement('p');
-            messageElement.className = 'newsletter-message';
-            messageElement.textContent = message;
-            messageElement.style.color = type === 'success' ? '#2ecc71' : '#e74c3c';
-            messageElement.style.marginTop = '1rem';
-            messageElement.style.fontWeight = '600';
-            newsletterForm.appendChild(messageElement);
-            
-            // Remove message after 5 seconds
-            setTimeout(() => {
-                messageElement.remove();
-            }, 5000);
-        }
-    }
-
     // Add scroll event listener for header
     const header = document.querySelector('.main-header');
     let lastScroll = 0;
@@ -303,6 +227,82 @@ document.addEventListener('DOMContentLoaded', () => {
     // Initialize EmailJS
     if (typeof emailjs !== 'undefined' && EMAILJS_CONFIG.PUBLIC_KEY !== 'YOUR_PUBLIC_KEY') {
         emailjs.init(EMAILJS_CONFIG.PUBLIC_KEY);
+    }
+
+    // Newsletter form submission
+    const newsletterForm = document.querySelector('.newsletter-form');
+    if (newsletterForm) {
+        newsletterForm.addEventListener('submit', async (e) => {
+            e.preventDefault();
+            
+            const emailInput = newsletterForm.querySelector('input[type="email"]');
+            const email = emailInput.value;
+            const submitButton = newsletterForm.querySelector('button[type="submit"]');
+            
+            // Check if EmailJS is configured
+            if (!emailjs || EMAILJS_CONFIG.PUBLIC_KEY === 'YOUR_PUBLIC_KEY') {
+                showNewsletterMessage('error', 'Newsletter service not configured. Please contact us directly.');
+                return;
+            }
+            
+            // Disable button and show loading
+            submitButton.disabled = true;
+            submitButton.textContent = 'Subscribing...';
+            
+            try {
+                // Send notification email via EmailJS
+                const response = await emailjs.send(
+                    EMAILJS_CONFIG.SERVICE_ID,
+                    EMAILJS_CONFIG.NEWSLETTER_TEMPLATE_ID,
+                    {
+                        subscriber_email: email,
+                        signup_date: new Date().toLocaleString('en-US', {
+                            weekday: 'long',
+                            year: 'numeric',
+                            month: 'long',
+                            day: 'numeric',
+                            hour: '2-digit',
+                            minute: '2-digit'
+                        })
+                    }
+                );
+                
+                if (response.status === 200) {
+                    showNewsletterMessage('success', 'Thank you for subscribing! We\'ll keep you updated.');
+                    newsletterForm.reset();
+                } else {
+                    throw new Error('Subscription failed');
+                }
+            } catch (error) {
+                console.error('Newsletter subscription error:', error);
+                showNewsletterMessage('error', 'Sorry, there was an error. Please try again later.');
+            } finally {
+                submitButton.disabled = false;
+                submitButton.textContent = 'Subscribe';
+            }
+        });
+        
+        function showNewsletterMessage(type, message) {
+            // Remove any existing messages
+            const existingMessage = newsletterForm.querySelector('.newsletter-message');
+            if (existingMessage) {
+                existingMessage.remove();
+            }
+            
+            // Create and show new message
+            const messageElement = document.createElement('p');
+            messageElement.className = 'newsletter-message';
+            messageElement.textContent = message;
+            messageElement.style.color = type === 'success' ? '#2ecc71' : '#e74c3c';
+            messageElement.style.marginTop = '1rem';
+            messageElement.style.fontWeight = '600';
+            newsletterForm.appendChild(messageElement);
+            
+            // Remove message after 5 seconds
+            setTimeout(() => {
+                messageElement.remove();
+            }, 5000);
+        }
     }
 
     // Contact Form Handling
