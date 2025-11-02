@@ -773,6 +773,35 @@ h1, h2, h3, h4, h5, h6 {
     text-decoration: underline;
 }
 
+/* Workout Items */
+.workouts-list {
+    text-align: left;
+}
+
+.workout-item {
+    padding: 1.5rem 0;
+    border-bottom: 1px solid #ddd;
+}
+
+.workout-item:last-child {
+    border-bottom: none;
+}
+
+.workout-item h3 {
+    color: var(--primary-color);
+    margin-bottom: 0.75rem;
+    font-size: 1.2rem;
+}
+
+.workout-item p {
+    margin-bottom: 0.5rem;
+}
+
+.location-address {
+    color: #666;
+    font-size: 0.9rem;
+}
+
 /* Contact Section */
 .contact-section {
     background-color: var(--white);
