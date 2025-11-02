@@ -113,7 +113,9 @@
                 let html = '<div class="workouts-list">';
                 
                 workouts.forEach(workout => {
-                    const workoutDate = new Date(workout.date);
+                    // Parse date as local time (not UTC) to avoid timezone shift issues
+                    const [year, month, day] = workout.date.split('-').map(Number);
+                    const workoutDate = new Date(year, month - 1, day); // month is 0-indexed
                     const dateStr = workoutDate.toLocaleDateString('en-US', { 
                         weekday: 'long', 
                         year: 'numeric', 
