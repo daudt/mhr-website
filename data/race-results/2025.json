@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "event_name": "Eerie Erie 5k/10k",
+    "date": "2025-11-01",
+    "results": [
+      {
+        "runner": "Yianna",
+        "placement": "1st place",
+        "division": "Overall Female",
+        "time": null
+      },
+      {
+        "runner": "Kummi KA",
+        "placement": "1st place",
+        "division": "50-59",
+        "time": null
+      },
+      {
+        "runner": "Dale Hawkins",
+        "placement": "5th place",
+        "division": "50-59",
+        "time": null
+      },
+      {
+        "runner": "Rafael Daudt",
+        "placement": "10th place",
+        "division": "40-49",
+        "time": null
+      },
+      {
+        "runner": "Paige Filchenko",
+        "placement": "10th place",
+        "division": "30-39",
+        "time": null
+      },
+      {
+        "runner": "Ben Miron",
+        "placement": "2nd place",
+        "division": "30-39",
+        "time": null
+      }
+    ]
+  }
+]
