@@ -124,12 +124,15 @@
                     html += '<div class="workout-item">';
                     html += `<h3>${dateStr} – ${workout.time}</h3>`;
                     
-                    if (workout.location_name) {
+                    if (workout.location && workout.location.name) {
                         html += `<p><strong>Location:</strong> `;
-                        if (workout.map_link) {
-                            html += `<a href="${workout.map_link}" target="_blank">${workout.location_name}</a>`;
+                        if (workout.location.map_link) {
+                            html += `<a href="${workout.location.map_link}" target="_blank">${workout.location.name}</a>`;
                         } else {
-                            html += workout.location_name;
+                            html += workout.location.name;
+                        }
+                        if (workout.location.address) {
+                            html += `<br><span class="location-address">${workout.location.address}</span>`;
                         }
                         html += '</p>';
                     }
