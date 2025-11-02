@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "date": "2025-10-28",
+    "time": "5:20 AM",
+    "location": {
+      "name": "Erie Middle School",
+      "address": "1140 Briggs St, Erie, CO 80516",
+      "map_link": "https://maps.google.com/?q=Erie+Middle+School,1140+Briggs+St,Erie,CO+80516"
+    },
+    "description": "Progressive 400s: 1st set: 4 x 400m at half-marathon pace (60-second recovery); 2nd set: 4 x 400m at 10k pace (90-second recovery); 3rd set: 4 x 400m at 5k pace (120-second recovery). 1-lap recovery between sets."
+  },
+  {
+    "date": "2025-10-30",
+    "time": "5:20 AM",
+    "location": {
+      "name": "Erie Middle School",
+      "address": "1140 Briggs St, Erie, CO 80516",
+      "map_link": "https://maps.google.com/?q=Erie+Middle+School,1140+Briggs+St,Erie,CO+80516"
+    },
+    "description": "Gear shifters: 3 sets x 1200m (400m at marathon pace, 400m at half-marathon pace, 400m at 10k pace). Continuous running for 1200m/3 laps. 1-lap recovery jog between sets."
+  },
+  {
+    "date": "2025-11-01",
+    "time": "7:30 AM",
+    "location": {
+      "name": "Starbucks Erie",
+      "address": "845 Baseline Rd, Erie, CO 80516",
+      "map_link": "https://maps.google.com/?q=Starbucks,845+Baseline+Rd,Erie,CO+80516"
+    },
+    "description": "Social Run: 'somewhat perfect' 4-mile loop course around downtown Erie. Open to runners of all abilities."
+  }
+]
