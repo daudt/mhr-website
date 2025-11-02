@@ -241,14 +241,22 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
+    // EmailJS Configuration
+    // Get these values from your EmailJS dashboard (https://dashboard.emailjs.com)
+    const EMAILJS_CONFIG = {
+        PUBLIC_KEY: '2ZqYNkVwSXVoSaaij',      // From Account > General
+        SERVICE_ID: 'service_j6fkx5r',      // From Email Services
+        TEMPLATE_ID: 'template_tvdy5dn'     // From Email Templates
+    };
+
+    // Initialize EmailJS
+    if (typeof emailjs !== 'undefined' && EMAILJS_CONFIG.PUBLIC_KEY !== 'YOUR_PUBLIC_KEY') {
+        emailjs.init(EMAILJS_CONFIG.PUBLIC_KEY);
+    }
+
     // Contact Form Handling
     const contactForm = document.getElementById('contactForm');
     if (contactForm) {
-        // Replace with your Formspree endpoint or EmailJS configuration
-        // For Formspree: use action="https://formspree.io/f/YOUR_FORM_ID"
-        // For EmailJS: configure EmailJS service
-        const FORM_ENDPOINT = ''; // Set your form submission endpoint here
-        
         contactForm.addEventListener('submit', async (e) => {
             e.preventDefault();
             
@@ -261,58 +269,40 @@ document.addEventListener('DOMContentLoaded', () => {
                 return;
             }
             
-            // Verify CAPTCHA
-            if (typeof grecaptcha === 'undefined') {
-                showFieldError('captchaError', 'CAPTCHA not loaded. Please refresh the page or configure your reCAPTCHA site key.');
+            // Check if EmailJS is configured
+            if (!emailjs || EMAILJS_CONFIG.PUBLIC_KEY === 'YOUR_PUBLIC_KEY') {
+                showFormMessage('error', 'Email service not configured. Please contact us by phone at 303-396-5650.');
                 return;
             }
-            
-            const captchaResponse = grecaptcha.getResponse();
-            if (!captchaResponse) {
-                showFieldError('captchaError', 'Please complete the CAPTCHA verification');
-                return;
-            }
-            
-            // Get form data
-            const formData = new FormData(contactForm);
-            formData.append('g-recaptcha-response', captchaResponse);
             
             // Show loading state
             setFormLoading(true);
             
             try {
-                // If FORM_ENDPOINT is set, use it
-                if (FORM_ENDPOINT) {
-                    const response = await fetch(FORM_ENDPOINT, {
-                        method: 'POST',
-                        body: formData,
-                        headers: {
-                            'Accept': 'application/json'
-                        }
-                    });
-                    
-                    if (response.ok) {
-                        showFormMessage('success', 'Thank you! Your message has been sent successfully.');
-                        contactForm.reset();
-                        if (typeof grecaptcha !== 'undefined') {
-                            grecaptcha.reset();
-                        }
-                    } else {
-                        throw new Error('Form submission failed');
-                    }
-                } else {
-                    // Demo mode - show success message
-                    // Replace this with your actual form submission service
-                    await new Promise(resolve => setTimeout(resolve, 1000)); // Simulate API call
-                    showFormMessage('success', 'Thank you! Your message has been sent successfully. (Note: Please configure FORM_ENDPOINT in main.js to enable actual form submission)');
+                // Prepare template parameters
+                const templateParams = {
+                    from_name: document.getElementById('name').value,
+                    from_email: document.getElementById('email').value,
+                    phone: document.getElementById('phone').value,
+                    message: document.getElementById('message').value
+                };
+
+                // Send email via EmailJS
+                const response = await emailjs.send(
+                    EMAILJS_CONFIG.SERVICE_ID,
+                    EMAILJS_CONFIG.TEMPLATE_ID,
+                    templateParams
+                );
+
+                if (response.status === 200) {
+                    showFormMessage('success', 'Thank you! Your message has been sent successfully. We\'ll get back to you soon!');
                     contactForm.reset();
-                    if (typeof grecaptcha !== 'undefined') {
-                        grecaptcha.reset();
-                    }
+                } else {
+                    throw new Error('Email sending failed');
                 }
             } catch (error) {
                 console.error('Form submission error:', error);
-                showFormMessage('error', 'Sorry, there was an error sending your message. Please try again later or call us directly.');
+                showFormMessage('error', 'Sorry, there was an error sending your message. Please try again later or call us directly at 303-396-5650.');
             } finally {
                 setFormLoading(false);
             }

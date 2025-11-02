@@ -11,8 +11,8 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
     <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&family=Montserrat:wght@700&display=swap" rel="stylesheet">
-    <!-- Google reCAPTCHA -->
-    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+    <!-- EmailJS -->
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js"></script>
 </head>
 <body>
     <header class="main-header">
@@ -81,17 +81,6 @@
                             <label for="message">Message <span class="required">*</span></label>
                             <textarea id="message" name="message" rows="5" required></textarea>
                             <span class="error-message" id="messageError"></span>
-                        </div>
-                        
-                        <div class="form-group">
-                            <!-- 
-                                To enable reCAPTCHA:
-                                1. Go to https://www.google.com/recaptcha/admin/create
-                                2. Register your site and get your Site Key
-                                3. Replace "YOUR_RECAPTCHA_SITE_KEY" below with your actual Site Key
-                            -->
-                            <div class="g-recaptcha" data-sitekey="YOUR_RECAPTCHA_SITE_KEY"></div>
-                            <span class="error-message" id="captchaError"></span>
                         </div>
                         
                         <div class="form-messages" id="formMessages"></div>
