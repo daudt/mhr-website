@@ -283,7 +283,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 const templateParams = {
                     from_name: document.getElementById('name').value,
                     from_email: document.getElementById('email').value,
-                    phone: document.getElementById('phone').value,
+                    subject: document.getElementById('subject').value,
                     message: document.getElementById('message').value
                 };
 
