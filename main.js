@@ -33,27 +33,77 @@ document.addEventListener('DOMContentLoaded', () => {
     // Newsletter form submission
     const newsletterForm = document.querySelector('.newsletter-form');
     if (newsletterForm) {
-        newsletterForm.addEventListener('submit', (e) => {
+        newsletterForm.addEventListener('submit', async (e) => {
             e.preventDefault();
-            const email = newsletterForm.querySelector('input[type="email"]').value;
             
-            // Here you would typically send this to your backend
-            console.log('Newsletter signup:', email);
+            const emailInput = newsletterForm.querySelector('input[type="email"]');
+            const email = emailInput.value;
+            const submitButton = newsletterForm.querySelector('button[type="submit"]');
             
-            // Show success message
-            const successMessage = document.createElement('p');
-            successMessage.textContent = 'Thank you for subscribing!';
-            successMessage.style.color = '#2ecc71';
-            newsletterForm.appendChild(successMessage);
+            // Check if EmailJS is configured
+            if (!emailjs || EMAILJS_CONFIG.PUBLIC_KEY === 'YOUR_PUBLIC_KEY') {
+                showNewsletterMessage('error', 'Newsletter service not configured. Please contact us directly.');
+                return;
+            }
             
-            // Clear the form
-            newsletterForm.reset();
+            // Disable button and show loading
+            submitButton.disabled = true;
+            submitButton.textContent = 'Subscribing...';
             
-            // Remove success message after 3 seconds
-            setTimeout(() => {
-                successMessage.remove();
-            }, 3000);
+            try {
+                // Send notification email via EmailJS
+                const response = await emailjs.send(
+                    EMAILJS_CONFIG.SERVICE_ID,
+                    EMAILJS_CONFIG.NEWSLETTER_TEMPLATE_ID,
+                    {
+                        subscriber_email: email,
+                        signup_date: new Date().toLocaleString('en-US', {
+                            weekday: 'long',
+                            year: 'numeric',
+                            month: 'long',
+                            day: 'numeric',
+                            hour: '2-digit',
+                            minute: '2-digit'
+                        })
+                    }
+                );
+                
+                if (response.status === 200) {
+                    showNewsletterMessage('success', 'Thank you for subscribing! We\'ll keep you updated.');
+                    newsletterForm.reset();
+                } else {
+                    throw new Error('Subscription failed');
+                }
+            } catch (error) {
+                console.error('Newsletter subscription error:', error);
+                showNewsletterMessage('error', 'Sorry, there was an error. Please try again later.');
+            } finally {
+                submitButton.disabled = false;
+                submitButton.textContent = 'Subscribe';
+            }
         });
+        
+        function showNewsletterMessage(type, message) {
+            // Remove any existing messages
+            const existingMessage = newsletterForm.querySelector('.newsletter-message');
+            if (existingMessage) {
+                existingMessage.remove();
+            }
+            
+            // Create and show new message
+            const messageElement = document.createElement('p');
+            messageElement.className = 'newsletter-message';
+            messageElement.textContent = message;
+            messageElement.style.color = type === 'success' ? '#2ecc71' : '#e74c3c';
+            messageElement.style.marginTop = '1rem';
+            messageElement.style.fontWeight = '600';
+            newsletterForm.appendChild(messageElement);
+            
+            // Remove message after 5 seconds
+            setTimeout(() => {
+                messageElement.remove();
+            }, 5000);
+        }
     }
 
     // Add scroll event listener for header
@@ -244,9 +294,10 @@ document.addEventListener('DOMContentLoaded', () => {
     // EmailJS Configuration
     // Get these values from your EmailJS dashboard (https://dashboard.emailjs.com)
     const EMAILJS_CONFIG = {
-        PUBLIC_KEY: '2ZqYNkVwSXVoSaaij',      // From Account > General
-        SERVICE_ID: 'service_j6fkx5r',      // From Email Services
-        TEMPLATE_ID: 'template_tvdy5dn'     // From Email Templates
+        PUBLIC_KEY: '2ZqYNkVwSXVoSaaij',           // From Account > General
+        SERVICE_ID: 'service_j6fkx5r',             // From Email Services
+        TEMPLATE_ID: 'template_tvdy5dn',           // Contact form template
+        NEWSLETTER_TEMPLATE_ID: 'template_2oex3ym'  // Newsletter signup template
     };
 
     // Initialize EmailJS
