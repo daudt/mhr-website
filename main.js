@@ -269,6 +269,18 @@ document.addEventListener('DOMContentLoaded', () => {
                 return;
             }
             
+            // Verify CAPTCHA
+            if (typeof grecaptcha === 'undefined') {
+                showFieldError('captchaError', 'CAPTCHA not loaded. Please refresh the page.');
+                return;
+            }
+            
+            const captchaResponse = grecaptcha.getResponse();
+            if (!captchaResponse) {
+                showFieldError('captchaError', 'Please complete the CAPTCHA verification');
+                return;
+            }
+            
             // Check if EmailJS is configured
             if (!emailjs || EMAILJS_CONFIG.PUBLIC_KEY === 'YOUR_PUBLIC_KEY') {
                 showFormMessage('error', 'Email service not configured. Please contact us by phone at 303-396-5650.');
@@ -284,7 +296,8 @@ document.addEventListener('DOMContentLoaded', () => {
                     from_name: document.getElementById('name').value,
                     from_email: document.getElementById('email').value,
                     subject: document.getElementById('subject').value,
-                    message: document.getElementById('message').value
+                    message: document.getElementById('message').value,
+                    'g-recaptcha-response': captchaResponse
                 };
 
                 // Send email via EmailJS
@@ -297,6 +310,9 @@ document.addEventListener('DOMContentLoaded', () => {
                 if (response.status === 200) {
                     showFormMessage('success', 'Thank you! Your message has been sent successfully. We\'ll get back to you soon!');
                     contactForm.reset();
+                    if (typeof grecaptcha !== 'undefined') {
+                        grecaptcha.reset();
+                    }
                 } else {
                     throw new Error('Email sending failed');
                 }
