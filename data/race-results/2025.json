@@ -40,5 +40,77 @@
         "time": null
       }
     ]
+  },
+  {
+    "event_name": "Big Bear Half Marathon",
+    "date": "2025-11-08",
+    "results": [
+      {
+        "runner": "Bobby Lehman",
+        "placement": "8th",
+        "division": "age",
+        "time": "1:25:24"
+      },
+      {
+        "runner": "Blair Aakre",
+        "placement": "6th",
+        "division": "age",
+        "time": "1:24:49"
+      },
+      {
+        "runner": "Kummi Ka",
+        "placement": "11th",
+        "division": "age",
+        "time": "1:38:24"
+      },
+      {
+        "runner": "Eliana Van Etten",
+        "placement": "27th",
+        "division": "age",
+        "time": "1:46:09"
+      },
+      {
+        "runner": "Nicole Rubis",
+        "placement": "11th",
+        "division": "age",
+        "time": "1:40:40"
+      },
+      {
+        "runner": "Rafael Daudt",
+        "placement": "27th",
+        "division": "age",
+        "time": "1:42:19"
+      },
+      {
+        "runner": "Dale Hawkins",
+        "placement": "16th",
+        "division": "age",
+        "time": "1:31:58"
+      },
+      {
+        "runner": "Jeff Smith",
+        "placement": "N/A",
+        "division": "N/A",
+        "time": "2:15:18"
+      },
+      {
+        "runner": "Tyko Shoji",
+        "placement": "9th",
+        "division": "age",
+        "time": "1:26:14"
+      },
+      {
+        "runner": "Alina Owczarek",
+        "placement": "11th",
+        "division": "age",
+        "time": "1:55:54"
+      },
+      {
+        "runner": "Jan Lobato",
+        "placement": "6th",
+        "division": "age",
+        "time": "2:03:01"
+      }
+    ]
   }
 ]
