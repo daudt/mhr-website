@@ -1,22 +1,32 @@
 [
   {
-    "date": "2025-11-04",
+    "date": "2025-11-11",
     "time": "5:20 AM",
     "location": {
       "name": "Erie Middle School",
       "address": "1140 Briggs St, Erie, CO 80516",
       "map_link": "https://maps.google.com/?q=Erie+Middle+School,1140+Briggs+St,Erie,CO+80516"
     },
-    "description": "Option A (Big Bear Runners): 2-mile warm-up + Drills + Strides + 4-6 x 200 meters at a Fun Fast Pace with a 200-meter walking recovery + 0.5-mile cool-down. Option B (Non-Big Bear Runners): 2-mile warm-up + Drills + Strides + 6-8 x 400 meters at mile pace with a 90-180 second recovery."
+    "description": "Ins and Outs: 100 meters at mile pace / 100 meters at 5k pace x 4 (400 meters total) x 8-12 laps, with 90-120 seconds of recovery between laps."
   },
   {
-    "date": "2025-11-06",
+    "date": "2025-11-13",
     "time": "5:20 AM",
     "location": {
-      "name": "Erie Middle School",
-      "address": "1140 Briggs St, Erie, CO 80516",
-      "map_link": "https://maps.google.com/?q=Erie+Middle+School,1140+Briggs+St,Erie,CO+80516"
+      "name": "Vista Pointe",
+      "address": "Vista Pointe",
+      "map_link": "https://maps.google.com/?q=Vista+Pointe"
     },
-    "description": "Option A: 12.5 minutes out at 10k pace, 10 minutes back at 5k pace + 4 x 300 meters at slightly faster than 5k pace with a 100-meter walking recovery. Option B: 5 minutes out at half marathon pace, 5 minutes back at half marathon pace + 4 x 100 meters at a Fun Fast pace with full recovery."
+    "description": "Hill Charges: 10 x 200m hill chargers at a hard, sustainable pace with a 200m easy jog/walk back recovery, plus 4 x 100m fun fast pickups on the recovery run back to the cars."
+  },
+  {
+    "date": "2025-11-15",
+    "time": "7:30 AM",
+    "location": {
+      "name": "Niwot Coffee Shop",
+      "address": "Niwot Coffee Shop",
+      "map_link": "https://maps.google.com/?q=Niwot+Coffee+Shop"
+    },
+    "description": "Social Run at the Niwot coffee shop."
   }
 ]
