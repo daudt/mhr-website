@@ -1,5 +1,17 @@
 [
   {
+    "event_name": "Spring Equinox 5k",
+    "date": "2025-03-22",
+    "results": [
+      {
+        "runner": "Elizabeth",
+        "placement": "N/A",
+        "division": "N/A",
+        "time": "31:04"
+      }
+    ]
+  },
+  {
     "event_name": "Spring Equinox Half Marathon",
     "date": "2025-03-22",
     "results": [
