@@ -1,162 +1,374 @@
 [
   {
-    "event_name": "Tuscon Marathon",
-    "date": "2023-12-10",
-    "results": [
-      {"runner": "Bobby Lehman", "placement": "", "division": "", "time": "3:27:33"}
-    ]
-  },
-  {
-    "event_name": "Colder Boulder",
-    "date": "2023-12-02",
-    "results": [
-      {"runner": "Bard Higgins", "placement": "", "division": "", "time": "23:16"},
-      {"runner": "Nicole Rubis", "placement": "", "division": "", "time": "24:36"},
-      {"runner": "Blair Aakre", "placement": "", "division": "", "time": "20:51"},
-      {"runner": "Tyko Shoji", "placement": "", "division": "", "time": "21:27 PR"}
-    ]
-  },
-  {
-    "event_name": "Feast and Feathers Trail 10k",
-    "date": "2023-11-23",
-    "results": [
-      {"runner": "Blair Aakre", "placement": "3rd OA", "division": "", "time": "45:52"}
-    ]
-  },
-  {
-    "event_name": "Brighton Turkey Trot",
-    "date": "2023-11-18",
-    "results": [
-      {"runner": "Blair Aakre", "placement": "1st AG", "division": "", "time": ""},
-      {"runner": "Nicole Rubis", "placement": "1st AG", "division": "", "time": ""},
-      {"runner": "Bobby Lehman", "placement": "1st AG", "division": "", "time": ""},
-      {"runner": "Ben Miron", "placement": "1st AG", "division": "", "time": ""},
-      {"runner": "Alina Owczarek", "placement": "2nd AG", "division": "", "time": ""},
-      {"runner": "Jan Lobato", "placement": "2nd AG", "division": "", "time": ""},
-      {"runner": "Kummi Ka", "placement": "2nd AG", "division": "", "time": ""},
-      {"runner": "Dale Hawkins", "placement": "3rd AG", "division": "", "time": ""},
-      {"runner": "Jeff Smith", "placement": "5th AG", "division": "", "time": ""}
-    ]
-  },
-  {
-    "event_name": "Arizona Veterans Day 10k",
-    "date": "2023-11-12",
-    "results": [
-      {"runner": "Blair Aakre", "placement": "2nd OA", "division": "", "time": ""}
-    ]
-  },
-  {
-    "event_name": "Pass Mountain 50k",
-    "date": "2023-11-11",
-    "results": [
-      {"runner": "Nicole Rubis", "placement": "5th OA", "division": "", "time": "7:07:40"}
-    ]
-  },
-  {
-    "event_name": "Bingo! Trail Party",
-    "date": "2023-11-11",
-    "results": [
-      {"runner": "Tyko Shoji", "placement": "", "division": "", "time": "18 laps (43 miles)"}
-    ]
-  },
-  {
-    "event_name": "Eerie Erie 5k",
-    "date": "2023-10-28",
-    "results": [
-      {"runner": "Blair Aakre", "placement": "3rd AG", "division": "", "time": "19:56"},
-      {"runner": "Nicole", "placement": "2nd AG", "division": "", "time": "23:37"},
-      {"runner": "Jeff Smith", "placement": "1st AG", "division": "", "time": "24:20"},
-      {"runner": "Jan Lobato", "placement": "2nd AG", "division": "", "time": "27:47"},
-      {"runner": "Dale Hawkins", "placement": "5th AG", "division": "", "time": "21:57"},
-      {"runner": "Kummi Ka", "placement": "3rd AG", "division": "", "time": "24:40"}
-    ]
-  },
-  {
-    "event_name": "Eerie Erie 10k",
-    "date": "2023-10-28",
-    "results": [
-      {"runner": "Bobby Lehman", "placement": "2nd AG", "division": "", "time": "41:03"}
-    ]
-  },
-  {
-    "event_name": "TCS Toronto Waterfront Marathon",
-    "date": "2023-10-15",
-    "results": [
-      {"runner": "Alina Owczarek", "placement": "", "division": "", "time": "4:40:53"}
-    ]
-  },
-  {
-    "event_name": "Boulderthon Marathon",
-    "date": "2023-10-08",
-    "results": [
-      {"runner": "Blair Aakre", "placement": "10th AG", "division": "", "time": "3:54:02"},
-      {"runner": "Ben Miron", "placement": "", "division": "", "time": "3:39:55 PR"}
-    ]
-  },
-  {
-    "event_name": "Boulderthon Half Marathon",
-    "date": "2023-10-08",
-    "results": [
-      {"runner": "Bobby Lehman", "placement": "4th AG", "division": "", "time": "1:37:55"}
-    ]
-  },
-  {
-    "event_name": "Arkansas Traveller 100",
-    "date": "2023-10-07",
-    "results": [
-      {"runner": "Scott Hungate", "placement": "", "division": "", "time": "26:56:27"}
-    ]
-  },
-  {
-    "event_name": "Barkley Fall Classic Marathon",
-    "date": "2023-09-16",
-    "results": [
-      {"runner": "Dale Hawkins", "placement": "", "division": "", "time": ""},
-      {"runner": "Kummi Ka", "placement": "", "division": "", "time": ""}
-    ]
-  },
-  {
-    "event_name": "Pikes Peak Ascent",
-    "date": "2023-09-16",
-    "results": [
-      {"runner": "Ryan Gould", "placement": "", "division": "", "time": ""}
-    ]
-  },
-  {
-    "event_name": "Devil on the Divide 22k",
-    "date": "2023-09-09",
-    "results": [
-      {"runner": "Christina Espinosa Dubois", "placement": "", "division": "", "time": "4:54:42"}
-    ]
-  },
-  {
-    "event_name": "Black Squirrel Half Marathon",
-    "date": "2023-09-09",
-    "results": [
-      {"runner": "Ivonne Garfias", "placement": "10th AG", "division": "", "time": "3:41:02"}
-    ]
-  },
-  {
-    "event_name": "Leadville Trail 100",
-    "date": "2023-08-19",
-    "results": [
-      {"runner": "Blair Aakre", "placement": "", "division": "", "time": "28:07:32"}
-    ]
-  },
-  {
     "event_name": "Leadville Trail Heavy Half",
     "date": "2023-06-17",
     "results": [
-      {"runner": "Nicole Rubis", "placement": "", "division": "", "time": "3:52:32"},
-      {"runner": "Jeff Smith", "placement": "", "division": "", "time": "4:05:05"}
+      {
+        "runner": "Nicole Rubis",
+        "placement": "",
+        "division": "",
+        "time": "3:52:32"
+      },
+      {
+        "runner": "Jeff Smith",
+        "placement": "",
+        "division": "",
+        "time": "4:05:05"
+      }
     ]
   },
   {
     "event_name": "Leadville Trail Marathon",
     "date": "2023-06-17",
     "results": [
-      {"runner": "Dale Hawkins", "placement": "", "division": "", "time": "5:54:51"},
-      {"runner": "Doug Croft", "placement": "", "division": "", "time": "6:41:37"}
+      {
+        "runner": "Dale Hawkins",
+        "placement": "",
+        "division": "",
+        "time": "5:54:51"
+      },
+      {
+        "runner": "Doug Croft",
+        "placement": "",
+        "division": "",
+        "time": "6:41:37"
+      }
+    ]
+  },
+  {
+    "event_name": "Leadville Trail 100",
+    "date": "2023-08-19",
+    "results": [
+      {
+        "runner": "Blair Aakre",
+        "placement": "",
+        "division": "",
+        "time": "28:07:32"
+      }
+    ]
+  },
+  {
+    "event_name": "Black Squirrel Half Marathon",
+    "date": "2023-09-09",
+    "results": [
+      {
+        "runner": "Ivonne Garfias",
+        "placement": "10th AG",
+        "division": "",
+        "time": "3:41:02"
+      }
+    ]
+  },
+  {
+    "event_name": "Devil on the Divide 22k",
+    "date": "2023-09-09",
+    "results": [
+      {
+        "runner": "Christina Espinosa Dubois",
+        "placement": "",
+        "division": "",
+        "time": "4:54:42"
+      }
+    ]
+  },
+  {
+    "event_name": "Barkley Fall Classic Marathon",
+    "date": "2023-09-16",
+    "results": [
+      {
+        "runner": "Dale Hawkins",
+        "placement": "",
+        "division": "",
+        "time": ""
+      },
+      {
+        "runner": "Kummi Ka",
+        "placement": "",
+        "division": "",
+        "time": ""
+      }
+    ]
+  },
+  {
+    "event_name": "Pikes Peak Ascent",
+    "date": "2023-09-16",
+    "results": [
+      {
+        "runner": "Ryan Gould",
+        "placement": "",
+        "division": "",
+        "time": ""
+      }
+    ]
+  },
+  {
+    "event_name": "Arkansas Traveller 100",
+    "date": "2023-10-07",
+    "results": [
+      {
+        "runner": "Scott Hungate",
+        "placement": "",
+        "division": "",
+        "time": "26:56:27"
+      }
+    ]
+  },
+  {
+    "event_name": "Boulderthon Half Marathon",
+    "date": "2023-10-08",
+    "results": [
+      {
+        "runner": "Bobby Lehman",
+        "placement": "4th AG",
+        "division": "",
+        "time": "1:37:55"
+      }
+    ]
+  },
+  {
+    "event_name": "Boulderthon Marathon",
+    "date": "2023-10-08",
+    "results": [
+      {
+        "runner": "Blair Aakre",
+        "placement": "10th AG",
+        "division": "",
+        "time": "3:54:02"
+      },
+      {
+        "runner": "Ben Miron",
+        "placement": "",
+        "division": "",
+        "time": "3:39:55 PR"
+      }
+    ]
+  },
+  {
+    "event_name": "TCS Toronto Waterfront Marathon",
+    "date": "2023-10-15",
+    "results": [
+      {
+        "runner": "Alina Owczarek",
+        "placement": "",
+        "division": "",
+        "time": "4:40:53"
+      }
+    ]
+  },
+  {
+    "event_name": "Eerie Erie 10k",
+    "date": "2023-10-28",
+    "results": [
+      {
+        "runner": "Bobby Lehman",
+        "placement": "2nd AG",
+        "division": "",
+        "time": "41:03"
+      }
+    ]
+  },
+  {
+    "event_name": "Eerie Erie 5k",
+    "date": "2023-10-28",
+    "results": [
+      {
+        "runner": "Blair Aakre",
+        "placement": "3rd AG",
+        "division": "",
+        "time": "19:56"
+      },
+      {
+        "runner": "Nicole",
+        "placement": "2nd AG",
+        "division": "",
+        "time": "23:37"
+      },
+      {
+        "runner": "Jeff Smith",
+        "placement": "1st AG",
+        "division": "",
+        "time": "24:20"
+      },
+      {
+        "runner": "Jan Lobato",
+        "placement": "2nd AG",
+        "division": "",
+        "time": "27:47"
+      },
+      {
+        "runner": "Dale Hawkins",
+        "placement": "5th AG",
+        "division": "",
+        "time": "21:57"
+      },
+      {
+        "runner": "Kummi Ka",
+        "placement": "3rd AG",
+        "division": "",
+        "time": "24:40"
+      }
+    ]
+  },
+  {
+    "event_name": "Bingo! Trail Party",
+    "date": "2023-11-11",
+    "results": [
+      {
+        "runner": "Tyko Shoji",
+        "placement": "",
+        "division": "",
+        "time": "18 laps (43 miles)"
+      }
+    ]
+  },
+  {
+    "event_name": "Pass Mountain 50k",
+    "date": "2023-11-11",
+    "results": [
+      {
+        "runner": "Nicole Rubis",
+        "placement": "5th OA",
+        "division": "",
+        "time": "7:07:40"
+      }
+    ]
+  },
+  {
+    "event_name": "Arizona Veterans Day 10k",
+    "date": "2023-11-12",
+    "results": [
+      {
+        "runner": "Blair Aakre",
+        "placement": "2nd OA",
+        "division": "",
+        "time": ""
+      }
+    ]
+  },
+  {
+    "event_name": "Brighton Turkey Trot",
+    "date": "2023-11-18",
+    "results": [
+      {
+        "runner": "Blair Aakre",
+        "placement": "1st AG",
+        "division": "",
+        "time": ""
+      },
+      {
+        "runner": "Nicole Rubis",
+        "placement": "1st AG",
+        "division": "",
+        "time": ""
+      },
+      {
+        "runner": "Bobby Lehman",
+        "placement": "1st AG",
+        "division": "",
+        "time": ""
+      },
+      {
+        "runner": "Ben Miron",
+        "placement": "1st AG",
+        "division": "",
+        "time": ""
+      },
+      {
+        "runner": "Alina Owczarek",
+        "placement": "2nd AG",
+        "division": "",
+        "time": ""
+      },
+      {
+        "runner": "Jan Lobato",
+        "placement": "2nd AG",
+        "division": "",
+        "time": ""
+      },
+      {
+        "runner": "Kummi Ka",
+        "placement": "2nd AG",
+        "division": "",
+        "time": ""
+      },
+      {
+        "runner": "Dale Hawkins",
+        "placement": "3rd AG",
+        "division": "",
+        "time": ""
+      },
+      {
+        "runner": "Jeff Smith",
+        "placement": "5th AG",
+        "division": "",
+        "time": ""
+      }
+    ]
+  },
+  {
+    "event_name": "Broomfield 10k Turkey Trot",
+    "date": "2023-11-23",
+    "results": [
+      {
+        "runner": "Tyko",
+        "placement": "N/A",
+        "division": "N/A",
+        "time": "N/A"
+      }
+    ]
+  },
+  {
+    "event_name": "Feast and Feathers Trail 10k",
+    "date": "2023-11-23",
+    "results": [
+      {
+        "runner": "Blair Aakre",
+        "placement": "3rd OA",
+        "division": "",
+        "time": "45:52"
+      }
+    ]
+  },
+  {
+    "event_name": "Colder Boulder",
+    "date": "2023-12-02",
+    "results": [
+      {
+        "runner": "Bard Higgins",
+        "placement": "",
+        "division": "",
+        "time": "23:16"
+      },
+      {
+        "runner": "Nicole Rubis",
+        "placement": "",
+        "division": "",
+        "time": "24:36"
+      },
+      {
+        "runner": "Blair Aakre",
+        "placement": "",
+        "division": "",
+        "time": "20:51"
+      },
+      {
+        "runner": "Tyko Shoji",
+        "placement": "",
+        "division": "",
+        "time": "21:27 PR"
+      }
+    ]
+  },
+  {
+    "event_name": "Tuscon Marathon",
+    "date": "2023-12-10",
+    "results": [
+      {
+        "runner": "Bobby Lehman",
+        "placement": "",
+        "division": "",
+        "time": "3:27:33"
+      }
     ]
   }
 ]
