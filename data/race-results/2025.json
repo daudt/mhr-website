@@ -55,6 +55,18 @@
   },
   {
     "event_name": "Longview Half Marathon",
+    "date": "2025-10-11",
+    "results": [
+      {
+        "runner": "Tyko",
+        "placement": "N/A",
+        "division": "N/A",
+        "time": "N/A"
+      }
+    ]
+  },
+  {
+    "event_name": "Longview Half Marathon",
     "date": "2025-10-12",
     "results": [
       {
