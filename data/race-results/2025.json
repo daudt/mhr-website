@@ -1,5 +1,47 @@
 [
   {
+    "event_name": "Spring Equinox Half Marathon",
+    "date": "2025-03-22",
+    "results": [
+      {
+        "runner": "Ben",
+        "placement": "10th overall male",
+        "division": "3rd in age division",
+        "time": "1:21:16"
+      },
+      {
+        "runner": "Yianna",
+        "placement": "7th overall female",
+        "division": "2nd in age division",
+        "time": "1:32:36"
+      },
+      {
+        "runner": "Tyko",
+        "placement": "N/A",
+        "division": "N/A",
+        "time": "1:33:09"
+      },
+      {
+        "runner": "Dale",
+        "placement": "N/A",
+        "division": "5th in age division",
+        "time": "1:36:58"
+      },
+      {
+        "runner": "Rafael",
+        "placement": "N/A",
+        "division": "N/A",
+        "time": "1:58:41"
+      },
+      {
+        "runner": "Safari",
+        "placement": "N/A",
+        "division": "N/A",
+        "time": "2:09:36"
+      }
+    ]
+  },
+  {
     "event_name": "Eerie Erie 5k/10k",
     "date": "2025-10-25",
     "results": [
