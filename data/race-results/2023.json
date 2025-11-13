@@ -320,6 +320,12 @@
         "placement": "Unknown",
         "division": "Unknown",
         "time": "Unknown"
+      },
+      {
+        "runner": "Tyko",
+        "placement": "Unspecified",
+        "division": "Unspecified",
+        "time": "Unspecified"
       }
     ]
   },
