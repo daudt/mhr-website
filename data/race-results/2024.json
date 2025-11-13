@@ -1,293 +1,650 @@
 [
   {
-    "event_name": "Erie Half Marathon",
-    "date": "2024-08-18",
+    "event_name": "Yeti Chase 10k",
+    "date": "2024-01-28",
     "results": [
-      {"runner": "Alina Owczarek", "placement": "3rd AG", "division": "", "time": ""}
-    ]
-  },
-  {
-    "event_name": "Erie 5k",
-    "date": "2024-08-18",
-    "results": [
-      {"runner": "Bobby Lehman", "placement": "3rd OA", "division": "", "time": ""}
-    ]
-  },
-  {
-    "event_name": "Sheep Mountain 50 Mile",
-    "date": "2024-08-03",
-    "results": [
-      {"runner": "Blair Aakre", "placement": "4th OA", "division": "", "time": "12:44"},
-      {"runner": "Sean Martin", "placement": "", "division": "", "time": ""}
-    ]
-  },
-  {
-    "event_name": "Sheep Mountain Half Marathon",
-    "date": "2024-08-03",
-    "results": [
-      {"runner": "Nicole Rubis", "placement": "", "division": "", "time": "2:46:27"}
-    ]
-  },
-  {
-    "event_name": "Boulder Rez 3/4 Marathon",
-    "date": "2024-08-03",
-    "results": [
-      {"runner": "Tyko Shoji", "placement": "2nd OA", "division": "", "time": ""}
-    ]
-  },
-  {
-    "event_name": "Afton Trail Run 25k",
-    "date": "2024-07-06",
-    "results": [
-      {"runner": "Nicole Rubis", "placement": "", "division": "", "time": "3:00:54"}
-    ]
-  },
-  {
-    "event_name": "Afton Trail Run 50k",
-    "date": "2024-07-06",
-    "results": [
-      {"runner": "Blair Aakre", "placement": "", "division": "", "time": "5:54:52"}
-    ]
-  },
-  {
-    "event_name": "July 4th ROCK-IT RUN",
-    "date": "2024-07-04",
-    "results": [
-      {"runner": "Alina Owczarek", "placement": "2nd AG", "division": "", "time": "2:10:44"}
-    ]
-  },
-  {
-    "event_name": "Avery Brewing 4k on the 4th",
-    "date": "2024-07-04",
-    "results": [
-      {"runner": "Bobby Lehman", "placement": "1st AG", "division": "", "time": "19:47"}
-    ]
-  },
-  {
-    "event_name": "Longmont 5k on the 4th",
-    "date": "2024-07-04",
-    "results": [
-      {"runner": "Bobby Lehman", "placement": "1st AG", "division": "", "time": "19:47"}
-    ]
-  },
-  {
-    "event_name": "Silver Rush 50 Mile",
-    "date": "2024-07-06",
-    "results": [
-      {"runner": "Tyko Shoji", "placement": "", "division": "", "time": "12:30:23"}
-    ]
-  },
-  {
-    "event_name": "Leadville Trail Marathon",
-    "date": "2024-06-29",
-    "results": [
-      {"runner": "Sean Martin", "placement": "", "division": "", "time": "6:07:01 (PR)"}
-    ]
-  },
-  {
-    "event_name": "Leadville Heavy Half",
-    "date": "2024-06-29",
-    "results": [
-      {"runner": "Dale Hawkins", "placement": "3rd AG", "division": "", "time": "3:26:02"},
-      {"runner": "Nicole Rubis", "placement": "", "division": "", "time": "4:28:30"},
-      {"runner": "Jeff Smith", "placement": "", "division": "", "time": "4:28:29"},
-      {"runner": "Doug Croft", "placement": "", "division": "", "time": "4:05:35"}
-    ]
-  },
-  {
-    "event_name": "Glacier Half Marathon",
-    "date": "2024-06-29",
-    "results": [
-      {"runner": "Bobby Lehman", "placement": "1st Masters", "division": "", "time": "1:37:44"}
-    ]
-  },
-  {
-    "event_name": "Grandma's Marathon",
-    "date": "2024-06-22",
-    "results": [
-      {"runner": "Blair Aakre", "placement": "", "division": "", "time": "3:30"}
-    ]
-  },
-  {
-    "event_name": "Grandma's Marathon Half",
-    "date": "2024-06-22",
-    "results": [
-      {"runner": "Nicole Rubis", "placement": "", "division": "", "time": "1:49:40"}
-    ]
-  },
-  {
-    "event_name": "Ragnar Snowmass",
-    "date": "2024-06-08",
-    "results": [
-      {"runner": "Bobby Lehman", "placement": "", "division": "Mile High Trail Runners", "time": "21:48"},
-      {"runner": "Blair Aakre", "placement": "", "division": "Mile High Trail Runners", "time": ""},
-      {"runner": "Tyko Shoji", "placement": "", "division": "Mile High Trail Runners", "time": ""},
-      {"runner": "Dale Hawkins", "placement": "", "division": "Mile High Trail Runners", "time": ""},
-      {"runner": "Kummi Ka", "placement": "", "division": "Mile High Trail Runners", "time": ""},
-      {"runner": "Christina Espinosa Dubois", "placement": "", "division": "Mile High Trail Runners", "time": ""},
-      {"runner": "Ivonne Garfias", "placement": "", "division": "Mile High Trail Runners", "time": ""},
-      {"runner": "Ben Miron", "placement": "", "division": "Mile High Trail Runners", "time": ""}
-    ]
-  },
-  {
-    "event_name": "Revel Rockies",
-    "date": "2024-06-01",
-    "results": [
-      {"runner": "Jan Lobato", "placement": "2nd AG", "division": "", "time": "2:01:32"},
-      {"runner": "Alina Owczarek", "placement": "8th AG", "division": "", "time": "1:59:10"},
-      {"runner": "Jenny Higgins", "placement": "", "division": "", "time": "2:01:33"}
-    ]
-  },
-  {
-    "event_name": "Bolder Boulder",
-    "date": "2024-05-27",
-    "results": [
-      {"runner": "Sarah Lewis", "placement": "", "division": "", "time": "63:21 PR"},
-      {"runner": "Nicole Rubis", "placement": "", "division": "", "time": "51:22"},
-      {"runner": "Blair Aakre", "placement": "", "division": "", "time": "44:20"},
-      {"runner": "Jenny Higgins", "placement": "", "division": "", "time": "59:10"},
-      {"runner": "Bard Higgins", "placement": "", "division": "", "time": "54:45"},
-      {"runner": "Tyko Shoji", "placement": "", "division": "", "time": "47:58"}
-    ]
-  },
-  {
-    "event_name": "Colfax Marathon",
-    "date": "2024-05-19",
-    "results": [
-      {"runner": "Sean Martin", "placement": "", "division": "", "time": "3:32:48 PR"}
-    ]
-  },
-  {
-    "event_name": "Colfax Marathon Relay",
-    "date": "2024-05-19",
-    "results": [
-      {"runner": "Tyko Shoji", "placement": "", "division": "", "time": ""}
-    ]
-  },
-  {
-    "event_name": "Carbon Valley Half Marathon",
-    "date": "2024-05-11",
-    "results": [
-      {"runner": "Alina Owczarek", "placement": "1st AG", "division": "", "time": "2:11:24"}
-    ]
-  },
-  {
-    "event_name": "Colorado Marathon",
-    "date": "2024-05-05",
-    "results": [
-      {"runner": "Bobby Lehman", "placement": "", "division": "", "time": "3:17:48 BQ"},
-      {"runner": "Rafael Daudt", "placement": "", "division": "", "time": "4:56:23 PR"},
-      {"runner": "Tyko Shoji", "placement": "", "division": "", "time": "3:27:52 PR"},
-      {"runner": "Dale Hawkins", "placement": "", "division": "", "time": "3:45:57 PR"},
-      {"runner": "Doug Croft", "placement": "", "division": "", "time": "4:41:04"},
-      {"runner": "Heidi Sorensen", "placement": "", "division": "", "time": "4:04:57"},
-      {"runner": "Ben Miron", "placement": "", "division": "", "time": "3:14:48 PR"}
-    ]
-  },
-  {
-    "event_name": "Colorado Marathon Half",
-    "date": "2024-05-05",
-    "results": [
-      {"runner": "Eliana Van Etten", "placement": "", "division": "", "time": "2:07:46"}
-    ]
-  },
-  {
-    "event_name": "Colorado Marathon 10k",
-    "date": "2024-05-05",
-    "results": [
-      {"runner": "Blair Aakre", "placement": "1st AG", "division": "", "time": "42:31"},
-      {"runner": "Nicole Rubis", "placement": "2nd AG", "division": "", "time": "49:26"},
-      {"runner": "Tess Sangster", "placement": "", "division": "", "time": "57:17 PR"},
-      {"runner": "Christina Dubois", "placement": "", "division": "", "time": "60:32 PR"},
-      {"runner": "Allie Daudt", "placement": "", "division": "", "time": "1:17:32 PR"},
-      {"runner": "Jeff Smith", "placement": "", "division": "", "time": "53:28"}
-    ]
-  },
-  {
-    "event_name": "Great Western Trail Race Half Marathon",
-    "date": "2024-04-20",
-    "results": [
-      {"runner": "Alina Owczarek", "placement": "", "division": "", "time": ""}
-    ]
-  },
-  {
-    "event_name": "Horsetooth Half Marathon",
-    "date": "2024-04-14",
-    "results": [
-      {"runner": "Tyko Shoji", "placement": "", "division": "", "time": "1:39:04 PR"}
-    ]
-  },
-  {
-    "event_name": "Desert Rats 50k",
-    "date": "2024-04-13",
-    "results": [
-      {"runner": "Dale Hawkins", "placement": "", "division": "", "time": ""}
-    ]
-  },
-  {
-    "event_name": "Gorge Waterfalls 100k",
-    "date": "2024-04-12",
-    "results": [
-      {"runner": "Scott Hungate", "placement": "", "division": "", "time": "15:02:22"}
-    ]
-  },
-  {
-    "event_name": "Revel Mt. Charleston",
-    "date": "2024-04-06",
-    "results": [
-      {"runner": "Blair Aakre", "placement": "", "division": "Marathon", "time": "3:13:22 PR"},
-      {"runner": "Nicole Rubis", "placement": "", "division": "Half", "time": "1:46:29 PR"}
-    ]
-  },
-  {
-    "event_name": "Spring Equinox Half",
-    "date": "2024-03-24",
-    "results": [
-      {"runner": "Ben Miron", "placement": "3rd AG", "division": "", "time": "1:29:07"},
-      {"runner": "Tyko Shoji", "placement": "", "division": "", "time": "1:40:32 PR"},
-      {"runner": "Alina Owczarek", "placement": "4th AG", "division": "", "time": "2:06:17"}
-    ]
-  },
-  {
-    "event_name": "Myrtle Beach Half Marathon",
-    "date": "2024-03-02",
-    "results": [
-      {"runner": "Bobby Lehman", "placement": "4th AG", "division": "", "time": "1:34:34"}
-    ]
-  },
-  {
-    "event_name": "Stories 15hr",
-    "date": "2024-02-17",
-    "results": [
-      {"runner": "Tyko Shoji", "placement": "6th OA", "division": "", "time": "49.14 miles"}
-    ]
-  },
-  {
-    "event_name": "Surf City Half Marathon",
-    "date": "2024-02-04",
-    "results": [
-      {"runner": "Jan Lobato", "placement": "", "division": "", "time": "2:04:21"}
-    ]
-  },
-  {
-    "event_name": "Orlando Magic 5k",
-    "date": "2024-02-04",
-    "results": [
-      {"runner": "Nicole Rubis", "placement": "", "division": "", "time": "23:40 PR"}
+      {
+        "runner": "Tyko Shoji",
+        "placement": "3rd AG",
+        "division": "",
+        "time": ""
+      }
     ]
   },
   {
     "event_name": "Old Man Winter",
     "date": "2024-02-04",
     "results": [
-      {"runner": "Blair Aakre", "placement": "", "division": "", "time": "46:07"}
+      {
+        "runner": "Blair Aakre",
+        "placement": "",
+        "division": "",
+        "time": "46:07"
+      }
     ]
   },
   {
-    "event_name": "Yeti Chase 10k",
-    "date": "2024-01-28",
+    "event_name": "Orlando Magic 5k",
+    "date": "2024-02-04",
     "results": [
-      {"runner": "Tyko Shoji", "placement": "3rd AG", "division": "", "time": ""}
+      {
+        "runner": "Nicole Rubis",
+        "placement": "",
+        "division": "",
+        "time": "23:40 PR"
+      }
+    ]
+  },
+  {
+    "event_name": "Surf City Half Marathon",
+    "date": "2024-02-04",
+    "results": [
+      {
+        "runner": "Jan Lobato",
+        "placement": "",
+        "division": "",
+        "time": "2:04:21"
+      }
+    ]
+  },
+  {
+    "event_name": "Stories 15hr",
+    "date": "2024-02-17",
+    "results": [
+      {
+        "runner": "Tyko Shoji",
+        "placement": "6th OA",
+        "division": "",
+        "time": "49.14 miles"
+      }
+    ]
+  },
+  {
+    "event_name": "Myrtle Beach Half Marathon",
+    "date": "2024-03-02",
+    "results": [
+      {
+        "runner": "Bobby Lehman",
+        "placement": "4th AG",
+        "division": "",
+        "time": "1:34:34"
+      }
+    ]
+  },
+  {
+    "event_name": "Spring Equinox Half",
+    "date": "2024-03-24",
+    "results": [
+      {
+        "runner": "Ben Miron",
+        "placement": "3rd AG",
+        "division": "",
+        "time": "1:29:07"
+      },
+      {
+        "runner": "Tyko Shoji",
+        "placement": "",
+        "division": "",
+        "time": "1:40:32 PR"
+      },
+      {
+        "runner": "Alina Owczarek",
+        "placement": "4th AG",
+        "division": "",
+        "time": "2:06:17"
+      }
+    ]
+  },
+  {
+    "event_name": "Revel Mt. Charleston",
+    "date": "2024-04-06",
+    "results": [
+      {
+        "runner": "Blair Aakre",
+        "placement": "",
+        "division": "Marathon",
+        "time": "3:13:22 PR"
+      },
+      {
+        "runner": "Nicole Rubis",
+        "placement": "",
+        "division": "Half",
+        "time": "1:46:29 PR"
+      }
+    ]
+  },
+  {
+    "event_name": "Gorge Waterfalls 100k",
+    "date": "2024-04-12",
+    "results": [
+      {
+        "runner": "Scott Hungate",
+        "placement": "",
+        "division": "",
+        "time": "15:02:22"
+      }
+    ]
+  },
+  {
+    "event_name": "Desert Rats 50k",
+    "date": "2024-04-13",
+    "results": [
+      {
+        "runner": "Dale Hawkins",
+        "placement": "",
+        "division": "",
+        "time": ""
+      }
+    ]
+  },
+  {
+    "event_name": "Horsetooth Half Marathon",
+    "date": "2024-04-14",
+    "results": [
+      {
+        "runner": "Tyko Shoji",
+        "placement": "",
+        "division": "",
+        "time": "1:39:04 PR"
+      }
+    ]
+  },
+  {
+    "event_name": "Great Western Trail Race Half Marathon",
+    "date": "2024-04-20",
+    "results": [
+      {
+        "runner": "Alina Owczarek",
+        "placement": "",
+        "division": "",
+        "time": ""
+      }
+    ]
+  },
+  {
+    "event_name": "Colorado Marathon",
+    "date": "2024-05-05",
+    "results": [
+      {
+        "runner": "Bobby Lehman",
+        "placement": "",
+        "division": "",
+        "time": "3:17:48 BQ"
+      },
+      {
+        "runner": "Rafael Daudt",
+        "placement": "",
+        "division": "",
+        "time": "4:56:23 PR"
+      },
+      {
+        "runner": "Tyko Shoji",
+        "placement": "",
+        "division": "",
+        "time": "3:27:52 PR"
+      },
+      {
+        "runner": "Dale Hawkins",
+        "placement": "",
+        "division": "",
+        "time": "3:45:57 PR"
+      },
+      {
+        "runner": "Doug Croft",
+        "placement": "",
+        "division": "",
+        "time": "4:41:04"
+      },
+      {
+        "runner": "Heidi Sorensen",
+        "placement": "",
+        "division": "",
+        "time": "4:04:57"
+      },
+      {
+        "runner": "Ben Miron",
+        "placement": "",
+        "division": "",
+        "time": "3:14:48 PR"
+      }
+    ]
+  },
+  {
+    "event_name": "Colorado Marathon 10k",
+    "date": "2024-05-05",
+    "results": [
+      {
+        "runner": "Blair Aakre",
+        "placement": "1st AG",
+        "division": "",
+        "time": "42:31"
+      },
+      {
+        "runner": "Nicole Rubis",
+        "placement": "2nd AG",
+        "division": "",
+        "time": "49:26"
+      },
+      {
+        "runner": "Tess Sangster",
+        "placement": "",
+        "division": "",
+        "time": "57:17 PR"
+      },
+      {
+        "runner": "Christina Dubois",
+        "placement": "",
+        "division": "",
+        "time": "60:32 PR"
+      },
+      {
+        "runner": "Allie Daudt",
+        "placement": "",
+        "division": "",
+        "time": "1:17:32 PR"
+      },
+      {
+        "runner": "Jeff Smith",
+        "placement": "",
+        "division": "",
+        "time": "53:28"
+      }
+    ]
+  },
+  {
+    "event_name": "Colorado Marathon Half",
+    "date": "2024-05-05",
+    "results": [
+      {
+        "runner": "Eliana Van Etten",
+        "placement": "",
+        "division": "",
+        "time": "2:07:46"
+      }
+    ]
+  },
+  {
+    "event_name": "Carbon Valley Half Marathon",
+    "date": "2024-05-11",
+    "results": [
+      {
+        "runner": "Alina Owczarek",
+        "placement": "1st AG",
+        "division": "",
+        "time": "2:11:24"
+      }
+    ]
+  },
+  {
+    "event_name": "Colfax Marathon",
+    "date": "2024-05-19",
+    "results": [
+      {
+        "runner": "Sean Martin",
+        "placement": "",
+        "division": "",
+        "time": "3:32:48 PR"
+      }
+    ]
+  },
+  {
+    "event_name": "Colfax Marathon Relay",
+    "date": "2024-05-19",
+    "results": [
+      {
+        "runner": "Tyko Shoji",
+        "placement": "",
+        "division": "",
+        "time": ""
+      }
+    ]
+  },
+  {
+    "event_name": "Bolder Boulder",
+    "date": "2024-05-27",
+    "results": [
+      {
+        "runner": "Sarah Lewis",
+        "placement": "",
+        "division": "",
+        "time": "63:21 PR"
+      },
+      {
+        "runner": "Nicole Rubis",
+        "placement": "",
+        "division": "",
+        "time": "51:22"
+      },
+      {
+        "runner": "Blair Aakre",
+        "placement": "",
+        "division": "",
+        "time": "44:20"
+      },
+      {
+        "runner": "Jenny Higgins",
+        "placement": "",
+        "division": "",
+        "time": "59:10"
+      },
+      {
+        "runner": "Bard Higgins",
+        "placement": "",
+        "division": "",
+        "time": "54:45"
+      },
+      {
+        "runner": "Tyko Shoji",
+        "placement": "",
+        "division": "",
+        "time": "47:58"
+      }
+    ]
+  },
+  {
+    "event_name": "Revel Rockies",
+    "date": "2024-06-01",
+    "results": [
+      {
+        "runner": "Jan Lobato",
+        "placement": "2nd AG",
+        "division": "",
+        "time": "2:01:32"
+      },
+      {
+        "runner": "Alina Owczarek",
+        "placement": "8th AG",
+        "division": "",
+        "time": "1:59:10"
+      },
+      {
+        "runner": "Jenny Higgins",
+        "placement": "",
+        "division": "",
+        "time": "2:01:33"
+      }
+    ]
+  },
+  {
+    "event_name": "Ragnar Snowmass",
+    "date": "2024-06-08",
+    "results": [
+      {
+        "runner": "Bobby Lehman",
+        "placement": "",
+        "division": "Mile High Trail Runners",
+        "time": "21:48"
+      },
+      {
+        "runner": "Blair Aakre",
+        "placement": "",
+        "division": "Mile High Trail Runners",
+        "time": ""
+      },
+      {
+        "runner": "Tyko Shoji",
+        "placement": "",
+        "division": "Mile High Trail Runners",
+        "time": ""
+      },
+      {
+        "runner": "Dale Hawkins",
+        "placement": "",
+        "division": "Mile High Trail Runners",
+        "time": ""
+      },
+      {
+        "runner": "Kummi Ka",
+        "placement": "",
+        "division": "Mile High Trail Runners",
+        "time": ""
+      },
+      {
+        "runner": "Christina Espinosa Dubois",
+        "placement": "",
+        "division": "Mile High Trail Runners",
+        "time": ""
+      },
+      {
+        "runner": "Ivonne Garfias",
+        "placement": "",
+        "division": "Mile High Trail Runners",
+        "time": ""
+      },
+      {
+        "runner": "Ben Miron",
+        "placement": "",
+        "division": "Mile High Trail Runners",
+        "time": ""
+      }
+    ]
+  },
+  {
+    "event_name": "Grandma's Marathon",
+    "date": "2024-06-22",
+    "results": [
+      {
+        "runner": "Blair Aakre",
+        "placement": "",
+        "division": "",
+        "time": "3:30"
+      }
+    ]
+  },
+  {
+    "event_name": "Grandma's Marathon Half",
+    "date": "2024-06-22",
+    "results": [
+      {
+        "runner": "Nicole Rubis",
+        "placement": "",
+        "division": "",
+        "time": "1:49:40"
+      }
+    ]
+  },
+  {
+    "event_name": "Glacier Half Marathon",
+    "date": "2024-06-29",
+    "results": [
+      {
+        "runner": "Bobby Lehman",
+        "placement": "1st Masters",
+        "division": "",
+        "time": "1:37:44"
+      }
+    ]
+  },
+  {
+    "event_name": "Leadville Heavy Half",
+    "date": "2024-06-29",
+    "results": [
+      {
+        "runner": "Dale Hawkins",
+        "placement": "3rd AG",
+        "division": "",
+        "time": "3:26:02"
+      },
+      {
+        "runner": "Nicole Rubis",
+        "placement": "",
+        "division": "",
+        "time": "4:28:30"
+      },
+      {
+        "runner": "Jeff Smith",
+        "placement": "",
+        "division": "",
+        "time": "4:28:29"
+      },
+      {
+        "runner": "Doug Croft",
+        "placement": "",
+        "division": "",
+        "time": "4:05:35"
+      }
+    ]
+  },
+  {
+    "event_name": "Leadville Trail Marathon",
+    "date": "2024-06-29",
+    "results": [
+      {
+        "runner": "Sean Martin",
+        "placement": "",
+        "division": "",
+        "time": "6:07:01 (PR)"
+      }
+    ]
+  },
+  {
+    "event_name": "Avery Brewing 4k on the 4th",
+    "date": "2024-07-04",
+    "results": [
+      {
+        "runner": "Bobby Lehman",
+        "placement": "1st AG",
+        "division": "",
+        "time": "19:47"
+      }
+    ]
+  },
+  {
+    "event_name": "July 4th ROCK-IT RUN",
+    "date": "2024-07-04",
+    "results": [
+      {
+        "runner": "Alina Owczarek",
+        "placement": "2nd AG",
+        "division": "",
+        "time": "2:10:44"
+      }
+    ]
+  },
+  {
+    "event_name": "Longmont 5k on the 4th",
+    "date": "2024-07-04",
+    "results": [
+      {
+        "runner": "Bobby Lehman",
+        "placement": "1st AG",
+        "division": "",
+        "time": "19:47"
+      }
+    ]
+  },
+  {
+    "event_name": "Afton Trail Run 25k",
+    "date": "2024-07-06",
+    "results": [
+      {
+        "runner": "Nicole Rubis",
+        "placement": "",
+        "division": "",
+        "time": "3:00:54"
+      }
+    ]
+  },
+  {
+    "event_name": "Afton Trail Run 50k",
+    "date": "2024-07-06",
+    "results": [
+      {
+        "runner": "Blair Aakre",
+        "placement": "",
+        "division": "",
+        "time": "5:54:52"
+      }
+    ]
+  },
+  {
+    "event_name": "Silver Rush 50 Mile",
+    "date": "2024-07-06",
+    "results": [
+      {
+        "runner": "Tyko Shoji",
+        "placement": "",
+        "division": "",
+        "time": "12:30:23"
+      }
+    ]
+  },
+  {
+    "event_name": "Boulder Rez 3/4 Marathon",
+    "date": "2024-08-03",
+    "results": [
+      {
+        "runner": "Tyko Shoji",
+        "placement": "2nd OA",
+        "division": "",
+        "time": ""
+      }
+    ]
+  },
+  {
+    "event_name": "Sheep Mountain 50 Mile",
+    "date": "2024-08-03",
+    "results": [
+      {
+        "runner": "Blair Aakre",
+        "placement": "4th OA",
+        "division": "",
+        "time": "12:44"
+      },
+      {
+        "runner": "Sean Martin",
+        "placement": "",
+        "division": "",
+        "time": ""
+      }
+    ]
+  },
+  {
+    "event_name": "Sheep Mountain Half Marathon",
+    "date": "2024-08-03",
+    "results": [
+      {
+        "runner": "Nicole Rubis",
+        "placement": "",
+        "division": "",
+        "time": "2:46:27"
+      }
+    ]
+  },
+  {
+    "event_name": "Erie 5k",
+    "date": "2024-08-18",
+    "results": [
+      {
+        "runner": "Bobby Lehman",
+        "placement": "3rd OA",
+        "division": "",
+        "time": ""
+      }
+    ]
+  },
+  {
+    "event_name": "Erie Half Marathon",
+    "date": "2024-08-18",
+    "results": [
+      {
+        "runner": "Alina Owczarek",
+        "placement": "3rd AG",
+        "division": "",
+        "time": ""
+      }
+    ]
+  },
+  {
+    "event_name": "Corrida Solidaris de Natal 5k",
+    "date": "2024-12-16",
+    "results": [
+      {
+        "runner": "Rafael Daudt",
+        "placement": "5th",
+        "division": "age",
+        "time": "N/A"
+      }
     ]
   }
 ]
