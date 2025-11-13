@@ -54,6 +54,18 @@
     ]
   },
   {
+    "event_name": "Edinburgh Marathon",
+    "date": "2025-05-25",
+    "results": [
+      {
+        "runner": "Ben",
+        "placement": "N/A",
+        "division": "N/A",
+        "time": "3:08"
+      }
+    ]
+  },
+  {
     "event_name": "Longview Half Marathon",
     "date": "2025-10-11",
     "results": [
