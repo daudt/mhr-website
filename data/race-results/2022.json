@@ -13,6 +13,24 @@
   },
   {
     "event_name": "Fruita Sweet Hearts 10k",
+    "date": "2022-02-12",
+    "results": [
+      {
+        "runner": "Bobby",
+        "placement": "1st AG",
+        "division": "N/A",
+        "time": "N/A"
+      },
+      {
+        "runner": "Bobby",
+        "placement": "6th OA",
+        "division": "N/A",
+        "time": "N/A"
+      }
+    ]
+  },
+  {
+    "event_name": "Fruita Sweet Hearts 10k",
     "date": "2022-02-19",
     "results": [
       {
