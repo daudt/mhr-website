@@ -646,5 +646,17 @@
         "time": "N/A"
       }
     ]
+  },
+  {
+    "event_name": "Ugly Sweater 5k Denver",
+    "date": "2024-12-16",
+    "results": [
+      {
+        "runner": "Bobby Lehman",
+        "placement": "1st",
+        "division": "age",
+        "time": "N/A"
+      }
+    ]
   }
 ]
