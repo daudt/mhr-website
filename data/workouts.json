@@ -1,25 +1,5 @@
 [
   {
-    "date": "2025-11-11",
-    "time": "5:20 AM",
-    "location": {
-      "name": "Erie Middle School",
-      "address": "1140 Briggs St, Erie, CO 80516",
-      "map_link": "https://maps.google.com/?q=Erie+Middle+School,1140+Briggs+St,Erie,CO+80516"
-    },
-    "description": "Ins and Outs: 100 meters at mile pace / 100 meters at 5k pace x 4 (400 meters total) x 8-12 laps, with 90-120 seconds of recovery between laps."
-  },
-  {
-    "date": "2025-11-13",
-    "time": "5:20 AM",
-    "location": {
-      "name": "Vista Pointe",
-      "address": "Vista Pointe",
-      "map_link": "https://maps.google.com/?q=Vista+Pointe"
-    },
-    "description": "Hill Charges: 10 x 200m hill chargers at a hard, sustainable pace with a 200m easy jog/walk back recovery, plus 4 x 100m fun fast pickups on the recovery run back to the cars."
-  },
-  {
     "date": "2025-11-15",
     "time": "7:30 AM",
     "location": {
