@@ -1,12 +1,32 @@
 [
   {
-    "date": "2025-11-15",
+    "date": "2025-11-18",
+    "time": "5:20 AM",
+    "location": {
+      "name": "Erie Middle School",
+      "address": "1140 Briggs St, Erie, CO 80516",
+      "map_link": "https://maps.google.com/?q=Erie+Middle+School,1140+Briggs+St,Erie,CO+80516"
+    },
+    "description": "Option A (Racers): 4\u20136 x 300m/100m (300m @ 5k pace, 100m @ mile pace, 90\u2013120s recovery). Option B (Non-Racers): 8\u201310 x 300m/100m (300m @ 5k pace, 100m @ mile pace, 90\u2013120s recovery)."
+  },
+  {
+    "date": "2025-11-20",
+    "time": "5:20 AM",
+    "location": {
+      "name": "Lehigh Park",
+      "address": "Lehigh Park",
+      "map_link": "https://maps.google.com/?q=Lehigh+Park"
+    },
+    "description": "Option A (Racers): 2\u20133 x 1k (First 1k slightly slower than 5k pace, remaining segments @ 5k pace, 2\u20133m recovery). Option B (Non-Racers): 3\u20135 x 1k (Start @ half-marathon pace, work down to 10k pace, 1\u20132m recovery)."
+  },
+  {
+    "date": "2025-11-22",
     "time": "7:30 AM",
     "location": {
-      "name": "Niwot Coffee Shop",
-      "address": "Niwot Coffee Shop",
-      "map_link": "https://maps.google.com/?q=Niwot+Coffee+Shop"
+      "name": "Fox Dog Coffee Shop",
+      "address": "Fox Dog Coffee Shop",
+      "map_link": "https://maps.google.com/?q=Fox+Dog+Coffee+Shop"
     },
-    "description": "Social Run at the Niwot coffee shop."
+    "description": "Social group run (for those not running the Brighton Turkey Trot). Free and open to all."
   }
 ]
