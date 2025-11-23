@@ -236,6 +236,36 @@
         "placement": "1st AG",
         "division": "50-54",
         "time": "23:45"
+      },
+      {
+        "runner": "Ben Miron",
+        "placement": "1st",
+        "division": "30 - 34",
+        "time": "19:43"
+      },
+      {
+        "runner": "Blair Aakre",
+        "placement": "2nd",
+        "division": "45 - 49",
+        "time": "20:22"
+      },
+      {
+        "runner": "Dale Hawkins",
+        "placement": "1st",
+        "division": "50 - 54",
+        "time": "22:37"
+      },
+      {
+        "runner": "Nicole Rubis",
+        "placement": "1st",
+        "division": "45 - 49",
+        "time": "23:22"
+      },
+      {
+        "runner": "Kummi Ka",
+        "placement": "1st",
+        "division": "50 - 54",
+        "time": "23:45"
       }
     ]
   }
