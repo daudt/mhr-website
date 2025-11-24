@@ -21,7 +21,12 @@ body {
     color: var(--text-color);
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
     font-family: 'Montserrat', sans-serif;
     font-weight: 700;
 }
@@ -29,7 +34,7 @@ h1, h2, h3, h4, h5, h6 {
 /* Header and Navigation */
 .main-header {
     background-color: var(--white);
-    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
     position: fixed;
     width: 100%;
     top: 0;
@@ -84,7 +89,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Hero Section */
 .hero {
-    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('images/hero-bg.jpg');
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/hero-bg.jpg');
     background-size: cover;
     background-position: center;
     height: 80vh;
@@ -113,7 +118,8 @@ h1, h2, h3, h4, h5, h6 {
     justify-content: center;
 }
 
-.primary-button, .secondary-button {
+.primary-button,
+.secondary-button {
     padding: 1rem 2rem;
     border-radius: 4px;
     text-decoration: none;
@@ -132,7 +138,8 @@ h1, h2, h3, h4, h5, h6 {
     color: var(--white);
 }
 
-.primary-button:hover, .secondary-button:hover {
+.primary-button:hover,
+.secondary-button:hover {
     transform: translateY(-2px);
 }
 
@@ -194,7 +201,7 @@ h1, h2, h3, h4, h5, h6 {
     height: 700px;
     overflow: hidden;
     border-radius: 8px;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
     background-color: #2C3E50;
 }
 
@@ -240,7 +247,7 @@ h1, h2, h3, h4, h5, h6 {
     align-items: center;
     justify-content: center;
     transition: background-color 0.3s ease, transform 0.3s ease;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
 }
 
 .slideshow-btn:hover {
@@ -273,7 +280,7 @@ h1, h2, h3, h4, h5, h6 {
     background-color: rgba(255, 255, 255, 0.9);
     padding: 0.5rem 1rem;
     border-radius: 25px;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
     pointer-events: auto;
 }
 
@@ -429,7 +436,7 @@ h1, h2, h3, h4, h5, h6 {
     text-align: center;
     margin-top: 3rem;
     padding-top: 1rem;
-    border-top: 1px solid rgba(255,255,255,0.1);
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
 }
 
 /* Mobile Menu Button */
@@ -465,7 +472,7 @@ h1, h2, h3, h4, h5, h6 {
         background-color: var(--white);
         flex-direction: column;
         padding: 1rem;
-        box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
     }
 
     .nav-menu.active {
@@ -535,10 +542,14 @@ h1, h2, h3, h4, h5, h6 {
 /* Page Hero Sections */
 .page-hero {
     background: linear-gradient(135deg, var(--primary-color) 0%, var(--accent-color) 100%);
-    padding: 4rem 1rem;
+    padding: 2rem 1rem;
     text-align: center;
     color: var(--white);
-    margin-top: 60px;
+    margin-top: 130px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-height: 180px;
 }
 
 .page-hero-content h1 {
@@ -703,7 +714,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .year-item:hover {
     transform: translateY(-5px);
-    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
 }
 
 .year-item h3 {
@@ -807,7 +818,7 @@ h1, h2, h3, h4, h5, h6 {
     background-color: var(--white);
 }
 
-.contact-section > .content-container > p {
+.contact-section>.content-container>p {
     text-align: center;
     font-size: 1.1rem;
     margin-bottom: 2rem;
@@ -998,20 +1009,20 @@ h1, h2, h3, h4, h5, h6 {
     .page-hero-content h1 {
         font-size: 2rem;
     }
-    
+
     .welcome-content h2 {
         font-size: 1.5rem;
     }
-    
+
     .coach-bio h2,
     .membership-details h2 {
         font-size: 1.8rem;
     }
-    
+
     .years-list {
         grid-template-columns: 1fr;
     }
-    
+
     .sponsor-logo {
         max-width: 200px;
     }
@@ -1046,11 +1057,11 @@ h1, h2, h3, h4, h5, h6 {
     .slideshow-container h2 {
         font-size: 1.5rem;
     }
-    
+
     .contact-form-container {
         padding: 1.5rem;
     }
-    
+
     .contact-form-container h3 {
         font-size: 1.5rem;
     }
@@ -1079,7 +1090,7 @@ h1, h2, h3, h4, h5, h6 {
     max-width: 400px;
     height: auto;
     border-radius: 8px;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
 }
 
 .coach-bio h2 {
@@ -1122,13 +1133,13 @@ h1, h2, h3, h4, h5, h6 {
     background-color: var(--light-gray);
     border-radius: 8px;
     overflow: hidden;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
     transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
 .result-card:hover {
     transform: translateY(-5px);
-    box-shadow: 0 4px 16px rgba(0,0,0,0.2);
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
 }
 
 .result-card img {
@@ -1233,6 +1244,7 @@ h1, h2, h3, h4, h5, h6 {
         opacity: 0;
         transform: translateY(10px);
     }
+
     to {
         opacity: 1;
         transform: translateY(0);
@@ -1259,33 +1271,33 @@ h1, h2, h3, h4, h5, h6 {
         grid-template-columns: 1fr;
         gap: 2rem;
     }
-    
+
     .coach-image img {
         max-width: 100%;
     }
-    
+
     .coach-contact {
         flex-direction: column;
     }
-    
+
     .results-gallery {
         grid-template-columns: 1fr;
     }
-    
+
     .result-card img {
         height: 300px;
     }
-    
+
     .tab-button {
         padding: 0.6rem 1rem;
         font-size: 0.9rem;
     }
-    
+
     .tab-content {
         padding: 1.5rem;
     }
-    
+
     .tab-content p {
         font-size: 0.9rem;
     }
-} 
+}
