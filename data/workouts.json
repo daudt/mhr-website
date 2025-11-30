@@ -1,22 +1,42 @@
 [
   {
-    "date": "2025-11-25",
+    "date": "2025-12-02",
     "time": "5:20 AM",
     "location": {
       "name": "Erie Middle School",
       "address": "1140 Briggs St, Erie, CO 80516",
       "map_link": "https://maps.google.com/?q=Erie+Middle+School,1140+Briggs+St,Erie,CO+80516"
     },
-    "description": "Recovery/Taper Workout: Warmup, Drills, Strides, 6 - 8 x 200 meters at 5k/3k pace with a 200-meter easy walk/jog recovery + 1/2 mile easy cool down."
+    "description": "6 - 10 x 400m at current 5k race pace with 90 - 180s recovery. Plus 4 x 100m at Fun Fast pace - Mile pace with a full recovery."
   },
   {
-    "date": "2025-11-29",
+    "date": "2025-12-04",
+    "time": "5:20 AM",
+    "location": {
+      "name": "Lehigh Park",
+      "address": "Lehigh Park",
+      "map_link": "https://maps.google.com/?q=Lehigh+Park"
+    },
+    "description": "3 - 5 x 1000m at 1/2 - 10k pace -10 seconds. Start easy and progress to a faster pace. 90 - 180s recovery between intervals. Do not rush the recoveries! Plus 4 x 100m at Fun Fast Pace with a full recovery."
+  },
+  {
+    "date": "2025-12-06",
     "time": "7:30 AM",
     "location": {
-      "name": "Starbucks Erie",
-      "address": "845 Baseline Rd, Erie, CO 80516",
-      "map_link": "https://maps.google.com/?q=Starbucks,845+Baseline+Rd,Erie,CO+80516"
+      "name": "Fox Dog Coffee shop",
+      "address": "Fox Dog Coffee shop",
+      "map_link": "https://maps.google.com/?q=Fox+Dog+Coffee+shop"
     },
-    "description": "Social group run. Everyone welcome to join us! All levels and abilities!!"
+    "description": "Group Social Run."
+  },
+  {
+    "date": "2025-12-07",
+    "time": "6:30 AM",
+    "location": {
+      "name": "Erie Middle School",
+      "address": "1140 Briggs St, Erie, CO 80516",
+      "map_link": "https://maps.google.com/?q=Erie+Middle+School,1140+Briggs+St,Erie,CO+80516"
+    },
+    "description": "Take Back The Track. Come run laps for as long as your little heart desires!"
   }
 ]
