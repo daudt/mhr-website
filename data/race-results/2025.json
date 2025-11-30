@@ -268,5 +268,47 @@
         "time": "23:45"
       }
     ]
+  },
+  {
+    "event_name": "Broomfield Turkey Trot",
+    "date": "2025-11-27",
+    "results": [
+      {
+        "runner": "Jan Lobato",
+        "placement": "2nd",
+        "division": "age group",
+        "time": "29:02"
+      },
+      {
+        "runner": "Bard Higgins",
+        "placement": "4th",
+        "division": "age group",
+        "time": "21:15"
+      },
+      {
+        "runner": "Jeff Smith",
+        "placement": "16th",
+        "division": "age group",
+        "time": "27:09"
+      },
+      {
+        "runner": "Angela Friend",
+        "placement": "19th",
+        "division": "age group",
+        "time": ""
+      },
+      {
+        "runner": "Kimberly Croft",
+        "placement": "11th",
+        "division": "age group",
+        "time": "35:41"
+      },
+      {
+        "runner": "Jenny Fick",
+        "placement": "96th",
+        "division": "age group",
+        "time": "49:10"
+      }
+    ]
   }
 ]
