@@ -310,5 +310,17 @@
         "time": "49:10"
       }
     ]
+  },
+  {
+    "event_name": "POA Day 5K (Brazil)",
+    "date": "2025-11-29",
+    "results": [
+      {
+        "runner": "Rafaul Daudt",
+        "placement": "17th",
+        "division": "age group",
+        "time": "23:49"
+      }
+    ]
   }
 ]
