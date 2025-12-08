@@ -322,5 +322,23 @@
         "time": "3:23:04"
       }
     ]
+  },
+  {
+    "event_name": "Ugly Sweater 5k (Unofficial Results)",
+    "date": "2025-12-08",
+    "results": [
+      {
+        "runner": "Kummi Ka",
+        "placement": "2nd overall females",
+        "division": "Overall Female",
+        "time": "24:51"
+      },
+      {
+        "runner": "Dale Hawkins",
+        "placement": "6th overall",
+        "division": "Overall",
+        "time": "22:21"
+      }
+    ]
   }
 ]
