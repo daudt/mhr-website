@@ -1,32 +1,32 @@
 [
   {
-    "date": "2025-12-09",
-    "time": "5:20 AM",
+    "date": "2025-12-16",
+    "time": "5:20 am",
     "location": {
       "name": "Erie Middle School",
       "address": "1140 Briggs St, Erie, CO 80516",
       "map_link": "https://maps.google.com/?q=Erie+Middle+School,1140+Briggs+St,Erie,CO+80516"
     },
-    "description": "6 x 600m intervals at 5k pace (or recovery pace) with a 60-second recovery between intervals, followed by 6 x 60m strides at a Fun Fast or recovery pace."
+    "description": "8 - 10 x 400 (uphill) at 5k effort with an easy (downhill) back to the starting line."
   },
   {
-    "date": "2025-12-11",
-    "time": "5:20 AM",
+    "date": "2025-12-18",
+    "time": "5:20 am",
     "location": {
       "name": "Erie Middle School",
       "address": "1140 Briggs St, Erie, CO 80516",
       "map_link": "https://maps.google.com/?q=Erie+Middle+School,1140+Briggs+St,Erie,CO+80516"
     },
-    "description": "400-meter down Cheesman Park at a controlled 10k pace, followed by 400-meter back up Cheesman at marathon pace. Take a 90-120 second recovery between intervals."
+    "description": "800, 1000, 1200, 1000, 800 at current 10k pace with a 60 - 90 second recovery between intervals. Plus 4 x 100 at Fun Fast pace\u2026no sprinting!"
   },
   {
-    "date": "2025-12-13",
-    "time": "7:30 AM",
+    "date": "2025-12-20",
+    "time": "7:30 am",
     "location": {
-      "name": "E. Simpson Street Coffee Shop",
-      "address": "E. Simpson Street Coffee Shop",
-      "map_link": "https://maps.google.com/?q=E.+Simpson+Street+Coffee+Shop"
+      "name": "Cristos Coffee Shop",
+      "address": "Cristos Coffee Shop",
+      "map_link": "https://maps.google.com/?q=Cristos+Coffee+Shop"
     },
-    "description": "Club social run, relaxed, social run open to all levels and abilities."
+    "description": "Group social run."
   }
 ]
