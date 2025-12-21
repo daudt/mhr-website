@@ -388,5 +388,41 @@
         "time": "N/A"
       }
     ]
+  },
+  {
+    "event_name": "Santa\u2019s Dash for Cash 5K",
+    "date": "2025-12-21",
+    "results": [
+      {
+        "runner": "Nicole Rubis",
+        "placement": "2nd",
+        "division": "age",
+        "time": ""
+      },
+      {
+        "runner": "Blair Aakre",
+        "placement": "6th",
+        "division": "age",
+        "time": ""
+      },
+      {
+        "runner": "Dale Hawkins",
+        "placement": "6th",
+        "division": "age",
+        "time": ""
+      },
+      {
+        "runner": "Rafael Daudt",
+        "placement": "12th",
+        "division": "age",
+        "time": ""
+      },
+      {
+        "runner": "Doug Croft",
+        "placement": "4th",
+        "division": "age",
+        "time": ""
+      }
+    ]
   }
 ]
