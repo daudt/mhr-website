@@ -1,32 +1,32 @@
 [
   {
-    "date": "2025-12-18",
-    "time": "5:20 am",
-    "location": {
-      "name": "Erie Middle School",
-      "address": "1140 Briggs St, Erie, CO 80516",
-      "map_link": "https://maps.google.com/?q=Erie+Middle+School,1140+Briggs+St,Erie,CO+80516"
-    },
-    "description": "800, 1000, 1200, 1000, 800 at current 10k pace with a 60 - 90 second recovery between intervals. Plus 4 x 100 at Fun Fast pace\u2026no sprinting!"
-  },
-  {
-    "date": "2025-12-18",
+    "date": "2025-12-23",
     "time": "5:20 AM",
     "location": {
       "name": "Erie Middle School",
       "address": "1140 Briggs St, Erie, CO 80516",
       "map_link": "https://maps.google.com/?q=Erie+Middle+School,1140+Briggs+St,Erie,CO+80516"
     },
-    "description": "800, 1000, 1200, 1000, 800 at current 10k pace with a 60 - 90 second recovery between intervals. Plus 4 x 100 at Fun Fast pace\u2026no sprinting!"
+    "description": "2-3 sets of 4 laps of Curves and Straights, with a one-lap easy jog/walk recovery between sets. Paces: Curves at marathon pace; Straights at 3k - 5k pace."
   },
   {
-    "date": "2025-12-20",
-    "time": "7:30 am",
+    "date": "2025-12-24",
+    "time": "6:45 AM",
     "location": {
-      "name": "Cristos Coffee Shop",
-      "address": "Cristos Coffee Shop",
-      "map_link": "https://maps.google.com/?q=Cristos+Coffee+Shop"
+      "name": "Centennial Trailhead",
+      "address": "Centennial Trailhead",
+      "map_link": "https://maps.google.com/?q=Centennial+Trailhead"
     },
-    "description": "Group social run."
+    "description": "Optional Trail Run: 5-8 mile trail run on either the Anemone or Sanita trail."
+  },
+  {
+    "date": "2025-12-27",
+    "time": "7:30 AM",
+    "location": {
+      "name": "Lehigh Park",
+      "address": "Lehigh Park",
+      "map_link": "https://maps.google.com/?q=Lehigh+Park"
+    },
+    "description": "Social run. Post-Run: Coffee at Cristo's afterward."
   }
 ]
