@@ -1,32 +1,32 @@
 [
   {
-    "date": "2025-12-23",
+    "date": "2025-12-30",
     "time": "5:20 AM",
     "location": {
       "name": "Erie Middle School",
       "address": "1140 Briggs St, Erie, CO 80516",
       "map_link": "https://maps.google.com/?q=Erie+Middle+School,1140+Briggs+St,Erie,CO+80516"
     },
-    "description": "2-3 sets of 4 laps of Curves and Straights, with a one-lap easy jog/walk recovery between sets. Paces: Curves at marathon pace; Straights at 3k - 5k pace."
+    "description": "5-7 minutes out and 5-7 minutes back at 10k pace, followed by a transition to the track for 5-8 x 500 meters at 5k pace with a 300-meter easy walk/jog recovery."
   },
   {
-    "date": "2025-12-24",
-    "time": "6:45 AM",
+    "date": "2026-01-01",
+    "time": "9:00 AM",
     "location": {
       "name": "Centennial Trailhead",
       "address": "Centennial Trailhead",
       "map_link": "https://maps.google.com/?q=Centennial+Trailhead"
     },
-    "description": "Optional Trail Run: 5-8 mile trail run on either the Anemone or Sanita trail."
+    "description": "Nicole's 50th Birthday Run"
   },
   {
-    "date": "2025-12-27",
+    "date": "2026-01-03",
     "time": "7:30 AM",
     "location": {
-      "name": "Lehigh Park",
-      "address": "Lehigh Park",
-      "map_link": "https://maps.google.com/?q=Lehigh+Park"
+      "name": "Winot Coffee Shop",
+      "address": "Winot Coffee Shop",
+      "map_link": "https://maps.google.com/?q=Winot+Coffee+Shop"
     },
-    "description": "Social run. Post-Run: Coffee at Cristo's afterward."
+    "description": "Social Run (not a structured workout)"
   }
 ]
