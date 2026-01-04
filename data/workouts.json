@@ -1,32 +1,32 @@
 [
   {
-    "date": "2025-12-30",
+    "date": "2026-01-06",
     "time": "5:20 AM",
     "location": {
       "name": "Erie Middle School",
       "address": "1140 Briggs St, Erie, CO 80516",
       "map_link": "https://maps.google.com/?q=Erie+Middle+School,1140+Briggs+St,Erie,CO+80516"
     },
-    "description": "5-7 minutes out and 5-7 minutes back at 10k pace, followed by a transition to the track for 5-8 x 500 meters at 5k pace with a 300-meter easy walk/jog recovery."
+    "description": "6\u20138 x 500 meters (400m at 5k pace, last 100m at Mile pace) with a 300m easy walk/jog recovery."
   },
   {
-    "date": "2026-01-01",
-    "time": "9:00 AM",
+    "date": "2026-01-08",
+    "time": "5:20 AM",
     "location": {
-      "name": "Centennial Trailhead",
-      "address": "Centennial Trailhead",
-      "map_link": "https://maps.google.com/?q=Centennial+Trailhead"
+      "name": "Vista Pointe",
+      "address": "Vista Pointe",
+      "map_link": "https://maps.google.com/?q=Vista+Pointe"
     },
-    "description": "Nicole's 50th Birthday Run"
+    "description": "3\u20135 x 1000 meters at 10k effort with a 60-second recovery between Ks."
   },
   {
-    "date": "2026-01-03",
+    "date": "2026-01-10",
     "time": "7:30 AM",
     "location": {
-      "name": "Winot Coffee Shop",
-      "address": "Winot Coffee Shop",
-      "map_link": "https://maps.google.com/?q=Winot+Coffee+Shop"
+      "name": "The Great Bark Dog Park",
+      "address": "The Great Bark Dog Park",
+      "map_link": "https://maps.google.com/?q=The+Great+Bark+Dog+Park"
     },
-    "description": "Social Run (not a structured workout)"
+    "description": "Group Social Run"
   }
 ]
