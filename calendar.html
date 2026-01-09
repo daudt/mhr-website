@@ -142,7 +142,21 @@
                     if (workout.description) {
                         html += `<p>${workout.description}</p>`;
                     }
-                    
+
+                    // Add calendar links if available
+                    if (workout.google_calendar_link || workout.apple_calendar_link) {
+                        html += '<p class="calendar-links"><i class="fas fa-calendar-plus"></i> Add to calendar: ';
+                        const links = [];
+                        if (workout.google_calendar_link) {
+                            links.push(`<a href="${workout.google_calendar_link}" target="_blank" title="Add to Google Calendar">Google</a>`);
+                        }
+                        if (workout.apple_calendar_link) {
+                            links.push(`<a href="${workout.apple_calendar_link}" download="workout.ics" title="Add to Apple Calendar / Outlook">Apple/Outlook</a>`);
+                        }
+                        html += links.join(' | ');
+                        html += '</p>';
+                    }
+
                     html += '</div>';
                 });
 
