@@ -1,32 +1,32 @@
 [
   {
-    "date": "2025-12-16",
-    "time": "5:20 am",
+    "date": "2026-01-06",
+    "time": "5:20 AM",
     "location": {
       "name": "Erie Middle School",
       "address": "1140 Briggs St, Erie, CO 80516",
       "map_link": "https://maps.google.com/?q=Erie+Middle+School,1140+Briggs+St,Erie,CO+80516"
     },
-    "description": "8 - 10 x 400 (uphill) at 5k effort with an easy (downhill) back to the starting line."
+    "description": "6\u20138 x 500 meters (400m at 5k pace, last 100m at Mile pace) with a 300m easy walk/jog recovery."
   },
   {
-    "date": "2025-12-18",
-    "time": "5:20 am",
+    "date": "2026-01-08",
+    "time": "5:20 AM",
     "location": {
-      "name": "Erie Middle School",
-      "address": "1140 Briggs St, Erie, CO 80516",
-      "map_link": "https://maps.google.com/?q=Erie+Middle+School,1140+Briggs+St,Erie,CO+80516"
+      "name": "Vista Pointe",
+      "address": "Vista Pointe",
+      "map_link": "https://maps.google.com/?q=Vista+Pointe"
     },
-    "description": "800, 1000, 1200, 1000, 800 at current 10k pace with a 60 - 90 second recovery between intervals. Plus 4 x 100 at Fun Fast pace\u2026no sprinting!"
+    "description": "3\u20135 x 1000 meters at 10k effort with a 60-second recovery between Ks."
   },
   {
-    "date": "2025-12-20",
-    "time": "7:30 am",
+    "date": "2026-01-10",
+    "time": "7:30 AM",
     "location": {
-      "name": "Cristos Coffee Shop",
-      "address": "Cristos Coffee Shop",
-      "map_link": "https://maps.google.com/?q=Cristos+Coffee+Shop"
+      "name": "The Great Bark Dog Park",
+      "address": "The Great Bark Dog Park",
+      "map_link": "https://maps.google.com/?q=The+Great+Bark+Dog+Park"
     },
-    "description": "Group social run."
+    "description": "Group Social Run"
   }
 ]
