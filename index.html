@@ -378,7 +378,18 @@
                             links.push(`<a href="${workout.google_calendar_link}" target="_blank" title="Add to Google Calendar">Google</a>`);
                         }
                         if (workout.apple_calendar_link) {
-                            links.push(`<a href="${workout.apple_calendar_link}" download="workout.ics" title="Add to Apple Calendar / Outlook">Apple/Outlook</a>`);
+                            // Construct webcal URL for auto-open on Apple/Outlook
+                            let appleLink = workout.apple_calendar_link;
+                            // If it's a relative path, make it absolute first
+                            if (!appleLink.startsWith('http') && !appleLink.startsWith('data:')) {
+                                appleLink = new URL(appleLink, window.location.href).href;
+                            }
+                            // Replace protocol with webcals (secure) or webcal
+                            // Only replace if it's not a data URI
+                            if (!appleLink.startsWith('data:')) {
+                                appleLink = appleLink.replace(/^https?:/, 'webcals:');
+                            }
+                            links.push(`<a href="${appleLink}" title="Add to Apple Calendar / Outlook">Apple/Outlook</a>`);
                         }
                         html += links.join(' | ');
                         html += '</p>';

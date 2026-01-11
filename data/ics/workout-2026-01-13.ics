@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Mile High Runners//Website//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mhr-20260113T122000Z@milehighrunners.com
+DTSTAMP:20260111T232332Z
+DTSTART:20260113T122000Z
+DTEND:20260113T132000Z
+SUMMARY:MHR Workout: EMS
+DESCRIPTION:Additional Warm-up: 2 x 400m at Half-Marathon pace with a 30 second recovery. 4–10 x 400m at 5k pace with a 90–120 second between intervals. Recovery: 1 lap easy. 2–4 x 200m at Mile pace with a 200m easy jog/walk recovery
+LOCATION:1140 Briggs St\, Erie\, CO 80516
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

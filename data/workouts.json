@@ -7,7 +7,9 @@
       "address": "1140 Briggs St, Erie, CO 80516",
       "map_link": "https://maps.google.com/?q=Erie+Middle+School,1140+Briggs+St,Erie,CO+80516"
     },
-    "description": "Additional Warm-up: 2 x 400m at Half-Marathon pace with a 30 second recovery. 4\u201310 x 400m at 5k pace with a 90\u2013120 second between intervals. Recovery: 1 lap easy. 2\u20134 x 200m at Mile pace with a 200m easy jog/walk recovery"
+    "description": "Additional Warm-up: 2 x 400m at Half-Marathon pace with a 30 second recovery. 4\u201310 x 400m at 5k pace with a 90\u2013120 second between intervals. Recovery: 1 lap easy. 2\u20134 x 200m at Mile pace with a 200m easy jog/walk recovery",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+EMS&dates=20260113T122000Z%2F20260113T132000Z&details=Additional+Warm-up%3A+2+x+400m+at+Half-Marathon+pace+with+a+30+second+recovery.+4%E2%80%9310+x+400m+at+5k+pace+with+a+90%E2%80%93120+second+between+intervals.+Recovery%3A+1+lap+easy.+2%E2%80%934+x+200m+at+Mile+pace+with+a+200m+easy+jog%2Fwalk+recovery&location=1140+Briggs+St%2C+Erie%2C+CO+80516",
+    "apple_calendar_link": "data/ics/workout-2026-01-13.ics"
   },
   {
     "date": "2026-01-15",
@@ -17,7 +19,9 @@
       "address": "1140 Briggs St, Erie, CO 80516",
       "map_link": "https://maps.google.com/?q=Erie+Middle+School,1140+Briggs+St,Erie,CO+80516"
     },
-    "description": "Additional Warm-up: 2 x 400m at Half-Marathon pace with a 30s recovery. 800m, 1200m, 1600m, 1200m, 800m at 10k pace with a 75\u201390s recovery between intervals"
+    "description": "Additional Warm-up: 2 x 400m at Half-Marathon pace with a 30s recovery. 800m, 1200m, 1600m, 1200m, 800m at 10k pace with a 75\u201390s recovery between intervals",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+EMS&dates=20260115T122000Z%2F20260115T132000Z&details=Additional+Warm-up%3A+2+x+400m+at+Half-Marathon+pace+with+a+30s+recovery.+800m%2C+1200m%2C+1600m%2C+1200m%2C+800m+at+10k+pace+with+a+75%E2%80%9390s+recovery+between+intervals&location=1140+Briggs+St%2C+Erie%2C+CO+80516",
+    "apple_calendar_link": "data/ics/workout-2026-01-15.ics"
   },
   {
     "date": "2026-01-17",
@@ -27,6 +31,8 @@
       "address": "Cristos Coffee Shop",
       "map_link": "https://maps.google.com/?q=Cristos+Coffee+Shop"
     },
-    "description": "club social run. All levels and speeds are welcome to join us. Guilt free zone!"
+    "description": "club social run. All levels and speeds are welcome to join us. Guilt free zone!",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+Cristos+Coffee+Shop&dates=20260117T143000Z%2F20260117T153000Z&details=club+social+run.+All+levels+and+speeds+are+welcome+to+join+us.+Guilt+free+zone%21&location=Cristos+Coffee+Shop",
+    "apple_calendar_link": "data/ics/workout-2026-01-17.ics"
   }
 ]
