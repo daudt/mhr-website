@@ -1,35 +1,51 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-EEFJH6J34P"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-EEFJH6J34P');
+    </script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="View Mile High Runners race results from 2017-2025. See our team's achievements in 5Ks, marathons, and ultra races across Colorado and beyond.">
-    <meta name="keywords" content="Mile High Runners race results, Colorado running race results, Erie running group results, marathon results Colorado, 5K race results">
+    <meta name="description"
+        content="View Mile High Runners race results from 2017-2025. See our team's achievements in 5Ks, marathons, and ultra races across Colorado and beyond.">
+    <meta name="keywords"
+        content="Mile High Runners race results, Colorado running race results, Erie running group results, marathon results Colorado, 5K race results">
     <meta name="author" content="Mile High Runners">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://milehighrunners.com/race-results.html">
-    
+
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://milehighrunners.com/race-results.html">
     <meta property="og:title" content="Race Results | Mile High Runners">
-    <meta property="og:description" content="View Mile High Runners race results from 2017-2025. See our team's achievements in races across Colorado and beyond.">
+    <meta property="og:description"
+        content="View Mile High Runners race results from 2017-2025. See our team's achievements in races across Colorado and beyond.">
     <meta property="og:image" content="https://milehighrunners.com/images/1st-place-768x1024.jpg">
-    
+
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:url" content="https://milehighrunners.com/race-results.html">
     <meta name="twitter:title" content="Race Results | Mile High Runners">
-    <meta name="twitter:description" content="View Mile High Runners race results from 2017-2025. See our team's achievements in races across Colorado.">
+    <meta name="twitter:description"
+        content="View Mile High Runners race results from 2017-2025. See our team's achievements in races across Colorado.">
     <meta name="twitter:image" content="https://milehighrunners.com/images/1st-place-768x1024.jpg">
-    
+
     <title>Race Results | Mile High Runners</title>
     <link rel="stylesheet" href="styles.css">
     <!-- Font Awesome for icons -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
     <!-- Google Fonts -->
-    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&family=Montserrat:wght@700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&family=Montserrat:wght@700&display=swap"
+        rel="stylesheet">
 </head>
+
 <body>
     <header class="main-header">
         <nav class="nav-container">
@@ -62,7 +78,8 @@
 
         <section class="race-results-section">
             <div class="content-container">
-                <p class="intro-text">Check out some of our team's recent race achievements and highlights! Our runners compete in everything from local 5Ks to marathons and ultra races across Colorado and beyond.</p>
+                <p class="intro-text">Check out some of our team's recent race achievements and highlights! Our runners
+                    compete in everything from local 5Ks to marathons and ultra races across Colorado and beyond.</p>
 
                 <div class="race-results-tabs">
                     <div class="tab-navigation" id="tab-navigation">
@@ -84,7 +101,8 @@
                     </div>
 
                     <div class="result-card">
-                        <img src="images/Brighton-TT-2024-Dale-Bobby-768x1024.jpg" alt="Brighton Time Trial 2024 - Dale and Bobby">
+                        <img src="images/Brighton-TT-2024-Dale-Bobby-768x1024.jpg"
+                            alt="Brighton Time Trial 2024 - Dale and Bobby">
                         <div class="result-info">
                             <h3>Brighton Time Trial 2024</h3>
                             <p>Dale and Bobby crushing it!</p>
@@ -154,8 +172,10 @@
             <div class="footer-section">
                 <h3>Connect With Us</h3>
                 <div class="social-links">
-                    <a href="https://www.facebook.com/milehighrunners" target="_blank" aria-label="Facebook"><i class="fab fa-facebook"></i></a>
-                    <a href="https://www.instagram.com/milehighrunners" target="_blank" aria-label="Instagram"><i class="fab fa-instagram"></i></a>
+                    <a href="https://www.facebook.com/milehighrunners" target="_blank" aria-label="Facebook"><i
+                            class="fab fa-facebook"></i></a>
+                    <a href="https://www.instagram.com/milehighrunners" target="_blank" aria-label="Instagram"><i
+                            class="fab fa-instagram"></i></a>
                 </div>
             </div>
             <div class="footer-section">
@@ -194,13 +214,13 @@
                 }
 
                 const years = await response.json();
-                
+
                 // Generate tabs
                 generateTabs(years);
-                
+
                 // Set up tab switching functionality
                 setupTabSwitching();
-                
+
                 // Load data for the first (most recent) year
                 if (years.length > 0) {
                     loadYearData(years[0]);
@@ -213,7 +233,7 @@
         function generateTabs(years) {
             const tabNav = document.getElementById('tab-navigation');
             const tabContentContainer = document.getElementById('tab-content-container');
-            
+
             years.forEach((year, index) => {
                 // Create tab button
                 const button = document.createElement('button');
@@ -221,7 +241,7 @@
                 button.setAttribute('data-year', year);
                 button.textContent = year;
                 tabNav.appendChild(button);
-                
+
                 // Create tab content
                 const content = document.createElement('div');
                 content.className = 'tab-content' + (index === 0 ? ' active' : '');
@@ -233,18 +253,18 @@
 
         function setupTabSwitching() {
             document.querySelectorAll('.tab-button').forEach(button => {
-                button.addEventListener('click', function() {
+                button.addEventListener('click', function () {
                     // Remove active class from all buttons and content
                     document.querySelectorAll('.tab-button').forEach(btn => btn.classList.remove('active'));
                     document.querySelectorAll('.tab-content').forEach(content => content.classList.remove('active'));
-                    
+
                     // Add active class to clicked button
                     this.classList.add('active');
-                    
+
                     // Show corresponding content
                     const year = this.getAttribute('data-year');
                     document.getElementById('year-' + year).classList.add('active');
-                    
+
                     // Load data for this year
                     loadYearData(year);
                 });
@@ -253,7 +273,7 @@
 
         async function loadYearData(year) {
             const container = document.getElementById('year-' + year);
-            
+
             // Skip if already loaded (has more than just loading text)
             if (container.querySelectorAll('p').length > 1) {
                 return;
@@ -261,7 +281,7 @@
 
             try {
                 const response = await fetch(`data/race-results/${year}.json`);
-                
+
                 if (!response.ok) {
                     // Special handling for 2022 to show "TBD" instead of "No results available"
                     if (year === '2022') {
@@ -273,7 +293,7 @@
                 }
 
                 const races = await response.json();
-                
+
                 if (!races || races.length === 0) {
                     container.innerHTML = '<p>No results available for this year.</p>';
                     return;
@@ -310,4 +330,5 @@
         }
     </script>
 </body>
+
 </html>
