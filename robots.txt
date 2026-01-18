@@ -1,12 +1,6 @@
 User-agent: *
 Allow: /
+Disallow: /*?*
 
 # Sitemap location
 Sitemap: https://milehighrunners.com/sitemap.xml
-
-# Disallow admin or private directories if any exist in the future
-# Disallow: /admin/
-# Disallow: /private/
-
-
-
