@@ -1,38 +1,41 @@
 [
   {
-    "date": "2026-01-13",
+    "date": "2026-01-20",
     "time": "5:20 AM",
     "location": {
       "name": "Erie Middle School",
-      "address": "650 Main Street, Erie, CO 80516",
-      "map_link": "https://maps.google.com/?q=Erie+Middle+School,650+Main+Street,+Erie,+CO+80516"
+      "address": "Erie Middle School",
+      "map_link": "https://maps.app.goo.gl/fK6jfwe9FoKRSfw39?g_st=ic"
     },
-    "description": "Additional Warm-up: 2 x 400m at Half-Marathon pace with a 30 second recovery. 4\u201310 x 400m at 5k pace with a 90\u2013120 second between intervals. Recovery: 1 lap easy. 2\u20134 x 200m at Mile pace with a 200m easy jog/walk recovery",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+EMS&dates=20260113T122000Z%2F20260113T132000Z&details=Additional+Warm-up%3A+2+x+400m+at+Half-Marathon+pace+with+a+30+second+recovery.+4%E2%80%9310+x+400m+at+5k+pace+with+a+90%E2%80%93120+second+between+intervals.+Recovery%3A+1+lap+easy.+2%E2%80%934+x+200m+at+Mile+pace+with+a+200m+easy+jog%2Fwalk+recovery&location=650+Main+Street%2C+Erie%2C+CO+80516",
-    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwMTEzVDEyMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDExMVQyMjQ3MjBaDQpEVFNUQVJUOjIwMjYwMTEzVDEyMjAwMFoNCkRURU5EOjIwMjYwMTEzVDEzMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IEVNUw0KREVTQ1JJUFRJT046QWRkaXRpb25hbCBXYXJtLXVwOiAyIHggNDAwbSBhdCBIYWxmLU1hcmF0aG9uIHBhY2Ugd2l0aCBhIDMwIHNlY29uZCByZWNvdmVyeS4gNOKAkzEwIHggNDAwbSBhdCA1ayBwYWNlIHdpdGggYSA5MOKAkzEyMCBzZWNvbmQgYmV0d2VlbiBpbnRlcnZhbHMuIFJlY292ZXJ5OiAxIGxhcCBlYXN5LiAy4oCTNCB4IDIwMG0gYXQgTWlsZSBwYWNlIHdpdGggYSAyMDBtIGVhc3kgam9nL3dhbGsgcmVjb3ZlcnkNCkxPQ0FUSU9OOjY1MCBNYWluIFN0cmVldFwsIEVyaWVcLCBDTyA4MDUxNg0KU1RBVFVTOkNPTkZJUk1FRA0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg=="
+    "location_link": "https://maps.app.goo.gl/fK6jfwe9FoKRSfw39?g_st=ic",
+    "description": "5\u20137 sets of [200m, 400m, 200m]:\n  - 200m at mile pace (200m walk/jog recovery)\n  - 400m at 5k pace (60\u201390 second recovery)\n  - 200m at mile pace (200m walk/jog recovery)\n  - 1 lap easy jog after each full set.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+Erie+Middle+School&dates=20260120T122000Z%2F20260120T132000Z&details=5%E2%80%937+sets+of+%5B200m%2C+400m%2C+200m%5D%3A%0A++-+200m+at+mile+pace+%28200m+walk%2Fjog+recovery%29%0A++-+400m+at+5k+pace+%2860%E2%80%9390+second+recovery%29%0A++-+200m+at+mile+pace+%28200m+walk%2Fjog+recovery%29%0A++-+1+lap+easy+jog+after+each+full+set.&location=Erie+Middle+School",
+    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwMTIwVDEyMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDExOFQyMjExMTZaDQpEVFNUQVJUOjIwMjYwMTIwVDEyMjAwMFoNCkRURU5EOjIwMjYwMTIwVDEzMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IEVyaWUgTWlkZGxlIFNjaG9vbA0KREVTQ1JJUFRJT046NeKAkzcgc2V0cyBvZiBbMjAwbVwsIDQwMG1cLCAyMDBtXTpcbiAgLSAyMDBtIGF0IG1pbGUgcGFjZSAoMjAwbSB3YWxrL2pvZyByZWNvdmVyeSlcbiAgLSA0MDBtIGF0IDVrIHBhY2UgKDYw4oCTOTAgc2Vjb25kIHJlY292ZXJ5KVxuICAtIDIwMG0gYXQgbWlsZSBwYWNlICgyMDBtIHdhbGsvam9nIHJlY292ZXJ5KVxuICAtIDEgbGFwIGVhc3kgam9nIGFmdGVyIGVhY2ggZnVsbCBzZXQuDQpMT0NBVElPTjpFcmllIE1pZGRsZSBTY2hvb2wNClNUQVRVUzpDT05GSVJNRUQNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVI="
   },
   {
-    "date": "2026-01-15",
+    "date": "2026-01-22",
     "time": "5:20 AM",
     "location": {
-      "name": "Erie Middle School",
-      "address": "650 Main Street, Erie, CO 80516",
-      "map_link": "https://maps.google.com/?q=Erie+Middle+School,650+Main+Street,+Erie,+CO+80516"
+      "name": "Lehigh Park",
+      "address": "Lehigh Park",
+      "map_link": "https://maps.app.goo.gl/mD93cGkn8C2GGZBV8?g_st=ic"
     },
-    "description": "Additional Warm-up: 2 x 400m at Half-Marathon pace with a 30s recovery. 800m, 1200m, 1600m, 1200m, 800m at 10k pace with a 75\u201390s recovery between intervals",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+EMS&dates=20260115T122000Z%2F20260115T132000Z&details=Additional+Warm-up%3A+2+x+400m+at+Half-Marathon+pace+with+a+30s+recovery.+800m%2C+1200m%2C+1600m%2C+1200m%2C+800m+at+10k+pace+with+a+75%E2%80%9390s+recovery+between+intervals&location=650+Main+Street%2C+Erie%2C+CO+80516",
-    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwMTE1VDEyMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDExMVQyMjQ3MjBaDQpEVFNUQVJUOjIwMjYwMTE1VDEyMjAwMFoNCkRURU5EOjIwMjYwMTE1VDEzMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IEVNUw0KREVTQ1JJUFRJT046QWRkaXRpb25hbCBXYXJtLXVwOiAyIHggNDAwbSBhdCBIYWxmLU1hcmF0aG9uIHBhY2Ugd2l0aCBhIDMwcyByZWNvdmVyeS4gODAwbVwsIDEyMDBtXCwgMTYwMG1cLCAxMjAwbVwsIDgwMG0gYXQgMTBrIHBhY2Ugd2l0aCBhIDc14oCTOTBzIHJlY292ZXJ5IGJldHdlZW4gaW50ZXJ2YWxzDQpMT0NBVElPTjo2NTAgTWFpbiBTdHJlZXRcLCBFcmllXCwgQ08gODA1MTYNClNUQVRVUzpDT05GSVJNRUQNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVI="
+    "location_link": "https://maps.app.goo.gl/mD93cGkn8C2GGZBV8?g_st=ic",
+    "description": "4 x 1200m:\n  - Run the first 1000m of each interval at 10k pace.\n  - For the final segment of each interval, \"kick in\" at the following paces:\n      - Set 1: Last 100m at mile pace.\n      - Set 2: Last 200m at mile pace.\n      - Set 3: Last 300m at 5k pace.\n      - Set 4: Last 400m at 5k pace.\n        I will explain this in more detail at practice.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+Lehigh+Park&dates=20260122T122000Z%2F20260122T132000Z&details=4+x+1200m%3A%0A++-+Run+the+first+1000m+of+each+interval+at+10k+pace.%0A++-+For+the+final+segment+of+each+interval%2C+%22kick+in%22+at+the+following+paces%3A%0A++++++-+Set+1%3A+Last+100m+at+mile+pace.%0A++++++-+Set+2%3A+Last+200m+at+mile+pace.%0A++++++-+Set+3%3A+Last+300m+at+5k+pace.%0A++++++-+Set+4%3A+Last+400m+at+5k+pace.%0A++++++++I+will+explain+this+in+more+detail+at+practice.&location=Lehigh+Park",
+    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwMTIyVDEyMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDExOFQyMjExMTZaDQpEVFNUQVJUOjIwMjYwMTIyVDEyMjAwMFoNCkRURU5EOjIwMjYwMTIyVDEzMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IExlaGlnaCBQYXJrDQpERVNDUklQVElPTjo0IHggMTIwMG06XG4gIC0gUnVuIHRoZSBmaXJzdCAxMDAwbSBvZiBlYWNoIGludGVydmFsIGF0IDEwayBwYWNlLlxuICAtIEZvciB0aGUgZmluYWwgc2VnbWVudCBvZiBlYWNoIGludGVydmFsXCwgImtpY2sgaW4iIGF0IHRoZSBmb2xsb3dpbmcgcGFjZXM6XG4gICAgICAtIFNldCAxOiBMYXN0IDEwMG0gYXQgbWlsZSBwYWNlLlxuICAgICAgLSBTZXQgMjogTGFzdCAyMDBtIGF0IG1pbGUgcGFjZS5cbiAgICAgIC0gU2V0IDM6IExhc3QgMzAwbSBhdCA1ayBwYWNlLlxuICAgICAgLSBTZXQgNDogTGFzdCA0MDBtIGF0IDVrIHBhY2UuXG4gICAgICAgIEkgd2lsbCBleHBsYWluIHRoaXMgaW4gbW9yZSBkZXRhaWwgYXQgcHJhY3RpY2UuDQpMT0NBVElPTjpMZWhpZ2ggUGFyaw0KU1RBVFVTOkNPTkZJUk1FRA0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg=="
   },
   {
-    "date": "2026-01-17",
+    "date": "2026-01-24",
     "time": "7:30 AM",
     "location": {
-      "name": "Cristos Coffee Shop",
-      "address": "Cristos Coffee Shop",
-      "map_link": "https://maps.google.com/?q=Cristos+Coffee+Shop"
+      "name": "Rafa\u2019s house",
+      "address": "Rafa\u2019s house",
+      "map_link": "https://maps.app.goo.gl/kQfK4okuHqwF1pvy5?g_st=ic"
     },
-    "description": "club social run. All levels and speeds are welcome to join us. Guilt free zone!",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+Cristos+Coffee+Shop&dates=20260117T143000Z%2F20260117T153000Z&details=club+social+run.+All+levels+and+speeds+are+welcome+to+join+us.+Guilt+free+zone%21&location=Cristos+Coffee+Shop",
-    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwMTE3VDE0MzAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDExMVQyMjQ3MjBaDQpEVFNUQVJUOjIwMjYwMTE3VDE0MzAwMFoNCkRURU5EOjIwMjYwMTE3VDE1MzAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IENyaXN0b3MgQ29mZmVlIFNob3ANCkRFU0NSSVBUSU9OOmNsdWIgc29jaWFsIHJ1bi4gQWxsIGxldmVscyBhbmQgc3BlZWRzIGFyZSB3ZWxjb21lIHRvIGpvaW4gdXMuIEd1aWx0IGZyZWUgem9uZSENCkxPQ0FUSU9OOkNyaXN0b3MgQ29mZmVlIFNob3ANClNUQVRVUzpDT05GSVJNRUQNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVI="
+    "location_link": "https://maps.app.goo.gl/kQfK4okuHqwF1pvy5?g_st=ic",
+    "description": "Social & Birthday Celebration for Rafael\u2019s 50th birthday. Bring a breakfast treat to share. Coffee and cake provided.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+Rafa%E2%80%99s+house&dates=20260124T143000Z%2F20260124T153000Z&details=Social+%26+Birthday+Celebration+for+Rafael%E2%80%99s+50th+birthday.+Bring+a+breakfast+treat+to+share.+Coffee+and+cake+provided.&location=Rafa%E2%80%99s+house",
+    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwMTI0VDE0MzAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDExOFQyMjExMTZaDQpEVFNUQVJUOjIwMjYwMTI0VDE0MzAwMFoNCkRURU5EOjIwMjYwMTI0VDE1MzAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IFJhZmHigJlzIGhvdXNlDQpERVNDUklQVElPTjpTb2NpYWwgJiBCaXJ0aGRheSBDZWxlYnJhdGlvbiBmb3IgUmFmYWVs4oCZcyA1MHRoIGJpcnRoZGF5LiBCcmluZyBhIGJyZWFrZmFzdCB0cmVhdCB0byBzaGFyZS4gQ29mZmVlIGFuZCBjYWtlIHByb3ZpZGVkLg0KTE9DQVRJT046UmFmYeKAmXMgaG91c2UNClNUQVRVUzpDT05GSVJNRUQNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVI="
   }
 ]
