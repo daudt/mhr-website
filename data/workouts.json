@@ -1,31 +1,5 @@
 [
   {
-    "date": "2026-01-20",
-    "time": "5:20 AM",
-    "location": {
-      "name": "Erie Middle School",
-      "address": "Erie Middle School",
-      "map_link": "https://maps.app.goo.gl/fK6jfwe9FoKRSfw39?g_st=ic"
-    },
-    "location_link": "https://maps.app.goo.gl/fK6jfwe9FoKRSfw39?g_st=ic",
-    "description": "5\u20137 sets of [200m, 400m, 200m]:\n\n  - 200m at mile pace (200m walk/jog recovery)\n  - 400m at 5k pace (60\u201390 second recovery)\n  - 200m at mile pace (200m walk/jog recovery)\n  - 1 lap easy jog after each full set.",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+Erie+Middle+School&dates=20260120T122000Z%2F20260120T132000Z&details=5%E2%80%937+sets+of+%5B200m%2C+400m%2C+200m%5D%3A%0A%0A++-+200m+at+mile+pace+%28200m+walk%2Fjog+recovery%29%0A++-+400m+at+5k+pace+%2860%E2%80%9390+second+recovery%29%0A++-+200m+at+mile+pace+%28200m+walk%2Fjog+recovery%29%0A++-+1+lap+easy+jog+after+each+full+set.&location=Erie+Middle+School",
-    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwMTIwVDEyMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDExOFQyMjE2MTJaDQpEVFNUQVJUOjIwMjYwMTIwVDEyMjAwMFoNCkRURU5EOjIwMjYwMTIwVDEzMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IEVyaWUgTWlkZGxlIFNjaG9vbA0KREVTQ1JJUFRJT046NeKAkzcgc2V0cyBvZiBbMjAwbVwsIDQwMG1cLCAyMDBtXTpcblxuICAtIDIwMG0gYXQgbWlsZSBwYWNlICgyMDBtIHdhbGsvam9nIHJlY292ZXJ5KVxuICAtIDQwMG0gYXQgNWsgcGFjZSAoNjDigJM5MCBzZWNvbmQgcmVjb3ZlcnkpXG4gIC0gMjAwbSBhdCBtaWxlIHBhY2UgKDIwMG0gd2Fsay9qb2cgcmVjb3ZlcnkpXG4gIC0gMSBsYXAgZWFzeSBqb2cgYWZ0ZXIgZWFjaCBmdWxsIHNldC4NCkxPQ0FUSU9OOkVyaWUgTWlkZGxlIFNjaG9vbA0KU1RBVFVTOkNPTkZJUk1FRA0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg=="
-  },
-  {
-    "date": "2026-01-21",
-    "time": "5:20 AM",
-    "location": {
-      "name": "Track",
-      "address": "Track",
-      "map_link": "https://maps.google.com/?q=Track"
-    },
-    "location_link": null,
-    "description": "12 - .17 x 300m at slightly slower than mile pace with a slow 100m walk.",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+Track&dates=20260121T122000Z%2F20260121T132000Z&details=12+-+.17+x+300m+at+slightly+slower+than+mile+pace+with+a+slow+100m+walk.&location=Track",
-    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwMTIxVDEyMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDEyMFQwMDQ1NTNaDQpEVFNUQVJUOjIwMjYwMTIxVDEyMjAwMFoNCkRURU5EOjIwMjYwMTIxVDEzMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IFRyYWNrDQpERVNDUklQVElPTjoxMiAtIC4xNyB4IDMwMG0gYXQgc2xpZ2h0bHkgc2xvd2VyIHRoYW4gbWlsZSBwYWNlIHdpdGggYSBzbG93IDEwMG0gd2Fsay4NCkxPQ0FUSU9OOlRyYWNrDQpTVEFUVVM6Q09ORklSTUVEDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFS"
-  },
-  {
     "date": "2026-01-22",
     "time": "5:20 AM",
     "location": {
@@ -34,9 +8,9 @@
       "map_link": "https://maps.app.goo.gl/mD93cGkn8C2GGZBV8?g_st=ic"
     },
     "location_link": "https://maps.app.goo.gl/mD93cGkn8C2GGZBV8?g_st=ic",
-    "description": "4 x 1200m:\n\n  - Run the first 1000m of each interval at 10k pace.\n  - For the final segment of each interval, \"kick in\" at the following paces:\n      - Set 1: Last 100m at mile pace.\n      - Set 2: Last 200m at mile pace.\n      - Set 3: Last 300m at 5k pace.\n      - Set 4: Last 400m at 5k pace.\n        I will explain this in more detail at practice.",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+Lehigh+Park&dates=20260122T122000Z%2F20260122T132000Z&details=4+x+1200m%3A%0A%0A++-+Run+the+first+1000m+of+each+interval+at+10k+pace.%0A++-+For+the+final+segment+of+each+interval%2C+%22kick+in%22+at+the+following+paces%3A%0A++++++-+Set+1%3A+Last+100m+at+mile+pace.%0A++++++-+Set+2%3A+Last+200m+at+mile+pace.%0A++++++-+Set+3%3A+Last+300m+at+5k+pace.%0A++++++-+Set+4%3A+Last+400m+at+5k+pace.%0A++++++++I+will+explain+this+in+more+detail+at+practice.&location=Lehigh+Park",
-    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwMTIyVDEyMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDExOFQyMjE2MTJaDQpEVFNUQVJUOjIwMjYwMTIyVDEyMjAwMFoNCkRURU5EOjIwMjYwMTIyVDEzMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IExlaGlnaCBQYXJrDQpERVNDUklQVElPTjo0IHggMTIwMG06XG5cbiAgLSBSdW4gdGhlIGZpcnN0IDEwMDBtIG9mIGVhY2ggaW50ZXJ2YWwgYXQgMTBrIHBhY2UuXG4gIC0gRm9yIHRoZSBmaW5hbCBzZWdtZW50IG9mIGVhY2ggaW50ZXJ2YWxcLCAia2ljayBpbiIgYXQgdGhlIGZvbGxvd2luZyBwYWNlczpcbiAgICAgIC0gU2V0IDE6IExhc3QgMTAwbSBhdCBtaWxlIHBhY2UuXG4gICAgICAtIFNldCAyOiBMYXN0IDIwMG0gYXQgbWlsZSBwYWNlLlxuICAgICAgLSBTZXQgMzogTGFzdCAzMDBtIGF0IDVrIHBhY2UuXG4gICAgICAtIFNldCA0OiBMYXN0IDQwMG0gYXQgNWsgcGFjZS5cbiAgICAgICAgSSB3aWxsIGV4cGxhaW4gdGhpcyBpbiBtb3JlIGRldGFpbCBhdCBwcmFjdGljZS4NCkxPQ0FUSU9OOkxlaGlnaCBQYXJrDQpTVEFUVVM6Q09ORklSTUVEDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFS"
+    "description": "4 x 1200m: Run the first 1000m of each interval at 10k pace. For the final segment of each interval, \"kick in\" at the following paces: Set 1: Last 100m at mile pace. Set 2: Last 200m at mile pace. Set 3: Last 300m at 5k pace. Set 4: Last 400m at 5k pace. I will explain this in more detail at practice.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+Lehigh+Park&dates=20260122T122000Z%2F20260122T132000Z&details=4+x+1200m%3A+Run+the+first+1000m+of+each+interval+at+10k+pace.+For+the+final+segment+of+each+interval%2C+%22kick+in%22+at+the+following+paces%3A+Set+1%3A+Last+100m+at+mile+pace.+Set+2%3A+Last+200m+at+mile+pace.+Set+3%3A+Last+300m+at+5k+pace.+Set+4%3A+Last+400m+at+5k+pace.+I+will+explain+this+in+more+detail+at+practice.&location=Lehigh+Park",
+    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwMTIyVDEyMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDEyMlQxMzIyMzJaDQpEVFNUQVJUOjIwMjYwMTIyVDEyMjAwMFoNCkRURU5EOjIwMjYwMTIyVDEzMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IExlaGlnaCBQYXJrDQpERVNDUklQVElPTjo0IHggMTIwMG06IFJ1biB0aGUgZmlyc3QgMTAwMG0gb2YgZWFjaCBpbnRlcnZhbCBhdCAxMGsgcGFjZS4gRm9yIHRoZSBmaW5hbCBzZWdtZW50IG9mIGVhY2ggaW50ZXJ2YWxcLCAia2ljayBpbiIgYXQgdGhlIGZvbGxvd2luZyBwYWNlczogU2V0IDE6IExhc3QgMTAwbSBhdCBtaWxlIHBhY2UuIFNldCAyOiBMYXN0IDIwMG0gYXQgbWlsZSBwYWNlLiBTZXQgMzogTGFzdCAzMDBtIGF0IDVrIHBhY2UuIFNldCA0OiBMYXN0IDQwMG0gYXQgNWsgcGFjZS4gSSB3aWxsIGV4cGxhaW4gdGhpcyBpbiBtb3JlIGRldGFpbCBhdCBwcmFjdGljZS4NCkxPQ0FUSU9OOkxlaGlnaCBQYXJrDQpTVEFUVVM6Q09ORklSTUVEDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFS"
   },
   {
     "date": "2026-01-24",
@@ -47,8 +21,8 @@
       "map_link": "https://maps.app.goo.gl/kQfK4okuHqwF1pvy5?g_st=ic"
     },
     "location_link": "https://maps.app.goo.gl/kQfK4okuHqwF1pvy5?g_st=ic",
-    "description": "Social & Birthday Celebration. Bring a breakfast treat to share.",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+Rafa%E2%80%99s+house&dates=20260124T143000Z%2F20260124T153000Z&details=Social+%26+Birthday+Celebration.+Bring+a+breakfast+treat+to+share.&location=Rafa%E2%80%99s+house",
-    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwMTI0VDE0MzAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDExOFQyMjE2MTJaDQpEVFNUQVJUOjIwMjYwMTI0VDE0MzAwMFoNCkRURU5EOjIwMjYwMTI0VDE1MzAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IFJhZmHigJlzIGhvdXNlDQpERVNDUklQVElPTjpTb2NpYWwgJiBCaXJ0aGRheSBDZWxlYnJhdGlvbi4gQnJpbmcgYSBicmVha2Zhc3QgdHJlYXQgdG8gc2hhcmUuDQpMT0NBVElPTjpSYWZh4oCZcyBob3VzZQ0KU1RBVFVTOkNPTkZJUk1FRA0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg=="
+    "description": "Social & Birthday Celebration (bring a breakfast treat to share. Allie will be providing birthday cake and coffee.)",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+Rafa%E2%80%99s+house&dates=20260124T143000Z%2F20260124T153000Z&details=Social+%26+Birthday+Celebration+%28bring+a+breakfast+treat+to+share.+Allie+will+be+providing+birthday+cake+and+coffee.%29&location=Rafa%E2%80%99s+house",
+    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwMTI0VDE0MzAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDEyMlQxMzIyMzJaDQpEVFNUQVJUOjIwMjYwMTI0VDE0MzAwMFoNCkRURU5EOjIwMjYwMTI0VDE1MzAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IFJhZmHigJlzIGhvdXNlDQpERVNDUklQVElPTjpTb2NpYWwgJiBCaXJ0aGRheSBDZWxlYnJhdGlvbiAoYnJpbmcgYSBicmVha2Zhc3QgdHJlYXQgdG8gc2hhcmUuIEFsbGllIHdpbGwgYmUgcHJvdmlkaW5nIGJpcnRoZGF5IGNha2UgYW5kIGNvZmZlZS4pDQpMT0NBVElPTjpSYWZh4oCZcyBob3VzZQ0KU1RBVFVTOkNPTkZJUk1FRA0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg=="
   }
 ]
