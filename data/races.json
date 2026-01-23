@@ -1,0 +1,87 @@
+[
+  {
+    "id": "bolderboulder-2026",
+    "name": "Bolder Boulder 10K",
+    "date": "2026-05-25",
+    "time": "7:00 AM",
+    "distance": "10K",
+    "location": {
+      "name": "Boulder, CO",
+      "address": "Folsom Field, Boulder, CO 80302",
+      "map_link": "https://maps.google.com/?q=Folsom+Field+Boulder+CO"
+    },
+    "registration_url": "https://bolderboulder.com/register",
+    "website_url": "https://bolderboulder.com",
+    "description": "One of the largest 10K races in the United States. A Memorial Day tradition featuring live bands, costumes, and a party atmosphere.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Bolder+Boulder+10K&dates=20260525T130000Z%2F20260525T180000Z&details=One+of+the+largest+10K+races+in+the+United+States.+A+Memorial+Day+tradition.&location=Folsom+Field%2C+Boulder%2C+CO+80302",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:bolderboulder-2026@milehighrunners.com\nDTSTAMP:20260101T000000Z\nDTSTART:20260525T130000Z\nDTEND:20260525T180000Z\nSUMMARY:Bolder Boulder 10K\nDESCRIPTION:One of the largest 10K races in the United States. A Memorial Day tradition featuring live bands\\, costumes\\, and a party atmosphere.\nLOCATION:Folsom Field\\, Boulder\\, CO 80302\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+  },
+  {
+    "id": "colfax-marathon-2026",
+    "name": "Colfax Marathon",
+    "date": "2026-05-17",
+    "time": "6:00 AM",
+    "distance": "Marathon / Half Marathon / 10K",
+    "location": {
+      "name": "Denver, CO",
+      "address": "City Park, Denver, CO 80205",
+      "map_link": "https://maps.google.com/?q=City+Park+Denver+CO"
+    },
+    "registration_url": "https://www.runcolfax.org/register",
+    "website_url": "https://www.runcolfax.org",
+    "description": "Denver's premier spring marathon featuring a scenic course through the city. Multiple distance options available.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Colfax+Marathon&dates=20260517T120000Z%2F20260517T180000Z&details=Denver%27s+premier+spring+marathon+featuring+a+scenic+course+through+the+city.&location=City+Park%2C+Denver%2C+CO+80205",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:colfax-marathon-2026@milehighrunners.com\nDTSTAMP:20260101T000000Z\nDTSTART:20260517T120000Z\nDTEND:20260517T180000Z\nSUMMARY:Colfax Marathon\nDESCRIPTION:Denver's premier spring marathon featuring a scenic course through the city. Multiple distance options available.\nLOCATION:City Park\\, Denver\\, CO 80205\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+  },
+  {
+    "id": "erie-town-fair-5k-2026",
+    "name": "Erie Town Fair 5K",
+    "date": "2026-08-15",
+    "time": "8:00 AM",
+    "distance": "5K",
+    "location": {
+      "name": "Erie, CO",
+      "address": "Erie Community Park, Erie, CO 80516",
+      "map_link": "https://maps.google.com/?q=Erie+Community+Park+Erie+CO"
+    },
+    "registration_url": "https://runsignup.com/Race/CO/Erie/ErieTownFair5K",
+    "website_url": "https://www.erieco.gov/townfair",
+    "description": "A fun local 5K race as part of the annual Erie Town Fair celebration. Great for all skill levels!",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Erie+Town+Fair+5K&dates=20260815T140000Z%2F20260815T160000Z&details=A+fun+local+5K+race+as+part+of+the+annual+Erie+Town+Fair+celebration.&location=Erie+Community+Park%2C+Erie%2C+CO+80516",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:erie-town-fair-5k-2026@milehighrunners.com\nDTSTAMP:20260101T000000Z\nDTSTART:20260815T140000Z\nDTEND:20260815T160000Z\nSUMMARY:Erie Town Fair 5K\nDESCRIPTION:A fun local 5K race as part of the annual Erie Town Fair celebration. Great for all skill levels!\nLOCATION:Erie Community Park\\, Erie\\, CO 80516\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+  },
+  {
+    "id": "boulder-backroads-half-2026",
+    "name": "Boulder Backroads Half Marathon",
+    "date": "2026-09-13",
+    "time": "7:30 AM",
+    "distance": "Half Marathon",
+    "location": {
+      "name": "Boulder, CO",
+      "address": "Boulder Reservoir, Boulder, CO 80301",
+      "map_link": "https://maps.google.com/?q=Boulder+Reservoir+Boulder+CO"
+    },
+    "registration_url": "https://www.bfracing.com/boulder-backroads",
+    "website_url": "https://www.bfracing.com/boulder-backroads",
+    "description": "A beautiful half marathon through the scenic backroads of Boulder County with stunning mountain views.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Boulder+Backroads+Half+Marathon&dates=20260913T133000Z%2F20260913T170000Z&details=A+beautiful+half+marathon+through+the+scenic+backroads+of+Boulder+County.&location=Boulder+Reservoir%2C+Boulder%2C+CO+80301",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:boulder-backroads-half-2026@milehighrunners.com\nDTSTAMP:20260101T000000Z\nDTSTART:20260913T133000Z\nDTEND:20260913T170000Z\nSUMMARY:Boulder Backroads Half Marathon\nDESCRIPTION:A beautiful half marathon through the scenic backroads of Boulder County with stunning mountain views.\nLOCATION:Boulder Reservoir\\, Boulder\\, CO 80301\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+  },
+  {
+    "id": "run-the-rocks-5k-2026",
+    "name": "Run the Rocks 5K",
+    "date": "2026-06-21",
+    "time": "7:00 AM",
+    "distance": "5K",
+    "location": {
+      "name": "Morrison, CO",
+      "address": "Red Rocks Amphitheatre, Morrison, CO 80465",
+      "map_link": "https://maps.google.com/?q=Red+Rocks+Amphitheatre+Morrison+CO"
+    },
+    "registration_url": "https://www.runtherocks.com/register",
+    "website_url": "https://www.runtherocks.com",
+    "description": "Run through the iconic Red Rocks Amphitheatre! A challenging but unforgettable 5K experience.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Run+the+Rocks+5K&dates=20260621T130000Z%2F20260621T150000Z&details=Run+through+the+iconic+Red+Rocks+Amphitheatre!+A+challenging+but+unforgettable+5K+experience.&location=Red+Rocks+Amphitheatre%2C+Morrison%2C+CO+80465",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:run-the-rocks-5k-2026@milehighrunners.com\nDTSTAMP:20260101T000000Z\nDTSTART:20260621T130000Z\nDTEND:20260621T150000Z\nSUMMARY:Run the Rocks 5K\nDESCRIPTION:Run through the iconic Red Rocks Amphitheatre! A challenging but unforgettable 5K experience.\nLOCATION:Red Rocks Amphitheatre\\, Morrison\\, CO 80465\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+  }
+]

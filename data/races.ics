@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Mile High Runners//Race Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:MHR Race Calendar
+X-WR-CALDESC:Upcoming races tracked by Mile High Runners
+BEGIN:VEVENT
+UID:bolderboulder-2026@milehighrunners.com
+DTSTAMP:20260101T000000Z
+DTSTART:20260525T130000Z
+DTEND:20260525T180000Z
+SUMMARY:Bolder Boulder 10K
+DESCRIPTION:One of the largest 10K races in the United States. A Memorial Day tradition featuring live bands\, costumes\, and a party atmosphere.
+LOCATION:Folsom Field\, Boulder\, CO 80302
+URL:https://bolderboulder.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:colfax-marathon-2026@milehighrunners.com
+DTSTAMP:20260101T000000Z
+DTSTART:20260517T120000Z
+DTEND:20260517T180000Z
+SUMMARY:Colfax Marathon
+DESCRIPTION:Denver's premier spring marathon featuring a scenic course through the city. Multiple distance options available.
+LOCATION:City Park\, Denver\, CO 80205
+URL:https://www.runcolfax.org
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:erie-town-fair-5k-2026@milehighrunners.com
+DTSTAMP:20260101T000000Z
+DTSTART:20260815T140000Z
+DTEND:20260815T160000Z
+SUMMARY:Erie Town Fair 5K
+DESCRIPTION:A fun local 5K race as part of the annual Erie Town Fair celebration. Great for all skill levels!
+LOCATION:Erie Community Park\, Erie\, CO 80516
+URL:https://www.erieco.gov/townfair
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:boulder-backroads-half-2026@milehighrunners.com
+DTSTAMP:20260101T000000Z
+DTSTART:20260913T133000Z
+DTEND:20260913T170000Z
+SUMMARY:Boulder Backroads Half Marathon
+DESCRIPTION:A beautiful half marathon through the scenic backroads of Boulder County with stunning mountain views.
+LOCATION:Boulder Reservoir\, Boulder\, CO 80301
+URL:https://www.bfracing.com/boulder-backroads
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:run-the-rocks-5k-2026@milehighrunners.com
+DTSTAMP:20260101T000000Z
+DTSTART:20260621T130000Z
+DTEND:20260621T150000Z
+SUMMARY:Run the Rocks 5K
+DESCRIPTION:Run through the iconic Red Rocks Amphitheatre! A challenging but unforgettable 5K experience.
+LOCATION:Red Rocks Amphitheatre\, Morrison\, CO 80465
+URL:https://www.runtherocks.com
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

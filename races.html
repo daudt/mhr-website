@@ -1,0 +1,442 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-EEFJH6J34P"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-EEFJH6J34P');
+    </script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description"
+        content="Find upcoming races in Colorado with Mile High Runners. Browse our race calendar, add events to your calendar, and join us at local running events.">
+    <meta name="keywords"
+        content="Colorado races, running races, 5K races Colorado, marathon Colorado, half marathon, Mile High Runners races, Erie running events">
+    <meta name="author" content="Mile High Runners">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://milehighrunners.com/races.html">
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://milehighrunners.com/races.html">
+    <meta property="og:title" content="Race Calendar | Mile High Runners">
+    <meta property="og:description"
+        content="Find upcoming races in Colorado with Mile High Runners. Browse our race calendar and join us at local running events.">
+    <meta property="og:image" content="https://milehighrunners.com/images/MHR_Logo_Small.png">
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:url" content="https://milehighrunners.com/races.html">
+    <meta name="twitter:title" content="Race Calendar | Mile High Runners">
+    <meta name="twitter:description"
+        content="Find upcoming races in Colorado with Mile High Runners. Browse our race calendar.">
+    <meta name="twitter:image" content="https://milehighrunners.com/images/MHR_Logo_Small.png">
+
+    <title>Race Calendar | Mile High Runners</title>
+    <link rel="stylesheet" href="styles.css">
+    <!-- Font Awesome for icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&family=Montserrat:wght@700&display=swap"
+        rel="stylesheet">
+</head>
+
+<body>
+    <header class="main-header">
+        <nav class="nav-container">
+            <div class="logo">
+                <a href="index.html"><img src="images/MHR_Logo_Small.png" alt="Mile High Runners Logo"></a>
+            </div>
+            <button class="mobile-menu-btn" aria-label="Toggle menu">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
+            <ul class="nav-menu">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="calendar.html">Calendar</a></li>
+                <li><a href="races.html">Races</a></li>
+                <li><a href="meet-coach.html">Meet the Coach</a></li>
+                <li><a href="membership.html">Membership</a></li>
+                <li><a href="race-results.html">Race Results</a></li>
+                <li><a href="sponsors.html">Sponsors</a></li>
+                <li><a href="contact.html" class="cta-button">Contact Us</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section class="page-hero">
+            <div class="page-hero-content">
+                <h1>Race Calendar</h1>
+            </div>
+        </section>
+
+        <section class="race-calendar-section">
+            <div class="content-container">
+                <div class="calendar-subscribe-bar">
+                    <div class="subscribe-info">
+                        <i class="fas fa-calendar-alt"></i>
+                        <span>Subscribe to our race calendar to stay updated on upcoming events</span>
+                    </div>
+                    <div class="subscribe-buttons">
+                        <a href="https://calendar.google.com/calendar/r?cid=webcal://milehighrunners.com/data/races.ics"
+                           target="_blank"
+                           class="subscribe-btn google-btn"
+                           title="Subscribe with Google Calendar">
+                            <i class="fab fa-google"></i> Google Calendar
+                        </a>
+                        <a href="webcal://milehighrunners.com/data/races.ics"
+                           class="subscribe-btn apple-btn"
+                           title="Subscribe with Apple Calendar">
+                            <i class="fab fa-apple"></i> Apple Calendar
+                        </a>
+                        <a href="data/races.ics"
+                           download="mhr-races.ics"
+                           class="subscribe-btn ics-btn"
+                           title="Download ICS file">
+                            <i class="fas fa-download"></i> Download .ics
+                        </a>
+                    </div>
+                </div>
+
+                <div class="calendar-view-toggle">
+                    <button class="view-btn active" data-view="list" aria-label="List view">
+                        <i class="fas fa-list"></i> List
+                    </button>
+                    <button class="view-btn" data-view="calendar" aria-label="Calendar view">
+                        <i class="fas fa-calendar"></i> Calendar
+                    </button>
+                </div>
+
+                <div id="races-container" class="races-list-view">
+                    <p class="no-events">Loading upcoming races...</p>
+                </div>
+
+                <div id="calendar-view" class="calendar-grid-view" style="display: none;">
+                    <div class="calendar-header">
+                        <button class="calendar-nav-btn" id="prev-month" aria-label="Previous month">
+                            <i class="fas fa-chevron-left"></i>
+                        </button>
+                        <h3 id="calendar-month-year"></h3>
+                        <button class="calendar-nav-btn" id="next-month" aria-label="Next month">
+                            <i class="fas fa-chevron-right"></i>
+                        </button>
+                    </div>
+                    <div class="calendar-weekdays">
+                        <div>Sun</div>
+                        <div>Mon</div>
+                        <div>Tue</div>
+                        <div>Wed</div>
+                        <div>Thu</div>
+                        <div>Fri</div>
+                        <div>Sat</div>
+                    </div>
+                    <div id="calendar-days" class="calendar-days"></div>
+                </div>
+
+                <div class="race-legend">
+                    <h4>Distance Legend</h4>
+                    <div class="legend-items">
+                        <span class="legend-item"><span class="distance-badge badge-5k">5K</span> 5 Kilometers</span>
+                        <span class="legend-item"><span class="distance-badge badge-10k">10K</span> 10 Kilometers</span>
+                        <span class="legend-item"><span class="distance-badge badge-half">Half</span> Half Marathon</span>
+                        <span class="legend-item"><span class="distance-badge badge-full">Full</span> Marathon</span>
+                    </div>
+                </div>
+
+                <br>
+                <p>Know of a race we should add? <a href="contact.html">Let us know!</a></p>
+            </div>
+        </section>
+    </main>
+
+    <footer class="main-footer">
+        <div class="footer-content">
+            <div class="footer-section">
+                <h3>Connect With Us</h3>
+                <div class="social-links">
+                    <a href="https://www.facebook.com/milehighrunners" target="_blank" aria-label="Facebook"><i
+                            class="fab fa-facebook"></i></a>
+                    <a href="https://www.instagram.com/milehighrunners" target="_blank" aria-label="Instagram"><i
+                            class="fab fa-instagram"></i></a>
+                </div>
+            </div>
+            <div class="footer-section">
+                <h3>Quick Links</h3>
+                <ul>
+                    <li><a href="meet-coach.html">About Us</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                    <li><a href="privacy.html">Privacy Policy</a></li>
+                </ul>
+            </div>
+            <div class="footer-section">
+                <h3>Contact Info</h3>
+                <p>Doug Croft</p>
+                <p>Erie, Colorado</p>
+                <p><a href="contact.html">Contact Us</a></p>
+                <p><a href="tel:303-396-5650">303-396-5650</a></p>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; 2026 Mile High Runners. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script src="main.js"></script>
+    <script>
+        let allRaces = [];
+        let currentMonth = new Date().getMonth();
+        let currentYear = new Date().getFullYear();
+
+        // Load races on page load
+        loadRaces();
+
+        async function loadRaces() {
+            const container = document.getElementById('races-container');
+
+            try {
+                const response = await fetch('data/races.json');
+
+                if (!response.ok) {
+                    container.innerHTML = '<p class="no-events">No upcoming races at this time. Check back soon!</p>';
+                    return;
+                }
+
+                const races = await response.json();
+
+                if (!races || races.length === 0) {
+                    container.innerHTML = '<p class="no-events">No upcoming races at this time. Check back soon!</p>';
+                    return;
+                }
+
+                // Store all races and sort by date
+                allRaces = races.sort((a, b) => new Date(a.date) - new Date(b.date));
+
+                // Render list view
+                renderListView();
+
+                // Initialize calendar view
+                renderCalendarView();
+
+            } catch (error) {
+                console.error('Error loading races:', error);
+                container.innerHTML = '<p class="no-events">No upcoming races at this time. Check back soon!</p>';
+            }
+        }
+
+        function renderListView() {
+            const container = document.getElementById('races-container');
+            const today = new Date();
+            today.setHours(0, 0, 0, 0);
+
+            // Filter to only show upcoming races
+            const upcomingRaces = allRaces.filter(race => {
+                const [year, month, day] = race.date.split('-').map(Number);
+                const raceDate = new Date(year, month - 1, day);
+                return raceDate >= today;
+            });
+
+            if (upcomingRaces.length === 0) {
+                container.innerHTML = '<p class="no-events">No upcoming races at this time. Check back soon!</p>';
+                return;
+            }
+
+            let html = '<div class="races-list">';
+
+            upcomingRaces.forEach(race => {
+                const [year, month, day] = race.date.split('-').map(Number);
+                const raceDate = new Date(year, month - 1, day);
+                const dateStr = raceDate.toLocaleDateString('en-US', {
+                    weekday: 'long',
+                    year: 'numeric',
+                    month: 'long',
+                    day: 'numeric'
+                });
+
+                const distanceBadge = getDistanceBadge(race.distance);
+
+                html += '<div class="race-item">';
+                html += '<div class="race-date-badge">';
+                html += `<span class="race-month">${raceDate.toLocaleDateString('en-US', { month: 'short' })}</span>`;
+                html += `<span class="race-day">${day}</span>`;
+                html += '</div>';
+                html += '<div class="race-details">';
+                html += `<h3>${race.name} ${distanceBadge}</h3>`;
+                html += `<p class="race-datetime"><i class="far fa-calendar"></i> ${dateStr}`;
+                if (race.time) {
+                    html += ` <i class="far fa-clock"></i> ${race.time}`;
+                }
+                html += '</p>';
+
+                if (race.location && race.location.name) {
+                    html += '<p class="race-location"><i class="fas fa-map-marker-alt"></i> ';
+                    if (race.location.map_link) {
+                        html += `<a href="${race.location.map_link}" target="_blank">${race.location.name}</a>`;
+                    } else {
+                        html += race.location.name;
+                    }
+                    if (race.location.address && race.location.address !== race.location.name) {
+                        html += ` - ${race.location.address}`;
+                    }
+                    html += '</p>';
+                }
+
+                if (race.description) {
+                    html += `<p class="race-description">${race.description}</p>`;
+                }
+
+                html += '<div class="race-actions">';
+
+                // Registration link
+                if (race.registration_url) {
+                    html += `<a href="${race.registration_url}" target="_blank" class="race-action-btn register-btn"><i class="fas fa-user-plus"></i> Register</a>`;
+                }
+
+                // Website link
+                if (race.website_url) {
+                    html += `<a href="${race.website_url}" target="_blank" class="race-action-btn website-btn"><i class="fas fa-external-link-alt"></i> Website</a>`;
+                }
+
+                // Calendar links
+                html += '<div class="race-calendar-links">';
+                html += '<span class="add-to-cal-label"><i class="fas fa-calendar-plus"></i> Add to:</span>';
+                if (race.google_calendar_link) {
+                    html += `<a href="${race.google_calendar_link}" target="_blank" title="Add to Google Calendar">Google</a>`;
+                }
+                if (race.ics_data) {
+                    const icsBlob = new Blob([race.ics_data], { type: 'text/calendar' });
+                    const icsUrl = URL.createObjectURL(icsBlob);
+                    html += `<a href="data:text/calendar;base64,${btoa(race.ics_data)}" download="${race.id}.ics" title="Add to Apple Calendar / Outlook">Apple/Outlook</a>`;
+                }
+                html += '</div>';
+
+                html += '</div>'; // race-actions
+                html += '</div>'; // race-details
+                html += '</div>'; // race-item
+            });
+
+            html += '</div>';
+            container.innerHTML = html;
+        }
+
+        function getDistanceBadge(distance) {
+            const distLower = distance.toLowerCase();
+            let badgeClass = 'badge-other';
+            let badgeText = distance;
+
+            if (distLower.includes('marathon') && !distLower.includes('half')) {
+                if (distLower.includes('/') || distLower.includes('half')) {
+                    badgeClass = 'badge-multi';
+                    badgeText = 'Multi';
+                } else {
+                    badgeClass = 'badge-full';
+                    badgeText = 'Marathon';
+                }
+            } else if (distLower.includes('half')) {
+                badgeClass = 'badge-half';
+                badgeText = 'Half';
+            } else if (distLower.includes('10k')) {
+                badgeClass = 'badge-10k';
+                badgeText = '10K';
+            } else if (distLower.includes('5k')) {
+                badgeClass = 'badge-5k';
+                badgeText = '5K';
+            }
+
+            // Check for multiple distances
+            if (distLower.includes('/') || (distLower.includes('marathon') && distLower.includes('half'))) {
+                badgeClass = 'badge-multi';
+                badgeText = 'Multi';
+            }
+
+            return `<span class="distance-badge ${badgeClass}">${badgeText}</span>`;
+        }
+
+        function renderCalendarView() {
+            const monthYear = document.getElementById('calendar-month-year');
+            const daysContainer = document.getElementById('calendar-days');
+
+            const firstDay = new Date(currentYear, currentMonth, 1);
+            const lastDay = new Date(currentYear, currentMonth + 1, 0);
+            const startingDay = firstDay.getDay();
+            const totalDays = lastDay.getDate();
+
+            monthYear.textContent = firstDay.toLocaleDateString('en-US', { month: 'long', year: 'numeric' });
+
+            let html = '';
+
+            // Empty cells for days before the first of the month
+            for (let i = 0; i < startingDay; i++) {
+                html += '<div class="calendar-day empty"></div>';
+            }
+
+            // Days of the month
+            for (let day = 1; day <= totalDays; day++) {
+                const dateStr = `${currentYear}-${String(currentMonth + 1).padStart(2, '0')}-${String(day).padStart(2, '0')}`;
+                const racesOnDay = allRaces.filter(race => race.date === dateStr);
+                const isToday = new Date().toDateString() === new Date(currentYear, currentMonth, day).toDateString();
+
+                html += `<div class="calendar-day${racesOnDay.length > 0 ? ' has-race' : ''}${isToday ? ' today' : ''}">`;
+                html += `<span class="day-number">${day}</span>`;
+
+                if (racesOnDay.length > 0) {
+                    html += '<div class="calendar-races">';
+                    racesOnDay.forEach(race => {
+                        const distBadge = getDistanceBadge(race.distance);
+                        html += `<a href="${race.website_url || race.registration_url || '#'}" target="_blank" class="calendar-race-item" title="${race.name}">${race.name.length > 15 ? race.name.substring(0, 15) + '...' : race.name}</a>`;
+                    });
+                    html += '</div>';
+                }
+
+                html += '</div>';
+            }
+
+            daysContainer.innerHTML = html;
+        }
+
+        // View toggle functionality
+        document.querySelectorAll('.view-btn').forEach(btn => {
+            btn.addEventListener('click', () => {
+                document.querySelectorAll('.view-btn').forEach(b => b.classList.remove('active'));
+                btn.classList.add('active');
+
+                const view = btn.dataset.view;
+                if (view === 'list') {
+                    document.getElementById('races-container').style.display = 'block';
+                    document.getElementById('calendar-view').style.display = 'none';
+                } else {
+                    document.getElementById('races-container').style.display = 'none';
+                    document.getElementById('calendar-view').style.display = 'block';
+                }
+            });
+        });
+
+        // Calendar navigation
+        document.getElementById('prev-month').addEventListener('click', () => {
+            currentMonth--;
+            if (currentMonth < 0) {
+                currentMonth = 11;
+                currentYear--;
+            }
+            renderCalendarView();
+        });
+
+        document.getElementById('next-month').addEventListener('click', () => {
+            currentMonth++;
+            if (currentMonth > 11) {
+                currentMonth = 0;
+                currentYear++;
+            }
+            renderCalendarView();
+        });
+    </script>
+
+</body>
+
+</html>
