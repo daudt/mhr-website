@@ -310,9 +310,9 @@
                     html += `<a href="${race.google_calendar_link}" target="_blank" title="Add to Google Calendar">Google</a>`;
                 }
                 if (race.ics_data) {
-                    const icsBlob = new Blob([race.ics_data], { type: 'text/calendar' });
-                    const icsUrl = URL.createObjectURL(icsBlob);
-                    html += `<a href="data:text/calendar;base64,${btoa(race.ics_data)}" download="${race.id}.ics" title="Add to Apple Calendar / Outlook">Apple/Outlook</a>`;
+                    // Use encodeURIComponent to handle non-ASCII characters before base64 encoding
+                    const base64Ics = btoa(unescape(encodeURIComponent(race.ics_data)));
+                    html += `<a href="data:text/calendar;base64,${base64Ics}" download="${race.id}.ics" title="Add to Apple Calendar / Outlook">Apple/Outlook</a>`;
                 }
                 html += '</div>';
 
