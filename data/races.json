@@ -1,0 +1,1192 @@
+[
+  {
+    "id": "cops-winter-race-series-2026",
+    "name": "C.O.P.S. WINTER RACE SERIES",
+    "date": "2026-01-07",
+    "time": "TBD",
+    "distance": "TBD",
+    "location": {
+      "name": "Golden, CO",
+      "address": "Golden, CO",
+      "map_link": "https://maps.google.com/?q=Golden++CO"
+    },
+    "registration_url": "https://findarace.com/us/colorado/golden/2026-c-o-p-s-winter-race-series",
+    "website_url": "https://findarace.com/us/colorado/golden/2026-c-o-p-s-winter-race-series",
+    "description": "A winter race series.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=C.O.P.S.+WINTER+RACE+SERIES&dates=20260107T080000Z%2F20260107T120000Z&details=A+winter+race+series.&location=Golden%2C+CO",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:cops-winter-race-series-2026@milehighrunners.com\nDTSTAMP:20260124T000000Z\nDTSTART:20260107T080000Z\nDTEND:20260107T120000Z\nSUMMARY:C.O.P.S. WINTER RACE SERIES\nDESCRIPTION:A winter race series.\nLOCATION:Golden\\, CO\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+  },
+  {
+    "id": "run-denver-series-2026",
+    "name": "Run Denver Series",
+    "date": "2026-01-18",
+    "time": "Varies",
+    "distance": "5K",
+    "location": {
+      "name": "Denver, CO",
+      "address": "Washington Park, Denver, CO",
+      "map_link": "https://maps.google.com/?q=Washington+Park++Denver++CO"
+    },
+    "registration_url": "https://rundenverseries.com/",
+    "website_url": "https://rundenverseries.com/",
+    "description": "RunDenver Series is Denver's premier and longest-running series with five iconic run/walks for nearly 4 decades. Including Rudolph Ramble 5K, Polar Bear 5K, SuperBowl 5K, Valentine's Day 4 Mile, and That Dam Run 13.1, 10K, and 5K. Brought to you by HAL Sports ",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Run+Denver+Series&dates=20260118T080000Z%2F20260118T120000Z&details=RunDenver+Series+is+Denver%27s+premier+and+longest-running+series+with+five+iconic+run%2Fwalks+for+nearly+4+decades.+Including+Rudolph+Ramble+5K%2C+Polar+Bear+5K%2C+SuperBowl+5K%2C+Valentine%27s+Day+4+Mile%2C+and+T&location=Washington+Park%2C+Denver%2C+CO",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:run-denver-series-2026@milehighrunners.com\nDTSTAMP:20260124T000000Z\nDTSTART:20260118T080000Z\nDTEND:20260118T120000Z\nSUMMARY:Run Denver Series\nDESCRIPTION:RunDenver Series is Denver's premier and longest-running series with five iconic run/walks for nearly 4 decades. Including Rudolph Ramble 5K\\, Polar Bear 5K\\, SuperBowl 5K\\, Valentine's Day 4 Mile\\, and That Dam Run 13.1\\, 10K\\, and 5K. Brought to you by HAL Sports \nLOCATION:Washington Park\\, Denver\\, CO\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+  },
+  {
+    "id": "chilly-willy-5k10khalf-marathon-colorado-springs-2026",
+    "name": "Chilly Willy 5K/10K/Half Marathon - Colorado Springs",
+    "date": "2026-01-24",
+    "time": "Unknown",
+    "distance": "Half Marathon / 10K / 5K",
+    "location": {
+      "name": "Colorado Springs, CO",
+      "address": "Colorado Springs, CO",
+      "map_link": "https://maps.google.com/?q=Colorado+Springs++CO"
+    },
+    "registration_url": "https://www.runningintheusa.com/race/list/co/upcoming",
+    "website_url": "https://www.runningintheusa.com/race/list/co/upcoming",
+    "description": "A winter running event with half marathon, 10K, and 5K distances.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Chilly+Willy+5K%2F10K%2FHalf+Marathon+-+Colorado+Springs&dates=20260124T080000Z%2F20260124T120000Z&details=A+winter+running+event+with+half+marathon%2C+10K%2C+and+5K+distances.&location=Colorado+Springs%2C+CO",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:chilly-willy-5k10khalf-marathon-colorado-springs-2026@milehighrunners.com\nDTSTAMP:20260124T000000Z\nDTSTART:20260124T080000Z\nDTEND:20260124T120000Z\nSUMMARY:Chilly Willy 5K/10K/Half Marathon - Colorado Springs\nDESCRIPTION:A winter running event with half marathon\\, 10K\\, and 5K distances.\nLOCATION:Colorado Springs\\, CO\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+  },
+  {
+    "id": "rio-frio-5k-on-ice-2026",
+    "name": "Rio Frio 5K on Ice",
+    "date": "2026-01-24",
+    "time": "Unknown",
+    "distance": "5K",
+    "location": {
+      "name": "Alamosa, CO",
+      "address": "Rio Grande River, Alamosa, CO",
+      "map_link": "https://maps.google.com/?q=Rio+Grande+River++Alamosa++CO"
+    },
+    "registration_url": "https://www.runguides.com/colorado/runs",
+    "website_url": "https://www.runguides.com/colorado/runs",
+    "description": "Run across the frozen Rio Grande at the Rio Frio 5k on Ice in Alamosa Colorado with chip timing, ice themed awards and mountain views. Bring traction friendly shoes for a snowy, scenic challenge.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Rio+Frio+5K+on+Ice&dates=20260124T080000Z%2F20260124T120000Z&details=Run+across+the+frozen+Rio+Grande+at+the+Rio+Frio+5k+on+Ice+in+Alamosa+Colorado+with+chip+timing%2C+ice+themed+awards+and+mountain+views.+Bring+traction+friendly+shoes+for+a+snowy%2C+scenic+challenge.&location=Rio+Grande+River%2C+Alamosa%2C+CO",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:rio-frio-5k-on-ice-2026@milehighrunners.com\nDTSTAMP:20260124T000000Z\nDTSTART:20260124T080000Z\nDTEND:20260124T120000Z\nSUMMARY:Rio Frio 5K on Ice\nDESCRIPTION:Run across the frozen Rio Grande at the Rio Frio 5k on Ice in Alamosa Colorado with chip timing\\, ice themed awards and mountain views. Bring traction friendly shoes for a snowy\\, scenic challenge.\nLOCATION:Rio Grande River\\, Alamosa\\, CO\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+  },
+  {
+    "id": "south-boulder-creek-parkrun-2026",
+    "name": "South Boulder Creek parkrun",
+    "date": "2026-01-24",
+    "time": "Unknown",
+    "distance": "5K",
+    "location": {
+      "name": "Boulder, CO",
+      "address": "Boulder, CO",
+      "map_link": "https://maps.google.com/?q=Boulder++CO"
+    },
+    "registration_url": "https://www.runningintheusa.com/race/list/co/upcoming",
+    "website_url": "https://www.runningintheusa.com/race/list/co/upcoming",
+    "description": "A free, weekly 5K timed run.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=South+Boulder+Creek+parkrun&dates=20260124T080000Z%2F20260124T120000Z&details=A+free%2C+weekly+5K+timed+run.&location=Boulder%2C+CO",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:south-boulder-creek-parkrun-2026@milehighrunners.com\nDTSTAMP:20260124T000000Z\nDTSTART:20260124T080000Z\nDTEND:20260124T120000Z\nSUMMARY:South Boulder Creek parkrun\nDESCRIPTION:A free\\, weekly 5K timed run.\nLOCATION:Boulder\\, CO\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+  },
+  {
+    "id": "winter-series-the-coolest-race-in-town-2026",
+    "name": "Winter Series - The Coolest Race in Town",
+    "date": "2026-01-24",
+    "time": "Unknown",
+    "distance": "8 Mile / 4 Mile",
+    "location": {
+      "name": "Colorado Springs, CO",
+      "address": "Colorado Springs, CO",
+      "map_link": "https://maps.google.com/?q=Colorado+Springs++CO"
+    },
+    "registration_url": "https://www.runningintheusa.com/race/list/co/upcoming",
+    "website_url": "https://www.runningintheusa.com/race/list/co/upcoming",
+    "description": "A winter running series event.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Winter+Series+-+The+Coolest+Race+in+Town&dates=20260124T080000Z%2F20260124T120000Z&details=A+winter+running+series+event.&location=Colorado+Springs%2C+CO",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:winter-series-the-coolest-race-in-town-2026@milehighrunners.com\nDTSTAMP:20260124T000000Z\nDTSTART:20260124T080000Z\nDTEND:20260124T120000Z\nSUMMARY:Winter Series - The Coolest Race in Town\nDESCRIPTION:A winter running series event.\nLOCATION:Colorado Springs\\, CO\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+  },
+  {
+    "id": "polar-5k-polar-bear-plunge-2026",
+    "name": "Polar 5K & Polar Bear Plunge",
+    "date": "2026-01-24",
+    "time": "Unknown",
+    "distance": "5K",
+    "location": {
+      "name": "Fort Collins, CO",
+      "address": "Fort Collins, CO",
+      "map_link": "https://maps.google.com/?q=Fort+Collins++CO"
+    },
+    "registration_url": "https://www.runningintheusa.com/race/list/co/upcoming",
+    "website_url": "https://www.runningintheusa.com/race/list/co/upcoming",
+    "description": "A 5K run with an optional 'Polar Bear Plunge'.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Polar+5K+%26+Polar+Bear+Plunge&dates=20260124T080000Z%2F20260124T120000Z&details=A+5K+run+with+an+optional+%27Polar+Bear+Plunge%27.&location=Fort+Collins%2C+CO",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:polar-5k-polar-bear-plunge-2026@milehighrunners.com\nDTSTAMP:20260124T000000Z\nDTSTART:20260124T080000Z\nDTEND:20260124T120000Z\nSUMMARY:Polar 5K & Polar Bear Plunge\nDESCRIPTION:A 5K run with an optional 'Polar Bear Plunge'.\nLOCATION:Fort Collins\\, CO\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+  },
+  {
+    "id": "yeti-chase-5k10k-2026",
+    "name": "Yeti Chase 5K/10K",
+    "date": "2026-01-25",
+    "time": "Unknown",
+    "distance": "10K / 5K",
+    "location": {
+      "name": "Lakewood, CO",
+      "address": "Lakewood, CO",
+      "map_link": "https://maps.google.com/?q=Lakewood++CO"
+    },
+    "registration_url": "https://www.runningintheusa.com/race/list/co/upcoming",
+    "website_url": "https://www.runningintheusa.com/race/list/co/upcoming",
+    "description": "A 5K and 10K running event.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Yeti+Chase+5K%2F10K&dates=20260125T080000Z%2F20260125T120000Z&details=A+5K+and+10K+running+event.&location=Lakewood%2C+CO",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:yeti-chase-5k10k-2026@milehighrunners.com\nDTSTAMP:20260124T000000Z\nDTSTART:20260125T080000Z\nDTEND:20260125T120000Z\nSUMMARY:Yeti Chase 5K/10K\nDESCRIPTION:A 5K and 10K running event.\nLOCATION:Lakewood\\, CO\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+  },
+  {
+    "id": "freakin-freezin-5k-2026",
+    "name": "Freakin Freezin 5K",
+    "date": "2026-01-25",
+    "time": "Unknown",
+    "distance": "5K",
+    "location": {
+      "name": "Denver, CO",
+      "address": "Civic Center, Denver, CO",
+      "map_link": "https://maps.google.com/?q=Civic+Center++Denver++CO"
+    },
+    "registration_url": "https://www.runguides.com/colorado/runs",
+    "website_url": "https://www.runguides.com/colorado/runs",
+    "description": "The Freakin Freezin 5K - Denver will take place in Civic Center.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Freakin+Freezin+5K&dates=20260125T080000Z%2F20260125T120000Z&details=The+Freakin+Freezin+5K+-+Denver+will+take+place+in+Civic+Center.&location=Civic+Center%2C+Denver%2C+CO",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:freakin-freezin-5k-2026@milehighrunners.com\nDTSTAMP:20260124T000000Z\nDTSTART:20260125T080000Z\nDTEND:20260125T120000Z\nSUMMARY:Freakin Freezin 5K\nDESCRIPTION:The Freakin Freezin 5K - Denver will take place in Civic Center.\nLOCATION:Civic Center\\, Denver\\, CO\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+  },
+  {
+    "id": "know-the-snow-rando-race-2026",
+    "name": "Know The Snow Rando Race",
+    "date": "2026-01-25",
+    "time": "TBD",
+    "distance": "10 Mile / 6 Mile",
+    "location": {
+      "name": "Durango, CO",
+      "address": "Purgatory Mountain Resort, Durango, CO",
+      "map_link": "https://maps.google.com/?q=Purgatory+Mountain+Resort++Durango++CO"
+    },
+    "registration_url": "https://findarace.com/us/colorado/san-juan-county/know-the-snow-rando-race",
+    "website_url": "https://findarace.com/us/colorado/san-juan-county/know-the-snow-rando-race",
+    "description": "Join the Know The Snow Rando Race at Purgatory Mountain Resort in Durango to support avalanche education in the San Juan Mountains. Pick a 9.5 mile or 5.5 mile course and dress up for prizes.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Know+The+Snow+Rando+Race&dates=20260125T080000Z%2F20260125T120000Z&details=Join+the+Know+The+Snow+Rando+Race+at+Purgatory+Mountain+Resort+in+Durango+to+support+avalanche+education+in+the+San+Juan+Mountains.+Pick+a+9.5+mile+or+5.5+mile+course+and+dress+up+for+prizes.&location=Purgatory+Mountain+Resort%2C+Durango%2C+CO",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:know-the-snow-rando-race-2026@milehighrunners.com\nDTSTAMP:20260124T000000Z\nDTSTART:20260125T080000Z\nDTEND:20260125T120000Z\nSUMMARY:Know The Snow Rando Race\nDESCRIPTION:Join the Know The Snow Rando Race at Purgatory Mountain Resort in Durango to support avalanche education in the San Juan Mountains. Pick a 9.5 mile or 5.5 mile course and dress up for prizes.\nLOCATION:Purgatory Mountain Resort\\, Durango\\, CO\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+  },
+  {
+    "id": "running-up-for-air-staunton-rocks-2026",
+    "name": "Running Up for Air - Staunton Rocks",
+    "date": "2026-02-06",
+    "time": "Unknown",
+    "distance": "24H / 12H / 6H / 3H",
+    "location": {
+      "name": "Pine, CO",
+      "address": "Pine, CO (General Location)",
+      "map_link": "https://maps.google.com/?q=Pine++CO+%28General+Location%29"
+    },
+    "registration_url": "https://www.runningintheusa.com/race/list/co/upcoming",
+    "website_url": "https://www.runningintheusa.com/race/list/co/upcoming",
+    "description": "A trail run in Pine, CO with 24-hour, 12-hour, 6-hour, and 3-hour options.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Running+Up+for+Air+-+Staunton+Rocks&dates=20260206T080000Z%2F20260206T120000Z&details=A+trail+run+in+Pine%2C+CO+with+24-hour%2C+12-hour%2C+6-hour%2C+and+3-hour+options.&location=Pine%2C+CO+%28General+Location%29",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:running-up-for-air-staunton-rocks-2026@milehighrunners.com\nDTSTAMP:20260124T000000Z\nDTSTART:20260206T080000Z\nDTEND:20260206T120000Z\nSUMMARY:Running Up for Air - Staunton Rocks\nDESCRIPTION:A trail run in Pine\\, CO with 24-hour\\, 12-hour\\, 6-hour\\, and 3-hour options.\nLOCATION:Pine\\, CO (General Location)\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+  },
+  {
+    "id": "westy-winter-waggle-510k-2026",
+    "name": "Westy Winter Waggle 5&10K",
+    "date": "2026-02-07",
+    "time": "Unknown",
+    "distance": "10K / 5K",
+    "location": {
+      "name": "Westminster, CO",
+      "address": "Westminster, CO (General Location)",
+      "map_link": "https://maps.google.com/?q=Westminster++CO+%28General+Location%29"
+    },
+    "registration_url": "https://www.runningintheusa.com/race/list/co/upcoming",
+    "website_url": "https://www.runningintheusa.com/race/list/co/upcoming",
+    "description": "A 10K and 5K run in Westminster, CO.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Westy+Winter+Waggle+5%2610K&dates=20260207T080000Z%2F20260207T120000Z&details=A+10K+and+5K+run+in+Westminster%2C+CO.&location=Westminster%2C+CO+%28General+Location%29",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:westy-winter-waggle-510k-2026@milehighrunners.com\nDTSTAMP:20260124T000000Z\nDTSTART:20260207T080000Z\nDTEND:20260207T120000Z\nSUMMARY:Westy Winter Waggle 5&10K\nDESCRIPTION:A 10K and 5K run in Westminster\\, CO.\nLOCATION:Westminster\\, CO (General Location)\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+  },
+  {
+    "id": "super-half-marathon-and-game-day-5k-2026",
+    "name": "Super Half Marathon and Game Day 5K",
+    "date": "2026-02-08",
+    "time": "Unknown",
+    "distance": "5K / Half Marathon",
+    "location": {
+      "name": "Colorado Springs, CO",
+      "address": "Downtown Colorado Springs, CO",
+      "map_link": "https://maps.google.com/?q=Downtown+Colorado+Springs++CO"
+    },
+    "registration_url": "https://runsignup.com/Race/CO/ColoradoSprings/SuperHalfMarathonandGameDay5K",
+    "website_url": "https://runsignup.com/Race/CO/ColoradoSprings/SuperHalfMarathonandGameDay5K",
+    "description": "The streets and trails of downtown Colorado Springs are not exactly the Frozen Tundra of Lambeau Field, but on Super Bowl Sunday, more than 1,500 runners will race for paydirt there in the 14th Toyota Super Half Marathon & Game Day 5K.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Super+Half+Marathon+and+Game+Day+5K&dates=20260208T080000Z%2F20260208T120000Z&details=The+streets+and+trails+of+downtown+Colorado+Springs+are+not+exactly+the+Frozen+Tundra+of+Lambeau+Field%2C+but+on+Super+Bowl+Sunday%2C+more+than+1%2C500+runners+will+race+for+paydirt+there+in+the+14th+Toyota&location=Downtown+Colorado+Springs%2C+CO",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:super-half-marathon-and-game-day-5k-2026@milehighrunners.com\nDTSTAMP:20260124T000000Z\nDTSTART:20260208T080000Z\nDTEND:20260208T120000Z\nSUMMARY:Super Half Marathon and Game Day 5K\nDESCRIPTION:The streets and trails of downtown Colorado Springs are not exactly the Frozen Tundra of Lambeau Field\\, but on Super Bowl Sunday\\, more than 1\\,500 runners will race for paydirt there in the 14th Toyota Super Half Marathon & Game Day 5K.\nLOCATION:Downtown Colorado Springs\\, CO\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+  },
+  {
+    "id": "super-sunday-fun-run-5k-2026",
+    "name": "Super Sunday Fun Run 5K",
+    "date": "2026-02-08",
+    "time": "10:00 AM",
+    "distance": "5K",
+    "location": {
+      "name": "Littleton, CO",
+      "address": "Breckenridge Brewery Farm House, Littleton, CO",
+      "map_link": "https://maps.google.com/?q=Breckenridge+Brewery+Farm+House++Littleton++CO"
+    },
+    "registration_url": "https://www.breckbrew.com/events/super-sunday-fun-run-5k/",
+    "website_url": "https://www.breckbrew.com/events/super-sunday-fun-run-5k/",
+    "description": "The Super Sunday Fun Run 5K is a family-friendly event in Littleton, CO. It is held before the Super Bowl and includes a post-race party at Breckenridge Brewery Farm House.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Super+Sunday+Fun+Run+5K&dates=20260208T100000Z%2F20260208T140000Z&details=The+Super+Sunday+Fun+Run+5K+is+a+family-friendly+event+in+Littleton%2C+CO.+It+is+held+before+the+Super+Bowl+and+includes+a+post-race+party+at+Breckenridge+Brewery+Farm+House.&location=Breckenridge+Brewery+Farm+House%2C+Littleton%2C+CO",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:super-sunday-fun-run-5k-2026@milehighrunners.com\nDTSTAMP:20260124T000000Z\nDTSTART:20260208T100000Z\nDTEND:20260208T140000Z\nSUMMARY:Super Sunday Fun Run 5K\nDESCRIPTION:The Super Sunday Fun Run 5K is a family-friendly event in Littleton\\, CO. It is held before the Super Bowl and includes a post-race party at Breckenridge Brewery Farm House.\nLOCATION:Breckenridge Brewery Farm House\\, Littleton\\, CO\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+  },
+  {
+    "id": "virginia-canyon-is-for-lovers-2026",
+    "name": "Virginia Canyon is for Lovers",
+    "date": "2026-02-14",
+    "time": "Unknown",
+    "distance": "12 Mile",
+    "location": {
+      "name": "Idaho Springs, CO",
+      "address": "Virginia Canyon Road, Idaho Springs, CO",
+      "map_link": "https://maps.google.com/?q=Virginia+Canyon+Road++Idaho+Springs++CO"
+    },
+    "registration_url": "https://www.runguides.com/colorado/runs",
+    "website_url": "https://www.runguides.com/colorado/runs",
+    "description": "A two-person partner race on Virginia Canyon road in Idaho Springs, CO, held on Valentine's Day. Runners each complete a roughly 12-mile out-and-back; team time is the sum of both individual times and multiple awards are offered.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Virginia+Canyon+is+for+Lovers&dates=20260214T080000Z%2F20260214T120000Z&details=A+two-person+partner+race+on+Virginia+Canyon+road+in+Idaho+Springs%2C+CO%2C+held+on+Valentine%27s+Day.+Runners+each+complete+a+roughly+12-mile+out-and-back%3B+team+time+is+the+sum+of+both+individual+times+and&location=Virginia+Canyon+Road%2C+Idaho+Springs%2C+CO",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:virginia-canyon-is-for-lovers-2026@milehighrunners.com\nDTSTAMP:20260124T000000Z\nDTSTART:20260214T080000Z\nDTEND:20260214T120000Z\nSUMMARY:Virginia Canyon is for Lovers\nDESCRIPTION:A two-person partner race on Virginia Canyon road in Idaho Springs\\, CO\\, held on Valentine's Day. Runners each complete a roughly 12-mile out-and-back; team time is the sum of both individual times and multiple awards are offered.\nLOCATION:Virginia Canyon Road\\, Idaho Springs\\, CO\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+  },
+  {
+    "id": "stories-trail-runs-2026",
+    "name": "Stories Trail Runs",
+    "date": "2026-02-21",
+    "time": "TBD",
+    "distance": "Half Marathon / 10K / 20 Mile / 6 hr / 15 hr",
+    "location": {
+      "name": "Colorado Springs, Colorado",
+      "address": "Cheyenne Mountain State Park, Colorado Springs, CO",
+      "map_link": "https://maps.google.com/?q=Cheyenne+Mountain+State+Park++Colorado+Springs++CO"
+    },
+    "registration_url": "https://findarace.com/us/colorado/colorado-springs/stories-trail-runs",
+    "website_url": "https://findarace.com/us/colorado/colorado-springs/stories-trail-runs",
+    "description": "Scenic, challenging multi loop trail races and timed ultras at Cheyenne Mountain State Park.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Stories+Trail+Runs&dates=20260221T080000Z%2F20260221T120000Z&details=Scenic%2C+challenging+multi+loop+trail+races+and+timed+ultras+at+Cheyenne+Mountain+State+Park.&location=Cheyenne+Mountain+State+Park%2C+Colorado+Springs%2C+CO",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:stories-trail-runs-2026@milehighrunners.com\nDTSTAMP:20260124T000000Z\nDTSTART:20260221T080000Z\nDTEND:20260221T120000Z\nSUMMARY:Stories Trail Runs\nDESCRIPTION:Scenic\\, challenging multi loop trail races and timed ultras at Cheyenne Mountain State Park.\nLOCATION:Cheyenne Mountain State Park\\, Colorado Springs\\, CO\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+  },
+  {
+    "id": "all-out-mardi-crawl-2026",
+    "name": "All-Out Mardi Crawl",
+    "date": "2026-02-22",
+    "time": "TBD",
+    "distance": "Half Marathon",
+    "location": {
+      "name": "Arvada, Colorado",
+      "address": "Arvada, Colorado",
+      "map_link": "https://maps.google.com/?q=Arvada++Colorado"
+    },
+    "registration_url": "https://findarace.com/us/colorado/arvada/all-out-mardi-crawl",
+    "website_url": "https://findarace.com/us/colorado/arvada/all-out-mardi-crawl",
+    "description": "Half Marathon Race.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=All-Out+Mardi+Crawl&dates=20260222T080000Z%2F20260222T120000Z&details=Half+Marathon+Race.&location=Arvada%2C+Colorado",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:all-out-mardi-crawl-2026@milehighrunners.com\nDTSTAMP:20260124T000000Z\nDTSTART:20260222T080000Z\nDTEND:20260222T120000Z\nSUMMARY:All-Out Mardi Crawl\nDESCRIPTION:Half Marathon Race.\nLOCATION:Arvada\\, Colorado\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+  },
+  {
+    "id": "team-ckf-running-series-2026",
+    "name": "Team CKF Running Series",
+    "date": "2026-02-28",
+    "time": "TBD",
+    "distance": "TBD",
+    "location": {
+      "name": "Aspen, CO",
+      "address": "Aspen, CO",
+      "map_link": "https://maps.google.com/?q=Aspen++CO"
+    },
+    "registration_url": "https://findarace.com/us/colorado/aspen/2026-team-ckf-running-series",
+    "website_url": "https://findarace.com/us/colorado/aspen/2026-team-ckf-running-series",
+    "description": "A running series.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Team+CKF+Running+Series&dates=20260228T080000Z%2F20260228T120000Z&details=A+running+series.&location=Aspen%2C+CO",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:team-ckf-running-series-2026@milehighrunners.com\nDTSTAMP:20260124T000000Z\nDTSTART:20260228T080000Z\nDTEND:20260228T120000Z\nSUMMARY:Team CKF Running Series\nDESCRIPTION:A running series.\nLOCATION:Aspen\\, CO\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+  },
+  {
+    "id": "run-through-time-trail-marathon-2026",
+    "name": "Run Through Time Trail Marathon",
+    "date": "2026-03-14",
+    "time": "Unknown",
+    "distance": "2 Mile / Half Marathon / Marathon",
+    "location": {
+      "name": "Salida, CO",
+      "address": "Salida, CO",
+      "map_link": "https://maps.google.com/?q=Salida++CO"
+    },
+    "registration_url": "https://www.runguides.com/colorado/runs",
+    "website_url": "https://www.runguides.com/colorado/runs",
+    "description": "Trail marathon, half marathon and 2 mile run in Salida, CO. Courses use dirt roads and narrow single track at elevations from 7000 to 9000 feet, with awards, race socks, and a 500 person combined cap.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Run+Through+Time+Trail+Marathon&dates=20260314T080000Z%2F20260314T120000Z&details=Trail+marathon%2C+half+marathon+and+2+mile+run+in+Salida%2C+CO.+Courses+use+dirt+roads+and+narrow+single+track+at+elevations+from+7000+to+9000+feet%2C+with+awards%2C+race+socks%2C+and+a+500+person+combined+cap.&location=Salida%2C+CO",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:run-through-time-trail-marathon-2026@milehighrunners.com\nDTSTAMP:20260124T000000Z\nDTSTART:20260314T080000Z\nDTEND:20260314T120000Z\nSUMMARY:Run Through Time Trail Marathon\nDESCRIPTION:Trail marathon\\, half marathon and 2 mile run in Salida\\, CO. Courses use dirt roads and narrow single track at elevations from 7000 to 9000 feet\\, with awards\\, race socks\\, and a 500 person combined cap.\nLOCATION:Salida\\, CO\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+  },
+  {
+    "id": "desert-rats-trail-running-festival-2026",
+    "name": "Desert RATS Trail Running Festival",
+    "date": "2026-04-09",
+    "time": "TBD",
+    "distance": "100K / 50K / 21K / 10K",
+    "location": {
+      "name": "Fruita, CO",
+      "address": "Fruita, CO (General Location)",
+      "map_link": "https://maps.google.com/?q=Fruita++CO+%28General+Location%29"
+    },
+    "registration_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXDY9qDZOan-Yl0FN4huN9HSlluJQfex3jSN8Ox6hMQVbXgqnKYTmDl0ycR1kHQgPor9Tvt2InjRp7gkLJFqlsyJYOu7skNwKqy9BZy8QsWZ1RGut8zaDsmw==",
+    "website_url": "https://desertrats.utmb.world/",
+    "description": "A trail running festival in the desert terrain of Fruita, Colorado, offering four distances. The courses feature views of the Colorado River, flowy singletrack, and mesa climbs, suitable for both trail newcomers and ultra veterans. The 100K is a Western States qualifier, and the 100K, 50K, and 21K races provide UTMB Index and Running Stones.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Desert+RATS+Trail+Running+Festival&dates=20260409T080000Z%2F20260409T120000Z&details=A+trail+running+festival+in+the+desert+terrain+of+Fruita%2C+Colorado%2C+offering+four+distances.+The+courses+feature+views+of+the+Colorado+River%2C+flowy+singletrack%2C+and+mesa+climbs%2C+suitable+for+both+trai&location=Fruita%2C+CO+%28General+Location%29",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:desert-rats-trail-running-festival-2026@milehighrunners.com\nDTSTAMP:20260124T000000Z\nDTSTART:20260409T080000Z\nDTEND:20260409T120000Z\nSUMMARY:Desert RATS Trail Running Festival\nDESCRIPTION:A trail running festival in the desert terrain of Fruita\\, Colorado\\, offering four distances. The courses feature views of the Colorado River\\, flowy singletrack\\, and mesa climbs\\, suitable for both trail newcomers and ultra veterans. The 100K is a Western States qualifier\\, and the 100K\\, 50K\\, and 21K races provide UTMB Index and Running Stones.\nLOCATION:Fruita\\, CO (General Location)\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+  },
+  {
+    "id": "run-the-ranch-2026",
+    "name": "Run the Ranch",
+    "date": "2026-04-10",
+    "time": "TBD",
+    "distance": "5K / 10K / 4 Hour / 6 Hour / 12 Hour",
+    "location": {
+      "name": "Loveland, CO",
+      "address": "Sylvan Dale Guest Ranch, Loveland, Colorado",
+      "map_link": "https://maps.google.com/?q=Sylvan+Dale+Guest+Ranch++Loveland++Colorado"
+    },
+    "registration_url": "https://findarace.com/us/colorado/loveland/run-the-ranch",
+    "website_url": "https://findarace.com/us/colorado/loveland/run-the-ranch",
+    "description": "Trail races on private ranch trails, from 5K and 10K to timed 4 hour, 6 hour and 12 hour solo and relay events. Virtual options available.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Run+the+Ranch&dates=20260410T080000Z%2F20260410T120000Z&details=Trail+races+on+private+ranch+trails%2C+from+5K+and+10K+to+timed+4+hour%2C+6+hour+and+12+hour+solo+and+relay+events.+Virtual+options+available.&location=Sylvan+Dale+Guest+Ranch%2C+Loveland%2C+Colorado",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:run-the-ranch-2026@milehighrunners.com\nDTSTAMP:20260124T000000Z\nDTSTART:20260410T080000Z\nDTEND:20260410T120000Z\nSUMMARY:Run the Ranch\nDESCRIPTION:Trail races on private ranch trails\\, from 5K and 10K to timed 4 hour\\, 6 hour and 12 hour solo and relay events. Virtual options available.\nLOCATION:Sylvan Dale Guest Ranch\\, Loveland\\, Colorado\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+  },
+  {
+    "id": "noco-urban-ultra-relay-2026",
+    "name": "NoCo Urban Ultra & Relay",
+    "date": "2026-04-11",
+    "time": "TBD",
+    "distance": "100 Mile / 50 Mile",
+    "location": {
+      "name": "Northern Colorado",
+      "address": "Poudre River Trail, Northern Colorado",
+      "map_link": "https://maps.google.com/?q=Poudre+River+Trail++Northern+Colorado"
+    },
+    "registration_url": "https://findarace.com/us/colorado/bellvue/noco-urban-ultra-and-relay",
+    "website_url": "https://findarace.com/us/colorado/bellvue/noco-urban-ultra-and-relay",
+    "description": "Take on the scenic Poudre River Trail in Northern Colorado with 50 and 100 mile solo and relay options.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=NoCo+Urban+Ultra+%26+Relay&dates=20260411T080000Z%2F20260411T120000Z&details=Take+on+the+scenic+Poudre+River+Trail+in+Northern+Colorado+with+50+and+100+mile+solo+and+relay+options.&location=Poudre+River+Trail%2C+Northern+Colorado",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:noco-urban-ultra-relay-2026@milehighrunners.com\nDTSTAMP:20260124T000000Z\nDTSTART:20260411T080000Z\nDTEND:20260411T120000Z\nSUMMARY:NoCo Urban Ultra & Relay\nDESCRIPTION:Take on the scenic Poudre River Trail in Northern Colorado with 50 and 100 mile solo and relay options.\nLOCATION:Poudre River Trail\\, Northern Colorado\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+  },
+  {
+    "id": "mountain-ridge-trail-race-2026",
+    "name": "Mountain Ridge Trail Race",
+    "date": "2026-04-11",
+    "time": "8:00 AM",
+    "distance": "22 Mile / Half Marathon / 10K / 5K",
+    "location": {
+      "name": "Highlands Ranch, CO",
+      "address": "Mountain Ridge Middle School, Highlands Ranch, CO",
+      "map_link": "https://maps.google.com/?q=Mountain+Ridge+Middle+School++Highlands+Ranch++CO"
+    },
+    "registration_url": "",
+    "website_url": "",
+    "description": "Mountain Ridge Trail Race starts and finishes at Mountain Ridge Middle School. Choose 21 mile, half marathon, 10 km or 5 km on mostly dirt single track with rolling climbs.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mountain+Ridge+Trail+Race&dates=20260411T080000Z%2F20260411T120000Z&details=Mountain+Ridge+Trail+Race+starts+and+finishes+at+Mountain+Ridge+Middle+School.+Choose+21+mile%2C+half+marathon%2C+10+km+or+5+km+on+mostly+dirt+single+track+with+rolling+climbs.&location=Mountain+Ridge+Middle+School%2C+Highlands+Ranch%2C+CO",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:mountain-ridge-trail-race-2026@milehighrunners.com\nDTSTAMP:20260124T000000Z\nDTSTART:20260411T080000Z\nDTEND:20260411T120000Z\nSUMMARY:Mountain Ridge Trail Race\nDESCRIPTION:Mountain Ridge Trail Race starts and finishes at Mountain Ridge Middle School. Choose 21 mile\\, half marathon\\, 10 km or 5 km on mostly dirt single track with rolling climbs.\nLOCATION:Mountain Ridge Middle School\\, Highlands Ranch\\, CO\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+  },
+  {
+    "id": "cheyenne-mountain-trail-race-2026",
+    "name": "Cheyenne Mountain Trail Race",
+    "date": "2026-04-25",
+    "time": "8:00 AM",
+    "distance": "50K / 25K / 7 Mile / 4 Mile",
+    "location": {
+      "name": "Colorado Springs, CO",
+      "address": "Cheyenne Mountain State Park, 410 JL Ranch Heights, Colorado Springs, CO 80926",
+      "map_link": "https://maps.google.com/?q=Cheyenne+Mountain+State+Park++410+JL+Ranch+Heights++Colorado+Springs++CO+80926"
+    },
+    "registration_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0WB67wqAhi8GZ-AXFFwFeJnlA0QgoJMlIgC-WoZTLudfYtR_1MVMoXEjYbWf3fZSQkhzZrOpxz-f_XKv37yRHAPDZ0s6F6FwcVXbI1IxKoBG0_FkXMPp1zC8LZQeUmvEXVv1A2tX7I18=",
+    "website_url": "https://ultrasignup.com/register.aspx?did=132009",
+    "description": "The Cheyenne Mountain Trail Race features scenic and runnable trails beneath Cheyenne Mountain. The race supports Achilles Pikes Peak, a local nonprofit. Courses include a 'figure eight' layout, with 50K runners completing two laps and includes a tech T-shirt and coffee mugs.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Cheyenne+Mountain+Trail+Race&dates=20260425T080000Z%2F20260425T120000Z&details=The+Cheyenne+Mountain+Trail+Race+features+scenic+and+runnable+trails+beneath+Cheyenne+Mountain.+The+race+supports+Achilles+Pikes+Peak%2C+a+local+nonprofit.+Courses+include+a+%27figure+eight%27+layout%2C+with+&location=Cheyenne+Mountain+State+Park%2C+410+JL+Ranch+Heights%2C+Colorado+Springs%2C+CO+80926",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:cheyenne-mountain-trail-race-2026@milehighrunners.com\nDTSTAMP:20260124T000000Z\nDTSTART:20260425T080000Z\nDTEND:20260425T120000Z\nSUMMARY:Cheyenne Mountain Trail Race\nDESCRIPTION:The Cheyenne Mountain Trail Race features scenic and runnable trails beneath Cheyenne Mountain. The race supports Achilles Pikes Peak\\, a local nonprofit. Courses include a 'figure eight' layout\\, with 50K runners completing two laps and includes a tech T-shirt and coffee mugs.\nLOCATION:Cheyenne Mountain State Park\\, 410 JL Ranch Heights\\, Colorado Springs\\, CO 80926\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+  },
+  {
+    "id": "longmont-half-5k-lm-half-2026",
+    "name": "Longmont Half & 5k (LM Half)",
+    "date": "2026-05-03",
+    "time": "TBD",
+    "distance": "Half Marathon / 5K",
+    "location": {
+      "name": "Longmont, CO",
+      "address": "Longmont, CO",
+      "map_link": "https://maps.google.com/?q=Longmont++CO"
+    },
+    "registration_url": "https://findarace.com/us/colorado/longmont/longmont-half-5k-lm-half",
+    "website_url": "https://findarace.com/us/colorado/longmont/longmont-half-5k-lm-half",
+    "description": "A run in Longmont.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Longmont+Half+%26+5k+%28LM+Half%29&dates=20260503T080000Z%2F20260503T120000Z&details=A+run+in+Longmont.&location=Longmont%2C+CO",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:longmont-half-5k-lm-half-2026@milehighrunners.com\nDTSTAMP:20260124T000000Z\nDTSTART:20260503T080000Z\nDTEND:20260503T120000Z\nSUMMARY:Longmont Half & 5k (LM Half)\nDESCRIPTION:A run in Longmont.\nLOCATION:Longmont\\, CO\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+  },
+  {
+    "id": "colorado-marathon-2026",
+    "name": "Colorado Marathon",
+    "date": "2026-05-03",
+    "time": "Unknown",
+    "distance": "5K / 10K / Half Marathon / Marathon",
+    "location": {
+      "name": "Fort Collins, CO",
+      "address": "Poudre Canyon, Fort Collins, CO",
+      "map_link": "https://maps.google.com/?q=Poudre+Canyon++Fort+Collins++CO"
+    },
+    "registration_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwujegh-_ZWZDknePphv6XxY4lcoCIAjst0Mq-xs0LQBvTPRo-2aatPngDvzpLDwYZ0RxP0-FPivOJlUt-k6IpxipVwom5LWdNvvvLdp5346Zh",
+    "website_url": "https://www.coloradomarathon.com/",
+    "description": "This annual marathon is held in the verdant Poudre Canyon, nestled in the picturesque Rocky Mountains, just outside of the beautiful city of Fort Collins. This event, designated as the RRCA Colorado State Marathon Championship in 2023, 2024, and 2025, promises an unforgettable experience for runners of all ages, levels, and abilities.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Colorado+Marathon&dates=20260503T080000Z%2F20260503T120000Z&details=This+annual+marathon+is+held+in+the+verdant+Poudre+Canyon%2C+nestled+in+the+picturesque+Rocky+Mountains%2C+just+outside+of+the+beautiful+city+of+Fort+Collins.+This+event%2C+designated+as+the+RRCA+Colorado+S&location=Poudre+Canyon%2C+Fort+Collins%2C+CO",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:colorado-marathon-2026@milehighrunners.com\nDTSTAMP:20260124T000000Z\nDTSTART:20260503T080000Z\nDTEND:20260503T120000Z\nSUMMARY:Colorado Marathon\nDESCRIPTION:This annual marathon is held in the verdant Poudre Canyon\\, nestled in the picturesque Rocky Mountains\\, just outside of the beautiful city of Fort Collins. This event\\, designated as the RRCA Colorado State Marathon Championship in 2023\\, 2024\\, and 2025\\, promises an unforgettable experience for runners of all ages\\, levels\\, and abilities.\nLOCATION:Poudre Canyon\\, Fort Collins\\, CO\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+  },
+  {
+    "id": "hometown-half-marathon-5k10k-colorado-springs-2026",
+    "name": "Hometown Half Marathon & 5k/10k - Colorado Springs",
+    "date": "2026-05-09",
+    "time": "Unknown",
+    "distance": "5K / 10K / Half Marathon",
+    "location": {
+      "name": "Colorado Springs, CO",
+      "address": "Colorado Springs, CO (Specific address not provided)",
+      "map_link": "https://maps.google.com/?q=Colorado+Springs++CO+%28Specific+address+not+provided%29"
+    },
+    "registration_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTtJsD7ElHe7diwPWrLHzAGblRLIGvi8LAjBFkst89J6Ar1BpofnMqob3gJ524AO5BWmlRxCetxXYIjhG1tRJSp8f7HSIJZHfvclpgoDwjHToSbzBjvy46J4Fk8EDWSY-uzvMzZ-cjq_5-7wGYE3ijCLiImtxY4qM7qndQomSpxSzrzSTJk6teqZLVComvHf0=",
+    "website_url": "https://runsignup.com/Race/CO/ColoradoSprings/HometownHalfMarathon5k10kColoradoSprings",
+    "description": "Half Marathon, 5K and 10K race in Colorado Springs.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Hometown+Half+Marathon+%26+5k%2F10k+-+Colorado+Springs&dates=20260509T080000Z%2F20260509T120000Z&details=Half+Marathon%2C+5K+and+10K+race+in+Colorado+Springs.&location=Colorado+Springs%2C+CO+%28Specific+address+not+provided%29",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:hometown-half-marathon-5k10k-colorado-springs-2026@milehighrunners.com\nDTSTAMP:20260124T000000Z\nDTSTART:20260509T080000Z\nDTEND:20260509T120000Z\nSUMMARY:Hometown Half Marathon & 5k/10k - Colorado Springs\nDESCRIPTION:Half Marathon\\, 5K and 10K race in Colorado Springs.\nLOCATION:Colorado Springs\\, CO (Specific address not provided)\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+  },
+  {
+    "id": "valkyrie-trail-race-2026",
+    "name": "Valkyrie Trail Race",
+    "date": "2026-05-09",
+    "time": "Unknown",
+    "distance": "50K / 4 Mile",
+    "location": {
+      "name": "Colorado Springs, CO",
+      "address": "Cheyenne Mountain State Park, Colorado Springs, CO",
+      "map_link": "https://maps.google.com/?q=Cheyenne+Mountain+State+Park++Colorado+Springs++CO"
+    },
+    "registration_url": "https://ultrasignup.com/register.aspx?did=127289",
+    "website_url": "https://ultrasignup.com/register.aspx?did=127289",
+    "description": "A women's focused trail celebration in Cheyenne Mountain State Park, with distances from 4 mile to 50k.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Valkyrie+Trail+Race&dates=20260509T080000Z%2F20260509T120000Z&details=A+women%27s+focused+trail+celebration+in+Cheyenne+Mountain+State+Park%2C+with+distances+from+4+mile+to+50k.&location=Cheyenne+Mountain+State+Park%2C+Colorado+Springs%2C+CO",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:valkyrie-trail-race-2026@milehighrunners.com\nDTSTAMP:20260124T000000Z\nDTSTART:20260509T080000Z\nDTEND:20260509T120000Z\nSUMMARY:Valkyrie Trail Race\nDESCRIPTION:A women's focused trail celebration in Cheyenne Mountain State Park\\, with distances from 4 mile to 50k.\nLOCATION:Cheyenne Mountain State Park\\, Colorado Springs\\, CO\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+  },
+  {
+    "id": "quad-rock-25-50-mile-trail-races-2026",
+    "name": "Quad Rock 25 & 50 Mile Trail Races",
+    "date": "2026-05-09",
+    "time": "Varies",
+    "distance": "50 Mile / 25 Mile",
+    "location": {
+      "name": "Bellvue, Colorado",
+      "address": "Bellvue, Colorado",
+      "map_link": "https://maps.google.com/?q=Bellvue++Colorado"
+    },
+    "registration_url": "https://www.findarace.com/us/running/colorado/ultra-marathons/quad-rock-25-50-mile-trail-races",
+    "website_url": "https://www.findarace.com/us/running/colorado/ultra-marathons/quad-rock-25-50-mile-trail-races",
+    "description": "Trail races in Bellvue, Colorado.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Quad+Rock+25+%26+50+Mile+Trail+Races&dates=20260509T080000Z%2F20260509T120000Z&details=Trail+races+in+Bellvue%2C+Colorado.&location=Bellvue%2C+Colorado",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:quad-rock-25-50-mile-trail-races-2026@milehighrunners.com\nDTSTAMP:20260124T000000Z\nDTSTART:20260509T080000Z\nDTEND:20260509T120000Z\nSUMMARY:Quad Rock 25 & 50 Mile Trail Races\nDESCRIPTION:Trail races in Bellvue\\, Colorado.\nLOCATION:Bellvue\\, Colorado\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+  },
+  {
+    "id": "denver-colfax-marathon-2026",
+    "name": "Denver Colfax Marathon",
+    "date": "2026-05-15",
+    "time": "Unknown",
+    "distance": "Marathon / Half Marathon / Urban 10 Miler / Marathon Relay / Colfax 5K",
+    "location": {
+      "name": "Denver, CO",
+      "address": "Empower Field at Mile High, Denver, CO (Expo)",
+      "map_link": "https://maps.google.com/?q=Empower+Field+at+Mile+High++Denver++CO+%28Expo%29"
+    },
+    "registration_url": "https://www.runcolfax.org/",
+    "website_url": "https://www.runcolfax.org/",
+    "description": "The Denver Colfax Marathon takes place over two days with a variety of races. Events include a Marathon, Half Marathon, Urban 10 Miler, Marathon Relay, and a 5K.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Denver+Colfax+Marathon&dates=20260515T080000Z%2F20260515T120000Z&details=The+Denver+Colfax+Marathon+takes+place+over+two+days+with+a+variety+of+races.+Events+include+a+Marathon%2C+Half+Marathon%2C+Urban+10+Miler%2C+Marathon+Relay%2C+and+a+5K.&location=Empower+Field+at+Mile+High%2C+Denver%2C+CO+%28Expo%29",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:denver-colfax-marathon-2026@milehighrunners.com\nDTSTAMP:20260124T000000Z\nDTSTART:20260515T080000Z\nDTEND:20260515T120000Z\nSUMMARY:Denver Colfax Marathon\nDESCRIPTION:The Denver Colfax Marathon takes place over two days with a variety of races. Events include a Marathon\\, Half Marathon\\, Urban 10 Miler\\, Marathon Relay\\, and a 5K.\nLOCATION:Empower Field at Mile High\\, Denver\\, CO (Expo)\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+  },
+  {
+    "id": "colfax-marathon-2026",
+    "name": "Colfax Marathon",
+    "date": "2026-05-17",
+    "time": "TBD",
+    "distance": "Marathon / Half Marathon / Urban 10 Miler / 5K / Marathon Relay",
+    "location": {
+      "name": "Denver, CO",
+      "address": "Empower Field at Mile High, Denver, CO (Expo Location)",
+      "map_link": "https://maps.google.com/?q=Empower+Field+at+Mile+High++Denver++CO+%28Expo+Location%29"
+    },
+    "registration_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtiplc7RzsQycEBL9xk03yiROLegCSzW_6_orAFCa53xZ-Suf2hyyNp05mxCBT8sUSqvqOBEaHVcN67iCbkuY8UUI9LLDzmfQveQdSppBf13XWLsgW",
+    "website_url": "https://www.runcolfax.org/",
+    "description": "The Denver Colfax Marathon takes place in Denver, with the expo at Empower Field at Mile High. The race weekend includes a 5K kickoff on Saturday and the Marathon, Half Marathon, Urban 10 Miler, and Marathon Relay on Sunday. The event offers races for individuals and relay teams.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Colfax+Marathon&dates=20260517T080000Z%2F20260517T120000Z&details=The+Denver+Colfax+Marathon+takes+place+in+Denver%2C+with+the+expo+at+Empower+Field+at+Mile+High.+The+race+weekend+includes+a+5K+kickoff+on+Saturday+and+the+Marathon%2C+Half+Marathon%2C+Urban+10+Miler%2C+and+M&location=Empower+Field+at+Mile+High%2C+Denver%2C+CO+%28Expo+Location%29",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:colfax-marathon-2026@milehighrunners.com\nDTSTAMP:20260124T000000Z\nDTSTART:20260517T080000Z\nDTEND:20260517T120000Z\nSUMMARY:Colfax Marathon\nDESCRIPTION:The Denver Colfax Marathon takes place in Denver\\, with the expo at Empower Field at Mile High. The race weekend includes a 5K kickoff on Saturday and the Marathon\\, Half Marathon\\, Urban 10 Miler\\, and Marathon Relay on Sunday. The event offers races for individuals and relay teams.\nLOCATION:Empower Field at Mile High\\, Denver\\, CO (Expo Location)\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+  },
+  {
+    "id": "bolderboulder-10k-2026",
+    "name": "BOLDERBoulder 10K",
+    "date": "2026-05-25",
+    "time": "7:00 AM",
+    "distance": "10K",
+    "location": {
+      "name": "Boulder, CO",
+      "address": "30th St & Walnut St, Boulder, CO 80303, USA",
+      "map_link": "https://maps.google.com/?q=30th+St+%26+Walnut+St++Boulder++CO+80303++USA"
+    },
+    "registration_url": "https://bolderboulder.com/",
+    "website_url": "https://www.bolderboulder.com/",
+    "description": "Join Colorado's biggest and boldest Memorial Day tradition. Named \u201cAmerica's All-Time Best 10K\u201d by Runner's World Magazine, it's the participants and spectators that make BOLDERBoulder the best 10K in America! The course winds through Boulder's neighborhoods and finishes at the University of Colorado Stadium.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=BOLDERBoulder+10K&dates=20260525T070000Z%2F20260525T110000Z&details=Join+Colorado%27s+biggest+and+boldest+Memorial+Day+tradition.+Named+%E2%80%9CAmerica%27s+All-Time+Best+10K%E2%80%9D+by+Runner%27s+World+Magazine%2C+it%27s+the+participants+and+spectators+that+make+BOLDERBoulder+the+best+10K+in&location=30th+St+%26+Walnut+St%2C+Boulder%2C+CO+80303%2C+USA",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:bolderboulder-10k-2026@milehighrunners.com\nDTSTAMP:20260124T000000Z\nDTSTART:20260525T070000Z\nDTEND:20260525T110000Z\nSUMMARY:BOLDERBoulder 10K\nDESCRIPTION:Join Colorado's biggest and boldest Memorial Day tradition. Named \u201cAmerica's All-Time Best 10K\u201d by Runner's World Magazine\\, it's the participants and spectators that make BOLDERBoulder the best 10K in America! The course winds through Boulder's neighborhoods and finishes at the University of Colorado Stadium.\nLOCATION:30th St & Walnut St\\, Boulder\\, CO 80303\\, USA\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+  },
+  {
+    "id": "bolder-boulder-2026",
+    "name": "Bolder Boulder",
+    "date": "2026-05-25",
+    "time": "7:00 AM",
+    "distance": "10K",
+    "location": {
+      "name": "Boulder, CO",
+      "address": "Boulder, CO 80303",
+      "map_link": "https://maps.google.com/?q=Boulder++CO+80303"
+    },
+    "registration_url": "https://bb10k.bolderboulder.com/",
+    "website_url": "https://bb10k.bolderboulder.com/",
+    "description": "The Bolder Boulder is a Memorial Day tradition, a 10K race with over 50,000 participants and 70,000 spectators, finishing at Folsom Field.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Bolder+Boulder&dates=20260525T070000Z%2F20260525T110000Z&details=The+Bolder+Boulder+is+a+Memorial+Day+tradition%2C+a+10K+race+with+over+50%2C000+participants+and+70%2C000+spectators%2C+finishing+at+Folsom+Field.&location=Boulder%2C+CO+80303",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:bolder-boulder-2026@milehighrunners.com\nDTSTAMP:20260124T000000Z\nDTSTART:20260525T070000Z\nDTEND:20260525T110000Z\nSUMMARY:Bolder Boulder\nDESCRIPTION:The Bolder Boulder is a Memorial Day tradition\\, a 10K race with over 50\\,000 participants and 70\\,000 spectators\\, finishing at Folsom Field.\nLOCATION:Boulder\\, CO 80303\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+  },
+  {
+    "id": "colorado-springs-spartan-trifecta-weekend-2026",
+    "name": "Colorado Springs Spartan Trifecta Weekend",
+    "date": "2026-05-30",
+    "time": "Unknown",
+    "distance": "Kids Race 1-3K / Sprint 5K / Super 10K / Beast 21K / Ultra 50K",
+    "location": {
+      "name": "Fort Carson, CO",
+      "address": "2700 Wilderness Road, Gate 6, Fort Carson, CO 80913",
+      "map_link": "https://maps.google.com/?q=2700+Wilderness+Road++Gate+6++Fort+Carson++CO+80913"
+    },
+    "registration_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCdgeLPkhU8L5iCTH6_Md2cwza3wIy2KwhC1qBC-VYf0AFoxr6XkkGplE-vdTfNAqjYsFdyFkrCSE3f9xexAtp_d-Y-Jo_GlqY5k1yIB-E1NYnng5XIUlFlTi7Z5_WdFfBfHHVQexaGmnZkx4=",
+    "website_url": "https://www.spartan.com",
+    "description": "Welcome to Fort Carson Army Base, home of the country's finest servicemen and servicewomen, beautiful high-elevation terrain, and one of Spartan's most treacherous events. Steep climbs, rugged trails, and our famous muscle-burning obstacles will give your body and mind a rigorous test.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Colorado+Springs+Spartan+Trifecta+Weekend&dates=20260530T080000Z%2F20260530T120000Z&details=Welcome+to+Fort+Carson+Army+Base%2C+home+of+the+country%27s+finest+servicemen+and+servicewomen%2C+beautiful+high-elevation+terrain%2C+and+one+of+Spartan%27s+most+treacherous+events.+Steep+climbs%2C+rugged+trails%2C&location=2700+Wilderness+Road%2C+Gate+6%2C+Fort+Carson%2C+CO+80913",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:colorado-springs-spartan-trifecta-weekend-2026@milehighrunners.com\nDTSTAMP:20260124T000000Z\nDTSTART:20260530T080000Z\nDTEND:20260530T120000Z\nSUMMARY:Colorado Springs Spartan Trifecta Weekend\nDESCRIPTION:Welcome to Fort Carson Army Base\\, home of the country's finest servicemen and servicewomen\\, beautiful high-elevation terrain\\, and one of Spartan's most treacherous events. Steep climbs\\, rugged trails\\, and our famous muscle-burning obstacles will give your body and mind a rigorous test.\nLOCATION:2700 Wilderness Road\\, Gate 6\\, Fort Carson\\, CO 80913\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+  },
+  {
+    "id": "the-great-divide-ultra-2026",
+    "name": "The Great Divide Ultra",
+    "date": "2026-06-06",
+    "time": "TBD",
+    "distance": "100 Mile / 100K / 50K / 25K",
+    "location": {
+      "name": "Mueller State Park, CO",
+      "address": "Mueller State Park, CO",
+      "map_link": "https://maps.google.com/?q=Mueller+State+Park++CO"
+    },
+    "registration_url": "https://www.flatlineendurance.com/the-great-divide-ultra.html",
+    "website_url": "https://www.flatlineendurance.com/the-great-divide-ultra.html",
+    "description": "An early season 100 mile, 100k, 50k, and 25k event takes place entirely on the beautiful rolling meadows of Mueller State Park. The course is 100% smooth single/double-track trail.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The+Great+Divide+Ultra&dates=20260606T080000Z%2F20260606T120000Z&details=An+early+season+100+mile%2C+100k%2C+50k%2C+and+25k+event+takes+place+entirely+on+the+beautiful+rolling+meadows+of+Mueller+State+Park.+The+course+is+100%25+smooth+single%2Fdouble-track+trail.&location=Mueller+State+Park%2C+CO",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:the-great-divide-ultra-2026@milehighrunners.com\nDTSTAMP:20260124T000000Z\nDTSTART:20260606T080000Z\nDTEND:20260606T120000Z\nSUMMARY:The Great Divide Ultra\nDESCRIPTION:An early season 100 mile\\, 100k\\, 50k\\, and 25k event takes place entirely on the beautiful rolling meadows of Mueller State Park. The course is 100% smooth single/double-track trail.\nLOCATION:Mueller State Park\\, CO\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+  },
+  {
+    "id": "colorado-13er-2026",
+    "name": "Colorado 13er",
+    "date": "2026-06-07",
+    "time": "6:30 AM",
+    "distance": "Half Marathon / 10K / 5K",
+    "location": {
+      "name": "Louisville, Colorado",
+      "address": "Louisville, Colorado",
+      "map_link": "https://maps.google.com/?q=Louisville++Colorado"
+    },
+    "registration_url": "https://runsignup.com/Race/CO/Louisville/Colorado13er",
+    "website_url": "https://runsignup.com/Race/CO/Louisville/Colorado13er",
+    "description": "The Colorado 13er is THE event where the best parts of trail running and road racing combine to create a truly enjoyable, kind-to-your-body, well-supported race!",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Colorado+13er&dates=20260607T063000Z%2F20260607T103000Z&details=The+Colorado+13er+is+THE+event+where+the+best+parts+of+trail+running+and+road+racing+combine+to+create+a+truly+enjoyable%2C+kind-to-your-body%2C+well-supported+race%21&location=Louisville%2C+Colorado",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:colorado-13er-2026@milehighrunners.com\nDTSTAMP:20260124T000000Z\nDTSTART:20260607T063000Z\nDTEND:20260607T103000Z\nSUMMARY:Colorado 13er\nDESCRIPTION:The Colorado 13er is THE event where the best parts of trail running and road racing combine to create a truly enjoyable\\, kind-to-your-body\\, well-supported race!\nLOCATION:Louisville\\, Colorado\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+  },
+  {
+    "id": "steamboat-marathon-2026",
+    "name": "Steamboat Marathon",
+    "date": "2026-06-07",
+    "time": "TBD",
+    "distance": "Marathon / Half Marathon / 10K / Kids Run",
+    "location": {
+      "name": "Steamboat Springs, CO",
+      "address": "Steamboat Springs, CO (Specific address TBD)",
+      "map_link": "https://maps.google.com/?q=Steamboat+Springs++CO+%28Specific+address+TBD%29"
+    },
+    "registration_url": "",
+    "website_url": "",
+    "description": "The Steamboat Marathon is held in Steamboat Springs, Colorado.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Steamboat+Marathon&dates=20260607T080000Z%2F20260607T120000Z&details=The+Steamboat+Marathon+is+held+in+Steamboat+Springs%2C+Colorado.&location=Steamboat+Springs%2C+CO+%28Specific+address+TBD%29",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:steamboat-marathon-2026@milehighrunners.com\nDTSTAMP:20260124T000000Z\nDTSTART:20260607T080000Z\nDTEND:20260607T120000Z\nSUMMARY:Steamboat Marathon\nDESCRIPTION:The Steamboat Marathon is held in Steamboat Springs\\, Colorado.\nLOCATION:Steamboat Springs\\, CO (Specific address TBD)\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+  },
+  {
+    "id": "garden-of-the-gods-10-mile10k-and-trail-run-2026",
+    "name": "Garden of the Gods 10 Mile/10K and Trail Run",
+    "date": "2026-06-14",
+    "time": "7:00 AM",
+    "distance": "10 Mile / 10K / Trail Run",
+    "location": {
+      "name": "Colorado Springs, CO",
+      "address": "Garden of the Gods Park, Colorado Springs, CO",
+      "map_link": "https://maps.google.com/?q=Garden+of+the+Gods+Park++Colorado+Springs++CO"
+    },
+    "registration_url": "https://runsignup.com/Race/CO/ColoradoSprings/GardenoftheGods10Mile10KandTrailRun",
+    "website_url": "https://www.letsdothis.com/us/e/garden-of-the-gods-10-mile10k-and-trail-run-235517",
+    "description": "The Garden of the Gods Ten Mile, 10K, and Trail Run is a premier race in Colorado Springs. The course runs through the park's towering sandstone formations and past Balanced Rock and offers a challenging and beautiful race experience.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Garden+of+the+Gods+10+Mile%2F10K+and+Trail+Run&dates=20260614T070000Z%2F20260614T110000Z&details=The+Garden+of+the+Gods+Ten+Mile%2C+10K%2C+and+Trail+Run+is+a+premier+race+in+Colorado+Springs.+The+course+runs+through+the+park%27s+towering+sandstone+formations+and+past+Balanced+Rock+and+offers+a+challeng&location=Garden+of+the+Gods+Park%2C+Colorado+Springs%2C+CO",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:garden-of-the-gods-10-mile10k-and-trail-run-2026@milehighrunners.com\nDTSTAMP:20260124T000000Z\nDTSTART:20260614T070000Z\nDTEND:20260614T110000Z\nSUMMARY:Garden of the Gods 10 Mile/10K and Trail Run\nDESCRIPTION:The Garden of the Gods Ten Mile\\, 10K\\, and Trail Run is a premier race in Colorado Springs. The course runs through the park's towering sandstone formations and past Balanced Rock and offers a challenging and beautiful race experience.\nLOCATION:Garden of the Gods Park\\, Colorado Springs\\, CO\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+  },
+  {
+    "id": "san-juan-solstice-50-2026",
+    "name": "San Juan Solstice 50",
+    "date": "2026-06-20",
+    "time": "8:00 AM",
+    "distance": "50 Mile",
+    "location": {
+      "name": "Location not specified, CO",
+      "address": "Not specified",
+      "map_link": "https://maps.google.com/?q=Not+specified"
+    },
+    "registration_url": "https://ultrasignup.com/",
+    "website_url": "https://www.sjs50.com/",
+    "description": "The San Juan Solstice 50 is a challenging 50-mile ultra marathon. Registration is through UltraSignup.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=San+Juan+Solstice+50&dates=20260620T080000Z%2F20260620T120000Z&details=The+San+Juan+Solstice+50+is+a+challenging+50-mile+ultra+marathon.+Registration+is+through+UltraSignup.&location=Not+specified",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:san-juan-solstice-50-2026@milehighrunners.com\nDTSTAMP:20260124T000000Z\nDTSTART:20260620T080000Z\nDTEND:20260620T120000Z\nSUMMARY:San Juan Solstice 50\nDESCRIPTION:The San Juan Solstice 50 is a challenging 50-mile ultra marathon. Registration is through UltraSignup.\nLOCATION:Not specified\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+  },
+  {
+    "id": "estes-park-marathon-2026",
+    "name": "Estes Park Marathon",
+    "date": "2026-06-21",
+    "time": "TBD",
+    "distance": "Marathon / Half Marathon",
+    "location": {
+      "name": "Estes Park, CO",
+      "address": "Estes Park, CO (Specific address TBD)",
+      "map_link": "https://maps.google.com/?q=Estes+Park++CO+%28Specific+address+TBD%29"
+    },
+    "registration_url": "",
+    "website_url": "",
+    "description": "The Estes Park Marathon is held in Estes Park, Colorado.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Estes+Park+Marathon&dates=20260621T080000Z%2F20260621T120000Z&details=The+Estes+Park+Marathon+is+held+in+Estes+Park%2C+Colorado.&location=Estes+Park%2C+CO+%28Specific+address+TBD%29",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:estes-park-marathon-2026@milehighrunners.com\nDTSTAMP:20260124T000000Z\nDTSTART:20260621T080000Z\nDTEND:20260621T120000Z\nSUMMARY:Estes Park Marathon\nDESCRIPTION:The Estes Park Marathon is held in Estes Park\\, Colorado.\nLOCATION:Estes Park\\, CO (Specific address TBD)\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+  },
+  {
+    "id": "leadville-trail-marathon-2026",
+    "name": "Leadville Trail Marathon",
+    "date": "2026-06-27",
+    "time": "Unknown",
+    "distance": "Half Marathon / Marathon",
+    "location": {
+      "name": "Leadville, CO",
+      "address": "E. 6th and Poplar \u2013 135 E. 6th Street, Leadville, CO 80461",
+      "map_link": "https://maps.google.com/?q=E.+6th+and+Poplar+%E2%80%93+135+E.+6th+Street++Leadville++CO+80461"
+    },
+    "registration_url": "https://www.leadvilleraceseries.com/leadville-trail-marathon/",
+    "website_url": "https://www.leadvilleraceseries.com/leadville-trail-marathon/",
+    "description": "The Leadville Trail Marathon is 26.4 miles of out-and-back dirt roads and single track that takes you through the historic mining district on the east side of Leadville. The race is a qualifier for the Leadville Trail 100 Run.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Leadville+Trail+Marathon&dates=20260627T080000Z%2F20260627T120000Z&details=The+Leadville+Trail+Marathon+is+26.4+miles+of+out-and-back+dirt+roads+and+single+track+that+takes+you+through+the+historic+mining+district+on+the+east+side+of+Leadville.+The+race+is+a+qualifier+for+th&location=E.+6th+and+Poplar+%E2%80%93+135+E.+6th+Street%2C+Leadville%2C+CO+80461",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:leadville-trail-marathon-2026@milehighrunners.com\nDTSTAMP:20260124T000000Z\nDTSTART:20260627T080000Z\nDTEND:20260627T120000Z\nSUMMARY:Leadville Trail Marathon\nDESCRIPTION:The Leadville Trail Marathon is 26.4 miles of out-and-back dirt roads and single track that takes you through the historic mining district on the east side of Leadville. The race is a qualifier for the Leadville Trail 100 Run.\nLOCATION:E. 6th and Poplar \u2013 135 E. 6th Street\\, Leadville\\, CO 80461\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+  },
+  {
+    "id": "loveland-lake-to-lake-triathlon-2026",
+    "name": "Loveland Lake to Lake Triathlon",
+    "date": "2026-06-27",
+    "time": "7:00 AM",
+    "distance": "Olympic / Sprint / Aqua Bike (Olympic) / Aqua Bike (Sprint)",
+    "location": {
+      "name": "Loveland, CO",
+      "address": "North Lake Park, Loveland, CO",
+      "map_link": "https://maps.google.com/?q=North+Lake+Park++Loveland++CO"
+    },
+    "registration_url": "https://www.lovelandlaketolake.com/",
+    "website_url": "https://www.lovelandlaketolake.com/",
+    "description": "The Loveland Lake to Lake Triathlon offers sprint and olympic distances, and aquabike options.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Loveland+Lake+to+Lake+Triathlon&dates=20260627T070000Z%2F20260627T110000Z&details=The+Loveland+Lake+to+Lake+Triathlon+offers+sprint+and+olympic+distances%2C+and+aquabike+options.&location=North+Lake+Park%2C+Loveland%2C+CO",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:loveland-lake-to-lake-triathlon-2026@milehighrunners.com\nDTSTAMP:20260124T000000Z\nDTSTART:20260627T070000Z\nDTEND:20260627T110000Z\nSUMMARY:Loveland Lake to Lake Triathlon\nDESCRIPTION:The Loveland Lake to Lake Triathlon offers sprint and olympic distances\\, and aquabike options.\nLOCATION:North Lake Park\\, Loveland\\, CO\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+  },
+  {
+    "id": "bigdogbrag-the-colorado-mud-run-2026",
+    "name": "BIGDOGBRAG The Colorado Mud Run",
+    "date": "2026-06-29",
+    "time": "12:00 AM",
+    "distance": "5K / 2K",
+    "location": {
+      "name": "Colorado Springs, CO",
+      "address": "12740 Hwy 94, Colorado Springs, CO 80929",
+      "map_link": "https://maps.google.com/?q=12740+Hwy+94++Colorado+Springs++CO+80929"
+    },
+    "registration_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtg5kF4elQ9zDHrA5qAFYikvdYu2SXL1UdFMoPQqhQBdxF1O5HgcpbXR0m3PenQ5gZRvHxDiXZnE7LwNinvAccoz04_Hs69mGaeGZ7KF959PuCUbty5SZXpB19Ee_xg3r-_qjvdLmUMjXHm8E5kB-TVIJ4AN2IOtZ3jF2HUbq_tE8x0HT5R2BL1PjRYQ==",
+    "website_url": "https://bigdogbrag.raceentry.com/bigdogbrag-the-colorado-mud-run/race-information",
+    "description": "BIGDOGBRAG The Colorado Mud Run features a 5k course with 25 obstacles and a 2k course with 12 obstacles. The race is open to adults and kids, ages 5-10.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=BIGDOGBRAG+The+Colorado+Mud+Run&dates=20260629T000000Z%2F20260629T040000Z&details=BIGDOGBRAG+The+Colorado+Mud+Run+features+a+5k+course+with+25+obstacles+and+a+2k+course+with+12+obstacles.+The+race+is+open+to+adults+and+kids%2C+ages+5-10.&location=12740+Hwy+94%2C+Colorado+Springs%2C+CO+80929",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:bigdogbrag-the-colorado-mud-run-2026@milehighrunners.com\nDTSTAMP:20260124T000000Z\nDTSTART:20260629T000000Z\nDTEND:20260629T040000Z\nSUMMARY:BIGDOGBRAG The Colorado Mud Run\nDESCRIPTION:BIGDOGBRAG The Colorado Mud Run features a 5k course with 25 obstacles and a 2k course with 12 obstacles. The race is open to adults and kids\\, ages 5-10.\nLOCATION:12740 Hwy 94\\, Colorado Springs\\, CO 80929\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+  },
+  {
+    "id": "hardrock-100-2026",
+    "name": "Hardrock 100",
+    "date": "2026-07-10",
+    "time": "6:00 AM",
+    "distance": "100 Mile",
+    "location": {
+      "name": "Silverton, CO",
+      "address": "Silverton, Colorado",
+      "map_link": "https://maps.google.com/?q=Silverton++Colorado"
+    },
+    "registration_url": "https://www.hardrock100.com/",
+    "website_url": "https://www.hardrock100.com/",
+    "description": "A 100-mile ultramarathon in the San Juan Mountains of southwestern Colorado, known for its extreme elevation change and challenging terrain.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Hardrock+100&dates=20260710T060000Z%2F20260710T100000Z&details=A+100-mile+ultramarathon+in+the+San+Juan+Mountains+of+southwestern+Colorado%2C+known+for+its+extreme+elevation+change+and+challenging+terrain.&location=Silverton%2C+Colorado",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:hardrock-100-2026@milehighrunners.com\nDTSTAMP:20260124T000000Z\nDTSTART:20260710T060000Z\nDTEND:20260710T100000Z\nSUMMARY:Hardrock 100\nDESCRIPTION:A 100-mile ultramarathon in the San Juan Mountains of southwestern Colorado\\, known for its extreme elevation change and challenging terrain.\nLOCATION:Silverton\\, Colorado\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+  },
+  {
+    "id": "audi-power-of-four-trail-run-2026",
+    "name": "Audi Power of Four Trail Run",
+    "date": "2026-07-18",
+    "time": "6:00 AM (50K) / 8:00 AM (25K) / 11:00 AM (10K)",
+    "distance": "10K / 25K / 50K",
+    "location": {
+      "name": "Aspen Snowmass, CO",
+      "address": "Aspen, Tiehack, & Elk Camp, Aspen Snowmass, CO",
+      "map_link": "https://maps.google.com/?q=Aspen++Tiehack++%26+Elk+Camp++Aspen+Snowmass++CO"
+    },
+    "registration_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHx1HHfecfiJtcGqumHItOocnjgiy-sDvc9924Mu6fpQUFffNi2O8P6oHmkz_6vVmxcSlmcMrYkeu6kgjsi1VSUajYARAuvbmsHh2BIY9_WAjvlOmqRXX1v-B_v-z13GUwKcfahpVnoV-aqRTjTaJQBnSKhzwrcKKSvpW49HpduBEE=",
+    "website_url": "https://www.aspensnowmass.com/visit/events/audi-power-of-four-trail-run",
+    "description": "The Audi Power of Four Race Series is a premier endurance race series utilizing the unique and amazing terrain of each of the four Aspen Snowmass mountains. Each race is designed to test the limits and skills of both elite and recreational athletes. The event's signature race is a challenging 50K Ultra that covers the four Aspen Snowmass mountains utilizing a mix of singletrack and dirt road.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Audi+Power+of+Four+Trail+Run&dates=20260718T060000Z%2F20260718T100000Z&details=The+Audi+Power+of+Four+Race+Series+is+a+premier+endurance+race+series+utilizing+the+unique+and+amazing+terrain+of+each+of+the+four+Aspen+Snowmass+mountains.+Each+race+is+designed+to+test+the+limits+an&location=Aspen%2C+Tiehack%2C+%26+Elk+Camp%2C+Aspen+Snowmass%2C+CO",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:audi-power-of-four-trail-run-2026@milehighrunners.com\nDTSTAMP:20260124T000000Z\nDTSTART:20260718T060000Z\nDTEND:20260718T100000Z\nSUMMARY:Audi Power of Four Trail Run\nDESCRIPTION:The Audi Power of Four Race Series is a premier endurance race series utilizing the unique and amazing terrain of each of the four Aspen Snowmass mountains. Each race is designed to test the limits and skills of both elite and recreational athletes. The event's signature race is a challenging 50K Ultra that covers the four Aspen Snowmass mountains utilizing a mix of singletrack and dirt road.\nLOCATION:Aspen\\, Tiehack\\, & Elk Camp\\, Aspen Snowmass\\, CO\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+  },
+  {
+    "id": "barr-trail-mountain-race-2026",
+    "name": "Barr Trail Mountain Race",
+    "date": "2026-07-19",
+    "time": "Unknown",
+    "distance": "12.6 Mile",
+    "location": {
+      "name": "Manitou Springs, CO",
+      "address": "Cog Railway Station (6,570 ft) in Manitou Springs, CO",
+      "map_link": "https://maps.google.com/?q=Cog+Railway+Station+%286+570+ft%29+in+Manitou+Springs++CO"
+    },
+    "registration_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMf-yW7-Nr6HOo-pam_IuOIhwoAgvLETGitGkKZns9bhujOCWrQsWTd0vlH-4ssApOQAy9xp77pLxlzrzWt7mTV59hyU3IwXePsvZ-e37EsJb21y4FpI-uqXRAow==",
+    "website_url": "https://barrtrailmountainrace.com/",
+    "description": "The Barr Trail Mountain Race is one of the Front Range's historic summer mountain running events. The 12.6-mile course begins at the Cog Railway Station (6,570 ft) in Manitou Springs, Colorado, ascends Pikes Peak's iconic Barr Trail to Barr Camp (10,200 ft) before turning, descending and finishing at the Barr Trailhead.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Barr+Trail+Mountain+Race&dates=20260719T080000Z%2F20260719T120000Z&details=The+Barr+Trail+Mountain+Race+is+one+of+the+Front+Range%27s+historic+summer+mountain+running+events.+The+12.6-mile+course+begins+at+the+Cog+Railway+Station+%286%2C570+ft%29+in+Manitou+Springs%2C+Colorado%2C+ascend&location=Cog+Railway+Station+%286%2C570+ft%29+in+Manitou+Springs%2C+CO",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:barr-trail-mountain-race-2026@milehighrunners.com\nDTSTAMP:20260124T000000Z\nDTSTART:20260719T080000Z\nDTEND:20260719T120000Z\nSUMMARY:Barr Trail Mountain Race\nDESCRIPTION:The Barr Trail Mountain Race is one of the Front Range's historic summer mountain running events. The 12.6-mile course begins at the Cog Railway Station (6\\,570 ft) in Manitou Springs\\, Colorado\\, ascends Pikes Peak's iconic Barr Trail to Barr Camp (10\\,200 ft) before turning\\, descending and finishing at the Barr Trailhead.\nLOCATION:Cog Railway Station (6\\,570 ft) in Manitou Springs\\, CO\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+  },
+  {
+    "id": "transrockies-run-2026",
+    "name": "TransRockies Run",
+    "date": "2026-07-19",
+    "time": "Unknown",
+    "distance": "Half Pint / Full Pint (Stage Race)",
+    "location": {
+      "name": "Colorado (Specific location not provided)",
+      "address": "Colorado (Specific address not provided)",
+      "map_link": "https://maps.google.com/?q=Colorado+%28Specific+address+not+provided%29"
+    },
+    "registration_url": "https://www.transrockies-run.com/",
+    "website_url": "https://www.transrockies-run.com/",
+    "description": "TransRockies Run is a 3-day stage race with 'Half Pint' and 'Full Pint' distances. It's a trail running experience with a strong sense of community.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=TransRockies+Run&dates=20260719T080000Z%2F20260719T120000Z&details=TransRockies+Run+is+a+3-day+stage+race+with+%27Half+Pint%27+and+%27Full+Pint%27+distances.+It%27s+a+trail+running+experience+with+a+strong+sense+of+community.&location=Colorado+%28Specific+address+not+provided%29",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:transrockies-run-2026@milehighrunners.com\nDTSTAMP:20260124T000000Z\nDTSTART:20260719T080000Z\nDTEND:20260719T120000Z\nSUMMARY:TransRockies Run\nDESCRIPTION:TransRockies Run is a 3-day stage race with 'Half Pint' and 'Full Pint' distances. It's a trail running experience with a strong sense of community.\nLOCATION:Colorado (Specific address not provided)\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+  },
+  {
+    "id": "grand-mesa-ultras-2026",
+    "name": "Grand Mesa Ultras",
+    "date": "2026-07-25",
+    "time": "Unknown",
+    "distance": "30K / 55K / 50 Mile",
+    "location": {
+      "name": "Grand Mesa, CO",
+      "address": "Grand Mesa, CO",
+      "map_link": "https://maps.google.com/?q=Grand+Mesa++CO"
+    },
+    "registration_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEq0RrRULFcIlXzf_dvpetYUqOL1XxdwY_93mKuxob0vn2a9KUTd5N9uX3plBcmf4mPyxRYlXTzPWg6r3OPzDuuE9GVFbU5JFZG6F-AN3lRxk4Ydb_WpjyZgEg=",
+    "website_url": "https://www.bestslopeevents.com/",
+    "description": "Ultra running trail races in Colorado (50M, 55K, & 30K). Awesome trail running at high elevation in the mountains of western Colorado.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Grand+Mesa+Ultras&dates=20260725T080000Z%2F20260725T120000Z&details=Ultra+running+trail+races+in+Colorado+%2850M%2C+55K%2C+%26+30K%29.+Awesome+trail+running+at+high+elevation+in+the+mountains+of+western+Colorado.&location=Unknown",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:grand-mesa-ultras-2026@milehighrunners.com\nDTSTAMP:20260124T000000Z\nDTSTART:20260725T080000Z\nDTEND:20260725T120000Z\nSUMMARY:Grand Mesa Ultras\nDESCRIPTION:Ultra running trail races in Colorado (50M\\, 55K\\, & 30K). Awesome trail running at high elevation in the mountains of western Colorado.\nLOCATION:Unknown\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+  },
+  {
+    "id": "pikes-peak-ultra-2026",
+    "name": "Pikes Peak Ultra",
+    "date": "2026-07-25",
+    "time": "8:00 AM",
+    "distance": "50 Mile / 50K / 30K / 20K",
+    "location": {
+      "name": "Colorado Springs, CO",
+      "address": "Bear Creek Regional Park, Colorado Springs, CO",
+      "map_link": "https://maps.google.com/?q=Bear+Creek+Regional+Park++Colorado+Springs++CO"
+    },
+    "registration_url": "https://www.madmooseevents.com/pikespeakultra",
+    "website_url": "https://www.madmooseevents.com/pikespeakultra",
+    "description": "Join us at Pikes Peak Ultra and discover some of the best trails Colorado Springs has to offer. Starting at Bear Creek Regional Park, the course winds its way up High Drive and into the stunning Cheyenne Canon.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Pikes+Peak+Ultra&dates=20260725T080000Z%2F20260725T120000Z&details=Join+us+at+Pikes+Peak+Ultra+and+discover+some+of+the+best+trails+Colorado+Springs+has+to+offer.+Starting+at+Bear+Creek+Regional+Park%2C+the+course+winds+its+way+up+High+Drive+and+into+the+stunning+Cheye&location=Bear+Creek+Regional+Park%2C+Colorado+Springs%2C+CO",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:pikes-peak-ultra-2026@milehighrunners.com\nDTSTAMP:20260124T000000Z\nDTSTART:20260725T080000Z\nDTEND:20260725T120000Z\nSUMMARY:Pikes Peak Ultra\nDESCRIPTION:Join us at Pikes Peak Ultra and discover some of the best trails Colorado Springs has to offer. Starting at Bear Creek Regional Park\\, the course winds its way up High Drive and into the stunning Cheyenne Canon.\nLOCATION:Bear Creek Regional Park\\, Colorado Springs\\, CO\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+  },
+  {
+    "id": "rocky-mountain-half-marathon-5k-2026",
+    "name": "Rocky Mountain Half Marathon & 5K",
+    "date": "2026-07-31",
+    "time": "6:00 PM",
+    "distance": "Half Marathon / 5K",
+    "location": {
+      "name": "Estes Park, CO",
+      "address": "Stanley Park, Estes Park, CO",
+      "map_link": "https://maps.google.com/?q=Stanley+Park++Estes+Park++CO"
+    },
+    "registration_url": "https://www.vacationraces.com/half-marathons/rocky-mountain/",
+    "website_url": "https://www.vacationraces.com/half-marathons/rocky-mountain/",
+    "description": "The Rocky Mountain Half Marathon & 5K takes place in Estes Park, CO. The 5k is on July 31st and the Half Marathon is on August 1st.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Rocky+Mountain+Half+Marathon+%26+5K&dates=20260731T180000Z%2F20260731T220000Z&details=The+Rocky+Mountain+Half+Marathon+%26+5K+takes+place+in+Estes+Park%2C+CO.+The+5k+is+on+July+31st+and+the+Half+Marathon+is+on+August+1st.&location=Stanley+Park%2C+Estes+Park%2C+CO",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:rocky-mountain-half-marathon-5k-2026@milehighrunners.com\nDTSTAMP:20260124T000000Z\nDTSTART:20260731T180000Z\nDTEND:20260731T220000Z\nSUMMARY:Rocky Mountain Half Marathon & 5K\nDESCRIPTION:The Rocky Mountain Half Marathon & 5K takes place in Estes Park\\, CO. The 5k is on July 31st and the Half Marathon is on August 1st.\nLOCATION:Stanley Park\\, Estes Park\\, CO\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+  },
+  {
+    "id": "wild-west-relay-2026",
+    "name": "Wild West Relay",
+    "date": "2026-07-31",
+    "time": "TBD",
+    "distance": "Relay",
+    "location": {
+      "name": "Fort Collins, CO",
+      "address": "Fort Collins, CO",
+      "map_link": "https://maps.google.com/?q=Fort+Collins++CO"
+    },
+    "registration_url": "https://findarace.com/us/colorado/fort-collins/wild-west-relay",
+    "website_url": "https://findarace.com/us/colorado/fort-collins/wild-west-relay",
+    "description": "A relay race in Fort Collins, Colorado.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Wild+West+Relay&dates=20260731T080000Z%2F20260731T120000Z&details=A+relay+race+in+Fort+Collins%2C+Colorado.&location=Fort+Collins%2C+CO",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:wild-west-relay-2026@milehighrunners.com\nDTSTAMP:20260124T000000Z\nDTSTART:20260731T080000Z\nDTEND:20260731T120000Z\nSUMMARY:Wild West Relay\nDESCRIPTION:A relay race in Fort Collins\\, Colorado.\nLOCATION:Fort Collins\\, CO\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+  },
+  {
+    "id": "eltuck-valley-5k-lory-summer-trail-series-2026",
+    "name": "Eltuck Valley 5K - Lory Summer Trail Series",
+    "date": "2026-08-04",
+    "time": "TBD",
+    "distance": "5K",
+    "location": {
+      "name": "Fort Collins, Colorado",
+      "address": "Fort Collins, Colorado",
+      "map_link": "https://maps.google.com/?q=Fort+Collins++Colorado"
+    },
+    "registration_url": "https://findarace.com/us/colorado/fort-collins/eltuck-valley-5k-lory-summer-trail-series",
+    "website_url": "https://findarace.com/us/colorado/fort-collins/eltuck-valley-5k-lory-summer-trail-series",
+    "description": "5k trail run.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Eltuck+Valley+5K+-+Lory+Summer+Trail+Series&dates=20260804T080000Z%2F20260804T120000Z&details=5k+trail+run.&location=Fort+Collins%2C+Colorado",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:eltuck-valley-5k-lory-summer-trail-series-2026@milehighrunners.com\nDTSTAMP:20260124T000000Z\nDTSTART:20260804T080000Z\nDTEND:20260804T120000Z\nSUMMARY:Eltuck Valley 5K - Lory Summer Trail Series\nDESCRIPTION:5k trail run.\nLOCATION:Fort Collins\\, Colorado\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+  },
+  {
+    "id": "boulder-rez-marathon-2026",
+    "name": "Boulder Rez Marathon",
+    "date": "2026-08-15",
+    "time": "7:15 AM",
+    "distance": "Marathon / 3/4 Marathon / Half Marathon / 10K / Marathon Relay",
+    "location": {
+      "name": "Boulder, CO",
+      "address": "5565 51st St, Boulder, CO 80301",
+      "map_link": "https://maps.google.com/?q=5565+51st+St++Boulder++CO+80301"
+    },
+    "registration_url": "https://www.bbscendurance.com/boulder-rez-marathon",
+    "website_url": "https://www.bbscendurance.com/boulder-rez-marathon",
+    "description": "This amazing run course will take you alongside the Boulder Reservoir, remaining mostly on dirt roads and trails. The course is flat with only 200 feet of gain, and will provide views of the Boulder Reservoir and Rocky Mountains.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Boulder+Rez+Marathon&dates=20260815T071500Z%2F20260815T111500Z&details=This+amazing+run+course+will+take+you+alongside+the+Boulder+Reservoir%2C+remaining+mostly+on+dirt+roads+and+trails.+The+course+is+flat+with+only+200+feet+of+gain%2C+and+will+provide+views+of+the+Boulder+R&location=5565+51st+St%2C+Boulder%2C+CO+80301",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:boulder-rez-marathon-2026@milehighrunners.com\nDTSTAMP:20260124T000000Z\nDTSTART:20260815T071500Z\nDTEND:20260815T111500Z\nSUMMARY:Boulder Rez Marathon\nDESCRIPTION:This amazing run course will take you alongside the Boulder Reservoir\\, remaining mostly on dirt roads and trails. The course is flat with only 200 feet of gain\\, and will provide views of the Boulder Reservoir and Rocky Mountains.\nLOCATION:5565 51st St\\, Boulder\\, CO 80301\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+  },
+  {
+    "id": "leadville-trail-100-run-2026",
+    "name": "Leadville Trail 100 Run",
+    "date": "2026-08-22",
+    "time": "4:00 AM",
+    "distance": "100 Mile",
+    "location": {
+      "name": "Leadville, CO",
+      "address": "Corner of 6th St & Harrison, Leadville, CO",
+      "map_link": "https://maps.google.com/?q=Corner+of+6th+St+%26+Harrison++Leadville++CO"
+    },
+    "registration_url": "https://www.leadvilleraceseries.com/leadville-trail-100run/",
+    "website_url": "https://www.leadvilleraceseries.com/leadville-trail-100run/",
+    "description": "The Leadville Trail 100 Run is one of the oldest, most storied endurance running events in the world. The 100-mile out-and-back course is in the midst of the Colorado Rockies. Low point, 9,200 feet; high point is Hope Pass, 12,600 feet. The majority is on forest trails with some mountain roads.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Leadville+Trail+100+Run&dates=20260822T040000Z%2F20260822T080000Z&details=The+Leadville+Trail+100+Run+is+one+of+the+oldest%2C+most+storied+endurance+running+events+in+the+world.+The+100-mile+out-and-back+course+is+in+the+midst+of+the+Colorado+Rockies.+Low+point%2C+9%2C200+feet%3B+h&location=Corner+of+6th+St+%26+Harrison%2C+Leadville%2C+CO",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:leadville-trail-100-run-2026@milehighrunners.com\nDTSTAMP:20260124T000000Z\nDTSTART:20260822T040000Z\nDTEND:20260822T080000Z\nSUMMARY:Leadville Trail 100 Run\nDESCRIPTION:The Leadville Trail 100 Run is one of the oldest\\, most storied endurance running events in the world. The 100-mile out-and-back course is in the midst of the Colorado Rockies. Low point\\, 9\\,200 feet; high point is Hope Pass\\, 12\\,600 feet. The majority is on forest trails with some mountain roads.\nLOCATION:Corner of 6th St & Harrison\\, Leadville\\, CO\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+  },
+  {
+    "id": "arrowhead-half-marathon-5k-2026",
+    "name": "Arrowhead Half Marathon & 5K",
+    "date": "2026-08-22",
+    "time": "7:00 AM (Half Marathon) / 8:00 AM (5K)",
+    "distance": "5K / Half Marathon",
+    "location": {
+      "name": "Arrowhead, Vail, CO",
+      "address": "Arrowhead, Vail, CO (Specific address not provided)",
+      "map_link": "https://maps.google.com/?q=Arrowhead++Vail++CO+%28Specific+address+not+provided%29"
+    },
+    "registration_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFS_7udg_6tG5G5RJTdFhM2UMf7BcchzzTWetNcXsCiOybeS2m2FSIG1VN8gSkgcnTJW9djIqhmEqeZNNRTBi6cxfgXEJigWNi0opIUudzulrhVcWe-w2z0CtXMwQsKiV6wBCcMoJ-5-qs5f_9u4bUMMlOOBDLl",
+    "website_url": "https://www.vailrec.com/august-22-arrowhead-half-marathon-5k",
+    "description": "The Half Marathon course has an additional half mile added to the first ascent for 2026. This half marathon will traverse across the beautiful Arrowhead, Bachelor Gulch, & Beaver Creek Ski Resorts, along...",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Arrowhead+Half+Marathon+%26+5K&dates=20260822T070000Z%2F20260822T110000Z&details=The+Half+Marathon+course+has+an+additional+half+mile+added+to+the+first+ascent+for+2026.+This+half+marathon+will+traverse+across+the+beautiful+Arrowhead%2C+Bachelor+Gulch%2C+%26+Beaver+Creek+Ski+Resorts%2C+al&location=Arrowhead%2C+Vail%2C+CO+%28Specific+address+not+provided%29",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:arrowhead-half-marathon-5k-2026@milehighrunners.com\nDTSTAMP:20260124T000000Z\nDTSTART:20260822T070000Z\nDTEND:20260822T110000Z\nSUMMARY:Arrowhead Half Marathon & 5K\nDESCRIPTION:The Half Marathon course has an additional half mile added to the first ascent for 2026. This half marathon will traverse across the beautiful Arrowhead\\, Bachelor Gulch\\, & Beaver Creek Ski Resorts\\, along...\nLOCATION:Arrowhead\\, Vail\\, CO (Specific address not provided)\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+  },
+  {
+    "id": "staunton-rocks-marathon-2026",
+    "name": "Staunton Rocks! Marathon",
+    "date": "2026-08-22",
+    "time": "TBD",
+    "distance": "Marathon / Half Marathon",
+    "location": {
+      "name": "Pine, CO",
+      "address": "Pine, CO (Specific address TBD)",
+      "map_link": "https://maps.google.com/?q=Pine++CO+%28Specific+address+TBD%29"
+    },
+    "registration_url": "",
+    "website_url": "",
+    "description": "The Staunton Rocks! Marathon is held in Pine, Colorado.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Staunton+Rocks%21+Marathon&dates=20260822T080000Z%2F20260822T120000Z&details=The+Staunton+Rocks%21+Marathon+is+held+in+Pine%2C+Colorado.&location=Pine%2C+CO+%28Specific+address+TBD%29",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:staunton-rocks-marathon-2026@milehighrunners.com\nDTSTAMP:20260124T000000Z\nDTSTART:20260822T080000Z\nDTEND:20260822T120000Z\nSUMMARY:Staunton Rocks! Marathon\nDESCRIPTION:The Staunton Rocks! Marathon is held in Pine\\, Colorado.\nLOCATION:Pine\\, CO (Specific address TBD)\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+  },
+  {
+    "id": "golden-harvest-half-marathon-5k10k-denver-2026",
+    "name": "Golden Harvest Half Marathon & 5k/10k - Denver",
+    "date": "2026-09-05",
+    "time": "TBD",
+    "distance": "Half Marathon / 10K / 5K",
+    "location": {
+      "name": "Denver, CO",
+      "address": "Denver, CO",
+      "map_link": "https://maps.google.com/?q=Denver++CO"
+    },
+    "registration_url": "https://findarace.com/us/colorado/denver/golden-harvest-half-marathon-5k-10k-denver",
+    "website_url": "https://findarace.com/us/colorado/denver/golden-harvest-half-marathon-5k-10k-denver",
+    "description": "A run in Denver.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Golden+Harvest+Half+Marathon+%26+5k%2F10k+-+Denver&dates=20260905T080000Z%2F20260905T120000Z&details=A+run+in+Denver.&location=Denver%2C+CO",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:golden-harvest-half-marathon-5k10k-denver-2026@milehighrunners.com\nDTSTAMP:20260124T000000Z\nDTSTART:20260905T080000Z\nDTEND:20260905T120000Z\nSUMMARY:Golden Harvest Half Marathon & 5k/10k - Denver\nDESCRIPTION:A run in Denver.\nLOCATION:Denver\\, CO\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+  },
+  {
+    "id": "flaming-foliage-relay-2026",
+    "name": "Flaming Foliage Relay",
+    "date": "2026-09-11",
+    "time": "TBD",
+    "distance": "Relay",
+    "location": {
+      "name": "Idaho Springs to Buena Vista, CO",
+      "address": "Idaho Springs, CO",
+      "map_link": "https://maps.google.com/?q=Idaho+Springs++CO"
+    },
+    "registration_url": "https://findarace.com/us/colorado/idaho-springs/flaming-foliage-relay-idaho-springs-to-buena-vista",
+    "website_url": "https://findarace.com/us/colorado/idaho-springs/flaming-foliage-relay-idaho-springs-to-buena-vista",
+    "description": "A relay race from Idaho Springs to Buena Vista.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Flaming+Foliage+Relay&dates=20260911T080000Z%2F20260911T120000Z&details=A+relay+race+from+Idaho+Springs+to+Buena+Vista.&location=Idaho+Springs%2C+CO",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:flaming-foliage-relay-2026@milehighrunners.com\nDTSTAMP:20260124T000000Z\nDTSTART:20260911T080000Z\nDTEND:20260911T120000Z\nSUMMARY:Flaming Foliage Relay\nDESCRIPTION:A relay race from Idaho Springs to Buena Vista.\nLOCATION:Idaho Springs\\, CO\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+  },
+  {
+    "id": "the-denver-5k-2026",
+    "name": "THE Denver 5k",
+    "date": "2026-09-12",
+    "time": "9:00 AM",
+    "distance": "5K",
+    "location": {
+      "name": "Denver, CO",
+      "address": "Utica Street & West 17th Ave. South Side of Sloan Lake Park. Denver, CO US 80204",
+      "map_link": "https://maps.google.com/?q=Utica+Street+%26+West+17th+Ave.+South+Side+of+Sloan+Lake+Park.+Denver++CO+US+80204"
+    },
+    "registration_url": "https://runsignup.com/Race/CO/Denver/TheDenver5k",
+    "website_url": "https://www.denver5k.com/",
+    "description": "Denver's Iconic Sloan Lake is the setting for the return of 'THE Denver 5k'. Celebrate with friends and family as you race around the lake in the shadow of Denver's skyline.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=THE+Denver+5k&dates=20260912T090000Z%2F20260912T130000Z&details=Denver%27s+Iconic+Sloan+Lake+is+the+setting+for+the+return+of+%27THE+Denver+5k%27.+Celebrate+with+friends+and+family+as+you+race+around+the+lake+in+the+shadow+of+Denver%27s+skyline.&location=Utica+Street+%26+West+17th+Ave.+South+Side+of+Sloan+Lake+Park.+Denver%2C+CO+US+80204",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:the-denver-5k-2026@milehighrunners.com\nDTSTAMP:20260124T000000Z\nDTSTART:20260912T090000Z\nDTEND:20260912T130000Z\nSUMMARY:THE Denver 5k\nDESCRIPTION:Denver's Iconic Sloan Lake is the setting for the return of 'THE Denver 5k'. Celebrate with friends and family as you race around the lake in the shadow of Denver's skyline.\nLOCATION:Utica Street & West 17th Ave. South Side of Sloan Lake Park. Denver\\, CO US 80204\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+  },
+  {
+    "id": "run-rabbit-run-2026",
+    "name": "Run Rabbit Run",
+    "date": "2026-09-18",
+    "time": "9:00 AM / 1:00 PM",
+    "distance": "100 Mile / 50 Mile",
+    "location": {
+      "name": "Steamboat Springs, CO",
+      "address": "Steamboat Springs, CO (General Location)",
+      "map_link": "https://maps.google.com/?q=Steamboat+Springs++CO+%28General+Location%29"
+    },
+    "registration_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHUfUlYxO7P4igdxtnfZmWnnYPTLJb-ZOeDlIWTvr49lLen1dpnIU0dtEhqgvxDmjpo9ZoJR50DrtwESOHiTQtkCZqc3wEibtjXi1zb7bN2VF5KZAG4H_f0o5BlzA=",
+    "website_url": "https://runrabbitrunsteamboat.com/",
+    "description": "Run Rabbit Run offers 50-mile and 100-mile races in Steamboat Springs, CO. Registration is currently open, and waitlists have started as the race is full.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Run+Rabbit+Run&dates=20260918T210000Z%2F20260918T230000Z&details=Run+Rabbit+Run+offers+50-mile+and+100-mile+races+in+Steamboat+Springs%2C+CO.+Registration+is+currently+open%2C+and+waitlists+have+started+as+the+race+is+full.&location=Steamboat+Springs%2C+CO+%28General+Location%29",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:run-rabbit-run-2026@milehighrunners.com\nDTSTAMP:20260124T000000Z\nDTSTART:20260918T210000Z\nDTEND:20260918T230000Z\nSUMMARY:Run Rabbit Run\nDESCRIPTION:Run Rabbit Run offers 50-mile and 100-mile races in Steamboat Springs\\, CO. Registration is currently open\\, and waitlists have started as the race is full.\nLOCATION:Steamboat Springs\\, CO (General Location)\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+  },
+  {
+    "id": "run-the-rockies-road-10k-half-marathon-2026",
+    "name": "Run the Rockies Road 10k & Half Marathon",
+    "date": "2026-09-18",
+    "time": "Unknown",
+    "distance": "10K / Half Marathon",
+    "location": {
+      "name": "Frisco, CO",
+      "address": "Frisco, CO (Specific address not provided)",
+      "map_link": "https://maps.google.com/?q=Frisco++CO+%28Specific+address+not+provided%29"
+    },
+    "registration_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHh9YAMLl7YWwCCdQsZ_n71rRk7-vqSm-yM6Xx8QPphf8e5mx_ng9ZPVJtTiNePOt-Cx5jrEUN3dClIDJaIC3mesM4OLGz0Mho-1WHQHgGVqiVDZgoL97Op-lzVnT6Sff_2DiwzXsNSYyHTNn3ze553NeO6dmuD2dzfZvxDYgOzw4Pjf_H9SZ-jJ58pTLbVMYQKCnvL",
+    "website_url": "https://www.townoffrisco.com/event/athletic-events/run-the-rockies-road-10k-half-marathon/",
+    "description": "Road race in Frisco, Colorado. Advance registration is strongly recommended, as this race does sell out.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Run+the+Rockies+Road+10k+%26+Half+Marathon&dates=20260918T080000Z%2F20260918T120000Z&details=Road+race+in+Frisco%2C+Colorado.+Advance+registration+is+strongly+recommended%2C+as+this+race+does+sell+out.&location=Frisco%2C+CO+%28Specific+address+not+provided%29",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:run-the-rockies-road-10k-half-marathon-2026@milehighrunners.com\nDTSTAMP:20260124T000000Z\nDTSTART:20260918T080000Z\nDTEND:20260918T120000Z\nSUMMARY:Run the Rockies Road 10k & Half Marathon\nDESCRIPTION:Road race in Frisco\\, Colorado. Advance registration is strongly recommended\\, as this race does sell out.\nLOCATION:Frisco\\, CO (Specific address not provided)\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+  },
+  {
+    "id": "fall-equinox-marathon-2026",
+    "name": "Fall Equinox Marathon",
+    "date": "2026-09-20",
+    "time": "TBD",
+    "distance": "Marathon",
+    "location": {
+      "name": "Fort Collins, CO",
+      "address": "Fort Collins, CO (Specific address TBD)",
+      "map_link": "https://maps.google.com/?q=Fort+Collins++CO+%28Specific+address+TBD%29"
+    },
+    "registration_url": "",
+    "website_url": "",
+    "description": "The Fall Equinox Marathon is held in Fort Collins, Colorado.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fall+Equinox+Marathon&dates=20260920T080000Z%2F20260920T120000Z&details=The+Fall+Equinox+Marathon+is+held+in+Fort+Collins%2C+Colorado.&location=Fort+Collins%2C+CO+%28Specific+address+TBD%29",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:fall-equinox-marathon-2026@milehighrunners.com\nDTSTAMP:20260124T000000Z\nDTSTART:20260920T080000Z\nDTEND:20260920T120000Z\nSUMMARY:Fall Equinox Marathon\nDESCRIPTION:The Fall Equinox Marathon is held in Fort Collins\\, Colorado.\nLOCATION:Fort Collins\\, CO (Specific address TBD)\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+  },
+  {
+    "id": "pikes-peak-marathon-2026",
+    "name": "Pikes Peak Marathon",
+    "date": "2026-09-20",
+    "time": "TBD",
+    "distance": "Marathon",
+    "location": {
+      "name": "Manitou Springs, CO",
+      "address": "Manitou Springs, CO (Specific address TBD)",
+      "map_link": "https://maps.google.com/?q=Manitou+Springs++CO+%28Specific+address+TBD%29"
+    },
+    "registration_url": "",
+    "website_url": "",
+    "description": "The Pikes Peak Marathon is held in Manitou Springs, Colorado.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Pikes+Peak+Marathon&dates=20260920T080000Z%2F20260920T120000Z&details=The+Pikes+Peak+Marathon+is+held+in+Manitou+Springs%2C+Colorado.&location=Manitou+Springs%2C+CO+%28Specific+address+TBD%29",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:pikes-peak-marathon-2026@milehighrunners.com\nDTSTAMP:20260124T000000Z\nDTSTART:20260920T080000Z\nDTEND:20260920T120000Z\nSUMMARY:Pikes Peak Marathon\nDESCRIPTION:The Pikes Peak Marathon is held in Manitou Springs\\, Colorado.\nLOCATION:Manitou Springs\\, CO (Specific address TBD)\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+  },
+  {
+    "id": "red-feather-trail-jamboree-2026",
+    "name": "Red Feather Trail Jamboree",
+    "date": "2026-09-25",
+    "time": "TBD",
+    "distance": "TBD",
+    "location": {
+      "name": "Red Feather Lakes, Colorado",
+      "address": "Red Feather Lakes, Colorado",
+      "map_link": "https://maps.google.com/?q=Red+Feather+Lakes++Colorado"
+    },
+    "registration_url": "https://findarace.com/us/colorado/red-feather-lakes/red-feather-trail-jamboree",
+    "website_url": "https://findarace.com/us/colorado/red-feather-lakes/red-feather-trail-jamboree",
+    "description": "A trail jamboree in Red Feather Lakes, Colorado.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Red+Feather+Trail+Jamboree&dates=20260925T080000Z%2F20260925T120000Z&details=A+trail+jamboree+in+Red+Feather+Lakes%2C+Colorado.&location=Red+Feather+Lakes%2C+Colorado",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:red-feather-trail-jamboree-2026@milehighrunners.com\nDTSTAMP:20260124T000000Z\nDTSTART:20260925T080000Z\nDTEND:20260925T120000Z\nSUMMARY:Red Feather Trail Jamboree\nDESCRIPTION:A trail jamboree in Red Feather Lakes\\, Colorado.\nLOCATION:Red Feather Lakes\\, Colorado\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+  },
+  {
+    "id": "spartan-race-2026",
+    "name": "Spartan Race",
+    "date": "2026-09-26",
+    "time": "TBD",
+    "distance": "5K / 10K / Half Marathon",
+    "location": {
+      "name": "Fort Carson, CO",
+      "address": "Fort Carson, CO",
+      "map_link": "https://maps.google.com/?q=Fort+Carson++CO"
+    },
+    "registration_url": "https://www.toughmudder.com/events/colorado/",
+    "website_url": "https://www.toughmudder.com/events/colorado/",
+    "description": "Obstacle course race.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Spartan+Race&dates=20260926T080000Z%2F20260926T120000Z&details=Obstacle+course+race.&location=Fort+Carson%2C+CO",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:spartan-race-2026@milehighrunners.com\nDTSTAMP:20260124T000000Z\nDTSTART:20260926T080000Z\nDTEND:20260926T120000Z\nSUMMARY:Spartan Race\nDESCRIPTION:Obstacle course race.\nLOCATION:Fort Carson\\, CO\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+  },
+  {
+    "id": "tough-mudder-colorado-2026",
+    "name": "Tough Mudder Colorado",
+    "date": "2026-09-26",
+    "time": "Unknown",
+    "distance": "5K / 15K / Infinity",
+    "location": {
+      "name": "Fort Carson, CO",
+      "address": "2700 Wilderness Road, Fort Carson, CO 80913",
+      "map_link": "https://maps.google.com/?q=2700+Wilderness+Road++Fort+Carson++CO+80913"
+    },
+    "registration_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEr5MGnTMFOtt_wuWbQuZBJK3AFnhF6UDQnZ5dbBWL3LPL20qdIxdwk7Zq4r5VC1skbMfjVogJR3E4U1iGFC8mkVAOo7vWxi7U0ZSOy7PkRopNbP16kJ2nQzxOVPDqyxqgqyF4=",
+    "website_url": "https://toughmudder.com/",
+    "description": "Tough Mudder Colorado is scheduled at Fort Carson, Colorado. The course features jaw-dropping views packed with muddy, thigh-burning trails, and insane obstacles for you and your crew to conquer.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tough+Mudder+Colorado&dates=20260926T080000Z%2F20260926T120000Z&details=Tough+Mudder+Colorado+is+scheduled+at+Fort+Carson%2C+Colorado.+The+course+features+jaw-dropping+views+packed+with+muddy%2C+thigh-burning+trails%2C+and+insane+obstacles+for+you+and+your+crew+to+conquer.&location=2700+Wilderness+Road%2C+Fort+Carson%2C+CO+80913",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:tough-mudder-colorado-2026@milehighrunners.com\nDTSTAMP:20260124T000000Z\nDTSTART:20260926T080000Z\nDTEND:20260926T120000Z\nSUMMARY:Tough Mudder Colorado\nDESCRIPTION:Tough Mudder Colorado is scheduled at Fort Carson\\, Colorado. The course features jaw-dropping views packed with muddy\\, thigh-burning trails\\, and insane obstacles for you and your crew to conquer.\nLOCATION:2700 Wilderness Road\\, Fort Carson\\, CO 80913\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+  },
+  {
+    "id": "boulderthon-boulder-marathon-2026",
+    "name": "Boulderthon - Boulder Marathon",
+    "date": "2026-09-27",
+    "time": "Varies",
+    "distance": "Marathon / Half Marathon / 10K / 5K / Kids Run",
+    "location": {
+      "name": "Boulder, CO",
+      "address": "Downtown Boulder, Boulder, CO",
+      "map_link": "https://maps.google.com/?q=Downtown+Boulder++Boulder++CO"
+    },
+    "registration_url": "https://www.boulderthon.org/",
+    "website_url": "https://www.boulderthon.org/",
+    "description": "Run one of the fastest-growing, top-rated marathons in the country! The course starts at Boulder Reservoir, which gives you a true sense of Colorado's scenic beauty. Then you run along the foothills of the Flatirons. Finally, you wind your way into downtown Boulder and finish on the historic Pearl Street Mall.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Boulderthon+-+Boulder+Marathon&dates=20260927T080000Z%2F20260927T120000Z&details=Run+one+of+the+fastest-growing%2C+top-rated+marathons+in+the+country%21+The+course+starts+at+Boulder+Reservoir%2C+which+gives+you+a+true+sense+of+Colorado%27s+scenic+beauty.+Then+you+run+along+the+foothills+o&location=Downtown+Boulder%2C+Boulder%2C+CO",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:boulderthon-boulder-marathon-2026@milehighrunners.com\nDTSTAMP:20260124T000000Z\nDTSTART:20260927T080000Z\nDTEND:20260927T120000Z\nSUMMARY:Boulderthon - Boulder Marathon\nDESCRIPTION:Run one of the fastest-growing\\, top-rated marathons in the country! The course starts at Boulder Reservoir\\, which gives you a true sense of Colorado's scenic beauty. Then you run along the foothills of the Flatirons. Finally\\, you wind your way into downtown Boulder and finish on the historic Pearl Street Mall.\nLOCATION:Downtown Boulder\\, Boulder\\, CO\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+  },
+  {
+    "id": "suicide-prevention-color-walkrun-2026",
+    "name": "Suicide Prevention Color Walk/Run",
+    "date": "2026-09-28",
+    "time": "TBD",
+    "distance": "Walk/Run",
+    "location": {
+      "name": "Center, CO",
+      "address": "Center, CO",
+      "map_link": "https://maps.google.com/?q=Center++CO"
+    },
+    "registration_url": "https://findarace.com/us/colorado/center/2026-suicide-prevention-color-walk-run",
+    "website_url": "https://findarace.com/us/colorado/center/2026-suicide-prevention-color-walk-run",
+    "description": "A color walk/run to support suicide prevention.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Suicide+Prevention+Color+Walk%2FRun&dates=20260928T080000Z%2F20260928T120000Z&details=A+color+walk%2Frun+to+support+suicide+prevention.&location=Center%2C+CO",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:suicide-prevention-color-walkrun-2026@milehighrunners.com\nDTSTAMP:20260124T000000Z\nDTSTART:20260928T080000Z\nDTEND:20260928T120000Z\nSUMMARY:Suicide Prevention Color Walk/Run\nDESCRIPTION:A color walk/run to support suicide prevention.\nLOCATION:Center\\, CO\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+  },
+  {
+    "id": "colorado-springs-marathon-2026",
+    "name": "Colorado Springs Marathon",
+    "date": "2026-10-03",
+    "time": "Unknown",
+    "distance": "5K / Half Marathon / Marathon / Kids K",
+    "location": {
+      "name": "Colorado Springs, CO",
+      "address": "Colorado Springs, CO",
+      "map_link": "https://maps.google.com/?q=Colorado+Springs++CO"
+    },
+    "registration_url": "https://www.coloradospringsmartahon.com/",
+    "website_url": "https://thecoloradospringsmarathon.com/",
+    "description": "The Colorado Springs Marathon presented by Toyota. Whether you are a seasoned runner or looking to tackle your first 5k, we have you covered with 4 events to choose from.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Colorado+Springs+Marathon&dates=20261003T080000Z%2F20261003T120000Z&details=The+Colorado+Springs+Marathon+presented+by+Toyota.+Whether+you+are+a+seasoned+runner+or+looking+to+tackle+your+first+5k%2C+we+have+you+covered+with+4+events+to+choose+from.&location=Colorado+Springs%2C+CO",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:colorado-springs-marathon-2026@milehighrunners.com\nDTSTAMP:20260124T000000Z\nDTSTART:20261003T080000Z\nDTEND:20261003T120000Z\nSUMMARY:Colorado Springs Marathon\nDESCRIPTION:The Colorado Springs Marathon presented by Toyota. Whether you are a seasoned runner or looking to tackle your first 5k\\, we have you covered with 4 events to choose from.\nLOCATION:Colorado Springs\\, CO\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+  },
+  {
+    "id": "blue-sky-marathon-half-2026",
+    "name": "Blue Sky Marathon & Half",
+    "date": "2026-10-17",
+    "time": "7:00 AM",
+    "distance": "Marathon / Half Marathon",
+    "location": {
+      "name": "Fort Collins, CO",
+      "address": "Blue Sky Trailhead, Horsetooth Mountain Park. Fort Collins, CO",
+      "map_link": "https://maps.google.com/?q=Blue+Sky+Trailhead++Horsetooth+Mountain+Park.+Fort+Collins++CO"
+    },
+    "registration_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIjdo6x3NtNZhRocxD_xfSCIXtfEWQe_aAnHLPsbnPuFlj0f1o9oOOk_wjl1GIYZdMDwUNP91tRL9gaGoKo945fnt8a9eOlKjhTOLQTArm3oTj060OCRSvvvjGVrrSp7jAspAq4w==",
+    "website_url": "https://gnarrunners.com/blue-sky-marathon/",
+    "description": "This trail race takes place on trails between Horsetooth Mountain Park and the Devil's Backbone Open Space. The marathon is 26.7 miles with 3,500' elevation gain, and the half marathon is 13.4 miles with 1,800' elevation gain.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Blue+Sky+Marathon+%26+Half&dates=20261017T070000Z%2F20261017T110000Z&details=This+trail+race+takes+place+on+trails+between+Horsetooth+Mountain+Park+and+the+Devil%27s+Backbone+Open+Space.+The+marathon+is+26.7+miles+with+3%2C500%27+elevation+gain%2C+and+the+half+marathon+is+13.4+miles+w&location=Blue+Sky+Trailhead%2C+Horsetooth+Mountain+Park.+Fort+Collins%2C+CO",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:blue-sky-marathon-half-2026@milehighrunners.com\nDTSTAMP:20260124T000000Z\nDTSTART:20261017T070000Z\nDTEND:20261017T110000Z\nSUMMARY:Blue Sky Marathon & Half\nDESCRIPTION:This trail race takes place on trails between Horsetooth Mountain Park and the Devil's Backbone Open Space. The marathon is 26.7 miles with 3\\,500' elevation gain\\, and the half marathon is 13.4 miles with 1\\,800' elevation gain.\nLOCATION:Blue Sky Trailhead\\, Horsetooth Mountain Park. Fort Collins\\, CO\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+  }
+]
