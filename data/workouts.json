@@ -1,28 +1,41 @@
 [
   {
-    "date": "2026-01-22",
+    "date": "2026-01-27",
     "time": "5:20 AM",
     "location": {
-      "name": "Lehigh Park",
-      "address": "Lehigh Park",
-      "map_link": "https://maps.app.goo.gl/mD93cGkn8C2GGZBV8?g_st=ic"
+      "name": "Vista Pointe",
+      "address": "Vista Pointe",
+      "map_link": "https://maps.app.goo.gl/WGHVSMp1CjSjm4Mg8?g_st=ic"
     },
-    "location_link": "https://maps.app.goo.gl/mD93cGkn8C2GGZBV8?g_st=ic",
-    "description": "4 x 1200m: Run the first 1000m of each interval at 10k pace. For the final segment of each interval, \"kick in\" at the following paces: Set 1: Last 100m at mile pace. Set 2: Last 200m at mile pace. Set 3: Last 300m at 5k pace. Set 4: Last 400m at 5k pace. I will explain this in more detail at practice.",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+Lehigh+Park&dates=20260122T122000Z%2F20260122T132000Z&details=4+x+1200m%3A+Run+the+first+1000m+of+each+interval+at+10k+pace.+For+the+final+segment+of+each+interval%2C+%22kick+in%22+at+the+following+paces%3A+Set+1%3A+Last+100m+at+mile+pace.+Set+2%3A+Last+200m+at+mile+pace.+Set+3%3A+Last+300m+at+5k+pace.+Set+4%3A+Last+400m+at+5k+pace.+I+will+explain+this+in+more+detail+at+practice.&location=Lehigh+Park",
-    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwMTIyVDEyMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDEyMlQxMzIyMzJaDQpEVFNUQVJUOjIwMjYwMTIyVDEyMjAwMFoNCkRURU5EOjIwMjYwMTIyVDEzMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IExlaGlnaCBQYXJrDQpERVNDUklQVElPTjo0IHggMTIwMG06IFJ1biB0aGUgZmlyc3QgMTAwMG0gb2YgZWFjaCBpbnRlcnZhbCBhdCAxMGsgcGFjZS4gRm9yIHRoZSBmaW5hbCBzZWdtZW50IG9mIGVhY2ggaW50ZXJ2YWxcLCAia2ljayBpbiIgYXQgdGhlIGZvbGxvd2luZyBwYWNlczogU2V0IDE6IExhc3QgMTAwbSBhdCBtaWxlIHBhY2UuIFNldCAyOiBMYXN0IDIwMG0gYXQgbWlsZSBwYWNlLiBTZXQgMzogTGFzdCAzMDBtIGF0IDVrIHBhY2UuIFNldCA0OiBMYXN0IDQwMG0gYXQgNWsgcGFjZS4gSSB3aWxsIGV4cGxhaW4gdGhpcyBpbiBtb3JlIGRldGFpbCBhdCBwcmFjdGljZS4NCkxPQ0FUSU9OOkxlaGlnaCBQYXJrDQpTVEFUVVM6Q09ORklSTUVEDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFS"
+    "location_link": "https://maps.app.goo.gl/WGHVSMp1CjSjm4Mg8?g_st=ic",
+    "description": "6 - 9 x 600m (rolling hills) at 5k effort with 90 - 120 seconds of recovery between intervals.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+Vista+Pointe&dates=20260127T122000Z%2F20260127T132000Z&details=6+-+9+x+600m+%28rolling+hills%29+at+5k+effort+with+90+-+120+seconds+of+recovery+between+intervals.&location=Vista+Pointe",
+    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwMTI3VDEyMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDEyNlQwMDIzMjhaDQpEVFNUQVJUOjIwMjYwMTI3VDEyMjAwMFoNCkRURU5EOjIwMjYwMTI3VDEzMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IFZpc3RhIFBvaW50ZQ0KREVTQ1JJUFRJT046NiAtIDkgeCA2MDBtIChyb2xsaW5nIGhpbGxzKSBhdCA1ayBlZmZvcnQgd2l0aCA5MCAtIDEyMCBzZWNvbmRzIG9mIHJlY292ZXJ5IGJldHdlZW4gaW50ZXJ2YWxzLg0KTE9DQVRJT046VmlzdGEgUG9pbnRlDQpTVEFUVVM6Q09ORklSTUVEDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFS"
   },
   {
-    "date": "2026-01-24",
+    "date": "2026-01-29",
+    "time": "5:20 AM",
+    "location": {
+      "name": "Vista Pointe",
+      "address": "Vista Pointe",
+      "map_link": "https://maps.app.goo.gl/WGHVSMp1CjSjm4Mg8?g_st=ic"
+    },
+    "location_link": "https://maps.app.goo.gl/WGHVSMp1CjSjm4Mg8?g_st=ic",
+    "description": "1-1-1-2 at 10k effort (run by feel).",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+Vista+Pointe&dates=20260129T122000Z%2F20260129T132000Z&details=1-1-1-2+at+10k+effort+%28run+by+feel%29.&location=Vista+Pointe",
+    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwMTI5VDEyMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDEyNlQwMDIzMjhaDQpEVFNUQVJUOjIwMjYwMTI5VDEyMjAwMFoNCkRURU5EOjIwMjYwMTI5VDEzMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IFZpc3RhIFBvaW50ZQ0KREVTQ1JJUFRJT046MS0xLTEtMiBhdCAxMGsgZWZmb3J0IChydW4gYnkgZmVlbCkuDQpMT0NBVElPTjpWaXN0YSBQb2ludGUNClNUQVRVUzpDT05GSVJNRUQNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVI="
+  },
+  {
+    "date": "2026-01-31",
     "time": "7:30 AM",
     "location": {
-      "name": "Rafa\u2019s house",
-      "address": "Rafa\u2019s house",
-      "map_link": "https://maps.app.goo.gl/kQfK4okuHqwF1pvy5?g_st=ic"
+      "name": "Winot Coffee Shop",
+      "address": "Winot Coffee Shop",
+      "map_link": "https://maps.app.goo.gl/u7BzLyDRrWJ3AZg9A?g_st=ic"
     },
-    "location_link": "https://maps.app.goo.gl/kQfK4okuHqwF1pvy5?g_st=ic",
-    "description": "Social & Birthday Celebration (bring a breakfast treat to share. Allie will be providing birthday cake and coffee.)",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+Rafa%E2%80%99s+house&dates=20260124T143000Z%2F20260124T153000Z&details=Social+%26+Birthday+Celebration+%28bring+a+breakfast+treat+to+share.+Allie+will+be+providing+birthday+cake+and+coffee.%29&location=Rafa%E2%80%99s+house",
-    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwMTI0VDE0MzAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDEyMlQxMzIyMzJaDQpEVFNUQVJUOjIwMjYwMTI0VDE0MzAwMFoNCkRURU5EOjIwMjYwMTI0VDE1MzAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IFJhZmHigJlzIGhvdXNlDQpERVNDUklQVElPTjpTb2NpYWwgJiBCaXJ0aGRheSBDZWxlYnJhdGlvbiAoYnJpbmcgYSBicmVha2Zhc3QgdHJlYXQgdG8gc2hhcmUuIEFsbGllIHdpbGwgYmUgcHJvdmlkaW5nIGJpcnRoZGF5IGNha2UgYW5kIGNvZmZlZS4pDQpMT0NBVElPTjpSYWZh4oCZcyBob3VzZQ0KU1RBVFVTOkNPTkZJUk1FRA0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg=="
+    "location_link": "https://maps.app.goo.gl/u7BzLyDRrWJ3AZg9A?g_st=ic",
+    "description": "Group social run. All levels and abilities are welcome\u2014the more the merrier.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+Winot+Coffee+Shop&dates=20260131T143000Z%2F20260131T153000Z&details=Group+social+run.+All+levels+and+abilities+are+welcome%E2%80%94the+more+the+merrier.&location=Winot+Coffee+Shop",
+    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwMTMxVDE0MzAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDEyNlQwMDIzMjhaDQpEVFNUQVJUOjIwMjYwMTMxVDE0MzAwMFoNCkRURU5EOjIwMjYwMTMxVDE1MzAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IFdpbm90IENvZmZlZSBTaG9wDQpERVNDUklQVElPTjpHcm91cCBzb2NpYWwgcnVuLiBBbGwgbGV2ZWxzIGFuZCBhYmlsaXRpZXMgYXJlIHdlbGNvbWXigJR0aGUgbW9yZSB0aGUgbWVycmllci4NCkxPQ0FUSU9OOldpbm90IENvZmZlZSBTaG9wDQpTVEFUVVM6Q09ORklSTUVEDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFS"
   }
 ]
