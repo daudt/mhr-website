@@ -86,20 +86,15 @@
                     </div>
                     <div class="subscribe-buttons">
                         <a href="https://calendar.google.com/calendar/r?cid=webcal://milehighrunners.com/data/races.ics"
-                           target="_blank"
-                           class="subscribe-btn google-btn"
-                           title="Subscribe with Google Calendar">
+                            target="_blank" class="subscribe-btn google-btn" title="Subscribe with Google Calendar">
                             <i class="fab fa-google"></i> Google Calendar
                         </a>
-                        <a href="webcal://milehighrunners.com/data/races.ics"
-                           class="subscribe-btn apple-btn"
-                           title="Subscribe with Apple Calendar">
+                        <a href="webcal://milehighrunners.com/data/races.ics" class="subscribe-btn apple-btn"
+                            title="Subscribe with Apple Calendar">
                             <i class="fab fa-apple"></i> Apple Calendar
                         </a>
-                        <a href="data/races.ics"
-                           download="mhr-races.ics"
-                           class="subscribe-btn ics-btn"
-                           title="Download ICS file">
+                        <a href="data/races.ics" download="mhr-races.ics" class="subscribe-btn ics-btn"
+                            title="Download ICS file">
                             <i class="fas fa-download"></i> Download .ics
                         </a>
                     </div>
@@ -145,7 +140,8 @@
                     <div class="legend-items">
                         <span class="legend-item"><span class="distance-badge badge-5k">5K</span> 5 Kilometers</span>
                         <span class="legend-item"><span class="distance-badge badge-10k">10K</span> 10 Kilometers</span>
-                        <span class="legend-item"><span class="distance-badge badge-half">Half</span> Half Marathon</span>
+                        <span class="legend-item"><span class="distance-badge badge-half">Half</span> Half
+                            Marathon</span>
                         <span class="legend-item"><span class="distance-badge badge-full">Full</span> Marathon</span>
                     </div>
                 </div>
@@ -187,6 +183,17 @@
             <p>&copy; 2026 Mile High Runners. All rights reserved.</p>
         </div>
     </footer>
+
+    <!-- Race Details Modal -->
+    <div id="race-modal" class="modal">
+        <div class="modal-content">
+            <span class="close-modal">&times;</span>
+            <div class="modal-header">
+                <h3>Events on <span id="modal-date"></span></h3>
+            </div>
+            <div class="modal-body" id="modal-races"></div>
+        </div>
+    </div>
 
     <script src="main.js"></script>
     <script>
@@ -358,6 +365,69 @@
             return `<span class="distance-badge ${badgeClass}">${badgeText}</span>`;
         }
 
+
+        // Modal elements
+        const modal = document.getElementById('race-modal');
+        const modalClose = document.getElementsByClassName('close-modal')[0];
+        const modalDate = document.getElementById('modal-date');
+        const modalBody = document.getElementById('modal-races');
+
+        if (modal && modalClose) {
+            modalClose.onclick = () => modal.style.display = "none";
+            window.onclick = (event) => {
+                if (event.target == modal) {
+                    modal.style.display = "none";
+                }
+            };
+        }
+
+        function openModal(year, month, day) {
+            const dateStr = `${year}-${String(month + 1).padStart(2, '0')}-${String(day).padStart(2, '0')}`;
+            const racesOnDay = allRaces.filter(race => race.date === dateStr);
+            const dateObj = new Date(year, month, day);
+
+            if (modalDate) {
+                modalDate.textContent = dateObj.toLocaleDateString('en-US', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
+            }
+
+            let html = '';
+            racesOnDay.forEach(race => {
+                const distanceBadge = getDistanceBadge(race.distance);
+
+                // Simplified race item for modal
+                html += '<div class="race-item" style="flex-direction: column; gap: 0.5rem; border-left: 4px solid var(--secondary-color); padding: 1rem; margin-bottom: 1rem; background: var(--light-gray); border-radius: 4px;">';
+                html += `<div class="race-details">`;
+                html += `<h3 style="font-size: 1.1rem; margin-bottom: 0.5rem;">${race.name} ${distanceBadge}</h3>`;
+
+                // Time
+                if (race.time) {
+                    html += `<p class="race-datetime"><i class="far fa-clock"></i> ${race.time}</p>`;
+                }
+
+                // Location
+                if (race.location && race.location.name) {
+                    html += `<p class="race-location"><i class="fas fa-map-marker-alt"></i> ${race.location.name}</p>`;
+                }
+
+                // Links
+                html += '<div class="race-actions" style="margin-top: 0.5rem;">';
+                if (race.website_url) {
+                    html += `<a href="${race.website_url}" target="_blank" class="race-action-btn website-btn" style="padding: 0.3rem 0.6rem; font-size: 0.8rem;">Website</a>`;
+                }
+                if (race.registration_url) {
+                    html += `<a href="${race.registration_url}" target="_blank" class="race-action-btn register-btn" style="padding: 0.3rem 0.6rem; font-size: 0.8rem;">Register</a>`;
+                }
+                html += '</div>';
+
+                html += '</div></div>';
+            });
+
+            if (modalBody) {
+                modalBody.innerHTML = html;
+                modal.style.display = "block";
+            }
+        }
+
         function renderCalendarView() {
             const monthYear = document.getElementById('calendar-month-year');
             const daysContainer = document.getElementById('calendar-days');
@@ -368,6 +438,10 @@
             const totalDays = lastDay.getDate();
 
             monthYear.textContent = firstDay.toLocaleDateString('en-US', { month: 'long', year: 'numeric' });
+
+            // Determine max visible based on screen width
+            const isMobile = window.innerWidth <= 768;
+            const MAX_VISIBLE = isMobile ? 1 : 2;
 
             let html = '';
 
@@ -387,10 +461,25 @@
 
                 if (racesOnDay.length > 0) {
                     html += '<div class="calendar-races">';
-                    racesOnDay.forEach(race => {
-                        const distBadge = getDistanceBadge(race.distance);
-                        html += `<a href="${race.website_url || race.registration_url || '#'}" target="_blank" class="calendar-race-item" title="${race.name}">${race.name.length > 15 ? race.name.substring(0, 15) + '...' : race.name}</a>`;
+
+                    // Determine which races to show
+                    let displayRaces = racesOnDay;
+                    let moreCount = 0;
+
+                    if (racesOnDay.length > MAX_VISIBLE) {
+                        displayRaces = racesOnDay.slice(0, MAX_VISIBLE);
+                        moreCount = racesOnDay.length - MAX_VISIBLE;
+                    }
+
+                    displayRaces.forEach(race => {
+                        html += `<a href="${race.website_url || race.registration_url || '#'}" target="_blank" class="calendar-race-item" title="${race.name}">${race.name}</a>`;
                     });
+
+                    // Show "+ X more" button if needed
+                    if (moreCount > 0) {
+                        html += `<button class="more-events-btn" onclick="openModal(${currentYear}, ${currentMonth}, ${day})">+ ${moreCount} more</button>`;
+                    }
+
                     html += '</div>';
                 }
 
@@ -434,6 +523,13 @@
                 currentYear++;
             }
             renderCalendarView();
+        });
+
+        // Re-render on window resize to adjust visible event count
+        window.addEventListener('resize', () => {
+            if (document.getElementById('calendar-view').style.display !== 'none') {
+                renderCalendarView();
+            }
         });
     </script>
 

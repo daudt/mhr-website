@@ -1689,7 +1689,7 @@ h6 {
 
 .calendar-weekdays {
     display: grid;
-    grid-template-columns: repeat(7, 1fr);
+    grid-template-columns: repeat(7, minmax(0, 1fr));
     gap: 2px;
     margin-bottom: 0.5rem;
 }
@@ -1704,7 +1704,7 @@ h6 {
 
 .calendar-days {
     display: grid;
-    grid-template-columns: repeat(7, 1fr);
+    grid-template-columns: repeat(7, minmax(0, 1fr));
     gap: 2px;
 }
 
@@ -1840,4 +1840,87 @@ h6 {
         padding: 0.5rem 1rem;
         font-size: 0.9rem;
     }
+}/* Calendar Modal */
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 2000;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0, 0, 0, 0.5);
+    animation: fadeIn 0.3s ease;
+}
+
+.modal-content {
+    background-color: var(--white);
+    margin: 15% auto;
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+    width: 90%;
+    max-width: 500px;
+    position: relative;
+    animation: slideDown 0.3s ease;
+}
+
+.close-modal {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: color 0.3s ease;
+}
+
+.close-modal:hover,
+.close-modal:focus {
+    color: var(--primary-color);
+    text-decoration: none;
+}
+
+.modal-header h3 {
+    color: var(--primary-color);
+    margin-bottom: 1.5rem;
+    padding-right: 2rem;
+}
+
+.modal-body .race-item {
+    margin-bottom: 1rem;
+    padding: 1rem;
+    border-left-width: 3px;
+    background-color: var(--light-gray);
+}
+
+@keyframes slideDown {
+    from {
+        opacity: 0;
+        transform: translateY(-20px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.more-events-btn {
+    display: block;
+    width: 100%;
+    background-color: var(--light-gray);
+    color: var(--primary-color);
+    text-align: center;
+    padding: 0.2rem;
+    font-size: 0.75rem;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    margin-top: 0.25rem;
+    font-weight: 600;
+}
+
+.more-events-btn:hover {
+    background-color: #e0e0e0;
 }
