@@ -1562,6 +1562,10 @@ h6 {
     background-color: #f39c12;
 }
 
+.badge-ultra {
+    background-color: #16a085;
+}
+
 .badge-other {
     background-color: #95a5a6;
 }
@@ -1840,7 +1844,9 @@ h6 {
         padding: 0.5rem 1rem;
         font-size: 0.9rem;
     }
-}/* Calendar Modal */
+}
+
+/* Calendar Modal */
 .modal {
     display: none;
     position: fixed;

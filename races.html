@@ -143,6 +143,8 @@
                         <span class="legend-item"><span class="distance-badge badge-half">Half</span> Half
                             Marathon</span>
                         <span class="legend-item"><span class="distance-badge badge-full">Full</span> Marathon</span>
+                        <span class="legend-item"><span class="distance-badge badge-ultra">Ultra</span> Ultra
+                            Marathon</span>
                     </div>
                 </div>
 
@@ -337,7 +339,10 @@
             let badgeClass = 'badge-other';
             let badgeText = distance;
 
-            if (distLower.includes('marathon') && !distLower.includes('half')) {
+            if (distLower.includes('ultra') || distLower.includes('50k') || distLower.includes('50m') || distLower.includes('100k') || distLower.includes('100m')) {
+                badgeClass = 'badge-ultra';
+                badgeText = 'Ultra';
+            } else if (distLower.includes('marathon') && !distLower.includes('half')) {
                 if (distLower.includes('/') || distLower.includes('half')) {
                     badgeClass = 'badge-multi';
                     badgeText = 'Multi';
