@@ -8,7 +8,7 @@ on:
 
 jobs:
   update-gallery:
-    runs-on: ubuntu-latest
+    runs-on: arc-runner-set
     permissions:
       contents: write
 
