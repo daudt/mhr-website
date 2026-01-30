@@ -222,6 +222,25 @@ h6 {
     transform: scale(1.05);
 }
 
+.load-more-btn {
+    display: block;
+    margin: 2rem auto 0;
+    padding: 1rem 2rem;
+    font-size: 1rem;
+    font-weight: 600;
+    color: white;
+    background-color: var(--primary-color);
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.load-more-btn:hover {
+    background-color: var(--secondary-color);
+    transform: translateY(-2px);
+}
+
 /* Lightbox */
 .lightbox {
     display: none;

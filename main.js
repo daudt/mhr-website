@@ -58,11 +58,11 @@ document.addEventListener('DOMContentLoaded', () => {
     const galleryGrid = document.getElementById('gallery-grid');
     const lightbox = document.getElementById('lightbox');
 
-    console.log('Gallery elements:', { galleryGrid: !!galleryGrid, lightbox: !!lightbox });
-
     if (galleryGrid && lightbox) {
         let galleryImages = [];
         let currentImageIndex = 0;
+        let displayedCount = 0;
+        const IMAGES_PER_PAGE = 20;
 
         const lightboxImage = document.getElementById('lightbox-image');
         const lightboxCounter = document.getElementById('lightbox-counter');
@@ -70,37 +70,60 @@ document.addEventListener('DOMContentLoaded', () => {
         const lightboxPrev = document.querySelector('.lightbox-prev');
         const lightboxNext = document.querySelector('.lightbox-next');
 
+        // Create Load More button
+        const loadMoreBtn = document.createElement('button');
+        loadMoreBtn.className = 'load-more-btn';
+        loadMoreBtn.textContent = 'Load More Photos';
+        loadMoreBtn.style.display = 'none';
+        galleryGrid.parentNode.appendChild(loadMoreBtn);
+
+        function displayImages(startIndex, count) {
+            const endIndex = Math.min(startIndex + count, galleryImages.length);
+
+            for (let i = startIndex; i < endIndex; i++) {
+                const image = galleryImages[i];
+                const item = document.createElement('div');
+                item.className = 'gallery-item';
+                item.dataset.index = i;
+
+                const img = document.createElement('img');
+                img.src = `images/gallery/${image}`;
+                img.alt = 'Mile High Runners Gallery Image';
+                img.loading = 'lazy';
+
+                item.appendChild(img);
+                galleryGrid.appendChild(item);
+
+                item.addEventListener('click', () => openLightbox(i));
+            }
+
+            displayedCount = endIndex;
+
+            // Update button visibility and text
+            if (displayedCount < galleryImages.length) {
+                const remaining = galleryImages.length - displayedCount;
+                loadMoreBtn.textContent = `Load More Photos (${remaining} remaining)`;
+                loadMoreBtn.style.display = 'block';
+            } else {
+                loadMoreBtn.style.display = 'none';
+            }
+        }
+
+        loadMoreBtn.addEventListener('click', () => {
+            displayImages(displayedCount, IMAGES_PER_PAGE);
+        });
+
         // Fetch and display gallery images
         fetch('data/gallery.json')
             .then(response => {
-                console.log('Gallery fetch response:', response.status);
                 if (!response.ok) {
                     throw new Error(`HTTP error! status: ${response.status}`);
                 }
                 return response.json();
             })
             .then(images => {
-                console.log('Gallery images loaded:', images.length);
                 galleryImages = images;
-
-                images.forEach((image, index) => {
-                    const item = document.createElement('div');
-                    item.className = 'gallery-item';
-                    item.dataset.index = index;
-
-                    const img = document.createElement('img');
-                    img.src = `images/gallery/${image}`;
-                    img.alt = 'Mile High Runners Gallery Image';
-                    img.loading = 'lazy'; // Native lazy loading
-
-                    item.appendChild(img);
-                    galleryGrid.appendChild(item);
-
-                    // Click to open lightbox
-                    item.addEventListener('click', () => openLightbox(index));
-                });
-
-                console.log(`Gallery loaded: ${images.length} images`);
+                displayImages(0, IMAGES_PER_PAGE);
             })
             .catch(err => {
                 console.error('Error loading gallery:', err);
