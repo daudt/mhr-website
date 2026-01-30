@@ -58,6 +58,8 @@ document.addEventListener('DOMContentLoaded', () => {
     const galleryGrid = document.getElementById('gallery-grid');
     const lightbox = document.getElementById('lightbox');
 
+    console.log('Gallery elements:', { galleryGrid: !!galleryGrid, lightbox: !!lightbox });
+
     if (galleryGrid && lightbox) {
         let galleryImages = [];
         let currentImageIndex = 0;
@@ -70,8 +72,15 @@ document.addEventListener('DOMContentLoaded', () => {
 
         // Fetch and display gallery images
         fetch('data/gallery.json')
-            .then(response => response.json())
+            .then(response => {
+                console.log('Gallery fetch response:', response.status);
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+                return response.json();
+            })
             .then(images => {
+                console.log('Gallery images loaded:', images.length);
                 galleryImages = images;
 
                 images.forEach((image, index) => {
@@ -93,7 +102,10 @@ document.addEventListener('DOMContentLoaded', () => {
 
                 console.log(`Gallery loaded: ${images.length} images`);
             })
-            .catch(err => console.error('Error loading gallery:', err));
+            .catch(err => {
+                console.error('Error loading gallery:', err);
+                galleryGrid.innerHTML = `<p style="color: red; padding: 2rem;">Error loading gallery: ${err.message}</p>`;
+            });
 
         function openLightbox(index) {
             currentImageIndex = index;
