@@ -187,30 +187,29 @@
             </div>
         </section>
 
-        <section class="slideshow-section">
-            <div class="slideshow-container">
+        <section class="gallery-section">
+            <div class="gallery-container">
                 <h2>Gallery</h2>
-                <div class="slideshow-wrapper">
-                    <div class="slideshow">
-                        <!-- Slides will be dynamically populated -->
-                        <button class="slideshow-btn prev-btn" aria-label="Previous image">
-                            <i class="fas fa-chevron-left"></i>
-                        </button>
-                        <button class="slideshow-btn next-btn" aria-label="Next image">
-                            <i class="fas fa-chevron-right"></i>
-                        </button>
-                        <div class="slideshow-controls">
-                            <button class="slideshow-play-pause" aria-label="Pause slideshow">
-                                <i class="fas fa-pause"></i>
-                            </button>
-                            <div class="slideshow-indicators">
-                                <!-- Indicators will be dynamically populated -->
-                            </div>
-                        </div>
-                    </div>
+                <div class="gallery-grid" id="gallery-grid">
+                    <!-- Images will be dynamically populated -->
                 </div>
             </div>
         </section>
+
+        <!-- Lightbox -->
+        <div class="lightbox" id="lightbox" aria-hidden="true">
+            <button class="lightbox-close" aria-label="Close lightbox">&times;</button>
+            <button class="lightbox-prev" aria-label="Previous image">
+                <i class="fas fa-chevron-left"></i>
+            </button>
+            <button class="lightbox-next" aria-label="Next image">
+                <i class="fas fa-chevron-right"></i>
+            </button>
+            <div class="lightbox-content">
+                <img id="lightbox-image" src="" alt="Gallery image">
+            </div>
+            <div class="lightbox-counter" id="lightbox-counter"></div>
+        </div>
 
         <section class="upcoming-events">
             <h2>Upcoming Events</h2>
