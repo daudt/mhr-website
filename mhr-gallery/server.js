@@ -316,8 +316,9 @@ app.post('/upload', upload.single('photo'), async (req, res) => {
       return res.status(400).json({ success: false, error: 'No file uploaded' });
     }
 
-    // Resize and convert to JPEG
+    // Resize and convert to JPEG (rotate based on EXIF orientation)
     const resizedBuffer = await sharp(req.file.buffer)
+      .rotate() // Auto-rotate based on EXIF orientation
       .resize(IMAGE_WIDTH, null, { withoutEnlargement: true })
       .jpeg({ quality: JPEG_QUALITY })
       .toBuffer();
