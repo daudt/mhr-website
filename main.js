@@ -54,201 +54,164 @@ document.addEventListener('DOMContentLoaded', () => {
         lastScroll = currentScroll;
     });
 
-    // Slideshow functionality
-    const slideshow = document.querySelector('.slideshow');
-    if (slideshow) {
-        // Fetch gallery images
+    // Gallery Grid + Lightbox functionality
+    const galleryGrid = document.getElementById('gallery-grid');
+    const lightbox = document.getElementById('lightbox');
+
+    if (galleryGrid && lightbox) {
+        let galleryImages = [];
+        let currentImageIndex = 0;
+        let displayedCount = 0;
+        const IMAGES_PER_PAGE = 20;
+
+        const lightboxImage = document.getElementById('lightbox-image');
+        const lightboxCounter = document.getElementById('lightbox-counter');
+        const lightboxClose = document.querySelector('.lightbox-close');
+        const lightboxPrev = document.querySelector('.lightbox-prev');
+        const lightboxNext = document.querySelector('.lightbox-next');
+
+        // Create Load More button
+        const loadMoreBtn = document.createElement('button');
+        loadMoreBtn.className = 'load-more-btn';
+        loadMoreBtn.textContent = 'Load More Photos';
+        loadMoreBtn.style.display = 'none';
+        galleryGrid.parentNode.appendChild(loadMoreBtn);
+
+        function displayImages(startIndex, count) {
+            const endIndex = Math.min(startIndex + count, galleryImages.length);
+
+            for (let i = startIndex; i < endIndex; i++) {
+                const image = galleryImages[i];
+                const item = document.createElement('div');
+                item.className = 'gallery-item';
+                item.dataset.index = i;
+
+                const img = document.createElement('img');
+                img.src = `images/gallery/${image}`;
+                img.alt = 'Mile High Runners Gallery Image';
+                img.loading = 'lazy';
+
+                item.appendChild(img);
+                galleryGrid.appendChild(item);
+
+                item.addEventListener('click', () => openLightbox(i));
+            }
+
+            displayedCount = endIndex;
+
+            // Update button visibility and text
+            if (displayedCount < galleryImages.length) {
+                const remaining = galleryImages.length - displayedCount;
+                loadMoreBtn.textContent = `Load More Photos (${remaining} remaining)`;
+                loadMoreBtn.style.display = 'block';
+            } else {
+                loadMoreBtn.style.display = 'none';
+            }
+        }
+
+        loadMoreBtn.addEventListener('click', () => {
+            displayImages(displayedCount, IMAGES_PER_PAGE);
+        });
+
+        // Fetch and display gallery images
         fetch('data/gallery.json')
-            .then(response => response.json())
-            .then(images => {
-                const prevBtn = document.querySelector('.prev-btn'); // moved inside
-
-                // Insert slides
-                images.forEach((image, index) => {
-                    const slideDiv = document.createElement('div');
-                    slideDiv.className = `slide ${index === 0 ? 'active' : ''}`;
-                    const img = document.createElement('img');
-                    img.src = `images/gallery/${image}`;
-                    img.alt = 'Mile High Runners Gallery Image';
-                    slideDiv.appendChild(img);
-
-                    // Insert before the buttons
-                    slideshow.insertBefore(slideDiv, prevBtn);
-                });
-
-                // Insert indicators
-                const indicatorsContainer = document.querySelector('.slideshow-indicators');
-                if (indicatorsContainer) {
-                    images.forEach((_, index) => {
-                        const indicator = document.createElement('span');
-                        indicator.className = `indicator ${index === 0 ? 'active' : ''}`;
-                        indicator.dataset.slide = index;
-                        indicatorsContainer.appendChild(indicator);
-                    });
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
                 }
-
-                initializeSlideshow();
+                return response.json();
             })
-            .catch(err => console.error('Error loading gallery:', err));
-
-        function initializeSlideshow() {
-            const slides = slideshow.querySelectorAll('.slide');
-            const indicators = document.querySelectorAll('.slideshow-indicators .indicator');
-            const prevBtn = document.querySelector('.prev-btn');
-            const nextBtn = document.querySelector('.next-btn');
-            const playPauseBtn = document.querySelector('.slideshow-play-pause');
-            const playPauseIcon = playPauseBtn?.querySelector('i');
-
-            console.log('Slideshow initialized:', {
-                slidesCount: slides.length,
-                indicatorsCount: indicators.length,
-                prevBtn: !!prevBtn,
-                nextBtn: !!nextBtn,
-                playPauseBtn: !!playPauseBtn
+            .then(images => {
+                galleryImages = images;
+                displayImages(0, IMAGES_PER_PAGE);
+            })
+            .catch(err => {
+                console.error('Error loading gallery:', err);
+                galleryGrid.innerHTML = `<p style="color: red; padding: 2rem;">Error loading gallery: ${err.message}</p>`;
             });
 
-            let currentSlide = 0;
-            let isPlaying = true;
-            let slideshowInterval;
-            let isHovering = false;
+        function openLightbox(index) {
+            currentImageIndex = index;
+            updateLightboxImage();
+            lightbox.classList.add('active');
+            lightbox.setAttribute('aria-hidden', 'false');
+            document.body.style.overflow = 'hidden'; // Prevent background scrolling
+        }
 
-            function showSlide(index) {
-                // Remove active class from all slides and indicators
-                slides.forEach(slide => slide.classList.remove('active'));
-                indicators.forEach(indicator => indicator.classList.remove('active'));
+        function closeLightbox() {
+            lightbox.classList.remove('active');
+            lightbox.setAttribute('aria-hidden', 'true');
+            document.body.style.overflow = ''; // Restore scrolling
+        }
 
-                // Add active class to current slide and indicator
-                if (slides[index]) {
-                    slides[index].classList.add('active');
-                }
-                if (indicators[index]) {
-                    indicators[index].classList.add('active');
-                }
+        function updateLightboxImage() {
+            const image = galleryImages[currentImageIndex];
+            lightboxImage.src = `images/gallery/${image}`;
+            lightboxCounter.textContent = `${currentImageIndex + 1} / ${galleryImages.length}`;
+        }
 
-                currentSlide = index;
+        function nextImage() {
+            currentImageIndex = (currentImageIndex + 1) % galleryImages.length;
+            updateLightboxImage();
+        }
+
+        function prevImage() {
+            currentImageIndex = (currentImageIndex - 1 + galleryImages.length) % galleryImages.length;
+            updateLightboxImage();
+        }
+
+        // Event listeners
+        lightboxClose.addEventListener('click', closeLightbox);
+        lightboxNext.addEventListener('click', nextImage);
+        lightboxPrev.addEventListener('click', prevImage);
+
+        // Close on background click
+        lightbox.addEventListener('click', (e) => {
+            if (e.target === lightbox || e.target === document.querySelector('.lightbox-content')) {
+                closeLightbox();
             }
+        });
 
-            function nextSlide() {
-                const nextIndex = (currentSlide + 1) % slides.length;
-                showSlide(nextIndex);
+        // Keyboard navigation
+        document.addEventListener('keydown', (e) => {
+            if (!lightbox.classList.contains('active')) return;
+
+            if (e.key === 'Escape') {
+                closeLightbox();
+            } else if (e.key === 'ArrowRight') {
+                e.preventDefault();
+                nextImage();
+            } else if (e.key === 'ArrowLeft') {
+                e.preventDefault();
+                prevImage();
             }
+        });
 
-            function prevSlide() {
-                const prevIndex = (currentSlide - 1 + slides.length) % slides.length;
-                showSlide(prevIndex);
-            }
+        // Touch swipe support for mobile
+        let touchStartX = 0;
+        let touchEndX = 0;
 
-            function startSlideshow() {
-                if (slideshowInterval) return;
-                slideshowInterval = setInterval(nextSlide, 4000); // Change slide every 4 seconds
-                isPlaying = true;
-                if (playPauseIcon) {
-                    playPauseIcon.classList.remove('fa-play');
-                    playPauseIcon.classList.add('fa-pause');
-                }
-            }
+        lightbox.addEventListener('touchstart', (e) => {
+            touchStartX = e.changedTouches[0].screenX;
+        }, { passive: true });
 
-            function stopSlideshow() {
-                clearInterval(slideshowInterval);
-                slideshowInterval = null;
-                isPlaying = false;
-                if (playPauseIcon) {
-                    playPauseIcon.classList.remove('fa-pause');
-                    playPauseIcon.classList.add('fa-play');
-                }
-            }
+        lightbox.addEventListener('touchend', (e) => {
+            touchEndX = e.changedTouches[0].screenX;
+            handleSwipe();
+        }, { passive: true });
 
-            function toggleSlideshow() {
-                if (isPlaying) {
-                    stopSlideshow();
+        function handleSwipe() {
+            const swipeThreshold = 50;
+            const diff = touchStartX - touchEndX;
+
+            if (Math.abs(diff) > swipeThreshold) {
+                if (diff > 0) {
+                    nextImage(); // Swipe left = next
                 } else {
-                    startSlideshow();
+                    prevImage(); // Swipe right = prev
                 }
             }
-
-            // Event listeners
-            if (nextBtn) {
-                nextBtn.addEventListener('click', () => {
-                    nextSlide();
-                    if (isPlaying) {
-                        stopSlideshow();
-                        startSlideshow();
-                    }
-                });
-            }
-
-            if (prevBtn) {
-                prevBtn.addEventListener('click', () => {
-                    prevSlide();
-                    if (isPlaying) {
-                        stopSlideshow();
-                        startSlideshow();
-                    }
-                });
-            }
-
-            if (playPauseBtn) {
-                playPauseBtn.addEventListener('click', toggleSlideshow);
-            }
-
-            // Indicator clicks
-            indicators.forEach((indicator, index) => {
-                indicator.addEventListener('click', (e) => {
-                    e.preventDefault();
-                    e.stopPropagation();
-                    showSlide(index);
-                    if (isPlaying) {
-                        stopSlideshow();
-                        startSlideshow();
-                    }
-                });
-            });
-
-            // Keyboard navigation
-            document.addEventListener('keydown', (e) => {
-                // Only handle keyboard navigation if slideshow is visible and user isn't typing in an input
-                if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA') {
-                    return;
-                }
-
-                if (e.key === 'ArrowLeft') {
-                    e.preventDefault();
-                    prevSlide();
-                    if (isPlaying) {
-                        stopSlideshow();
-                        startSlideshow();
-                    }
-                } else if (e.key === 'ArrowRight') {
-                    e.preventDefault();
-                    nextSlide();
-                    if (isPlaying) {
-                        stopSlideshow();
-                        startSlideshow();
-                    }
-                } else if (e.key === ' ' && isHovering) {
-                    e.preventDefault();
-                    toggleSlideshow();
-                }
-            });
-
-            // Initialize first slide
-            showSlide(0);
-
-            // Start slideshow on page load
-            startSlideshow();
-
-            // Pause slideshow when user hovers over it
-            slideshow.addEventListener('mouseenter', () => {
-                isHovering = true;
-                stopSlideshow();
-            });
-            slideshow.addEventListener('mouseleave', () => {
-                isHovering = false;
-                if (isPlaying) {
-                    startSlideshow();
-                }
-            });
-        } // End of initializeSlideshow
+        }
     }
 
 
