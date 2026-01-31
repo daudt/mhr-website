@@ -202,6 +202,81 @@ app.get('/', (req, res) => {
     const uploadBtn = document.getElementById('uploadBtn');
     const status = document.getElementById('status');
 
+    // Read EXIF orientation from file (before iOS strips it)
+    function getExifOrientation(file) {
+      return new Promise((resolve) => {
+        const reader = new FileReader();
+        reader.onload = (e) => {
+          const view = new DataView(e.target.result);
+          if (view.getUint16(0, false) !== 0xFFD8) return resolve(1);
+
+          let offset = 2;
+          while (offset < view.byteLength) {
+            const marker = view.getUint16(offset, false);
+            offset += 2;
+            if (marker === 0xFFE1) {
+              if (view.getUint32(offset + 2, false) !== 0x45786966) return resolve(1);
+              const little = view.getUint16(offset + 8, false) === 0x4949;
+              offset += 10;
+              const tags = view.getUint16(offset, little);
+              offset += 2;
+              for (let i = 0; i < tags; i++) {
+                if (view.getUint16(offset + (i * 12), little) === 0x0112) {
+                  return resolve(view.getUint16(offset + (i * 12) + 8, little));
+                }
+              }
+              return resolve(1);
+            } else if ((marker & 0xFF00) !== 0xFF00) {
+              break;
+            } else {
+              offset += view.getUint16(offset, false);
+            }
+          }
+          resolve(1);
+        };
+        reader.readAsArrayBuffer(file.slice(0, 65536));
+      });
+    }
+
+    // Rotate image using canvas based on EXIF orientation
+    function rotateImage(file, orientation) {
+      return new Promise((resolve) => {
+        if (orientation <= 1) return resolve(file);
+
+        const img = new Image();
+        img.onload = () => {
+          const canvas = document.createElement('canvas');
+          const ctx = canvas.getContext('2d');
+
+          // Swap dimensions for 90/270 degree rotations
+          if (orientation >= 5 && orientation <= 8) {
+            canvas.width = img.height;
+            canvas.height = img.width;
+          } else {
+            canvas.width = img.width;
+            canvas.height = img.height;
+          }
+
+          // Apply transformation based on orientation
+          switch (orientation) {
+            case 2: ctx.transform(-1, 0, 0, 1, canvas.width, 0); break;
+            case 3: ctx.transform(-1, 0, 0, -1, canvas.width, canvas.height); break;
+            case 4: ctx.transform(1, 0, 0, -1, 0, canvas.height); break;
+            case 5: ctx.transform(0, 1, 1, 0, 0, 0); break;
+            case 6: ctx.transform(0, 1, -1, 0, canvas.width, 0); break;
+            case 7: ctx.transform(0, -1, -1, 0, canvas.width, canvas.height); break;
+            case 8: ctx.transform(0, -1, 1, 0, 0, canvas.height); break;
+          }
+
+          ctx.drawImage(img, 0, 0);
+          canvas.toBlob((blob) => {
+            resolve(new File([blob], file.name, { type: 'image/jpeg' }));
+          }, 'image/jpeg', 0.95);
+        };
+        img.src = URL.createObjectURL(file);
+      });
+    }
+
     // Drag and drop
     ['dragenter', 'dragover'].forEach(e => {
       dropZone.addEventListener(e, (ev) => {
@@ -263,34 +338,36 @@ app.get('/', (req, res) => {
 
       uploadBtn.disabled = true;
       status.className = 'status uploading';
-      status.innerHTML = '<span class="spinner"></span>Uploading...';
+      status.innerHTML = '<span class="spinner"></span>Uploading ' + selectedFiles.length + ' photos...';
       status.style.display = 'block';
 
-      let successCount = 0;
-      let errorCount = 0;
-
-      for (const file of selectedFiles) {
-        const formData = new FormData();
-        formData.append('photo', file);
-
+      // Upload all files in parallel for much faster uploads
+      const uploadPromises = selectedFiles.map(async (file) => {
         try {
+          // Read EXIF orientation and rotate before upload (iOS strips EXIF during upload)
+          const orientation = await getExifOrientation(file);
+          const rotatedFile = await rotateImage(file, orientation);
+
+          const formData = new FormData();
+          formData.append('photo', rotatedFile);
+
           const res = await fetch('/upload', { method: 'POST', body: formData });
           const data = await res.json();
           if (data.success) {
-            successCount++;
+            return { success: true };
           } else {
-            errorCount++;
             console.error('Upload failed:', data.error);
+            return { success: false };
           }
         } catch (err) {
-          errorCount++;
           console.error('Upload error:', err);
+          return { success: false };
         }
+      });
 
-        // Update progress
-        status.innerHTML = '<span class="spinner"></span>Uploading ' +
-          (successCount + errorCount) + '/' + selectedFiles.length + '...';
-      }
+      const results = await Promise.all(uploadPromises);
+      const successCount = results.filter(r => r.success).length;
+      const errorCount = results.filter(r => !r.success).length;
 
       selectedFiles = [];
       updatePreviews();
@@ -325,7 +402,7 @@ app.post('/upload', upload.single('photo'), async (req, res) => {
 
     // Generate filename
     const now = new Date();
-    const timestamp = now.toISOString().replace(/[-:T]/g, '').slice(0, 15);
+    const timestamp = now.toISOString().replace(/[-:T]/g, '').slice(0, 14);
     const filename = `gallery-${timestamp}.jpg`;
     const filepath = `images/gallery/${filename}`;
 
