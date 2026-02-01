@@ -1,41 +1,41 @@
 [
   {
-    "date": "2026-01-27",
+    "date": "2026-02-03",
+    "time": "5:20 AM",
+    "location": {
+      "name": "EMS",
+      "address": "EMS",
+      "map_link": "https://maps.app.goo.gl/ZNfNZ7YMMhYZ4mbH7?g_st=ic"
+    },
+    "location_link": "https://maps.app.goo.gl/ZNfNZ7YMMhYZ4mbH7?g_st=ic",
+    "description": "2 - 3 sets of the following (4 x 400m intervals) with 60 - 90 seconds recovery between intervals and a 400m easy run/walk recovery between sets:\n  - 1st 400m: 5k pace\n  - 2nd 400m: 5k pace\n  - 3rd 400m: 5k pace\n  - 4th 400m: Mile pace",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+EMS&dates=20260203T122000Z%2F20260203T132000Z&details=2+-+3+sets+of+the+following+%284+x+400m+intervals%29+with+60+-+90+seconds+recovery+between+intervals+and+a+400m+easy+run%2Fwalk+recovery+between+sets%3A%0A++-+1st+400m%3A+5k+pace%0A++-+2nd+400m%3A+5k+pace%0A++-+3rd+400m%3A+5k+pace%0A++-+4th+400m%3A+Mile+pace&location=EMS",
+    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwMjAzVDEyMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDIwMVQyMTMzMjBaDQpEVFNUQVJUOjIwMjYwMjAzVDEyMjAwMFoNCkRURU5EOjIwMjYwMjAzVDEzMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IEVNUw0KREVTQ1JJUFRJT046MiAtIDMgc2V0cyBvZiB0aGUgZm9sbG93aW5nICg0IHggNDAwbSBpbnRlcnZhbHMpIHdpdGggNjAgLSA5MCBzZWNvbmRzIHJlY292ZXJ5IGJldHdlZW4gaW50ZXJ2YWxzIGFuZCBhIDQwMG0gZWFzeSBydW4vd2FsayByZWNvdmVyeSBiZXR3ZWVuIHNldHM6XG4gIC0gMXN0IDQwMG06IDVrIHBhY2VcbiAgLSAybmQgNDAwbTogNWsgcGFjZVxuICAtIDNyZCA0MDBtOiA1ayBwYWNlXG4gIC0gNHRoIDQwMG06IE1pbGUgcGFjZQ0KTE9DQVRJT046RU1TDQpTVEFUVVM6Q09ORklSTUVEDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFS"
+  },
+  {
+    "date": "2026-02-05",
     "time": "5:20 AM",
     "location": {
       "name": "Vista Pointe",
       "address": "Vista Pointe",
-      "map_link": "https://maps.app.goo.gl/WGHVSMp1CjSjm4Mg8?g_st=ic"
+      "map_link": "https://maps.app.goo.gl/wtHsfkEobtibbJDN9?g_st=ic"
     },
-    "location_link": "https://maps.app.goo.gl/WGHVSMp1CjSjm4Mg8?g_st=ic",
-    "description": "6 - 9 x 600m (rolling hills) at 5k effort with 90 - 120 seconds of recovery between intervals.",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+Vista+Pointe&dates=20260127T122000Z%2F20260127T132000Z&details=6+-+9+x+600m+%28rolling+hills%29+at+5k+effort+with+90+-+120+seconds+of+recovery+between+intervals.&location=Vista+Pointe",
-    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwMTI3VDEyMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDEyN1QxMzU5MTdaDQpEVFNUQVJUOjIwMjYwMTI3VDEyMjAwMFoNCkRURU5EOjIwMjYwMTI3VDEzMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IFZpc3RhIFBvaW50ZQ0KREVTQ1JJUFRJT046NiAtIDkgeCA2MDBtIChyb2xsaW5nIGhpbGxzKSBhdCA1ayBlZmZvcnQgd2l0aCA5MCAtIDEyMCBzZWNvbmRzIG9mIHJlY292ZXJ5IGJldHdlZW4gaW50ZXJ2YWxzLg0KTE9DQVRJT046VmlzdGEgUG9pbnRlDQpTVEFUVVM6Q09ORklSTUVEDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFS"
+    "location_link": "https://maps.app.goo.gl/wtHsfkEobtibbJDN9?g_st=ic",
+    "description": "1k, 2k, 1k, 2k (and an additional 1k if time permits) at 10k effort. Remember, the course dictates your pace. Smart pacing is key.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+Vista+Pointe&dates=20260205T122000Z%2F20260205T132000Z&details=1k%2C+2k%2C+1k%2C+2k+%28and+an+additional+1k+if+time+permits%29+at+10k+effort.+Remember%2C+the+course+dictates+your+pace.+Smart+pacing+is+key.&location=Vista+Pointe",
+    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwMjA1VDEyMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDIwMVQyMTMzMjBaDQpEVFNUQVJUOjIwMjYwMjA1VDEyMjAwMFoNCkRURU5EOjIwMjYwMjA1VDEzMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IFZpc3RhIFBvaW50ZQ0KREVTQ1JJUFRJT046MWtcLCAya1wsIDFrXCwgMmsgKGFuZCBhbiBhZGRpdGlvbmFsIDFrIGlmIHRpbWUgcGVybWl0cykgYXQgMTBrIGVmZm9ydC4gUmVtZW1iZXJcLCB0aGUgY291cnNlIGRpY3RhdGVzIHlvdXIgcGFjZS4gU21hcnQgcGFjaW5nIGlzIGtleS4NCkxPQ0FUSU9OOlZpc3RhIFBvaW50ZQ0KU1RBVFVTOkNPTkZJUk1FRA0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg=="
   },
   {
-    "date": "2026-01-29",
-    "time": "5:20 AM",
-    "location": {
-      "name": "Vista Pointe",
-      "address": "Vista Pointe",
-      "map_link": "https://maps.app.goo.gl/WGHVSMp1CjSjm4Mg8?g_st=ic"
-    },
-    "location_link": "https://maps.app.goo.gl/WGHVSMp1CjSjm4Mg8?g_st=ic",
-    "description": "1-1-1-2 at 10k effort (run by feel).",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+Vista+Pointe&dates=20260129T122000Z%2F20260129T132000Z&details=1-1-1-2+at+10k+effort+%28run+by+feel%29.&location=Vista+Pointe",
-    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwMTI5VDEyMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDEyN1QxMzU5MTdaDQpEVFNUQVJUOjIwMjYwMTI5VDEyMjAwMFoNCkRURU5EOjIwMjYwMTI5VDEzMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IFZpc3RhIFBvaW50ZQ0KREVTQ1JJUFRJT046MS0xLTEtMiBhdCAxMGsgZWZmb3J0IChydW4gYnkgZmVlbCkuDQpMT0NBVElPTjpWaXN0YSBQb2ludGUNClNUQVRVUzpDT05GSVJNRUQNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVI="
-  },
-  {
-    "date": "2026-01-31",
+    "date": "2026-02-07",
     "time": "7:30 AM",
     "location": {
-      "name": "Winot Coffee Shop",
-      "address": "Winot Coffee Shop",
-      "map_link": "https://maps.app.goo.gl/u7BzLyDRrWJ3AZg9A?g_st=ic"
+      "name": "North Teller Farms",
+      "address": "North Teller Farms",
+      "map_link": "https://maps.app.goo.gl/msViz38azDgrpe9U7?g_st=ic"
     },
-    "location_link": "https://maps.app.goo.gl/u7BzLyDRrWJ3AZg9A?g_st=ic",
-    "description": "Group social run. All levels and abilities are welcome\u2014the more the merrier.",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+Winot+Coffee+Shop&dates=20260131T143000Z%2F20260131T153000Z&details=Group+social+run.+All+levels+and+abilities+are+welcome%E2%80%94the+more+the+merrier.&location=Winot+Coffee+Shop",
-    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwMTMxVDE0MzAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDEyN1QxMzU5MTdaDQpEVFNUQVJUOjIwMjYwMTMxVDE0MzAwMFoNCkRURU5EOjIwMjYwMTMxVDE1MzAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IFdpbm90IENvZmZlZSBTaG9wDQpERVNDUklQVElPTjpHcm91cCBzb2NpYWwgcnVuLiBBbGwgbGV2ZWxzIGFuZCBhYmlsaXRpZXMgYXJlIHdlbGNvbWXigJR0aGUgbW9yZSB0aGUgbWVycmllci4NCkxPQ0FUSU9OOldpbm90IENvZmZlZSBTaG9wDQpTVEFUVVM6Q09ORklSTUVEDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFS"
+    "location_link": "https://maps.app.goo.gl/msViz38azDgrpe9U7?g_st=ic",
+    "description": "group social run.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+North+Teller+Farms&dates=20260207T143000Z%2F20260207T153000Z&details=group+social+run.&location=North+Teller+Farms",
+    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwMjA3VDE0MzAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDIwMVQyMTMzMjBaDQpEVFNUQVJUOjIwMjYwMjA3VDE0MzAwMFoNCkRURU5EOjIwMjYwMjA3VDE1MzAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IE5vcnRoIFRlbGxlciBGYXJtcw0KREVTQ1JJUFRJT046Z3JvdXAgc29jaWFsIHJ1bi4NCkxPQ0FUSU9OOk5vcnRoIFRlbGxlciBGYXJtcw0KU1RBVFVTOkNPTkZJUk1FRA0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg=="
   }
 ]
