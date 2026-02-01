@@ -386,6 +386,32 @@ app.get('/', (req, res) => {
   `);
 });
 
+// Helper to upload to GitHub with retry on conflict (409)
+async function uploadToGitHub(filepath, content, message, retries = 3) {
+  for (let attempt = 1; attempt <= retries; attempt++) {
+    try {
+      await octokit.repos.createOrUpdateFileContents({
+        owner: GITHUB_OWNER,
+        repo: GITHUB_REPO,
+        path: filepath,
+        message,
+        content,
+        branch: GITHUB_BRANCH,
+      });
+      return; // Success
+    } catch (error) {
+      if (error.status === 409 && attempt < retries) {
+        // Conflict - wait random time and retry
+        const delay = Math.random() * 2000 + 500; // 500-2500ms
+        console.log(`Conflict on ${filepath}, retrying in ${Math.round(delay)}ms (attempt ${attempt}/${retries})`);
+        await new Promise(resolve => setTimeout(resolve, delay));
+      } else {
+        throw error;
+      }
+    }
+  }
+}
+
 // Handle upload
 app.post('/upload', upload.single('photo'), async (req, res) => {
   try {
@@ -400,21 +426,15 @@ app.post('/upload', upload.single('photo'), async (req, res) => {
       .jpeg({ quality: JPEG_QUALITY })
       .toBuffer();
 
-    // Generate filename
+    // Generate filename with random suffix to avoid collisions in parallel uploads
     const now = new Date();
     const timestamp = now.toISOString().replace(/[-:T]/g, '').slice(0, 14);
-    const filename = `gallery-${timestamp}.jpg`;
+    const randomSuffix = Math.random().toString(36).substring(2, 6);
+    const filename = `gallery-${timestamp}-${randomSuffix}.jpg`;
     const filepath = `images/gallery/${filename}`;
 
-    // Upload to GitHub
-    await octokit.repos.createOrUpdateFileContents({
-      owner: GITHUB_OWNER,
-      repo: GITHUB_REPO,
-      path: filepath,
-      message: `Add gallery photo: ${filename}`,
-      content: resizedBuffer.toString('base64'),
-      branch: GITHUB_BRANCH,
-    });
+    // Upload to GitHub with retry logic
+    await uploadToGitHub(filepath, resizedBuffer.toString('base64'), `Add gallery photo: ${filename}`);
 
     console.log(`Uploaded: ${filename}`);
     res.json({ success: true, filename });
