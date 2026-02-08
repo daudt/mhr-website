@@ -1,41 +1,39 @@
 [
   {
-    "date": "2026-02-03",
+    "date": "2026-02-10",
     "time": "5:20 AM",
     "location": {
       "name": "EMS",
       "address": "EMS",
-      "map_link": "https://maps.app.goo.gl/ZNfNZ7YMMhYZ4mbH7?g_st=ic"
+      "map_link": "https://maps.app.goo.gl/A6DtFDsJmroV4Nfh7?g_st=ic"
     },
-    "location_link": "https://maps.app.goo.gl/ZNfNZ7YMMhYZ4mbH7?g_st=ic",
-    "description": "2 - 3 sets of the following (4 x 400m intervals) with 60 - 90 seconds recovery between intervals and a 400m easy run/walk recovery between sets: 1st 400m: 5k pace, 2nd 400m: 5k pace, 3rd 400m: 5k pace, 4th 400m: Mile pace",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+EMS&dates=20260203T122000Z%2F20260203T132000Z&details=2+-+3+sets+of+the+following+%284+x+400m+intervals%29+with+60+-+90+seconds+recovery+between+intervals+and+a+400m+easy+run%2Fwalk+recovery+between+sets%3A+1st+400m%3A+5k+pace%2C+2nd+400m%3A+5k+pace%2C+3rd+400m%3A+5k+pace%2C+4th+400m%3A+Mile+pace&location=EMS",
-    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwMjAzVDEyMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDIwM1QxMzU3MjlaDQpEVFNUQVJUOjIwMjYwMjAzVDEyMjAwMFoNCkRURU5EOjIwMjYwMjAzVDEzMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IEVNUw0KREVTQ1JJUFRJT046MiAtIDMgc2V0cyBvZiB0aGUgZm9sbG93aW5nICg0IHggNDAwbSBpbnRlcnZhbHMpIHdpdGggNjAgLSA5MCBzZWNvbmRzIHJlY292ZXJ5IGJldHdlZW4gaW50ZXJ2YWxzIGFuZCBhIDQwMG0gZWFzeSBydW4vd2FsayByZWNvdmVyeSBiZXR3ZWVuIHNldHM6IDFzdCA0MDBtOiA1ayBwYWNlXCwgMm5kIDQwMG06IDVrIHBhY2VcLCAzcmQgNDAwbTogNWsgcGFjZVwsIDR0aCA0MDBtOiBNaWxlIHBhY2UNCkxPQ0FUSU9OOkVNUw0KU1RBVFVTOkNPTkZJUk1FRA0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg=="
+    "location_link": "https://maps.app.goo.gl/A6DtFDsJmroV4Nfh7?g_st=ic",
+    "description": "12 to 14 x 400m intervals at your current 5K pace with a 75 - 90 second recovery between intervals",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+EMS&dates=20260210T122000Z%2F20260210T132000Z&details=12+to+14+x+400m+intervals+at+your+current+5K+pace+with+a+75+-+90+second+recovery+between+intervals&location=EMS",
+    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwMjEwVDEyMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDIwOFQyMDIzMzBaDQpEVFNUQVJUOjIwMjYwMjEwVDEyMjAwMFoNCkRURU5EOjIwMjYwMjEwVDEzMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IEVNUw0KREVTQ1JJUFRJT046MTIgdG8gMTQgeCA0MDBtIGludGVydmFscyBhdCB5b3VyIGN1cnJlbnQgNUsgcGFjZSB3aXRoIGEgNzUgLSA5MCBzZWNvbmQgcmVjb3ZlcnkgYmV0d2VlbiBpbnRlcnZhbHMNCkxPQ0FUSU9OOkVNUw0KU1RBVFVTOkNPTkZJUk1FRA0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg=="
   },
   {
-    "date": "2026-02-05",
+    "date": "2026-02-12",
     "time": "5:20 AM",
     "location": {
-      "name": "Vista Pointe",
-      "address": "Vista Pointe",
-      "map_link": "https://maps.app.goo.gl/wtHsfkEobtibbJDN9?g_st=ic"
+      "name": "Lehigh Park",
+      "address": "Lehigh Park",
+      "map_link": "https://maps.app.goo.gl/3Q2tNGG7kdBQv7ct5?g_st=ic"
     },
-    "location_link": "https://maps.app.goo.gl/wtHsfkEobtibbJDN9?g_st=ic",
-    "description": "1k, 2k, 1k, 2k (and an additional 1k if time permits) at 10k effort. Remember, the course dictates your pace. Smart pacing is key.",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+Vista+Pointe&dates=20260205T122000Z%2F20260205T132000Z&details=1k%2C+2k%2C+1k%2C+2k+%28and+an+additional+1k+if+time+permits%29+at+10k+effort.+Remember%2C+the+course+dictates+your+pace.+Smart+pacing+is+key.&location=Vista+Pointe",
-    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwMjA1VDEyMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDIwM1QxMzU3MjlaDQpEVFNUQVJUOjIwMjYwMjA1VDEyMjAwMFoNCkRURU5EOjIwMjYwMjA1VDEzMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IFZpc3RhIFBvaW50ZQ0KREVTQ1JJUFRJT046MWtcLCAya1wsIDFrXCwgMmsgKGFuZCBhbiBhZGRpdGlvbmFsIDFrIGlmIHRpbWUgcGVybWl0cykgYXQgMTBrIGVmZm9ydC4gUmVtZW1iZXJcLCB0aGUgY291cnNlIGRpY3RhdGVzIHlvdXIgcGFjZS4gU21hcnQgcGFjaW5nIGlzIGtleS4NCkxPQ0FUSU9OOlZpc3RhIFBvaW50ZQ0KU1RBVFVTOkNPTkZJUk1FRA0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg=="
+    "location_link": "https://maps.app.goo.gl/3Q2tNGG7kdBQv7ct5?g_st=ic",
+    "description": "7 x 1k repeats at your goal 10K pace with a 60 to 75 seconds of recovery time between each interval",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+Lehigh+Park&dates=20260212T122000Z%2F20260212T132000Z&details=7+x+1k+repeats+at+your+goal+10K+pace+with+a+60+to+75+seconds+of+recovery+time+between+each+interval&location=Lehigh+Park",
+    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwMjEyVDEyMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDIwOFQyMDIzMzBaDQpEVFNUQVJUOjIwMjYwMjEyVDEyMjAwMFoNCkRURU5EOjIwMjYwMjEyVDEzMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IExlaGlnaCBQYXJrDQpERVNDUklQVElPTjo3IHggMWsgcmVwZWF0cyBhdCB5b3VyIGdvYWwgMTBLIHBhY2Ugd2l0aCBhIDYwIHRvIDc1IHNlY29uZHMgb2YgcmVjb3ZlcnkgdGltZSBiZXR3ZWVuIGVhY2ggaW50ZXJ2YWwNCkxPQ0FUSU9OOkxlaGlnaCBQYXJrDQpTVEFUVVM6Q09ORklSTUVEDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFS"
   },
   {
-    "date": "2026-02-07",
-    "time": "7:30 AM",
+    "date": "2026-02-14",
+    "time": "7 am",
     "location": {
-      "name": "North Teller Farms",
-      "address": "North Teller Farms",
-      "map_link": "https://maps.app.goo.gl/msViz38azDgrpe9U7?g_st=ic"
+      "name": "Lehigh Park",
+      "address": "Lehigh Park",
+      "map_link": "https://maps.google.com/?q=Lehigh+Park"
     },
-    "location_link": "https://maps.app.goo.gl/msViz38azDgrpe9U7?g_st=ic",
-    "description": "Group social run. The more the merrier!!",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+North+Teller+Farms&dates=20260207T143000Z%2F20260207T153000Z&details=Group+social+run.+The+more+the+merrier%21%21&location=North+Teller+Farms",
-    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwMjA3VDE0MzAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDIwM1QxMzU3MjlaDQpEVFNUQVJUOjIwMjYwMjA3VDE0MzAwMFoNCkRURU5EOjIwMjYwMjA3VDE1MzAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IE5vcnRoIFRlbGxlciBGYXJtcw0KREVTQ1JJUFRJT046R3JvdXAgc29jaWFsIHJ1bi4gVGhlIG1vcmUgdGhlIG1lcnJpZXIhIQ0KTE9DQVRJT046Tm9ydGggVGVsbGVyIEZhcm1zDQpTVEFUVVM6Q09ORklSTUVEDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFS"
+    "location_link": null,
+    "description": "Weekly social run! This is an all-inclusive run where runners of all levels and speeds are welcome. Saturday\u2019s run is open to everyone at no charge, so feel free to bring a friend."
   }
 ]
