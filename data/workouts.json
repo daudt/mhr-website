@@ -29,24 +29,12 @@
     "date": "2026-02-14",
     "time": "7:00 AM",
     "location": {
-      "name": "Lehigh Park",
-      "address": "Lehigh Park",
-      "map_link": "https://maps.google.com/?q=Lehigh+Park"
+      "name": "Winot Coffee Shop",
+      "address": "Winot Coffee Shop",
+      "map_link": "https://maps.google.com/?q=Winot+Coffee+Shop"
     },
-    "location_link": null,
     "description": "Weekly social run! This is an all-inclusive run where runners of all levels and speeds are welcome. Open to everyone at no charge, so feel free to bring a friend.",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+Lehigh+Park&dates=20260214T140000Z%2F20260214T150000Z&details=Weekly+social+run%21+This+is+an+all-inclusive+run+where+runners+of+all+levels+and+speeds+are+welcome.+Open+to+everyone+at+no+charge%2C+so+feel+free+to+bring+a+friend.&location=Lehigh+Park",
-    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwMjE0VDE0MDAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDIwOFQyMDI4NDFaDQpEVFNUQVJUOjIwMjYwMjE0VDE0MDAwMFoNCkRURU5EOjIwMjYwMjE0VDE1MDAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IExlaGlnaCBQYXJrDQpERVNDUklQVElPTjpXZWVrbHkgc29jaWFsIHJ1biEgVGhpcyBpcyBhbiBhbGwtaW5jbHVzaXZlIHJ1biB3aGVyZSBydW5uZXJzIG9mIGFsbCBsZXZlbHMgYW5kIHNwZWVkcyBhcmUgd2VsY29tZS4gT3BlbiB0byBldmVyeW9uZSBhdCBubyBjaGFyZ2VcLCBzbyBmZWVsIGZyZWUgdG8gYnJpbmcgYSBmcmllbmQuDQpMT0NBVElPTjpMZWhpZ2ggUGFyaw0KU1RBVFVTOkNPTkZJUk1FRA0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg=="
-  },
-  {
-    "date": "2026-02-14",
-    "time": "7 am",
-    "location": {
-      "name": "Lehigh Park",
-      "address": "Lehigh Park",
-      "map_link": "https://maps.google.com/?q=Lehigh+Park"
-    },
-    "location_link": null,
-    "description": "Weekly social run! This is an all-inclusive run where runners of all levels and speeds are welcome. Saturday\u2019s run is open to everyone at no charge, so feel free to bring a friend."
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+Winot+Coffee+Shop&dates=20260214T140000Z%2F20260214T150000Z&details=Weekly+social+run%21+This+is+an+all-inclusive+run+where+runners+of+all+levels+and+speeds+are+welcome.+Open+to+everyone+at+no+charge%2C+so+feel+free+to+bring+a+friend.&location=Winot+Coffee+Shop",
+    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwMjE0VDE0MDAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDIxMVQyMDAwMDBaDQpEVFNUQVJUOjIwMjYwMjE0VDE0MDAwMFoNCkRURU5EOjIwMjYwMjE0VDE1MDAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IFdpbm90IENvZmZlZSBTaG9wDQpERVNDUklQVElPTjpXZWVrbHkgc29jaWFsIHJ1biEgVGhpcyBpcyBhbiBhbGwtaW5jbHVzaXZlIHJ1biB3aGVyZSBydW5uZXJzIG9mIGFsbCBsZXZlbHMgYW5kIHNwZWVkcyBhcmUgd2VsY29tZS4gT3BlbiB0byBldmVyeW9uZSBhdCBubyBjaGFyZ2VcLCBzbyBmZWVsIGZyZWUgdG8gYnJpbmcgYSBmcmllbmQuDQpMT0NBVElPTjpXaW5vdCBDb2ZmZWUgU2hvcA0KU1RBVFVTOkNPTkZJUk1FRA0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg=="
   }
 ]
