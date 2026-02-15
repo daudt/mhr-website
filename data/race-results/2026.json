@@ -10,5 +10,23 @@
         "time": ""
       }
     ]
+  },
+  {
+    "event_name": "Mesa Half Marathon",
+    "date": "2026-02-15",
+    "results": [
+      {
+        "runner": "Blair",
+        "placement": "17th",
+        "division": "age group",
+        "time": "1:32:08"
+      },
+      {
+        "runner": "Nicole Rubis",
+        "placement": "17th",
+        "division": "age group",
+        "time": "1:50:55"
+      }
+    ]
   }
 ]

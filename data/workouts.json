@@ -1,40 +1,41 @@
 [
   {
-    "date": "2026-02-10",
+    "date": "2026-02-17",
     "time": "5:20 AM",
     "location": {
-      "name": "EMS",
-      "address": "EMS",
-      "map_link": "https://maps.app.goo.gl/A6DtFDsJmroV4Nfh7?g_st=ic"
+      "name": "Erie Middle School",
+      "address": "650 Main Street, Erie, CO 80516",
+      "map_link": "https://maps.google.com/?q=Erie+Middle+School,Erie,CO+80516"
     },
-    "location_link": "https://maps.app.goo.gl/A6DtFDsJmroV4Nfh7?g_st=ic",
-    "description": "12 to 14 x 400m intervals at your current 5K pace with a 75 - 90 second recovery between intervals",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+EMS&dates=20260210T122000Z%2F20260210T132000Z&details=12+to+14+x+400m+intervals+at+your+current+5K+pace+with+a+75+-+90+second+recovery+between+intervals&location=EMS",
-    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwMjEwVDEyMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDIwOFQyMDI4NDFaDQpEVFNUQVJUOjIwMjYwMjEwVDEyMjAwMFoNCkRURU5EOjIwMjYwMjEwVDEzMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IEVNUw0KREVTQ1JJUFRJT046MTIgdG8gMTQgeCA0MDBtIGludGVydmFscyBhdCB5b3VyIGN1cnJlbnQgNUsgcGFjZSB3aXRoIGEgNzUgLSA5MCBzZWNvbmQgcmVjb3ZlcnkgYmV0d2VlbiBpbnRlcnZhbHMNCkxPQ0FUSU9OOkVNUw0KU1RBVFVTOkNPTkZJUk1FRA0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg=="
+    "location_link": null,
+    "description": "Speed Endurance. 4\u20137 x 800m at slightly slower than 5k pace (400m jog recovery).",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+EMS&dates=20260217T122000Z%2F20260217T132000Z&details=Speed+Endurance.+4%E2%80%937+x+800m+at+slightly+slower+than+5k+pace+%28400m+jog+recovery%29.&location=650+Main+Street%2C+Erie%2C+CO+80516",
+    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwMjE3VDEyMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDIxNVQyMTA1MjlaDQpEVFNUQVJUOjIwMjYwMjE3VDEyMjAwMFoNCkRURU5EOjIwMjYwMjE3VDEzMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IEVNUw0KREVTQ1JJUFRJT046U3BlZWQgRW5kdXJhbmNlLiA04oCTNyB4IDgwMG0gYXQgc2xpZ2h0bHkgc2xvd2VyIHRoYW4gNWsgcGFjZSAoNDAwbSBqb2cgcmVjb3ZlcnkpLg0KTE9DQVRJT046NjUwIE1haW4gU3RyZWV0XCwgRXJpZVwsIENPIDgwNTE2DQpTVEFUVVM6Q09ORklSTUVEDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFS"
   },
   {
-    "date": "2026-02-12",
+    "date": "2026-02-19",
     "time": "5:20 AM",
     "location": {
-      "name": "Lehigh Park",
-      "address": "Lehigh Park",
-      "map_link": "https://maps.app.goo.gl/3Q2tNGG7kdBQv7ct5?g_st=ic"
+      "name": "Calvary Bible Church",
+      "address": "Calvary Bible Church",
+      "map_link": "https://maps.google.com/?q=Calvary+Bible+Church"
     },
-    "location_link": "https://maps.app.goo.gl/3Q2tNGG7kdBQv7ct5?g_st=ic",
-    "description": "7 x 1k repeats at your goal 10K pace with a 60 to 75 seconds of recovery time between each interval.",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+Lehigh+Park&dates=20260212T122000Z%2F20260212T132000Z&details=7+x+1k+repeats+at+your+goal+10K+pace+with+a+60+to+75+seconds+of+recovery+time+between+each+interval.&location=Lehigh+Park",
-    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwMjEyVDEyMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDIwOFQyMDI4NDFaDQpEVFNUQVJUOjIwMjYwMjEyVDEyMjAwMFoNCkRURU5EOjIwMjYwMjEyVDEzMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IExlaGlnaCBQYXJrDQpERVNDUklQVElPTjo3IHggMWsgcmVwZWF0cyBhdCB5b3VyIGdvYWwgMTBLIHBhY2Ugd2l0aCBhIDYwIHRvIDc1IHNlY29uZHMgb2YgcmVjb3ZlcnkgdGltZSBiZXR3ZWVuIGVhY2ggaW50ZXJ2YWwuDQpMT0NBVElPTjpMZWhpZ2ggUGFyaw0KU1RBVFVTOkNPTkZJUk1FRA0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg=="
+    "location_link": null,
+    "description": "Tempo Threshold. 2 - 3 x 2 miles at slightly slower than 10k pace (3-minute walk/jog recovery).",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+Calvary+Bible+Church&dates=20260219T122000Z%2F20260219T132000Z&details=Tempo+Threshold.+2+-+3+x+2+miles+at+slightly+slower+than+10k+pace+%283-minute+walk%2Fjog+recovery%29.&location=Calvary+Bible+Church",
+    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwMjE5VDEyMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDIxNVQyMTA1MjlaDQpEVFNUQVJUOjIwMjYwMjE5VDEyMjAwMFoNCkRURU5EOjIwMjYwMjE5VDEzMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IENhbHZhcnkgQmlibGUgQ2h1cmNoDQpERVNDUklQVElPTjpUZW1wbyBUaHJlc2hvbGQuIDIgLSAzIHggMiBtaWxlcyBhdCBzbGlnaHRseSBzbG93ZXIgdGhhbiAxMGsgcGFjZSAoMy1taW51dGUgd2Fsay9qb2cgcmVjb3ZlcnkpLg0KTE9DQVRJT046Q2FsdmFyeSBCaWJsZSBDaHVyY2gNClNUQVRVUzpDT05GSVJNRUQNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVI="
   },
   {
-    "date": "2026-02-14",
+    "date": "2026-02-21",
     "time": "7:00 AM",
     "location": {
-      "name": "Winot Coffee Shop",
-      "address": "Winot Coffee Shop",
-      "map_link": "https://maps.google.com/?q=Winot+Coffee+Shop"
+      "name": "Starbucks Erie",
+      "address": "845 Baseline Rd, Erie, CO 80516",
+      "map_link": "https://maps.google.com/?q=Starbucks,845+Baseline+Rd,Erie,CO+80516"
     },
-    "description": "Weekly social run! This is an all-inclusive run where runners of all levels and speeds are welcome. Open to everyone at no charge, so feel free to bring a friend.",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+Winot+Coffee+Shop&dates=20260214T140000Z%2F20260214T150000Z&details=Weekly+social+run%21+This+is+an+all-inclusive+run+where+runners+of+all+levels+and+speeds+are+welcome.+Open+to+everyone+at+no+charge%2C+so+feel+free+to+bring+a+friend.&location=Winot+Coffee+Shop",
-    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwMjE0VDE0MDAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDIxMVQyMDAwMDBaDQpEVFNUQVJUOjIwMjYwMjE0VDE0MDAwMFoNCkRURU5EOjIwMjYwMjE0VDE1MDAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IFdpbm90IENvZmZlZSBTaG9wDQpERVNDUklQVElPTjpXZWVrbHkgc29jaWFsIHJ1biEgVGhpcyBpcyBhbiBhbGwtaW5jbHVzaXZlIHJ1biB3aGVyZSBydW5uZXJzIG9mIGFsbCBsZXZlbHMgYW5kIHNwZWVkcyBhcmUgd2VsY29tZS4gT3BlbiB0byBldmVyeW9uZSBhdCBubyBjaGFyZ2VcLCBzbyBmZWVsIGZyZWUgdG8gYnJpbmcgYSBmcmllbmQuDQpMT0NBVElPTjpXaW5vdCBDb2ZmZWUgU2hvcA0KU1RBVFVTOkNPTkZJUk1FRA0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg=="
+    "location_link": null,
+    "description": "All levels and abilities are welcome!",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+Starbucks+%28Erie%29&dates=20260221T140000Z%2F20260221T150000Z&details=All+levels+and+abilities+are+welcome%21&location=845+Baseline+Rd%2C+Erie%2C+CO+80516",
+    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwMjIxVDE0MDAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDIxNVQyMTA1MjlaDQpEVFNUQVJUOjIwMjYwMjIxVDE0MDAwMFoNCkRURU5EOjIwMjYwMjIxVDE1MDAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IFN0YXJidWNrcyAoRXJpZSkNCkRFU0NSSVBUSU9OOkFsbCBsZXZlbHMgYW5kIGFiaWxpdGllcyBhcmUgd2VsY29tZSENCkxPQ0FUSU9OOjg0NSBCYXNlbGluZSBSZFwsIEVyaWVcLCBDTyA4MDUxNg0KU1RBVFVTOkNPTkZJUk1FRA0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg=="
   }
 ]
