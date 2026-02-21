@@ -28,5 +28,17 @@
         "time": "1:50:55"
       }
     ]
+  },
+  {
+    "event_name": "Dublin Run the Night 5-mile",
+    "date": "2026-02-21",
+    "results": [
+      {
+        "runner": "Rafael",
+        "placement": "N/A",
+        "division": "N/A",
+        "time": "N/A"
+      }
+    ]
   }
 ]
