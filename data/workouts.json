@@ -1,54 +1,41 @@
 [
   {
-    "date": "2026-02-21",
-    "time": "7:00 AM",
-    "location": {
-      "name": "Starbucks Erie",
-      "address": "845 Baseline Rd, Erie, CO 80516",
-      "map_link": "https://maps.google.com/?q=Starbucks,845+Baseline+Rd,Erie,CO+80516"
-    },
-    "location_link": null,
-    "description": "All levels and abilities are welcome!",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+Starbucks+%28Erie%29&dates=20260221T140000Z%2F20260221T150000Z&details=All+levels+and+abilities+are+welcome%21&location=845+Baseline+Rd%2C+Erie%2C+CO+80516",
-    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwMjIxVDE0MDAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDIxNVQyMTA1MjlaDQpEVFNUQVJUOjIwMjYwMjIxVDE0MDAwMFoNCkRURU5EOjIwMjYwMjIxVDE1MDAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IFN0YXJidWNrcyAoRXJpZSkNCkRFU0NSSVBUSU9OOkFsbCBsZXZlbHMgYW5kIGFiaWxpdGllcyBhcmUgd2VsY29tZSENCkxPQ0FUSU9OOjg0NSBCYXNlbGluZSBSZFwsIEVyaWVcLCBDTyA4MDUxNg0KU1RBVFVTOkNPTkZJUk1FRA0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg=="
-  },
-  {
-    "date": "2026-02-24",
+    "date": "2026-03-03",
     "time": "5:20 AM",
     "location": {
-      "name": "Vista Pointe",
-      "address": "Vista Pointe",
-      "map_link": "https://maps.app.goo.gl/StDmchf6R8TQPsdq9?g_st=ic"
+      "name": "EMS",
+      "address": "EMS",
+      "map_link": "https://maps.app.goo.gl/6bM3XMLMwLvJm6Y7A?g_st=ic"
     },
-    "location_link": "https://maps.app.goo.gl/StDmchf6R8TQPsdq9?g_st=ic",
-    "description": "6\u201310 sets of: 200m uphill at 5k effort (90\u2013120 second recovery), 400m downhill at mile effort, 200m easy walk back to the starting line",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+Vista+Pointe&dates=20260224T122000Z%2F20260224T132000Z&details=6%E2%80%9310+sets+of%3A+200m+uphill+at+5k+effort+%2890%E2%80%93120+second+recovery%29%2C+400m+downhill+at+mile+effort%2C+200m+easy+walk+back+to+the+starting+line&location=Vista+Pointe",
-    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwMjI0VDEyMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDIyMVQyMTU0NDNaDQpEVFNUQVJUOjIwMjYwMjI0VDEyMjAwMFoNCkRURU5EOjIwMjYwMjI0VDEzMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IFZpc3RhIFBvaW50ZQ0KREVTQ1JJUFRJT046NuKAkzEwIHNldHMgb2Y6IDIwMG0gdXBoaWxsIGF0IDVrIGVmZm9ydCAoOTDigJMxMjAgc2Vjb25kIHJlY292ZXJ5KVwsIDQwMG0gZG93bmhpbGwgYXQgbWlsZSBlZmZvcnRcLCAyMDBtIGVhc3kgd2FsayBiYWNrIHRvIHRoZSBzdGFydGluZyBsaW5lDQpMT0NBVElPTjpWaXN0YSBQb2ludGUNClNUQVRVUzpDT05GSVJNRUQNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVI="
+    "location_link": "https://maps.app.goo.gl/6bM3XMLMwLvJm6Y7A?g_st=ic",
+    "description": "10\u201312 x furlong at mile pace with a walking furlong recovery.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+EMS&dates=20260303T122000Z%2F20260303T132000Z&details=10%E2%80%9312+x+furlong+at+mile+pace+with+a+walking+furlong+recovery.&location=EMS",
+    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwMzAzVDEyMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDMwMVQyMTQyNDRaDQpEVFNUQVJUOjIwMjYwMzAzVDEyMjAwMFoNCkRURU5EOjIwMjYwMzAzVDEzMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IEVNUw0KREVTQ1JJUFRJT046MTDigJMxMiB4IGZ1cmxvbmcgYXQgbWlsZSBwYWNlIHdpdGggYSB3YWxraW5nIGZ1cmxvbmcgcmVjb3ZlcnkuDQpMT0NBVElPTjpFTVMNClNUQVRVUzpDT05GSVJNRUQNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVI="
   },
   {
-    "date": "2026-02-26",
+    "date": "2026-03-05",
     "time": "5:20 AM",
     "location": {
       "name": "Lehigh Park",
       "address": "Lehigh Park",
-      "map_link": "https://maps.app.goo.gl/8D8QMu9V2bhxv7BH7?g_st=ic"
+      "map_link": "https://maps.app.goo.gl/DQ8LxCZUCH4aJBPi7?g_st=ic"
     },
-    "location_link": "https://maps.app.goo.gl/8D8QMu9V2bhxv7BH7?g_st=ic",
-    "description": "5\u20138 x 1000m (First 800m at 10k pace; last 200m at 3k\u20135k pace) with 90\u2013120 second recovery between sets.",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+Lehigh+Park&dates=20260226T122000Z%2F20260226T132000Z&details=5%E2%80%938+x+1000m+%28First+800m+at+10k+pace%3B+last+200m+at+3k%E2%80%935k+pace%29+with+90%E2%80%93120+second+recovery+between+sets.&location=Lehigh+Park",
-    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwMjI2VDEyMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDIyMVQyMTU0NDNaDQpEVFNUQVJUOjIwMjYwMjI2VDEyMjAwMFoNCkRURU5EOjIwMjYwMjI2VDEzMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IExlaGlnaCBQYXJrDQpERVNDUklQVElPTjo14oCTOCB4IDEwMDBtIChGaXJzdCA4MDBtIGF0IDEwayBwYWNlXDsgbGFzdCAyMDBtIGF0IDNr4oCTNWsgcGFjZSkgd2l0aCA5MOKAkzEyMCBzZWNvbmQgcmVjb3ZlcnkgYmV0d2VlbiBzZXRzLg0KTE9DQVRJT046TGVoaWdoIFBhcmsNClNUQVRVUzpDT05GSVJNRUQNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVI="
+    "location_link": "https://maps.app.goo.gl/DQ8LxCZUCH4aJBPi7?g_st=ic",
+    "description": "3\u20136 x 1200 meters at 10k pace with 100, 200, 300, 400, 500, and 600-meter kick-ins at 5k pace.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+Lehigh+Park&dates=20260305T122000Z%2F20260305T132000Z&details=3%E2%80%936+x+1200+meters+at+10k+pace+with+100%2C+200%2C+300%2C+400%2C+500%2C+and+600-meter+kick-ins+at+5k+pace.&location=Lehigh+Park",
+    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwMzA1VDEyMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDMwMVQyMTQyNDRaDQpEVFNUQVJUOjIwMjYwMzA1VDEyMjAwMFoNCkRURU5EOjIwMjYwMzA1VDEzMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IExlaGlnaCBQYXJrDQpERVNDUklQVElPTjoz4oCTNiB4IDEyMDAgbWV0ZXJzIGF0IDEwayBwYWNlIHdpdGggMTAwXCwgMjAwXCwgMzAwXCwgNDAwXCwgNTAwXCwgYW5kIDYwMC1tZXRlciBraWNrLWlucyBhdCA1ayBwYWNlLg0KTE9DQVRJT046TGVoaWdoIFBhcmsNClNUQVRVUzpDT05GSVJNRUQNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVI="
   },
   {
-    "date": "2026-02-28",
+    "date": "2026-03-07",
     "time": "7:00 AM",
     "location": {
-      "name": "Flagg Park",
-      "address": "Flagg Park",
-      "map_link": "https://maps.app.goo.gl/WE9hAf3EZzw96JKu5?g_st=ic"
+      "name": "Cristos Coffee Shop",
+      "address": "Cristos Coffee Shop",
+      "map_link": "https://maps.app.goo.gl/z8q7u6hLe6EuPoqB6?g_st=ic"
     },
-    "location_link": "https://maps.app.goo.gl/WE9hAf3EZzw96JKu5?g_st=ic",
-    "description": "Group social run followed by coffee. Everyone is welcome to join!",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+Flagg+Park&dates=20260228T140000Z%2F20260228T150000Z&details=Group+social+run+followed+by+coffee.+Everyone+is+welcome+to+join%21&location=Flagg+Park",
-    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwMjI4VDE0MDAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDIyMVQyMTU0NDNaDQpEVFNUQVJUOjIwMjYwMjI4VDE0MDAwMFoNCkRURU5EOjIwMjYwMjI4VDE1MDAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IEZsYWdnIFBhcmsNCkRFU0NSSVBUSU9OOkdyb3VwIHNvY2lhbCBydW4gZm9sbG93ZWQgYnkgY29mZmVlLiBFdmVyeW9uZSBpcyB3ZWxjb21lIHRvIGpvaW4hDQpMT0NBVElPTjpGbGFnZyBQYXJrDQpTVEFUVVM6Q09ORklSTUVEDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFS"
+    "location_link": "https://maps.app.goo.gl/z8q7u6hLe6EuPoqB6?g_st=ic",
+    "description": "Social run: Free and open to all levels and abilities.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+Cristos+Coffee+Shop&dates=20260307T140000Z%2F20260307T150000Z&details=Social+run%3A+Free+and+open+to+all+levels+and+abilities.&location=Cristos+Coffee+Shop",
+    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwMzA3VDE0MDAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDMwMVQyMTQyNDRaDQpEVFNUQVJUOjIwMjYwMzA3VDE0MDAwMFoNCkRURU5EOjIwMjYwMzA3VDE1MDAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IENyaXN0b3MgQ29mZmVlIFNob3ANCkRFU0NSSVBUSU9OOlNvY2lhbCBydW46IEZyZWUgYW5kIG9wZW4gdG8gYWxsIGxldmVscyBhbmQgYWJpbGl0aWVzLg0KTE9DQVRJT046Q3Jpc3RvcyBDb2ZmZWUgU2hvcA0KU1RBVFVTOkNPTkZJUk1FRA0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg=="
   }
 ]
