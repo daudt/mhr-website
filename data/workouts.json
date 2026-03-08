@@ -1,41 +1,41 @@
 [
   {
-    "date": "2026-03-03",
+    "date": "2026-03-10",
     "time": "5:20 AM",
     "location": {
       "name": "EMS",
       "address": "EMS",
-      "map_link": "https://maps.app.goo.gl/6bM3XMLMwLvJm6Y7A?g_st=ic"
+      "map_link": "https://maps.app.goo.gl/F2anCPmrsKEcBacM8?g_st=ic"
     },
-    "location_link": "https://maps.app.goo.gl/6bM3XMLMwLvJm6Y7A?g_st=ic",
-    "description": "10\u201312 x furlong at mile pace with a walking furlong recovery.",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+EMS&dates=20260303T122000Z%2F20260303T132000Z&details=10%E2%80%9312+x+furlong+at+mile+pace+with+a+walking+furlong+recovery.&location=EMS",
-    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwMzAzVDEyMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDMwMVQyMTQyNDRaDQpEVFNUQVJUOjIwMjYwMzAzVDEyMjAwMFoNCkRURU5EOjIwMjYwMzAzVDEzMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IEVNUw0KREVTQ1JJUFRJT046MTDigJMxMiB4IGZ1cmxvbmcgYXQgbWlsZSBwYWNlIHdpdGggYSB3YWxraW5nIGZ1cmxvbmcgcmVjb3ZlcnkuDQpMT0NBVElPTjpFTVMNClNUQVRVUzpDT05GSVJNRUQNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVI="
+    "location_link": "https://maps.app.goo.gl/F2anCPmrsKEcBacM8?g_st=ic",
+    "description": "Speed Ladders: 200m at 800m pace with a slow 200m walking recovery; 400s at 1-mile pace with a 90-second to 2-minute recovery; 600s at 3k pace (10\u201315 seconds per mile faster than 5k pace) with a slow 200m walking recovery. 1 lap slow running recovery after each set.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+EMS&dates=20260310T112000Z%2F20260310T122000Z&details=Speed+Ladders%3A+200m+at+800m+pace+with+a+slow+200m+walking+recovery%3B+400s+at+1-mile+pace+with+a+90-second+to+2-minute+recovery%3B+600s+at+3k+pace+%2810%E2%80%9315+seconds+per+mile+faster+than+5k+pace%29+with+a+slow+200m+walking+recovery.+1+lap+slow+running+recovery+after+each+set.&location=EMS",
+    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwMzEwVDExMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDMwOFQyMjI3NTRaDQpEVFNUQVJUOjIwMjYwMzEwVDExMjAwMFoNCkRURU5EOjIwMjYwMzEwVDEyMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IEVNUw0KREVTQ1JJUFRJT046U3BlZWQgTGFkZGVyczogMjAwbSBhdCA4MDBtIHBhY2Ugd2l0aCBhIHNsb3cgMjAwbSB3YWxraW5nIHJlY292ZXJ5XDsgNDAwcyBhdCAxLW1pbGUgcGFjZSB3aXRoIGEgOTAtc2Vjb25kIHRvIDItbWludXRlIHJlY292ZXJ5XDsgNjAwcyBhdCAzayBwYWNlICgxMOKAkzE1IHNlY29uZHMgcGVyIG1pbGUgZmFzdGVyIHRoYW4gNWsgcGFjZSkgd2l0aCBhIHNsb3cgMjAwbSB3YWxraW5nIHJlY292ZXJ5LiAxIGxhcCBzbG93IHJ1bm5pbmcgcmVjb3ZlcnkgYWZ0ZXIgZWFjaCBzZXQuDQpMT0NBVElPTjpFTVMNClNUQVRVUzpDT05GSVJNRUQNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVI="
   },
   {
-    "date": "2026-03-05",
+    "date": "2026-03-12",
     "time": "5:20 AM",
     "location": {
-      "name": "Lehigh Park",
-      "address": "Lehigh Park",
-      "map_link": "https://maps.app.goo.gl/DQ8LxCZUCH4aJBPi7?g_st=ic"
+      "name": "EMS",
+      "address": "EMS",
+      "map_link": "https://maps.app.goo.gl/F2anCPmrsKEcBacM8?g_st=ic"
     },
-    "location_link": "https://maps.app.goo.gl/DQ8LxCZUCH4aJBPi7?g_st=ic",
-    "description": "3\u20136 x 1200 meters at 10k pace with 100, 200, 300, 400, 500, and 600-meter kick-ins at 5k pace.",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+Lehigh+Park&dates=20260305T122000Z%2F20260305T132000Z&details=3%E2%80%936+x+1200+meters+at+10k+pace+with+100%2C+200%2C+300%2C+400%2C+500%2C+and+600-meter+kick-ins+at+5k+pace.&location=Lehigh+Park",
-    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwMzA1VDEyMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDMwMVQyMTQyNDRaDQpEVFNUQVJUOjIwMjYwMzA1VDEyMjAwMFoNCkRURU5EOjIwMjYwMzA1VDEzMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IExlaGlnaCBQYXJrDQpERVNDUklQVElPTjoz4oCTNiB4IDEyMDAgbWV0ZXJzIGF0IDEwayBwYWNlIHdpdGggMTAwXCwgMjAwXCwgMzAwXCwgNDAwXCwgNTAwXCwgYW5kIDYwMC1tZXRlciBraWNrLWlucyBhdCA1ayBwYWNlLg0KTE9DQVRJT046TGVoaWdoIFBhcmsNClNUQVRVUzpDT05GSVJNRUQNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVI="
+    "location_link": "https://maps.app.goo.gl/F2anCPmrsKEcBacM8?g_st=ic",
+    "description": "Lactic Threshold & Speed: 10\u201312 minutes out and 10\u201312 minutes back at 10k pace plus 5\u201310 seconds per mile. Transition to the track for 4\u20135 x 300m at 5k pace with a 100m slow walking recovery.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+EMS&dates=20260312T112000Z%2F20260312T122000Z&details=Lactic+Threshold+%26+Speed%3A+10%E2%80%9312+minutes+out+and+10%E2%80%9312+minutes+back+at+10k+pace+plus+5%E2%80%9310+seconds+per+mile.+Transition+to+the+track+for+4%E2%80%935+x+300m+at+5k+pace+with+a+100m+slow+walking+recovery.&location=EMS",
+    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwMzEyVDExMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDMwOFQyMjI3NTRaDQpEVFNUQVJUOjIwMjYwMzEyVDExMjAwMFoNCkRURU5EOjIwMjYwMzEyVDEyMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IEVNUw0KREVTQ1JJUFRJT046TGFjdGljIFRocmVzaG9sZCAmIFNwZWVkOiAxMOKAkzEyIG1pbnV0ZXMgb3V0IGFuZCAxMOKAkzEyIG1pbnV0ZXMgYmFjayBhdCAxMGsgcGFjZSBwbHVzIDXigJMxMCBzZWNvbmRzIHBlciBtaWxlLiBUcmFuc2l0aW9uIHRvIHRoZSB0cmFjayBmb3IgNOKAkzUgeCAzMDBtIGF0IDVrIHBhY2Ugd2l0aCBhIDEwMG0gc2xvdyB3YWxraW5nIHJlY292ZXJ5Lg0KTE9DQVRJT046RU1TDQpTVEFUVVM6Q09ORklSTUVEDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFS"
   },
   {
-    "date": "2026-03-07",
+    "date": "2026-03-14",
     "time": "7:00 AM",
     "location": {
-      "name": "Cristos Coffee Shop",
-      "address": "Cristos Coffee Shop",
-      "map_link": "https://maps.app.goo.gl/z8q7u6hLe6EuPoqB6?g_st=ic"
+      "name": "East Simpson Coffee Shop",
+      "address": "East Simpson Coffee Shop",
+      "map_link": "https://maps.app.goo.gl/ZGrpsqJyxB72Y1pN9?g_st=ic"
     },
-    "location_link": "https://maps.app.goo.gl/z8q7u6hLe6EuPoqB6?g_st=ic",
-    "description": "Social run: Free and open to all levels and abilities.",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+Cristos+Coffee+Shop&dates=20260307T140000Z%2F20260307T150000Z&details=Social+run%3A+Free+and+open+to+all+levels+and+abilities.&location=Cristos+Coffee+Shop",
-    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwMzA3VDE0MDAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDMwMVQyMTQyNDRaDQpEVFNUQVJUOjIwMjYwMzA3VDE0MDAwMFoNCkRURU5EOjIwMjYwMzA3VDE1MDAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IENyaXN0b3MgQ29mZmVlIFNob3ANCkRFU0NSSVBUSU9OOlNvY2lhbCBydW46IEZyZWUgYW5kIG9wZW4gdG8gYWxsIGxldmVscyBhbmQgYWJpbGl0aWVzLg0KTE9DQVRJT046Q3Jpc3RvcyBDb2ZmZWUgU2hvcA0KU1RBVFVTOkNPTkZJUk1FRA0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg=="
+    "location_link": "https://maps.app.goo.gl/ZGrpsqJyxB72Y1pN9?g_st=ic",
+    "description": "All-Inclusive Social Run. All levels and abilities are welcome!",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+East+Simpson+Coffee+Shop&dates=20260314T130000Z%2F20260314T140000Z&details=All-Inclusive+Social+Run.+All+levels+and+abilities+are+welcome%21&location=East+Simpson+Coffee+Shop",
+    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwMzE0VDEzMDAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDMwOFQyMjI3NTRaDQpEVFNUQVJUOjIwMjYwMzE0VDEzMDAwMFoNCkRURU5EOjIwMjYwMzE0VDE0MDAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IEVhc3QgU2ltcHNvbiBDb2ZmZWUgU2hvcA0KREVTQ1JJUFRJT046QWxsLUluY2x1c2l2ZSBTb2NpYWwgUnVuLiBBbGwgbGV2ZWxzIGFuZCBhYmlsaXRpZXMgYXJlIHdlbGNvbWUhDQpMT0NBVElPTjpFYXN0IFNpbXBzb24gQ29mZmVlIFNob3ANClNUQVRVUzpDT05GSVJNRUQNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVI="
   }
 ]
