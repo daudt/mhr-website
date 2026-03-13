@@ -599,14 +599,16 @@
         .email-body-editor {
             width: 100%;
             min-height: 200px;
+            max-height: 400px;
+            overflow-y: auto;
             padding: 1rem;
             border: 1.5px solid var(--border);
             border-radius: 6px;
             font-family: 'Open Sans', sans-serif;
             font-size: 0.9rem;
             line-height: 1.7;
-            resize: vertical;
             margin-bottom: 0.75rem;
+            white-space: pre-wrap;
         }
 
         .email-body-editor:focus {
@@ -775,7 +777,7 @@
                     <button class="btn btn-ghost" onclick="hideEmailPreview()"><i class="fas fa-times"></i></button>
                 </div>
                 <input type="text" class="email-subject-input" id="email-subject" placeholder="Email subject..." value="MHR Workouts This Week">
-                <textarea class="email-body-editor" id="email-body"></textarea>
+                <div class="email-body-editor" id="email-body" contenteditable="true"></div>
                 <div class="email-actions">
                     <button class="btn btn-primary" onclick="sendEmail()">
                         <i class="fas fa-paper-plane"></i> Send to Group
@@ -897,7 +899,10 @@
             document.getElementById('user-avatar').style.display = 'none';
         }
 
-        // Add default workout cards
+        // Clear any existing workout cards (e.g. from session restore) and add defaults
+        const existingCards = document.querySelectorAll('.workout-card');
+        existingCards.forEach(c => c.remove());
+        workoutCounter = 0;
         addWorkoutCard();
         addWorkoutCard();
     }
@@ -1307,6 +1312,76 @@
 
     // ── Email Preview ─────────────────────────────────────────
 
+    function markdownToEmailHtml(md) {
+        let html = '';
+        const lines = md.split('\n');
+        let inList = false;
+        let listType = null; // 'ul' or 'ol'
+
+        for (let i = 0; i < lines.length; i++) {
+            let line = lines[i];
+
+            // Headings
+            const headingMatch = line.match(/^(#{1,3})\s+(.+)/);
+            if (headingMatch) {
+                if (inList) { html += `</${listType}>`; inList = false; }
+                const level = headingMatch[1].length;
+                const text = applyInlineFormatting(headingMatch[2]);
+                html += `<h${level + 1}>${text}</h${level + 1}>`;
+                continue;
+            }
+
+            // Unordered list
+            const ulMatch = line.match(/^[\s]*[-*]\s+(.+)/);
+            if (ulMatch) {
+                if (!inList || listType !== 'ul') {
+                    if (inList) html += `</${listType}>`;
+                    html += '<ul>'; inList = true; listType = 'ul';
+                }
+                html += `<li>${applyInlineFormatting(ulMatch[1])}</li>`;
+                continue;
+            }
+
+            // Ordered list
+            const olMatch = line.match(/^[\s]*\d+[.)]\s+(.+)/);
+            if (olMatch) {
+                if (!inList || listType !== 'ol') {
+                    if (inList) html += `</${listType}>`;
+                    html += '<ol>'; inList = true; listType = 'ol';
+                }
+                html += `<li>${applyInlineFormatting(olMatch[1])}</li>`;
+                continue;
+            }
+
+            // Close any open list
+            if (inList) { html += `</${listType}>`; inList = false; }
+
+            // Blank line = paragraph break
+            if (line.trim() === '') {
+                html += '<br>';
+                continue;
+            }
+
+            // Regular text
+            html += applyInlineFormatting(line) + '<br>';
+        }
+
+        if (inList) html += `</${listType}>`;
+        return html;
+    }
+
+    function applyInlineFormatting(text) {
+        // Bold
+        text = text.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
+        text = text.replace(/__(.+?)__/g, '<strong>$1</strong>');
+        // Italic
+        text = text.replace(/\*(.+?)\*/g, '<em>$1</em>');
+        text = text.replace(/_(.+?)_/g, '<em>$1</em>');
+        // Links
+        text = text.replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2">$1</a>');
+        return text;
+    }
+
     function showEmailPreview(aiResponse) {
         const preview = document.getElementById('email-preview');
         preview.classList.add('visible');
@@ -1342,7 +1417,8 @@
         // Strip any remaining leading markdown bold/italic wrapper or trailing separator
         body = body.replace(/^\*{3,}\s*\n?/, '').replace(/\n?\s*\*{3,}\s*$/, '').trim();
 
-        document.getElementById('email-body').value = body;
+        // Convert markdown to HTML for rich preview
+        document.getElementById('email-body').innerHTML = markdownToEmailHtml(body);
         document.getElementById('send-status').textContent = '';
     }
 
@@ -1350,12 +1426,19 @@
         document.getElementById('email-preview').classList.remove('visible');
     }
 
+    function getEmailContent() {
+        const el = document.getElementById('email-body');
+        const bodyHtml = el.innerHTML.trim();
+        const bodyText = el.innerText.trim();
+        return { bodyHtml, bodyText };
+    }
+
     async function sendEmail() {
         const subject = document.getElementById('email-subject').value.trim();
-        const body = document.getElementById('email-body').value.trim();
+        const { bodyHtml, bodyText } = getEmailContent();
         const status = document.getElementById('send-status');
 
-        if (!subject || !body) {
+        if (!subject || !bodyText) {
             showToast('Subject and body are required', 'error');
             return;
         }
@@ -1368,8 +1451,8 @@
                 method: 'POST',
                 body: JSON.stringify({
                     subject,
-                    body_html: body.replace(/\n/g, '<br>'),
-                    body_text: body,
+                    body_html: bodyHtml,
+                    body_text: bodyText,
                 }),
             });
 
@@ -1391,10 +1474,10 @@
 
     async function sendTestEmail() {
         const subject = document.getElementById('email-subject').value.trim();
-        const body = document.getElementById('email-body').value.trim();
+        const { bodyHtml, bodyText } = getEmailContent();
         const status = document.getElementById('send-status');
 
-        if (!subject || !body) {
+        if (!subject || !bodyText) {
             showToast('Subject and body are required', 'error');
             return;
         }
@@ -1412,8 +1495,8 @@
                 method: 'POST',
                 body: JSON.stringify({
                     subject: `[TEST] ${subject}`,
-                    body_html: body.replace(/\n/g, '<br>'),
-                    body_text: body,
+                    body_html: bodyHtml,
+                    body_text: bodyText,
                     test_recipient: email,
                 }),
             });
@@ -1435,7 +1518,7 @@
     }
 
     function copyEmail() {
-        const body = document.getElementById('email-body').value;
+        const body = document.getElementById('email-body').innerText;
         navigator.clipboard.writeText(body).then(() => {
             showToast('Email copied to clipboard', 'success');
         });
