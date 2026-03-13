@@ -1194,15 +1194,12 @@
             addChatBubble('assistant', aiMessage);
             chatHistory.push({ role: 'assistant', content: aiMessage });
 
-            // Check if the response looks like an email draft
-            const msgLower = message.toLowerCase();
+            // Only show email preview when the AI response actually contains a draft
+            // (has a Subject: line or starts with a group greeting after any preamble)
             const aiLower = aiMessage.toLowerCase();
-            const askedForEmail = msgLower.includes('compose') || msgLower.includes('write') ||
-                msgLower.includes('draft') || msgLower.includes('email') || msgLower.includes('send');
-            const looksLikeEmail = aiLower.includes('subject:') || aiLower.includes('hi everyone') ||
-                aiLower.includes('hello runners') || aiLower.includes('hey team') ||
-                aiLower.includes('hi mhr') || aiLower.includes('hello mhr');
-            if (askedForEmail || looksLikeEmail) {
+            const hasSubjectLine = /\*{0,2}subject:\*{0,2}\s*.+/i.test(aiMessage);
+            const hasGreeting = /(?:^|\n\s*(?:\*{3,}|-{3,})\s*\n)(?:hi|hello|hey)\s+(?:everyone|runners|team|mhr)/i.test(aiMessage);
+            if (hasSubjectLine || hasGreeting) {
                 showEmailPreview(aiMessage);
             }
         } catch (e) {
