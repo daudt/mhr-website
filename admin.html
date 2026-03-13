@@ -831,21 +831,16 @@
             // Prompt One Tap for returning users
             google.accounts.id.prompt();
 
-            // Check for stored session
-            const stored = sessionStorage.getItem('mhr_auth');
+            // Check for stored session — show admin UI immediately,
+            // token will be refreshed silently via One Tap if expired
+            const stored = localStorage.getItem('mhr_auth');
             if (stored) {
                 try {
                     const data = JSON.parse(stored);
-                    // JWT tokens expire — check if it's still valid (exp is in seconds)
-                    const payload = JSON.parse(atob(data.token.split('.')[1]));
-                    if (payload.exp * 1000 > Date.now()) {
-                        authToken = data.token;
-                        showAdmin(data.name, data.picture);
-                    } else {
-                        sessionStorage.removeItem('mhr_auth');
-                    }
+                    authToken = data.token;
+                    showAdmin(data.name, data.picture);
                 } catch (e) {
-                    sessionStorage.removeItem('mhr_auth');
+                    localStorage.removeItem('mhr_auth');
                 }
             }
         } else {
@@ -878,8 +873,8 @@
         const name = payload.name || payload.email;
         const picture = payload.picture || '';
 
-        // Persist for page refreshes (session only, not across browser restarts)
-        sessionStorage.setItem('mhr_auth', JSON.stringify({
+        // Persist across page refreshes and browser restarts
+        localStorage.setItem('mhr_auth', JSON.stringify({
             token: authToken, name, picture
         }));
 
@@ -910,7 +905,7 @@
     function signOut() {
         authToken = null;
         chatHistory = [];
-        sessionStorage.removeItem('mhr_auth');
+        localStorage.removeItem('mhr_auth');
         document.getElementById('auth-gate').style.display = '';
         document.getElementById('admin-main').classList.remove('visible');
         document.getElementById('sign-out-btn').style.display = 'none';
@@ -922,17 +917,43 @@
 
     // ── API helpers ───────────────────────────────────────────
 
-    async function apiFetch(path, options = {}) {
+    async function apiFetch(path, options = {}, _retry = false) {
         const headers = { 'Content-Type': 'application/json', ...(options.headers || {}) };
         if (authToken) {
             headers['Authorization'] = `Bearer ${authToken}`;
         }
         const res = await fetch(`${API_BASE_URL}${path}`, { ...options, headers });
+        if ((res.status === 401 || res.status === 403) && !_retry && GOOGLE_CLIENT_ID) {
+            // Token likely expired — try silent re-auth via One Tap
+            const refreshed = await refreshToken();
+            if (refreshed) {
+                return apiFetch(path, options, true);
+            }
+        }
         if (!res.ok) {
             const err = await res.json().catch(() => ({ detail: res.statusText }));
             throw new Error(err.detail || `API error ${res.status}`);
         }
         return res.json();
+    }
+
+    function refreshToken() {
+        return new Promise((resolve) => {
+            google.accounts.id.initialize({
+                client_id: GOOGLE_CLIENT_ID,
+                callback: (response) => {
+                    handleCredentialResponse(response);
+                    resolve(true);
+                },
+                auto_select: true,
+            });
+            google.accounts.id.prompt((notification) => {
+                // If prompt was dismissed or skipped, re-auth failed
+                if (notification.isNotDisplayed() || notification.isSkippedMoment()) {
+                    resolve(false);
+                }
+            });
+        });
     }
 
     async function fetchLocations() {
