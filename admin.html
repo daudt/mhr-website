@@ -820,11 +820,32 @@
             google.accounts.id.initialize({
                 client_id: GOOGLE_CLIENT_ID,
                 callback: handleCredentialResponse,
+                auto_select: true,  // Auto sign-in if previously signed in
             });
             google.accounts.id.renderButton(
                 document.getElementById('g_id_signin'),
                 { theme: 'outline', size: 'large', width: 300 }
             );
+            // Prompt One Tap for returning users
+            google.accounts.id.prompt();
+
+            // Check for stored session
+            const stored = sessionStorage.getItem('mhr_auth');
+            if (stored) {
+                try {
+                    const data = JSON.parse(stored);
+                    // JWT tokens expire — check if it's still valid (exp is in seconds)
+                    const payload = JSON.parse(atob(data.token.split('.')[1]));
+                    if (payload.exp * 1000 > Date.now()) {
+                        authToken = data.token;
+                        showAdmin(data.name, data.picture);
+                    } else {
+                        sessionStorage.removeItem('mhr_auth');
+                    }
+                } catch (e) {
+                    sessionStorage.removeItem('mhr_auth');
+                }
+            }
         } else {
             // Dev mode: skip auth
             console.warn('No GOOGLE_CLIENT_ID set — running in dev mode');
@@ -852,7 +873,15 @@
         authToken = response.credential;
         // Decode JWT to get user info
         const payload = JSON.parse(atob(authToken.split('.')[1]));
-        showAdmin(payload.name || payload.email, payload.picture || '');
+        const name = payload.name || payload.email;
+        const picture = payload.picture || '';
+
+        // Persist for page refreshes (session only, not across browser restarts)
+        sessionStorage.setItem('mhr_auth', JSON.stringify({
+            token: authToken, name, picture
+        }));
+
+        showAdmin(name, picture);
     }
 
     function showAdmin(name, picture) {
@@ -876,6 +905,7 @@
     function signOut() {
         authToken = null;
         chatHistory = [];
+        sessionStorage.removeItem('mhr_auth');
         document.getElementById('auth-gate').style.display = '';
         document.getElementById('admin-main').classList.remove('visible');
         document.getElementById('sign-out-btn').style.display = 'none';
