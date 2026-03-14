@@ -1122,6 +1122,22 @@
         return workouts;
     }
 
+    function applyWorkoutUpdates(workouts) {
+        // Clear existing cards and rebuild from AI data
+        const existingCards = document.querySelectorAll('.workout-card');
+        existingCards.forEach(c => c.remove());
+        workoutCounter = 0;
+
+        workouts.forEach(w => {
+            addWorkoutCard({
+                date: w.date || '',
+                time: w.time || '',
+                location_name: w.location_name || '',
+                description: w.description || '',
+            });
+        });
+    }
+
     // ── Save Workouts ─────────────────────────────────────────
 
     async function saveWorkouts() {
@@ -1211,7 +1227,22 @@
             typing.classList.remove('visible');
             sendBtn.disabled = false;
 
-            const aiMessage = res.response;
+            let aiMessage = res.response;
+
+            // Check for workout update block and apply changes
+            const updateMatch = aiMessage.match(/<!-- WORKOUT_UPDATE\s*\n([\s\S]*?)\n-->/);
+            if (updateMatch) {
+                try {
+                    const updatedWorkouts = JSON.parse(updateMatch[1]);
+                    applyWorkoutUpdates(updatedWorkouts);
+                    showToast('Workouts updated from AI suggestions', 'success');
+                } catch (e) {
+                    console.warn('Failed to parse workout update:', e);
+                }
+                // Strip the update block from the displayed message
+                aiMessage = aiMessage.replace(/<!-- WORKOUT_UPDATE\s*\n[\s\S]*?\n-->/, '').trim();
+            }
+
             addChatBubble('assistant', aiMessage);
             chatHistory.push({ role: 'assistant', content: aiMessage });
 
