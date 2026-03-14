@@ -1252,9 +1252,10 @@
             // Only show email preview when the AI response actually contains a draft
             // (has a Subject: line or starts with a group greeting after any preamble)
             const aiLower = aiMessage.toLowerCase();
+            const hasEmailMarkers = /<!-- EMAIL_START -->/.test(aiMessage);
             const hasSubjectLine = /\*{0,2}subject:\*{0,2}\s*.+/i.test(aiMessage);
             const hasGreeting = /(?:^|\n\s*(?:\*{3,}|-{3,})\s*\n)(?:hi|hello|hey)\s+(?:everyone|runners|team|mhr)/i.test(aiMessage);
-            if (hasSubjectLine || hasGreeting) {
+            if (hasEmailMarkers || hasSubjectLine || hasGreeting) {
                 showEmailPreview(aiMessage);
             }
         } catch (e) {
@@ -1438,21 +1439,27 @@
         const preview = document.getElementById('email-preview');
         preview.classList.add('visible');
 
-        // Try to extract just the email portion from the AI response.
-        // The AI often includes conversational text before the actual email,
-        // separated by markers like "---", "***", "Subject:", or phrases like
-        // "Here is the draft:" / "Here's the email:"
         let body = aiResponse;
 
-        // Strategy 1: Split on common separators (---, ***) and take the part after
-        const separatorMatch = body.match(/\n\s*(?:\*{3,}|-{3,})\s*\n/);
-        if (separatorMatch) {
-            body = body.slice(separatorMatch.index + separatorMatch[0].length).trim();
+        // Strategy 1: Use EMAIL_START/EMAIL_END markers if present
+        const markerMatch = body.match(/<!-- EMAIL_START -->\s*\n([\s\S]*?)\n<!-- EMAIL_END -->/);
+        if (markerMatch) {
+            body = markerMatch[1].trim();
         } else {
-            // Strategy 2: Find "Here is/here's the draft/email:" and take everything after
-            const phraseMatch = body.match(/(?:here(?:'s| is)(?: a| the)?\s+(?:draft|email|version|revised)[^:]*:|draft(?:\s+email)?:)\s*\n/i);
-            if (phraseMatch) {
-                body = body.slice(phraseMatch.index + phraseMatch[0].length).trim();
+            // Fallback: try to extract email from unstructured response
+            const separatorMatch = body.match(/\n\s*(?:\*{3,}|-{3,})\s*\n/);
+            if (separatorMatch) {
+                body = body.slice(separatorMatch.index + separatorMatch[0].length).trim();
+                // Strip trailing conversational text after a second separator
+                const trailingSep = body.match(/\n\s*(?:\*{3,}|-{3,})\s*\n/);
+                if (trailingSep) {
+                    body = body.slice(0, trailingSep.index).trim();
+                }
+            } else {
+                const phraseMatch = body.match(/(?:here(?:'s| is)(?: a| the)?\s+(?:draft|email|version|revised)[^:]*:|draft(?:\s+email)?:)\s*\n/i);
+                if (phraseMatch) {
+                    body = body.slice(phraseMatch.index + phraseMatch[0].length).trim();
+                }
             }
         }
 
@@ -1460,13 +1467,12 @@
         const subjectMatch = body.match(/\*{0,2}Subject:\*{0,2}\s*(.+)/i);
         if (subjectMatch) {
             let subject = subjectMatch[1].trim();
-            // Clean markdown bold from subject
             subject = subject.replace(/\*{1,2}/g, '').trim();
             document.getElementById('email-subject').value = subject;
             body = body.replace(/\*{0,2}Subject:\*{0,2}\s*.+\n?/i, '').trim();
         }
 
-        // Strip any remaining leading markdown bold/italic wrapper or trailing separator
+        // Strip any remaining leading/trailing markdown separators
         body = body.replace(/^\*{3,}\s*\n?/, '').replace(/\n?\s*\*{3,}\s*$/, '').trim();
 
         // Convert markdown to HTML for rich preview
