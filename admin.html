@@ -1533,7 +1533,7 @@
 
         // Use the signed-in admin's email as the test recipient
         const testRecipient = document.getElementById('user-name').textContent;
-        const email = prompt(`Send test email to:`, GMAIL_USER || testRecipient || '');
+        const email = prompt(`Send test email to:`, testRecipient || '');
         if (!email) return;
 
         status.textContent = `Sending test to ${email}...`;
