@@ -810,6 +810,7 @@
     const GOOGLE_CLIENT_ID = '118134638701-jgp589ngalr0kr0qr97ci5qjq1ckc2nq.apps.googleusercontent.com';
 
     let authToken = null;
+    let adminEmail = '';
     let chatHistory = [];
     let workoutCounter = 0;
     let locations = {};
@@ -838,6 +839,7 @@
                 try {
                     const data = JSON.parse(stored);
                     authToken = data.token;
+                    adminEmail = data.email || '';
                     showAdmin(data.name, data.picture);
                 } catch (e) {
                     localStorage.removeItem('mhr_auth');
@@ -872,10 +874,11 @@
         const payload = JSON.parse(atob(authToken.split('.')[1]));
         const name = payload.name || payload.email;
         const picture = payload.picture || '';
+        adminEmail = payload.email || '';
 
         // Persist across page refreshes and browser restarts
         localStorage.setItem('mhr_auth', JSON.stringify({
-            token: authToken, name, picture
+            token: authToken, name, picture, email: adminEmail
         }));
 
         showAdmin(name, picture);
@@ -1532,8 +1535,7 @@
         }
 
         // Use the signed-in admin's email as the test recipient
-        const testRecipient = document.getElementById('user-name').textContent;
-        const email = prompt(`Send test email to:`, testRecipient || '');
+        const email = prompt(`Send test email to:`, adminEmail || '');
         if (!email) return;
 
         status.textContent = `Sending test to ${email}...`;
