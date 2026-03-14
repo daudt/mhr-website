@@ -750,9 +750,6 @@
                 </div>
             </div>
             <div class="panel-footer">
-                <button class="btn btn-primary" onclick="saveWorkouts()">
-                    <i class="fas fa-save"></i> Save Workouts
-                </button>
                 <button class="btn btn-secondary" onclick="loadExistingWorkouts()">
                     <i class="fas fa-download"></i> Load Current
                 </button>
@@ -1512,8 +1509,27 @@
             return;
         }
 
-        status.textContent = 'Sending...';
+        status.textContent = 'Saving workouts...';
         status.className = 'send-status';
+
+        // Save workouts to GitHub first — since the email has the admin marker,
+        // the email processor will skip it, so we must commit workouts here
+        try {
+            const workouts = collectWorkouts();
+            if (workouts.length > 0) {
+                await apiFetch('/workouts', {
+                    method: 'POST',
+                    body: JSON.stringify({ workouts }),
+                });
+            }
+        } catch (e) {
+            status.textContent = `Failed to save workouts: ${e.message}`;
+            status.className = 'send-status error';
+            showToast(`Error saving workouts: ${e.message}`, 'error');
+            return;
+        }
+
+        status.textContent = 'Sending email...';
 
         try {
             const res = await apiFetch('/send-email', {
@@ -1528,11 +1544,11 @@
             if (res.status === 'dry_run') {
                 status.textContent = 'Dry run — email logged to console';
                 status.className = 'send-status success';
-                showToast('Dry run: email would be sent', 'success');
+                showToast('Dry run: workouts saved, email would be sent', 'success');
             } else {
                 status.textContent = `Sent to ${res.recipient}`;
                 status.className = 'send-status success';
-                showToast('Email sent!', 'success');
+                showToast('Workouts saved & email sent!', 'success');
             }
         } catch (e) {
             status.textContent = `Failed: ${e.message}`;
