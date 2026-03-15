@@ -1,41 +1,38 @@
 [
   {
-    "date": "2026-03-10",
+    "date": "2026-03-18",
     "time": "5:20 AM",
     "location": {
-      "name": "EMS",
-      "address": "EMS",
-      "map_link": "https://maps.app.goo.gl/F2anCPmrsKEcBacM8?g_st=ic"
+      "name": "Erie Middle School",
+      "address": "650 Main Street, Erie, CO 80516",
+      "map_link": "https://maps.google.com/?q=Erie+Middle+School,Erie,CO+80516"
     },
-    "location_link": "https://maps.app.goo.gl/F2anCPmrsKEcBacM8?g_st=ic",
-    "description": "Speed Ladders: 200m at 800m pace with a slow 200m walking recovery; 400s at 1-mile pace with a 90-second to 2-minute recovery; 600s at 3k pace (10\u201315 seconds per mile faster than 5k pace) with a slow 200m walking recovery. 1 lap slow running recovery after each set.",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+EMS&dates=20260310T112000Z%2F20260310T122000Z&details=Speed+Ladders%3A+200m+at+800m+pace+with+a+slow+200m+walking+recovery%3B+400s+at+1-mile+pace+with+a+90-second+to+2-minute+recovery%3B+600s+at+3k+pace+%2810%E2%80%9315+seconds+per+mile+faster+than+5k+pace%29+with+a+slow+200m+walking+recovery.+1+lap+slow+running+recovery+after+each+set.&location=EMS",
-    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwMzEwVDExMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDMwOFQyMjI3NTRaDQpEVFNUQVJUOjIwMjYwMzEwVDExMjAwMFoNCkRURU5EOjIwMjYwMzEwVDEyMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IEVNUw0KREVTQ1JJUFRJT046U3BlZWQgTGFkZGVyczogMjAwbSBhdCA4MDBtIHBhY2Ugd2l0aCBhIHNsb3cgMjAwbSB3YWxraW5nIHJlY292ZXJ5XDsgNDAwcyBhdCAxLW1pbGUgcGFjZSB3aXRoIGEgOTAtc2Vjb25kIHRvIDItbWludXRlIHJlY292ZXJ5XDsgNjAwcyBhdCAzayBwYWNlICgxMOKAkzE1IHNlY29uZHMgcGVyIG1pbGUgZmFzdGVyIHRoYW4gNWsgcGFjZSkgd2l0aCBhIHNsb3cgMjAwbSB3YWxraW5nIHJlY292ZXJ5LiAxIGxhcCBzbG93IHJ1bm5pbmcgcmVjb3ZlcnkgYWZ0ZXIgZWFjaCBzZXQuDQpMT0NBVElPTjpFTVMNClNUQVRVUzpDT05GSVJNRUQNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVI="
+    "description": "Track Speed: Warmup (1-2 miles easy, drills, strides). Main Set: 8-12 x 400m at 5k pace (90s recovery). Cooldown (1 mile easy, stretch).",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout+%E2%80%93+2026-03-18&dates=20260318T112000Z%2F20260318T122000Z&details=Track+Speed%3A+Warmup+%281-2+miles+easy%2C+drills%2C+strides%29.+Main+Set%3A+8-12+x+400m+at+5k+pace+%2890s+recovery%29.+Cooldown+%281+mile+easy%2C+stretch%29.&location=650+Main+Street%2C+Erie%2C+CO+80516",
+    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwMzE4VDExMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDMxNVQwMDQ5MjNaDQpEVFNUQVJUOjIwMjYwMzE4VDExMjAwMFoNCkRURU5EOjIwMjYwMzE4VDEyMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQg4oCTIDIwMjYtMDMtMTgNCkRFU0NSSVBUSU9OOlRyYWNrIFNwZWVkOiBXYXJtdXAgKDEtMiBtaWxlcyBlYXN5XCwgZHJpbGxzXCwgc3RyaWRlcykuIE1haW4gU2V0OiA4LTEyIHggNDAwbSBhdCA1ayBwYWNlICg5MHMgcmVjb3ZlcnkpLiBDb29sZG93biAoMSBtaWxlIGVhc3lcLCBzdHJldGNoKS4NCkxPQ0FUSU9OOjY1MCBNYWluIFN0cmVldFwsIEVyaWVcLCBDTyA4MDUxNg0KU1RBVFVTOkNPTkZJUk1FRA0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg=="
   },
   {
-    "date": "2026-03-12",
+    "date": "2026-03-20",
     "time": "5:20 AM",
     "location": {
-      "name": "EMS",
-      "address": "EMS",
-      "map_link": "https://maps.app.goo.gl/F2anCPmrsKEcBacM8?g_st=ic"
+      "name": "TBD",
+      "address": "",
+      "map_link": ""
     },
-    "location_link": "https://maps.app.goo.gl/F2anCPmrsKEcBacM8?g_st=ic",
-    "description": "Lactic Threshold & Speed: 10\u201312 minutes out and 10\u201312 minutes back at 10k pace plus 5\u201310 seconds per mile. Transition to the track for 4\u20135 x 300m at 5k pace with a 100m slow walking recovery.",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+EMS&dates=20260312T112000Z%2F20260312T122000Z&details=Lactic+Threshold+%26+Speed%3A+10%E2%80%9312+minutes+out+and+10%E2%80%9312+minutes+back+at+10k+pace+plus+5%E2%80%9310+seconds+per+mile.+Transition+to+the+track+for+4%E2%80%935+x+300m+at+5k+pace+with+a+100m+slow+walking+recovery.&location=EMS",
-    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwMzEyVDExMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDMwOFQyMjI3NTRaDQpEVFNUQVJUOjIwMjYwMzEyVDExMjAwMFoNCkRURU5EOjIwMjYwMzEyVDEyMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IEVNUw0KREVTQ1JJUFRJT046TGFjdGljIFRocmVzaG9sZCAmIFNwZWVkOiAxMOKAkzEyIG1pbnV0ZXMgb3V0IGFuZCAxMOKAkzEyIG1pbnV0ZXMgYmFjayBhdCAxMGsgcGFjZSBwbHVzIDXigJMxMCBzZWNvbmRzIHBlciBtaWxlLiBUcmFuc2l0aW9uIHRvIHRoZSB0cmFjayBmb3IgNOKAkzUgeCAzMDBtIGF0IDVrIHBhY2Ugd2l0aCBhIDEwMG0gc2xvdyB3YWxraW5nIHJlY292ZXJ5Lg0KTE9DQVRJT046RU1TDQpTVEFUVVM6Q09ORklSTUVEDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFS"
+    "description": "Threshold Workout: Warmup (1-2 miles easy, drills). Main Set: 3-4 x 1 Mile at 10k-HM pace (2-3 min jog recovery). Cooldown (1 mile easy, stretch).",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout+%E2%80%93+2026-03-20&dates=20260320T112000Z%2F20260320T122000Z&details=Threshold+Workout%3A+Warmup+%281-2+miles+easy%2C+drills%29.+Main+Set%3A+3-4+x+1+Mile+at+10k-HM+pace+%282-3+min+jog+recovery%29.+Cooldown+%281+mile+easy%2C+stretch%29.&location=",
+    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwMzIwVDExMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDMxNVQwMDQ5MjNaDQpEVFNUQVJUOjIwMjYwMzIwVDExMjAwMFoNCkRURU5EOjIwMjYwMzIwVDEyMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQg4oCTIDIwMjYtMDMtMjANCkRFU0NSSVBUSU9OOlRocmVzaG9sZCBXb3Jrb3V0OiBXYXJtdXAgKDEtMiBtaWxlcyBlYXN5XCwgZHJpbGxzKS4gTWFpbiBTZXQ6IDMtNCB4IDEgTWlsZSBhdCAxMGstSE0gcGFjZSAoMi0zIG1pbiBqb2cgcmVjb3ZlcnkpLiBDb29sZG93biAoMSBtaWxlIGVhc3lcLCBzdHJldGNoKS4NCkxPQ0FUSU9OOg0KU1RBVFVTOkNPTkZJUk1FRA0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg=="
   },
   {
-    "date": "2026-03-14",
-    "time": "7:00 AM",
+    "date": "2026-03-22",
+    "time": "7:30 AM",
     "location": {
-      "name": "East Simpson Coffee Shop",
-      "address": "East Simpson Coffee Shop",
-      "map_link": "https://maps.app.goo.gl/ZGrpsqJyxB72Y1pN9?g_st=ic"
+      "name": "TBD",
+      "address": "",
+      "map_link": ""
     },
-    "location_link": "https://maps.app.goo.gl/ZGrpsqJyxB72Y1pN9?g_st=ic",
-    "description": "All-Inclusive Social Run. All levels and abilities are welcome!",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+East+Simpson+Coffee+Shop&dates=20260314T130000Z%2F20260314T140000Z&details=All-Inclusive+Social+Run.+All+levels+and+abilities+are+welcome%21&location=East+Simpson+Coffee+Shop",
-    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwMzE0VDEzMDAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDMwOFQyMjI3NTRaDQpEVFNUQVJUOjIwMjYwMzE0VDEzMDAwMFoNCkRURU5EOjIwMjYwMzE0VDE0MDAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IEVhc3QgU2ltcHNvbiBDb2ZmZWUgU2hvcA0KREVTQ1JJUFRJT046QWxsLUluY2x1c2l2ZSBTb2NpYWwgUnVuLiBBbGwgbGV2ZWxzIGFuZCBhYmlsaXRpZXMgYXJlIHdlbGNvbWUhDQpMT0NBVElPTjpFYXN0IFNpbXBzb24gQ29mZmVlIFNob3ANClNUQVRVUzpDT05GSVJNRUQNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVI="
+    "description": "Social Run: 4-6 miles at a conversational pace, open to all levels and abilities!",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout+%E2%80%93+2026-03-22&dates=20260322T133000Z%2F20260322T143000Z&details=Social+Run%3A+4-6+miles+at+a+conversational+pace%2C+open+to+all+levels+and+abilities%21&location=",
+    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwMzIyVDEzMzAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDMxNVQwMDQ5MjNaDQpEVFNUQVJUOjIwMjYwMzIyVDEzMzAwMFoNCkRURU5EOjIwMjYwMzIyVDE0MzAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQg4oCTIDIwMjYtMDMtMjINCkRFU0NSSVBUSU9OOlNvY2lhbCBSdW46IDQtNiBtaWxlcyBhdCBhIGNvbnZlcnNhdGlvbmFsIHBhY2VcLCBvcGVuIHRvIGFsbCBsZXZlbHMgYW5kIGFiaWxpdGllcyENCkxPQ0FUSU9OOg0KU1RBVFVTOkNPTkZJUk1FRA0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg=="
   }
 ]
