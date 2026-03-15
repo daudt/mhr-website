@@ -1054,6 +1054,17 @@
             timeSelect.insertBefore(opt, timeSelect.lastElementChild);
         }
 
+        // If location_name doesn't match any dropdown key, treat as custom
+        if (data && data.location_name && data.location_name !== 'custom') {
+            const locSelect = document.getElementById(`location-${id}`);
+            const matched = Array.from(locSelect.options).some(o => o.value === data.location_name);
+            if (!matched) {
+                locSelect.value = 'custom';
+                handleLocationChange(id);
+                document.getElementById(`custom-location-${id}`).value = data.location_name;
+            }
+        }
+
         // Pre-select location if provided from loaded data
         if (data && data.location) {
             const locSelect = document.getElementById(`location-${id}`);
