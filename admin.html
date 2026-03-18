@@ -838,15 +838,14 @@
             // Prompt One Tap for returning users
             google.accounts.id.prompt();
 
-            // Check for stored session — show admin UI immediately,
-            // token will be refreshed silently via One Tap if expired
+            // Check for stored session — verify with backend before showing UI
             const stored = localStorage.getItem('mhr_auth');
             if (stored) {
                 try {
                     const data = JSON.parse(stored);
                     authToken = data.token;
                     adminEmail = data.email || '';
-                    showAdmin(data.name, data.picture);
+                    verifyAndShowAdmin(data.name, data.picture);
                 } catch (e) {
                     localStorage.removeItem('mhr_auth');
                 }
@@ -887,6 +886,31 @@
             token: authToken, name, picture, email: adminEmail
         }));
 
+        verifyAndShowAdmin(name, picture);
+    }
+
+    async function verifyAndShowAdmin(name, picture) {
+        try {
+            const headers = { 'Content-Type': 'application/json' };
+            if (authToken) headers['Authorization'] = `Bearer ${authToken}`;
+            const res = await fetch(`${API_BASE_URL}/workouts`, { headers });
+            if (res.status === 403) {
+                const err = await res.json().catch(() => ({}));
+                signOut();
+                const authError = document.getElementById('auth-error');
+                authError.textContent = err.detail || 'You are not authorized to access this page.';
+                authError.style.display = 'block';
+                return;
+            }
+            if (res.status === 401) {
+                // Token expired and no silent refresh available
+                signOut();
+                return;
+            }
+        } catch (e) {
+            // Network error — let them through, API calls will fail with clear errors
+            console.warn('Auth verification failed (network):', e);
+        }
         showAdmin(name, picture);
     }
 
