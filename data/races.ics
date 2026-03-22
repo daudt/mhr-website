@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Mile High Runners Race Calendar
 BEGIN:VEVENT
 UID:sourdough-snowshoe-race-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20260131T083000Z
 DTEND:20260131T123000Z
 SUMMARY:Sourdough Snowshoe Race
@@ -16,7 +16,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:running-up-for-air-staunton-rocks-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20260206T060000Z
 DTEND:20260206T100000Z
 SUMMARY:Running Up for Air - Staunton Rocks
@@ -26,7 +26,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:fruita-sweetheart-run-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20260207T100000Z
 DTEND:20260207T140000Z
 SUMMARY:Fruita Sweetheart Run
@@ -36,7 +36,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:super-sunday-5k-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20260208T100000Z
 DTEND:20260208T140000Z
 SUMMARY:Super Sunday 5K
@@ -46,7 +46,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:love-em-or-leave-em-valentines-day-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20260214T090000Z
 DTEND:20260214T130000Z
 SUMMARY:Love 'em or Leave 'em Valentine's Day
@@ -56,7 +56,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:virginia-canyon-is-for-lovers-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20260214T100000Z
 DTEND:20260214T140000Z
 SUMMARY:Virginia Canyon Is for Lovers
@@ -65,18 +65,8 @@ LOCATION:900 block of Idaho St\, Idaho Springs\, CO 80452
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:sweetheart-classic-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
-DTSTART:20260214T090000Z
-DTEND:20260214T130000Z
-SUMMARY:Sweetheart Classic
-DESCRIPTION:A beloved Valentine's Day tradition in the 'Sweetheart City\,' this 4-mile race takes runners through the scenic streets of downtown Loveland. It features a festive atmosphere with many participants running in themed costumes.
-LOCATION:Downtown Loveland\, Loveland\, CO 80537
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:heart-throb-5k-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20260214T090000Z
 DTEND:20260214T130000Z
 SUMMARY:Heart Throb 5K
@@ -85,8 +75,18 @@ LOCATION:Apex Center\, 13150 W 72nd Ave\, Arvada\, CO 80005
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:sweetheart-classic-2026@milehighrunners.com
+DTSTAMP:20260322T000000Z
+DTSTART:20260214T090000Z
+DTEND:20260214T130000Z
+SUMMARY:Sweetheart Classic
+DESCRIPTION:A beloved Valentine's Day tradition in the 'Sweetheart City\,' this 4-mile race takes runners through the scenic streets of downtown Loveland. It features a festive atmosphere with many participants running in themed costumes.
+LOCATION:Downtown Loveland\, Loveland\, CO 80537
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:ralston-creek-half-marathon-5k-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20260215T090000Z
 DTEND:20260215T130000Z
 SUMMARY:Ralston Creek Half Marathon & 5K
@@ -96,7 +96,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:stories-trail-runs-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20260221T080000Z
 DTEND:20260221T120000Z
 SUMMARY:Stories Trail Runs
@@ -106,7 +106,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:all-out-mardi-crawl-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20260222T090000Z
 DTEND:20260222T130000Z
 SUMMARY:All-Out Mardi Crawl
@@ -116,7 +116,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:bacon-strip-race-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20260222T090000Z
 DTEND:20260222T130000Z
 SUMMARY:Bacon Strip Race
@@ -126,7 +126,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:highlands-ranch-5k10k-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20260222T100000Z
 DTEND:20260222T140000Z
 SUMMARY:Highlands Ranch 5k/10k
@@ -135,28 +135,8 @@ LOCATION:Highland Heritage Regional Park\, 9651 S Quebec St\, Highlands Ranch\, 
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:winter-series-us-olympic-paralympic-museum-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
-DTSTART:20260228T100000Z
-DTEND:20260228T140000Z
-SUMMARY:Winter Series - U.S. Olympic & Paralympic Museum
-DESCRIPTION:The fourth and final race of the Pikes Peak Road Runners Winter Series. This event typically features both a long and short course (5K and 10K distances) starting near the U.S. Olympic & Paralympic Museum in downtown Colorado Springs.
-LOCATION:200 S Sierra Madre St\, Colorado Springs\, CO 80903
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:winter-series-ws-iv-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
-DTSTART:20260228T100000Z
-DTEND:20260228T140000Z
-SUMMARY:Winter Series WS IV
-DESCRIPTION:The finale of the four-part Winter Series\, offering both 'Long' and 'Short' course options. Runners face the challenging terrain of the Colorado Springs area in this long-standing community tradition.
-LOCATION:U.S. Olympic & Paralympic Museum\, 200 S Sierra Madre St\, Colorado Springs\, CO 80903
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:time-to-paddy-5k10k-lucky-131-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20260228T090000Z
 DTEND:20260228T130000Z
 SUMMARY:Time to Paddy 5k/10k & Lucky 13.1
@@ -165,8 +145,28 @@ LOCATION:Central Park\, 8801 Martin Luther King Jr Blvd\, Denver\, CO 80238
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:winter-series-ws-iv-2026@milehighrunners.com
+DTSTAMP:20260322T000000Z
+DTSTART:20260228T100000Z
+DTEND:20260228T140000Z
+SUMMARY:Winter Series WS IV
+DESCRIPTION:The finale of the four-part Winter Series\, offering both 'Long' and 'Short' course options. Runners face the challenging terrain of the Colorado Springs area in this long-standing community tradition.
+LOCATION:U.S. Olympic & Paralympic Museum\, 200 S Sierra Madre St\, Colorado Springs\, CO 80903
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:winter-series-us-olympic-paralympic-museum-2026@milehighrunners.com
+DTSTAMP:20260322T000000Z
+DTSTART:20260228T100000Z
+DTEND:20260228T140000Z
+SUMMARY:Winter Series - U.S. Olympic & Paralympic Museum
+DESCRIPTION:The fourth and final race of the Pikes Peak Road Runners Winter Series. This event typically features both a long and short course (5K and 10K distances) starting near the U.S. Olympic & Paralympic Museum in downtown Colorado Springs.
+LOCATION:200 S Sierra Madre St\, Colorado Springs\, CO 80903
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:that-dam-run-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20260301T080000Z
 DTEND:20260301T120000Z
 SUMMARY:That Dam Run
@@ -176,7 +176,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:run-through-time-marathon-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20260307T080000Z
 DTEND:20260307T120000Z
 SUMMARY:Run Through Time Marathon
@@ -186,7 +186,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:runnin-of-the-green-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20260308T100000Z
 DTEND:20260308T140000Z
 SUMMARY:Runnin' of the Green
@@ -195,68 +195,8 @@ LOCATION:1700 E Louisiana Avenue\, Denver\, CO 80210
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:skidola-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
-DTSTART:20260313T173000Z
-DTEND:20260313T213000Z
-SUMMARY:Skidola
-DESCRIPTION:Telluride's premier winter uphill race where runners and skiers tackle a grueling 1\,800-foot vertical climb up the ski resort. This evening mountain race is a true test of lung capacity and grit in the thin San Juan air.
-LOCATION:Telluride Ski Resort\, Telluride\, CO 81435
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:run-through-time-trail-marathon-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
-DTSTART:20260314T080000Z
-DTEND:20260314T120000Z
-SUMMARY:Run Through Time Trail Marathon
-DESCRIPTION:A rugged early-season trail race through the Arkansas Hills Trail System. Runners face challenging terrain with elevations ranging from 7\,000 to 9\,000 feet.
-LOCATION:Riverside Park\, Salida\, CO 81201
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:erin-go-bragh-777k-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
-DTSTART:20260314T090000Z
-DTEND:20260314T130000Z
-SUMMARY:Erin Go Bragh 7.77k
-DESCRIPTION:A festive St. Patrick's Day road race featuring a unique 7.77k distance. This family-friendly event includes a Lucky Charms eating contest and a post-race celebration with Irish flair.
-LOCATION:Westminster Promenade Terrace\, 10600 Westminster Blvd\, Westminster\, CO 80020
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:lucky-brew-race-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
-DTSTART:20260314T090000Z
-DTEND:20260314T130000Z
-SUMMARY:Lucky Brew Race
-DESCRIPTION:This scenic race in Northern Colorado takes runners through the agricultural heart of the region. The event finishes with a post-race celebration featuring local craft brews.
-LOCATION:Gorsuch Park\, Severance\, CO 80550
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:shamrock-stampede-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
-DTSTART:20260314T090000Z
-DTEND:20260314T130000Z
-SUMMARY:ShamROCK Stampede
-DESCRIPTION:A festive St. Patrick's Day themed road race through Castle Rock. The event features a family-friendly atmosphere and supports local veteran and first responder charities.
-LOCATION:Douglas County Fairgrounds\, Castle Rock\, CO 80104
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:st-paddys-day-lucky-run-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
-DTSTART:20260314T083000Z
-DTEND:20260314T123000Z
-SUMMARY:St. Paddy's Day Lucky Run
-DESCRIPTION:A popular early-season road race featuring a flat and fast course along the Cherry Creek Spillway. Participants are encouraged to wear their best green gear to celebrate the holiday.
-LOCATION:Tagawa Gardens\, 7711 S Parker Rd\, Centennial\, CO 80016
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:sharin-o-the-green-5k-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20260314T083000Z
 DTEND:20260314T123000Z
 SUMMARY:Sharin' O' the Green 5K
@@ -265,8 +205,28 @@ LOCATION:Library Park\, 201 Peterson St\, Fort Collins\, CO 80524
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:erin-go-bragh-777k-2026@milehighrunners.com
+DTSTAMP:20260322T000000Z
+DTSTART:20260314T090000Z
+DTEND:20260314T130000Z
+SUMMARY:Erin Go Bragh 7.77k
+DESCRIPTION:A festive St. Patrick's Day road race featuring a unique 7.77k distance. This family-friendly event includes a Lucky Charms eating contest and a post-race celebration with Irish flair.
+LOCATION:Westminster Promenade Terrace\, 10600 Westminster Blvd\, Westminster\, CO 80020
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:run-through-time-trail-marathon-2026@milehighrunners.com
+DTSTAMP:20260322T000000Z
+DTSTART:20260314T080000Z
+DTEND:20260314T120000Z
+SUMMARY:Run Through Time Trail Marathon
+DESCRIPTION:A rugged early-season trail race through the Arkansas Hills Trail System. Runners face challenging terrain with elevations ranging from 7\,000 to 9\,000 feet.
+LOCATION:Riverside Park\, Salida\, CO 81201
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:st-patricks-day-5k-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20260314T090000Z
 DTEND:20260314T130000Z
 SUMMARY:St. Patrick's Day 5K
@@ -276,7 +236,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:all-out-spring-fever-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20260322T080000Z
 DTEND:20260322T120000Z
 SUMMARY:All-Out Spring Fever
@@ -286,7 +246,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:central-park-5k-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20260322T090000Z
 DTEND:20260322T130000Z
 SUMMARY:Central Park 5k
@@ -296,7 +256,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:cryogenic-cannibal-chase-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20260328T090000Z
 DTEND:20260328T130000Z
 SUMMARY:Cryogenic Cannibal Chase
@@ -305,28 +265,18 @@ LOCATION:Estes Park\, CO 80517
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:the-grand-traverse-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
-DTSTART:20260328T000000Z
-DTEND:20260328T040000Z
-SUMMARY:The Grand Traverse
-DESCRIPTION:An extraordinary 40-mile mountain race from Crested Butte to Aspen\, traditionally a ski race but also held as a run in late summer. The winter edition is a true backcountry adventure crossing the Elk Mountains under the cover of night.
-LOCATION:Mount Crested Butte\, Crested Butte\, CO 81225
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:spring-equinox-half-marathon-5k-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
-DTSTART:20260329T083000Z
-DTEND:20260329T123000Z
+DTSTAMP:20260322T000000Z
+DTSTART:20260329T080000Z
+DTEND:20260329T120000Z
 SUMMARY:Spring Equinox Half Marathon & 5K
-DESCRIPTION:Celebrate the arrival of spring with a scenic run that starts and ends at the Anheuser-Busch Brewery. This road race offers a fast\, downhill-trending course through the northern Colorado landscape.
+DESCRIPTION:A scenic road race that winds through the beautiful countryside of Northern Colorado\, offering a fast and relatively flat course perfect for a spring PR.
 LOCATION:The Biergarten at Anheuser-Busch\, 2351 Busch Dr\, Fort Collins\, CO 80524
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:rmrr-spring-marathon-training-series-1-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20260329T080000Z
 DTEND:20260329T120000Z
 SUMMARY:RMRR Spring Marathon Training Series #1
@@ -335,8 +285,18 @@ LOCATION:Margaret's Pond\, Thornton\, CO 80233
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:the-grand-traverse-2026@milehighrunners.com
+DTSTAMP:20260322T000000Z
+DTSTART:20260329T060000Z
+DTEND:20260329T100000Z
+SUMMARY:The Grand Traverse
+DESCRIPTION:A challenging point-to-point mountain race through the rugged Elk Mountains. This high-altitude event tests endurance and mountain skills in a stunning backcountry setting.
+LOCATION:Crested Butte Mountain Resort\, 12 Emmons Rd\, Crested Butte\, CO 81225
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:race-the-ranch-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20260404T080000Z
 DTEND:20260404T120000Z
 SUMMARY:Race The Ranch
@@ -346,47 +306,37 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:three-creeks-half-marathon-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20260405T080000Z
 DTEND:20260405T120000Z
 SUMMARY:Three Creeks Half Marathon
-DESCRIPTION:The 13th annual Three Creeks Half Marathon is a flat\, fast\, and scenic race through Cherry Creek State Park. The course follows the banks of Cherry Creek\, Windmill Creek\, and Cottonwood Creek on a mix of road\, paved running trails\, and wide dirt trails with a total elevation gain of only 291 feet. The event includes a half marathon\, a 2-person relay option\, and a kids race with the Easter Bunny.
-LOCATION:Hobie Hill\, Cherry Creek State Park (Parking at Cherry Creek High School South Lot\, Yosemite St & Campus Dr)\, Denver\, CO
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:desert-rats-trail-running-festival-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
-DTSTART:20260410T060000Z
-DTEND:20260410T100000Z
-SUMMARY:Desert Rats Trail Running Festival
-DESCRIPTION:An iconic trail festival featuring the rugged red rock beauty of Fruita’s desert landscape. Distances vary from a family-friendly 10K to a grueling 100K ultra marathon.
-LOCATION:18 Road Trailhead\, Fruita\, CO 81521
+DESCRIPTION:Known as Denver's best spring half marathon\, this race takes place in Cherry Creek State Park. The course is flat\, fast\, and scenic\, following the banks of three different creeks on a mix of road and dirt trails.
+LOCATION:4800 S Dayton St\, Englewood\, CO 80111
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:run-the-ranch-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20260410T170000Z
 DTEND:20260410T210000Z
 SUMMARY:Run the Ranch
-DESCRIPTION:Hosted by Sylvan Dale Guest Ranch\, this 7th annual trail race offers 5K and 10K distances on Friday evening\, followed by 4-hour\, 6-hour\, and 12-hour timed solo and relay races on Saturday. The course features beautiful views and diverse terrain on private land\, including multiple creek crossings.
+DESCRIPTION:The 7th annual Run the Ranch is a trail race hosted at the private Sylvan Dale Guest Ranch. The event features Friday evening 5K and 10K races\, followed by Saturday morning endurance challenges including 4-hour\, 6-hour\, and 12-hour solo or relay options. The course offers challenging terrain and exclusive access to ranch trails with multiple creek crossings.
 LOCATION:2939 N County Rd 31D\, Loveland\, CO 80538
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:noco-urban-ultra-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
-DTSTART:20260411T060000Z
-DTEND:20260411T100000Z
-SUMMARY:NoCo Urban Ultra
-DESCRIPTION:A flat and fast urban ultra marathon taking place primarily on the paved Poudre River Trail. This race is ideal for runners looking to set a personal record or complete their first 100-mile distance.
-LOCATION:Poudre River Trail\, Greeley\, CO 80631
+UID:desert-rats-trail-running-festival-2026@milehighrunners.com
+DTSTAMP:20260322T000000Z
+DTSTART:20260410T060000Z
+DTEND:20260410T100000Z
+SUMMARY:Desert Rats Trail Running Festival
+DESCRIPTION:A high-desert trail festival featuring technical singletrack along the cliffs of the Colorado River. This event offers a range of ultra distances and is part of the UTMB World Series Qualifiers.
+LOCATION:Kokopelli Trailhead\, Fruita\, CO 81521
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:front-range-trail-runs-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20260411T070000Z
 DTEND:20260411T110000Z
 SUMMARY:Front Range Trail Runs
@@ -395,28 +345,8 @@ LOCATION:Backcountry Wilderness Area\, 6005 Ron King Trail\, Highlands Ranch\, C
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:mountain-ridge-trail-race-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
-DTSTART:20260411T070000Z
-DTEND:20260411T110000Z
-SUMMARY:Mountain Ridge Trail Race
-DESCRIPTION:An all-women's trail race through the beautiful Highlands Ranch backcountry. This event features multiple distances on rolling dirt trails and singletrack.
-LOCATION:Highlands Ranch Park & Recreation\, Highlands Ranch\, CO 80129
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:desert-rats-trail-running-festival-by-utmb-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
-DTSTART:20260411T060000Z
-DTEND:20260411T100000Z
-SUMMARY:Desert RATS Trail Running Festival by UTMB
-DESCRIPTION:Part of the UTMB World Series\, this desert trail festival features the red rock beauty of the Kokopelli trails. Runners tackle technical terrain with breathtaking views of the Colorado River and the high desert landscape.
-LOCATION:Kokopelli Trailhead\, Fruita\, CO 81521
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:highlander-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20260411T073000Z
 DTEND:20260411T113000Z
 SUMMARY:Highlander
@@ -425,18 +355,18 @@ LOCATION:Backcountry Wilderness Area\, 6005 Ron King Trail\, Littleton\, CO 8012
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:boulder-rez-half-marathon-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
-DTSTART:20260411T080000Z
-DTEND:20260411T120000Z
-SUMMARY:Boulder Rez Half Marathon
-DESCRIPTION:A spectator-friendly spring race featuring a Half Marathon\, 10K\, and 5K. The course loops around the Boulder Reservoir on mostly dirt trails\, offering iconic views of the mountain range with a flat course profile of only 200 feet of elevation gain.
-LOCATION:Boulder Reservoir Parking Lot\, Boulder\, CO
+UID:mountain-ridge-trail-race-2026@milehighrunners.com
+DTSTAMP:20260322T000000Z
+DTSTART:20260411T070000Z
+DTEND:20260411T110000Z
+SUMMARY:Mountain Ridge Trail Race
+DESCRIPTION:This trail race explores the rolling hills and singletrack of Highlands Ranch. Runners enjoy sweeping views of the Front Range and the Denver skyline while navigating 100% dirt trails.
+LOCATION:Mountain Ridge Middle School\, Highlands Ranch\, CO 80130
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:highlands-ranch-trail-run-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20260411T080000Z
 DTEND:20260411T120000Z
 SUMMARY:Highlands Ranch Trail Run
@@ -445,8 +375,78 @@ LOCATION:Backcountry Wilderness Area\, Highlands Ranch\, CO 80126
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:desert-rats-trail-running-festival-by-utmb-2026@milehighrunners.com
+DTSTAMP:20260322T000000Z
+DTSTART:20260411T060000Z
+DTEND:20260411T100000Z
+SUMMARY:Desert RATS Trail Running Festival by UTMB
+DESCRIPTION:Part of the UTMB World Series\, this desert trail festival features the red rock beauty of the Kokopelli trails. Runners tackle technical terrain with breathtaking views of the Colorado River and the high desert landscape.
+LOCATION:Kokopelli Trailhead\, Fruita\, CO 81521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:boulder-rez-half-marathon-2026@milehighrunners.com
+DTSTAMP:20260322T000000Z
+DTSTART:20260411T080000Z
+DTEND:20260411T120000Z
+SUMMARY:Boulder Rez Half Marathon
+DESCRIPTION:A popular spring race around the Boulder Reservoir on a mix of dirt roads and trails. Runners enjoy flat terrain and iconic views of the Flatirons.
+LOCATION:Boulder Reservoir\, 5565 51st St\, Boulder\, CO 80301
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:rmrr-spring-marathon-training-series-2-2026@milehighrunners.com
+DTSTAMP:20260322T000000Z
+DTSTART:20260411T080000Z
+DTEND:20260411T120000Z
+SUMMARY:RMRR Spring Marathon Training Series #2
+DESCRIPTION:Low-cost\, fully supported training races designed to help runners prepare for spring marathons like Boston or Colfax. The course follows an out-and-back route along the scenic Platte River Trail.
+LOCATION:Platte River Trailhead Park\, 88th Ave & Colorado Blvd\, Thornton\, CO 80229
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noco-urban-ultra-2026@milehighrunners.com
+DTSTAMP:20260322T000000Z
+DTSTART:20260411T060000Z
+DTEND:20260411T100000Z
+SUMMARY:NoCo Urban Ultra
+DESCRIPTION:A flat and fast urban ultra marathon taking place primarily on the paved Poudre River Trail. This race is ideal for runners looking to set a personal record or complete their first 100-mile distance.
+LOCATION:Poudre River Trail\, Greeley\, CO 80631
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noco-urban-ultra-relay-2026@milehighrunners.com
+DTSTAMP:20260322T000000Z
+DTSTART:20260412T070000Z
+DTEND:20260412T110000Z
+SUMMARY:NoCo Urban Ultra & Relay
+DESCRIPTION:A unique urban-style ultra marathon that utilizes the trail systems and paved paths near Fort Collins. Runners can tackle the full 50K solo or as part of a relay team.
+LOCATION:Lory State Park\, 708 Lodgepole Dr\, Bellvue\, CO 80512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:horsetooth-half-marathon-2026@milehighrunners.com
+DTSTAMP:20260322T000000Z
+DTSTART:20260412T080000Z
+DTEND:20260412T120000Z
+SUMMARY:Horsetooth Half Marathon
+DESCRIPTION:A scenic point-to-point road race taking runners from the site of the former Hughes Stadium\, over the 'Monster Mountain' climb at Horsetooth Reservoir\, to a finish line party at New Belgium Brewing.
+LOCATION:Dixon Canyon Rd (Hughes Stadium Site)\, Fort Collins\, CO 80526
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:platte-river-half-marathon-2026@milehighrunners.com
+DTSTAMP:20260322T000000Z
+DTSTART:20260412T070000Z
+DTEND:20260412T110000Z
+SUMMARY:Platte River Half Marathon
+DESCRIPTION:A point-to-point road race following the historic Platte River Trail. This event is a Colorado classic\, finishing with a massive post-race party at Breckenridge Brewery.
+LOCATION:Reynolds Landing\, 6745 S Santa Fe Dr\, Littleton\, CO 80120
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:desert-rats-trail-running-festival-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20260412T060000Z
 DTEND:20260412T100000Z
 SUMMARY:Desert RATS Trail Running Festival
@@ -455,108 +455,28 @@ LOCATION:Hawkeye Trailhead\, Fruita\, CO 81521
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:platte-river-half-marathon-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
-DTSTART:20260412T080000Z
-DTEND:20260412T120000Z
-SUMMARY:Platte River Half Marathon
-DESCRIPTION:Known as the oldest half-marathon and relay race in Denver\, the Platte River Half Marathon features a scenic out-and-back course along the Platte River Trail. The 2026 event includes a new 5K option and serves as the RRCA Colorado State Half Marathon Championship. The race begins and ends at Reynold’s Landing with a post-race party at Breckenridge Brewery featuring live music\, food\, and craft beer.
-LOCATION:Reynold’s Landing trailhead parking lot\, Littleton\, CO
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:donut-dash-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20260412T090000Z
 DTEND:20260412T130000Z
 SUMMARY:Donut Dash
-DESCRIPTION:The Donut Dash 5K Run/Walk at Washington Park serves as the 2026 RRCA Colorado 5K Championship. Participants receive a race logo shirt\, finishers medal\, and fresh donuts at the finish. The event is an official BOLDERBoulder Qualifier and features a party-like atmosphere.
-LOCATION:1000 S Franklin St\, Denver\, CO 80209
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noco-urban-ultra-relay-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
-DTSTART:20260412T050000Z
-DTEND:20260412T090000Z
-SUMMARY:NoCo Urban Ultra & Relay
-DESCRIPTION:A point-to-point ultra-marathon and relay race along the Poudre River Trail\, traveling from Bellvue through Fort Collins\, Timnath\, and Windsor to finish in Greeley. The 100-mile option is a unique hybrid event consisting of 50 miles in person on race day and 50 miles completed virtually.
-LOCATION:Bellvue\, CO 80512
+DESCRIPTION:A delicious themed fun run through Denver's Washington Park featuring a flat\, fast 5K course and donuts at the finish line.
+LOCATION:Washington Park\, 701 S Franklin St\, Denver\, CO 80209
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:rattler-trail-race-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
-DTSTART:20260418T080000Z
-DTEND:20260418T120000Z
+DTSTAMP:20260322T000000Z
+DTSTART:20260418T070000Z
+DTEND:20260418T110000Z
 SUMMARY:Rattler Trail Race
-DESCRIPTION:A challenging trail race set in the scenic Cheyenne Mountain State Park. Runners navigate winding singletrack trails with technical sections and beautiful valley views.
-LOCATION:Cheyenne Mountain State Park\, Colorado Springs\, CO 80926
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:horsetooth-half-marathon-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
-DTSTART:20260419T083000Z
-DTEND:20260419T123000Z
-SUMMARY:Horsetooth Half Marathon
-DESCRIPTION:A legendary point-to-point road race featuring challenging climbs and a scenic route along the shoreline of Horsetooth Reservoir\, finishing at New Belgium Brewing.
-LOCATION:Hughes Stadium Site\, Fort Collins\, CO 80521
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:runs-with-scissors-races-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
-DTSTART:20260425T070000Z
-DTEND:20260425T110000Z
-SUMMARY:Runs With Scissors Races
-DESCRIPTION:An ultra\, marathon\, and half marathon held on a unique 1.31-mile loop course around Mann-Nyholt Lake at Riverdale Regional Park. This event offers constant support with aid stations every lap and a festive atmosphere for multi-lap runners.
-LOCATION:9755 Henderson Road\, Brighton\, CO 80601
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noco-half-marathon-10k-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
-DTSTART:20260425T080000Z
-DTEND:20260425T120000Z
-SUMMARY:NOCO Half Marathon & 10K
-DESCRIPTION:A rugged and scenic trail race traversing the rock formations of the Devil's Backbone and Blue Sky trails. This event is a favorite for local trail runners seeking elevation and technical footing.
-LOCATION:Devil's Backbone Open Space\, 1725 Hidden Valley Dr\, Loveland\, CO 80538
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:bigfoot-half-marathon-5k-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
-DTSTART:20260425T080000Z
-DTEND:20260425T120000Z
-SUMMARY:Bigfoot Half Marathon & 5K
-DESCRIPTION:A beautiful spring road race in the heart of the Rockies\, offering stunning views of Longs Peak and the Continental Divide.
-LOCATION:Bond Park\, 170 MacGregor Ave\, Estes Park\, CO 80517
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:ram-party-trail-runs-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
-DTSTART:20260425T070000Z
-DTEND:20260425T110000Z
-SUMMARY:Ram Party Trail Runs
-DESCRIPTION:A high-energy trail race through the rugged terrain of the Royal Gorge Park. The course features rocky trails\, canyon views\, and a festive atmosphere typical of Aravaipa Running events.
-LOCATION:Royal Gorge Park\, Cañon City\, CO 81212
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:cheyenne-mountain-trail-race-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
-DTSTART:20260425T080000Z
-DTEND:20260425T120000Z
-SUMMARY:Cheyenne Mountain Trail Race
-DESCRIPTION:A rugged mountain trail race within Cheyenne Mountain State Park. The course features significant elevation gain and loss on well-maintained trails with panoramic views of the city and the peak.
-LOCATION:Cheyenne Mountain State Park\, 410 JL Ranch Heights Rd\, Colorado Springs\, CO 80926
+DESCRIPTION:Designed to showcase the stunning and technical trails of Palmer Park\, this race features rocky terrain and desert-like landscapes. It offers a variety of distances suitable for both veteran ultra runners and trail newcomers.
+LOCATION:Palmer Park\, Colorado Springs\, CO 80918
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:between-two-canyons-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20260425T070000Z
 DTEND:20260425T110000Z
 SUMMARY:Between Two Canyons
@@ -565,38 +485,88 @@ LOCATION:Royal Gorge Bridge & Park\, 4218 County Rd 3A\, Canon City\, CO 81212
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:pueblo-spring-runoff-2026@milehighrunners.com
+DTSTAMP:20260322T000000Z
+DTSTART:20260425T090000Z
+DTEND:20260425T130000Z
+SUMMARY:Pueblo Spring Runoff
+DESCRIPTION:A long-standing Southern Colorado tradition\, this road race offers various distances along the scenic Arkansas River Trail.
+LOCATION:Dutch Clark Stadium\, Pueblo\, CO 81004
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:royal-gorge-groove-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20260425T070000Z
 DTEND:20260425T110000Z
 SUMMARY:Royal Gorge Groove
-DESCRIPTION:A spectacular trail race featuring breathtaking views of the Royal Gorge and the Arkansas River. The course traverses rugged canyon terrain and technical singletrack.
-LOCATION:Royal Gorge Bridge & Park\, Canon City\, CO 81212
+DESCRIPTION:Run along the rim of the spectacular Royal Gorge on rugged\, historic trails. This event provides a unique perspective of the suspension bridge and the Arkansas River far below.
+LOCATION:Royal Gorge Ranch & Resort\, Canon City\, CO 81212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:bigfoot-half-marathon-5k-2026@milehighrunners.com
+DTSTAMP:20260322T000000Z
+DTSTART:20260425T083000Z
+DTEND:20260425T123000Z
+SUMMARY:Bigfoot Half Marathon & 5K
+DESCRIPTION:A high-altitude road race in the shadow of Rocky Mountain National Park. The course features stunning views and the chance for a 'Sasquatch' sighting.
+LOCATION:Bond Park\, 170 MacGregor Ave\, Estes Park\, CO 80517
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noco-half-marathon-10k-2026@milehighrunners.com
+DTSTAMP:20260322T000000Z
+DTSTART:20260425T080000Z
+DTEND:20260425T120000Z
+SUMMARY:NOCO Half Marathon & 10K
+DESCRIPTION:A rugged and scenic trail race traversing the rock formations of the Devil's Backbone and Blue Sky trails. This event is a favorite for local trail runners seeking elevation and technical footing.
+LOCATION:Devil's Backbone Open Space\, 1725 Hidden Valley Dr\, Loveland\, CO 80538
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:runs-with-scissors-races-2026@milehighrunners.com
+DTSTAMP:20260322T000000Z
+DTSTART:20260425T070000Z
+DTEND:20260425T110000Z
+SUMMARY:Runs With Scissors Races
+DESCRIPTION:An ultra\, marathon\, and half marathon held on a unique 1.31-mile loop course around Mann-Nyholt Lake at Riverdale Regional Park. This event offers constant support with aid stations every lap and a festive atmosphere for multi-lap runners.
+LOCATION:9755 Henderson Road\, Brighton\, CO 80601
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cheyenne-mountain-trail-race-2026@milehighrunners.com
+DTSTAMP:20260322T000000Z
+DTSTART:20260425T080000Z
+DTEND:20260425T120000Z
+SUMMARY:Cheyenne Mountain Trail Race
+DESCRIPTION:A rugged mountain trail race within Cheyenne Mountain State Park. The course features significant elevation gain and loss on well-maintained trails with panoramic views of the city and the peak.
+LOCATION:Cheyenne Mountain State Park\, 410 JL Ranch Heights Rd\, Colorado Springs\, CO 80926
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-party-trail-runs-2026@milehighrunners.com
+DTSTAMP:20260322T000000Z
+DTSTART:20260425T070000Z
+DTEND:20260425T110000Z
+SUMMARY:Ram Party Trail Runs
+DESCRIPTION:This desert-style trail race takes place on the technical Hogback ridges of Cañon City. It offers a rugged and unique landscape for runners looking for early-season vertical gain.
+LOCATION:Hogback Open Space\, Cañon City\, CO 81212
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:take-5-in-the-garden-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
-DTSTART:20260502T070000Z
-DTEND:20260502T110000Z
+DTSTAMP:20260322T000000Z
+DTSTART:20260502T071500Z
+DTEND:20260502T111500Z
 SUMMARY:Take 5 in the Garden
-DESCRIPTION:A unique mixed-surface race through the towering sandstone formations of Garden of the Gods. This event includes both road and trail segments in one of the world's most beautiful parks.
-LOCATION:Garden of the Gods Park\, Colorado Springs\, CO 80904
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:greenland-trail-races-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
-DTSTART:20260502T070000Z
-DTEND:20260502T110000Z
-SUMMARY:Greenland Trail Races
-DESCRIPTION:A popular trail event featuring rolling prairie hills and soft dirt tracks in the Greenland Open Space. It hosts the RRCA National 50K Championship and provides a fast\, scenic course with Pikes Peak as a backdrop.
-LOCATION:1532 E Noe Rd\, Larkspur\, CO 80118
+DESCRIPTION:A unique event offering both road and trail distances through the towering red rock formations of Garden of the Gods. The 'Double Take' option includes both surfaces for a complete tour of the park.
+LOCATION:Garden of the Gods Park\, 1805 N. 30th St\, Colorado Springs\, CO 80904
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:smoky-mountain-bigfoot-5k-fun-run-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20260502T085000Z
 DTEND:20260502T125000Z
 SUMMARY:Smoky Mountain Bigfoot 5K & Fun Run
@@ -605,58 +575,68 @@ LOCATION:7967 E Lamar Alexander Pkwy\, Townsend\, TN
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:collegiate-peaks-trail-run-2026@milehighrunners.com
+DTSTAMP:20260322T000000Z
+DTSTART:20260502T070000Z
+DTEND:20260502T110000Z
+SUMMARY:Collegiate Peaks Trail Run
+DESCRIPTION:A classic mountain ultra-marathon that loops through the trails east of Buena Vista. The course offers spectacular views of the Collegiate Peaks and includes significant elevation gain.
+LOCATION:Buena Vista Community Center\, 715 E Main St\, Buena Vista\, CO 81211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:greenland-trail-races-2026@milehighrunners.com
+DTSTAMP:20260322T000000Z
+DTSTART:20260502T070000Z
+DTEND:20260502T110000Z
+SUMMARY:Greenland Trail Races
+DESCRIPTION:Hosted at Greenland Open Space\, this trail race offers rolling prairie trails with stunning views of Pikes Peak and is the host of the RRCA National 50K Championship.
+LOCATION:Greenland Open Space\, 1532 Noe Rd\, Larkspur\, CO 80118
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:colorado-marathon-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20260503T063000Z
 DTEND:20260503T103000Z
 SUMMARY:Colorado Marathon
-DESCRIPTION:Known as one of the fastest downhill marathons in the country\, this course winds through the spectacular Poudre Canyon. It is a premier Boston Qualifier with breathtaking river views.
-LOCATION:Poudre Canyon (Start)\, Fort Collins\, CO 80524
+DESCRIPTION:One of the fastest downhill marathons in the country\, this road race winds through the scenic Poudre Canyon. It is a premier Boston Marathon qualifier known for its stunning river views and majestic rock formations.
+LOCATION:Poudre Canyon\, Fort Collins\, CO 80521
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:collegiate-peaks-trail-run-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
-DTSTART:20260503T063000Z
-DTEND:20260503T103000Z
-SUMMARY:Collegiate Peaks Trail Run
-DESCRIPTION:A high-altitude mountain race that tests runners with vertical gain and stunning views of the Sawatch Range. Both distances offer a true Colorado mountain experience.
-LOCATION:McPhelemy Park\, Buena Vista\, CO 81211
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:quad-rock-50-25-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
-DTSTART:20260509T053000Z
-DTEND:20260509T093000Z
-SUMMARY:Quad Rock 50 & 25
-DESCRIPTION:A brutal and beautiful mountain trail race traversing the ridges of Lory State Park and Horsetooth Mountain Park. Expect technical singletrack\, significant elevation gain\, and expansive views of the Great Plains and Longs Peak.
-LOCATION:Lory State Park\, 708 Lodgepole Dr\, Bellvue\, CO 80512
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:quad-rock-trail-races-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
-DTSTART:20260509T053000Z
-DTEND:20260509T093000Z
-SUMMARY:Quad Rock Trail Races
-DESCRIPTION:A technical ultra marathon through the trails of Lory State Park and Horsetooth Mountain Park\, featuring significant elevation gain and breathtaking mountain views.
-LOCATION:Lory State Park\, 708 Lodgepole Dr\, Bellvue\, CO 80512
+UID:carbon-valley-half-marathon-5k-2026@milehighrunners.com
+DTSTAMP:20260322T000000Z
+DTSTART:20260509T080000Z
+DTEND:20260509T120000Z
+SUMMARY:Carbon Valley Half Marathon & 5K
+DESCRIPTION:A community race showcasing the beauty of Firestone and Frederick via trail systems\, dirt paths\, and rural roads. The event benefits autism research and Children's Hospital Colorado\, featuring a 2-mile downhill fast finish and views of the Rockies.
+LOCATION:Centennial Park\, 630 Eighth St\, Frederick\, CO 80530
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:valkyrie-trail-race-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20260509T070000Z
 DTEND:20260509T110000Z
 SUMMARY:Valkyrie Trail Race
-DESCRIPTION:A women-focused trail event offering a wide range of distances through Cheyenne Mountain State Park. The course features diverse terrain including ponderosa forests and rugged ridges.
-LOCATION:Cheyenne Mountain State Park\, Colorado Springs\, CO 80926
+DESCRIPTION:This women-focused trail event takes place in the beautiful Cheyenne Mountain State Park. The course features diverse terrain with technical sections and flowy trails through pine forests.
+LOCATION:Cheyenne Mountain State Park\, Colorado Springs\, CO 80913
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:quad-rock-50-25-2026@milehighrunners.com
+DTSTAMP:20260322T000000Z
+DTSTART:20260509T053000Z
+DTEND:20260509T093000Z
+SUMMARY:Quad Rock 50 & 25
+DESCRIPTION:A premier trail ultra featuring a tour of the Fort Collins skyline through Lory State Park and Horsetooth Mountain Park. Runners face steep technical singletrack and expansive views of the Great Plains.
+LOCATION:Lory State Park\, 708 Lodgepole Dr\, Bellvue\, CO 80512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:colorado-rockies-home-run-5k-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20260509T080000Z
 DTEND:20260509T120000Z
 SUMMARY:Colorado Rockies Home Run 5K
@@ -665,18 +645,18 @@ LOCATION:Coors Field\, 2001 Blake St\, Denver\, CO 80205
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:carbon-valley-half-marathon-5k-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
-DTSTART:20260509T070000Z
-DTEND:20260509T110000Z
-SUMMARY:Carbon Valley Half Marathon & 5K
-DESCRIPTION:A community-focused road race that showcases the mining history and scenic trail systems of Frederick and Firestone. The course is fast and flat with spectacular views of the Rocky Mountain front range.
-LOCATION:630 Eighth St\, Frederick\, CO 80530
+UID:quad-rock-trail-races-2026@milehighrunners.com
+DTSTAMP:20260322T000000Z
+DTSTART:20260509T053000Z
+DTEND:20260509T093000Z
+SUMMARY:Quad Rock Trail Races
+DESCRIPTION:A brutal and beautiful trail ultra-marathon through Lory State Park and Horsetooth Mountain Park\, featuring technical singletrack and massive elevation gain over the Fort Collins skyline.
+LOCATION:Lory State Park\, 708 Lodgepole Dr\, Bellvue\, CO 80512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:adventure-fest-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20260510T080000Z
 DTEND:20260510T120000Z
 SUMMARY:Adventure Fest
@@ -686,7 +666,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ram-party-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20260516T060000Z
 DTEND:20260516T100000Z
 SUMMARY:Ram Party
@@ -695,8 +675,18 @@ LOCATION:Buffalo Lodge Bicycle Resort\, 2 El Paso Blvd\, Colorado Springs\, CO 8
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:skyline-trail-run-2026@milehighrunners.com
+DTSTAMP:20260322T000000Z
+DTSTART:20260516T060000Z
+DTEND:20260516T100000Z
+SUMMARY:Skyline Trail Run
+DESCRIPTION:Explore the diverse trails of Colorado Springs\, from alpine peaks to open plains. This mountain race offers challenging elevation gains and rewards runners with panoramic views of Pikes Peak.
+LOCATION:Bear Creek Regional Park\, Colorado Springs\, CO 80906
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:adrenaline-night-runs-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20260516T180000Z
 DTEND:20260516T220000Z
 SUMMARY:Adrenaline Night Runs
@@ -706,7 +696,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:the-ring-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20260516T050000Z
 DTEND:20260516T090000Z
 SUMMARY:The Ring
@@ -716,7 +706,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:endure-trail-runs-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20260516T080000Z
 DTEND:20260516T120000Z
 SUMMARY:Endure Trail Runs
@@ -726,67 +716,47 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:denver-colfax-marathon-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20260517T060000Z
 DTEND:20260517T100000Z
 SUMMARY:Denver Colfax Marathon
-DESCRIPTION:Denver's largest running event\, featuring a course that runs through Empower Field at Mile High and the Denver Zoo. The weekend includes a Saturday 5K followed by the main races on Sunday.
-LOCATION:City Park\, 17th Ave & Colorado Blvd\, Denver\, CO 80206
+DESCRIPTION:The largest running weekend in the Rocky Mountains\, featuring a course that runs through Empower Field at Mile High and the Denver Zoo. The weekend includes eight different races\, catering to all ability levels in an urban mountain setting.
+LOCATION:City Park\, 2001 Colorado Blvd\, Denver\, CO 80205
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:warwick-pentathrun-sdrc-5000-meters-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20260523T080000Z
 DTEND:20260523T120000Z
 SUMMARY:Warwick Pentathrun - SDRC 5000 meters
-DESCRIPTION:The Warwick Pentathrun is a series of five runs held in the Warwick area. This specific 5k race takes place on the Warwick Airport runway\, which is closed to planes for the event. The course is fast and flat\, starting on the taxiway before turning onto the airstrip for a 1.6 km 'take off' stretch. The event typically attracts 100-500 participants and is not a Boston Qualifier.
+DESCRIPTION:The Warwick Pentathrun is a series of 5 runs held in the Warwick area. This specific 5k race takes place on the Warwick airport’s runway and taxiway\, which is closed to planes for the event. The course is described as fast and flat.
 LOCATION:Warwick Airport\, Warwick\, Queensland\, Australia
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:bolderboulder-10k-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
-DTSTART:20260525T070000Z
-DTEND:20260525T110000Z
+DTSTAMP:20260322T000000Z
+DTSTART:20260525T065000Z
+DTEND:20260525T105000Z
 SUMMARY:BOLDERBoulder 10K
-DESCRIPTION:One of the world's most famous road races\, this Memorial Day tradition finishes in Folsom Field with a patriotic tribute and over 50\,000 participants.
-LOCATION:30th St & Iris Ave (Start)\, Boulder\, CO 80301
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:bolder-boulder-10k-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
-DTSTART:20260525T070000Z
-DTEND:20260525T110000Z
-SUMMARY:Bolder Boulder 10K
-DESCRIPTION:One of the world's most famous and largest 10K road races\, ending with a massive celebration at Folsom Field. This Memorial Day tradition includes world-class elites and thousands of costumed runners.
+DESCRIPTION:One of the world's largest 10K road races\, featuring over 50\,000 participants and a stadium finish at Folsom Field. This Memorial Day tradition includes professional waves and a massive community party.
 LOCATION:30th St & Walnut St\, Boulder\, CO 80301
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:buffalo-run-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
-DTSTART:20260530T070000Z
-DTEND:20260530T110000Z
-SUMMARY:Buffalo Run
-DESCRIPTION:A high-altitude ultra marathon through the scenic Buffalo Creek trail system. This race offers fast singletrack through pine forests and granite rock formations.
-LOCATION:Buffalo Creek\, CO 80425
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:north-fork-50-mile50k-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
-DTSTART:20260530T070000Z
-DTEND:20260530T110000Z
-SUMMARY:North Fork 50 Mile/50K
-DESCRIPTION:Trail races in the Buffalo Creek Recreation Area. Offers 100% soft surface trails through ponderosa pines and towering granite rock formations.
-LOCATION:Pine Valley Ranch Park\, Pine\, CO 80470
+UID:bolder-boulder-10k-2026@milehighrunners.com
+DTSTAMP:20260322T000000Z
+DTSTART:20260525T070000Z
+DTEND:20260525T110000Z
+SUMMARY:Bolder Boulder 10K
+DESCRIPTION:A legendary Memorial Day tradition and one of the largest 10K races in the world. The course winds through the neighborhoods of Boulder and finishes with a massive stadium party and tribute in Folsom Field.
+LOCATION:30th St & Walnut St\, Boulder\, CO 80301
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:weld-your-mettle-running-festival-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20260530T060000Z
 DTEND:20260530T100000Z
 SUMMARY:Weld Your Mettle Running Festival
@@ -795,8 +765,18 @@ LOCATION:Windsor Lake\, 100 N 5th St\, Windsor\, CO 80550
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:north-fork-50-mile50k-2026@milehighrunners.com
+DTSTAMP:20260322T000000Z
+DTSTART:20260530T070000Z
+DTEND:20260530T110000Z
+SUMMARY:North Fork 50 Mile/50K
+DESCRIPTION:Trail races in the Buffalo Creek Recreation Area. Offers 100% soft surface trails through ponderosa pines and towering granite rock formations.
+LOCATION:Pine Valley Ranch Park\, Pine\, CO 80470
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:north-fork-trail-run-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20260530T070000Z
 DTEND:20260530T110000Z
 SUMMARY:North Fork Trail Run
@@ -805,28 +785,48 @@ LOCATION:Buffalo Creek Recreation Area\, Pine\, CO 80470
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:colorado-springs-spartan-trifecta-weekend-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+UID:buffalo-run-2026@milehighrunners.com
+DTSTAMP:20260322T000000Z
 DTSTART:20260530T070000Z
 DTEND:20260530T110000Z
-SUMMARY:Colorado Springs Spartan Trifecta Weekend
-DESCRIPTION:A high-altitude obstacle course race series held on the rugged terrain of Fort Carson. Participants face treacherous climbs and muscle-burning obstacles across various distances from Sprint to Ultra.
-LOCATION:Fort Carson Army Base\, Colorado Springs\, CO 80913
+SUMMARY:Buffalo Run
+DESCRIPTION:A high-altitude ultra marathon through the scenic Buffalo Creek trail system. This race offers fast singletrack through pine forests and granite rock formations.
+LOCATION:Buffalo Creek\, CO 80425
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:buffalo-creek-trail-runs-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
-DTSTART:20260530T060000Z
-DTEND:20260530T100000Z
+DTSTAMP:20260322T000000Z
+DTSTART:20260530T070000Z
+DTEND:20260530T110000Z
 SUMMARY:Buffalo Creek Trail Runs
-DESCRIPTION:A high-altitude ultra marathon through the world-class trail system of the Pike National Forest. Runners will enjoy fast\, flowing singletrack and stunning views of the surrounding granite spires and rolling mountains.
+DESCRIPTION:A high-altitude trail race held in the Pine Valley\, famous for its smooth\, flowing single-track and massive rock formations. A favorite for mountain runners looking for speed.
 LOCATION:Buffalo Creek Recreation Area\, Pine\, CO 80470
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:staunton-rocks-trail-runs-2026@milehighrunners.com
+DTSTAMP:20260322T000000Z
+DTSTART:20260530T063000Z
+DTEND:20260530T103000Z
+SUMMARY:Staunton Rocks Trail Runs
+DESCRIPTION:A high-alpine trail race through lush meadows and dramatic granite cliffs in Colorado's newest state park.
+LOCATION:Staunton State Park\, 12102 S Elk Creek Rd\, Pine\, CO 80470
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:colorado-springs-spartan-trifecta-weekend-2026@milehighrunners.com
+DTSTAMP:20260322T000000Z
+DTSTART:20260530T070000Z
+DTEND:20260530T110000Z
+SUMMARY:Colorado Springs Spartan Trifecta Weekend
+DESCRIPTION:A premier obstacle course racing event held at high altitude on the Fort Carson Army Base. Distances range from a 5K Sprint to a grueling 50K Ultra with over 60 signature Spartan obstacles.
+LOCATION:Fort Carson Army Base\, Colorado Springs\, CO 80913
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:ragnar-trail-colorado-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20260605T090000Z
 DTEND:20260605T130000Z
 SUMMARY:Ragnar Trail Colorado
@@ -835,18 +835,8 @@ LOCATION:Snowmass Recreation Center\, Snowmass Village\, CO 81615
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:centennial-airport-runway-5k-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
-DTSTART:20260606T090000Z
-DTEND:20260606T130000Z
-SUMMARY:Centennial Airport Runway 5K
-DESCRIPTION:A unique road race held directly on the runway and taxiway of the Centennial Airport. It is a completely flat and fast course with close-up views of aircraft and the Rocky Mountain skyline.
-LOCATION:13005 Wings Way\, Englewood\, CO 80112
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:summits-trail-runs-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20260606T060000Z
 DTEND:20260606T100000Z
 SUMMARY:Summits Trail Runs
@@ -856,17 +846,17 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:the-great-divide-ultra-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20260606T060000Z
 DTEND:20260606T100000Z
 SUMMARY:The Great Divide Ultra
-DESCRIPTION:A high-altitude trail festival entirely within Mueller State Park. Runners navigate spring-fed meadows and massive granite formations with panoramic views of Pikes Peak throughout the race.
-LOCATION:Mueller State Park\, Divide\, CO 80814
+DESCRIPTION:A high-altitude trail ultra through the rolling meadows and granite formations of Mueller State Park. This early-season ultra offers multiple distances and expansive views of the Sangre de Cristo Mountains.
+LOCATION:Mueller State Park\, 21045 CO-67\, Divide\, CO 80814
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:golden-gate-dirty-30-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20260606T060000Z
 DTEND:20260606T100000Z
 SUMMARY:Golden Gate Dirty 30
@@ -875,18 +865,28 @@ LOCATION:Golden Gate Canyon State Park\, 92 Crawford Gulch Rd\, Golden\, CO 8040
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:crazy-legs-10k-trail-run-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
-DTSTART:20260607T070000Z
-DTEND:20260607T110000Z
-SUMMARY:Crazy Legs 10k+ Trail Run
-DESCRIPTION:A rugged and technical trail race navigating the iconic rock formations and high desert terrain of the Devil's Backbone Open Space.
-LOCATION:Devil's Backbone Open Space\, 1725 Hidden Valley Dr\, Loveland\, CO 80537
+UID:centennial-airport-runway-5k-2026@milehighrunners.com
+DTSTAMP:20260322T000000Z
+DTSTART:20260606T090000Z
+DTEND:20260606T130000Z
+SUMMARY:Centennial Airport Runway 5K
+DESCRIPTION:A unique road race held directly on the runway and taxiway of the Centennial Airport. It is a completely flat and fast course with close-up views of aircraft and the Rocky Mountain skyline.
+LOCATION:13005 Wings Way\, Englewood\, CO 80112
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:steamboat-marathon-2026@milehighrunners.com
+DTSTAMP:20260322T000000Z
+DTSTART:20260607T073000Z
+DTEND:20260607T113000Z
+SUMMARY:Steamboat Marathon
+DESCRIPTION:Ranked as one of the top destination marathons in North America\, this race runs alongside the Elk River through lush pastures and snow-capped mountains. It is a scenic downhill course ending in downtown Steamboat Springs.
+LOCATION:522 Lincoln Ave\, Steamboat Springs\, CO 80487
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:colorado-13er-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20260607T063000Z
 DTEND:20260607T103000Z
 SUMMARY:Colorado 13er
@@ -895,8 +895,18 @@ LOCATION:1200 Dillon Road\, Louisville\, CO 80027
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:flamingo-day-5k-2026@milehighrunners.com
+DTSTAMP:20260322T000000Z
+DTSTART:20260607T080000Z
+DTEND:20260607T120000Z
+SUMMARY:Flamingo Day 5K
+DESCRIPTION:A festive 5K run/walk around Sloan's Lake Park in Denver. Due to the narrow nature of the course\, the race utilizes wave starts based on estimated finish times. Participants receive a race logo shirt\, a finishers medal\, and access to a finish line party with food and professional chip timing.
+LOCATION:1700 Utica St\, Denver\, CO 80204
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:revel-rockies-marathon-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20260607T060000Z
 DTEND:20260607T100000Z
 SUMMARY:REVEL Rockies Marathon
@@ -905,98 +915,48 @@ LOCATION:Squaw Pass Road (Start)\, Morrison\, CO 80465
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:steamboat-marathon-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
-DTSTART:20260607T073000Z
-DTEND:20260607T113000Z
-SUMMARY:Steamboat Marathon
-DESCRIPTION:A stunning point-to-point downhill marathon following the Elk River through emerald green pastures. This scenic race is a perennial favorite for its mountain views and small-town charm.
-LOCATION:Hahns Peak Village (Start)\, Steamboat Springs\, CO 80487
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:flamingo-day-5k-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
-DTSTART:20260607T080000Z
-DTEND:20260607T120000Z
-SUMMARY:Flamingo Day 5K
-DESCRIPTION:The Flamingo Day 5K is a run/walk event held at Sloan’s Lake Park in Denver. The race features wave starts based on estimated finish times to accommodate the narrow course. Participants receive a race logo shirt\, a finishers medal\, professional chip timing\, and access to a party-like atmosphere with finish line food and an expo.
-LOCATION:1700 Utica St\, Denver\, CO 80204
+UID:crazy-legs-10k-trail-run-2026@milehighrunners.com
+DTSTAMP:20260322T000000Z
+DTSTART:20260607T070000Z
+DTEND:20260607T110000Z
+SUMMARY:Crazy Legs 10k+ Trail Run
+DESCRIPTION:A rugged and technical trail race navigating the iconic rock formations and high desert terrain of the Devil's Backbone Open Space.
+LOCATION:Devil's Backbone Open Space\, 1725 Hidden Valley Dr\, Loveland\, CO 80537
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ironman-703-boulder-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
-DTSTART:20260613T070000Z
-DTEND:20260613T110000Z
+DTSTAMP:20260322T000000Z
+DTSTART:20260613T080000Z
+DTEND:20260613T120000Z
 SUMMARY:IRONMAN 70.3 Boulder
-DESCRIPTION:A premier triathlon event featuring a 1.2-mile swim\, 56-mile bike\, and 13.1-mile run. The flat and fast run course circles the scenic Boulder Reservoir.
-LOCATION:Boulder Reservoir\, 5565 51st St\, Boulder\, CO 80301
+DESCRIPTION:Set against the backdrop of the iconic Flatirons and the towering Rockies\, IRONMAN 70.3 Boulder features a course with high elevation\, rolling terrain\, and a swim in the Boulder Reservoir. This race is built for those who crave the climb and want to experience Boulder’s vibrant endurance community.
+LOCATION:Boulder Reservoir\, Boulder\, CO
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:barr-lake-trail-race-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
-DTSTART:20260613T070000Z
-DTEND:20260613T110000Z
+DTSTAMP:20260322T000000Z
+DTSTART:20260613T060000Z
+DTEND:20260613T100000Z
 SUMMARY:Barr Lake Trail Race
-DESCRIPTION:An Aravaipa Running event at Barr Lake State Park\, offering a flat and fast loop around the lake. The course is great for beginners looking to try a trail ultra with minimal elevation gain.
-LOCATION:Barr Lake State Park\, Brighton\, CO 80603
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:skyline-trail-run-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
-DTSTART:20260613T073000Z
-DTEND:20260613T113000Z
-SUMMARY:Skyline Trail Run
-DESCRIPTION:A fast and flat trail race at Barr Lake State Park. Perfect for runners looking for personal bests on non-technical lakeside trails with views of the Front Range.
+DESCRIPTION:An incredibly flat and fast trail race around the shores of Barr Lake. This ultra-marathon and multi-distance event offers 100% dirt terrain and views of the Front Range.
 LOCATION:Barr Lake State Park\, 13401 Picadilly Rd\, Brighton\, CO 80603
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:garden-of-the-gods-10-mile-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20260614T070000Z
 DTEND:20260614T110000Z
 SUMMARY:Garden of the Gods 10 Mile
-DESCRIPTION:An iconic road and trail race navigating the red rock formations of Garden of the Gods. Known for its challenging hills and spectacular scenery\, it's a must-do for Colorado runners.
-LOCATION:Memorial Park\, Manitou Springs\, CO 80829
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:san-juan-solstice-50-mile-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
-DTSTART:20260620T050000Z
-DTEND:20260620T090000Z
-SUMMARY:San Juan Solstice 50 Mile
-DESCRIPTION:A rugged mountain ultra that traverses the high-altitude trails of the San Juan Mountains\, reaching elevations near the Continental Divide. It is a benefit for the Lake City EMTs and is held near the summer solstice.
-LOCATION:Lake City Town Park\, Lake City\, CO 81235
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:summer-solstice-trail-run-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
-DTSTART:20260620T091500Z
-DTEND:20260620T131500Z
-SUMMARY:Summer Solstice Trail Run
-DESCRIPTION:Coinciding with the longest day of the year\, this trail run traverses the beautiful single-track trails of Beaver Creek Resort during wildflower season.
-LOCATION:Beaver Creek Chophouse (Centennial Lift)\, 15 W Thomas Pl\, Avon\, CO 81620
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:ring-the-springs-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
-DTSTART:20260620T060000Z
-DTEND:20260620T100000Z
-SUMMARY:Ring the Springs
-DESCRIPTION:An epic ultra marathon circumnavigating Colorado Springs on the Chamberlain Trail. The course features significant elevation gain and varied terrain from city parks to alpine peaks.
-LOCATION:Rock Ledge Ranch\, 3105 Gateway Road\, Colorado Springs\, CO 80904
+DESCRIPTION:A classic road and trail event winding through the 300-foot sandstone formations of Garden of the Gods Park. It is a physically demanding course known for its breathtaking beauty and iconic 'Balanced Rock' landmark.
+LOCATION:Garden of the Gods Park\, Colorado Springs\, CO 80904
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:leadville-trail-marathon-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20260620T070000Z
 DTEND:20260620T110000Z
 SUMMARY:Leadville Trail Marathon
@@ -1005,8 +965,38 @@ LOCATION:716 Harrison Ave\, Leadville\, CO 80461
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:summer-solstice-trail-run-2026@milehighrunners.com
+DTSTAMP:20260322T000000Z
+DTSTART:20260620T091500Z
+DTEND:20260620T131500Z
+SUMMARY:Summer Solstice Trail Run
+DESCRIPTION:Coinciding with the longest day of the year\, this trail run traverses the beautiful single-track trails of Beaver Creek Resort during wildflower season.
+LOCATION:Beaver Creek Chophouse (Centennial Lift)\, 15 W Thomas Pl\, Avon\, CO 81620
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:san-juan-solstice-50-mile-2026@milehighrunners.com
+DTSTAMP:20260322T000000Z
+DTSTART:20260620T050000Z
+DTEND:20260620T090000Z
+SUMMARY:San Juan Solstice 50 Mile
+DESCRIPTION:A high-altitude mountain ultra that climbs to the Continental Divide\, reaching elevations over 13\,000 feet. This technical and remote course is a benefit for the Lake City EMTs and offers some of the most stunning views in the San Juans.
+LOCATION:Lake City Town Park\, Lake City\, CO 81235
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ring-the-springs-2026@milehighrunners.com
+DTSTAMP:20260322T000000Z
+DTSTART:20260620T060000Z
+DTEND:20260620T100000Z
+SUMMARY:Ring the Springs
+DESCRIPTION:A thrilling ultra event that circles the scenic city of Colorado Springs. The course visits local landmarks\, majestic mountains\, and finishes at the historic Rock Ledge Ranch at Garden of the Gods.
+LOCATION:Rock Ledge Ranch\, 3105 Gateway Rd\, Colorado Springs\, CO 80904
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:estes-park-marathon-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20260621T060000Z
 DTEND:20260621T100000Z
 SUMMARY:Estes Park Marathon
@@ -1016,7 +1006,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:leadville-trail-marathon-and-heavy-half-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20260626T070000Z
 DTEND:20260626T110000Z
 SUMMARY:Leadville Trail Marathon and Heavy Half
@@ -1025,98 +1015,68 @@ LOCATION:Harrison Ave & E 6th St\, Leadville\, CO 80461
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:leadville-trail-marathon-heavy-half-2026@milehighrunners.com
+DTSTAMP:20260322T000000Z
+DTSTART:20260627T080000Z
+DTEND:20260627T120000Z
+SUMMARY:Leadville Trail Marathon & Heavy Half
+DESCRIPTION:A high-altitude trail marathon starting at 10\,200 feet and climbing to the 13\,185-foot summit of Mosquito Pass\, part of the legendary Leadville Race Series.
+LOCATION:6th St & Harrison Ave\, Leadville\, CO 80461
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:chase-the-moon-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20260627T190000Z
 DTEND:20260627T230000Z
 SUMMARY:Chase the Moon
-DESCRIPTION:A night-time endurance race where runners complete loops under the stars and the moon. Popular as a relay or solo ultra challenge.
-LOCATION:Highlands Ranch Regional Park\, Highlands Ranch\, CO 80129
+DESCRIPTION:A unique night-time trail race where runners navigate a 10-mile loop under the stars. The event includes solo and relay options for timed endurance challenges on the rolling dirt trails of Highlands Ranch.
+LOCATION:Highlands Ranch Backcountry Wilderness Area\, Highlands Ranch\, CO 80126
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:slacker-half-marathon-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
-DTSTART:20260627T080000Z
-DTEND:20260627T120000Z
+DTSTAMP:20260322T000000Z
+DTSTART:20260627T073000Z
+DTEND:20260627T113000Z
 SUMMARY:Slacker Half Marathon
-DESCRIPTION:A high-altitude downhill road race starting at over 10\,000 feet and descending to historic Georgetown. It's known for being one of the fastest half marathons in Colorado and for its energetic post-race party.
-LOCATION:Loveland Ski Area Basin (Start) to 6th St\, Georgetown\, CO 80444
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:leadville-trail-marathon-heavy-half-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
-DTSTART:20260627T070000Z
-DTEND:20260627T110000Z
-SUMMARY:Leadville Trail Marathon & Heavy Half
-DESCRIPTION:An intense mountain race reaching an elevation of 13\,185 feet at Mosquito Pass\, the highest pass in North America for a marathon course.
-LOCATION:6th Street & Harrison Ave\, Leadville\, CO 80461
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:leadville-trail-run-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
-DTSTART:20260628T080000Z
-DTEND:20260628T120000Z
-SUMMARY:Leadville Trail Run
-DESCRIPTION:A legendary high-altitude mountain race that reaches an elevation of 13\,185 feet at Mosquito Pass. This is true mountain running on rocky terrain and dirt roads through historic mining districts.
-LOCATION:E 6th St & Harrison Ave\, Leadville\, CO 80461
+DESCRIPTION:Advertised as the highest downhill half marathon in the country\, starting at 10\,630 feet and descending to Georgetown. The course follows a scenic canyon road past wetlands and waterfalls.
+LOCATION:Loveland Ski Area Valley\, Georgetown\, CO 80444
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:blue-sky-ascent-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
-DTSTART:20260628T053000Z
-DTEND:20260628T093000Z
+DTSTAMP:20260322T000000Z
+DTSTART:20260628T063000Z
+DTEND:20260628T103000Z
 SUMMARY:Blue Sky Ascent
-DESCRIPTION:Formerly known as the Mt. Evans Ascent\, this is America's highest paved road race. Runners climb nearly 4\,000 vertical feet to the 14\,264-foot summit of Mount Blue Sky.
-LOCATION:Echo Lake Campground\, Hwy 103 & Hwy 5\, Idaho Springs\, CO 80452
+DESCRIPTION:Formerly known as the Mt. Evans Ascent\, this is North America's highest paved road race. Runners climb nearly 4\,000 vertical feet to the 14\,264-foot summit of Mount Blue Sky.
+LOCATION:Echo Lake Park\, Hwy 103\, Idaho Springs\, CO 80452
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:vail-hillclimb-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20260705T070000Z
 DTEND:20260705T110000Z
 SUMMARY:Vail HillClimb
-DESCRIPTION:Celebrating 50 years in 2026\, this mountain race climbs 2\,200 vertical feet from Vail Village to Mid-Vail. It follows a historic gravel double-track route and offers stunning mountain views.
-LOCATION:Vail Village to Mid-Vail\, Vail\, CO 81657
+DESCRIPTION:An iconic mountain race celebrating 50 years in 2026. Runners climb over 2\,200 vertical feet from Vail Village to Mid-Vail on scenic mountain trails.
+LOCATION:Vail Mountain Haus\, 292 E Meadow Dr\, Vail\, CO 81657
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:silverheels-trail-runs-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
-DTSTART:20260710T040000Z
-DTEND:20260710T080000Z
+DTSTAMP:20260322T000000Z
+DTSTART:20260709T040000Z
+DTEND:20260709T080000Z
 SUMMARY:Silverheels Trail Runs
-DESCRIPTION:A high-altitude trail running festival held at an average elevation of over 10\,000 feet. This Human Potential Running Series event offers distances for all levels with views of South Park Valley and Colorado 14ers.
+DESCRIPTION:A high-altitude mountain ultra through the Fairplay and South Park areas. The course takes runners over peaks and through historic mining districts with an average elevation of nearly 11\,000 feet.
 LOCATION:Como Roundhouse\, Como\, CO 80432
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:hardrock-100-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
-DTSTART:20260710T060000Z
-DTEND:20260710T100000Z
-SUMMARY:Hardrock 100
-DESCRIPTION:One of the most prestigious and difficult ultramarathons in the world\, featuring 33\,000 feet of elevation gain. The clockwise loop for 2026 takes runners through the towns of Ouray\, Telluride\, and Lake City\, requiring them to 'kiss the rock' at the finish.
-LOCATION:Silverton School\, Silverton\, CO 81433
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:hardrock-hundred-mile-endurance-run-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
-DTSTART:20260710T060000Z
-DTEND:20260710T100000Z
-SUMMARY:Hardrock Hundred Mile Endurance Run
-DESCRIPTION:A legendary ultra marathon in the San Juan Mountains featuring over 33\,000 feet of climb. Runners must kiss the 'Hardrock' to finish this loop course that connects Silverton\, Lake City\, Ouray\, and Telluride.
-LOCATION:Silverton Public School\, 1160 Blair St\, Silverton\, CO 81433
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:life-time-silver-rush-50-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20260710T060000Z
 DTEND:20260710T100000Z
 SUMMARY:Life Time Silver Rush 50
@@ -1125,18 +1085,38 @@ LOCATION:15478 County Road 9\, Leadville\, CO 80461
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:hardrock-hundred-mile-endurance-run-2026@milehighrunners.com
+DTSTAMP:20260322T000000Z
+DTSTART:20260710T060000Z
+DTEND:20260710T100000Z
+SUMMARY:Hardrock Hundred Mile Endurance Run
+DESCRIPTION:One of the most prestigious and difficult 100-mile trail races in the world\, featuring over 33\,000 feet of elevation gain. The course is a giant loop through the San Juan Mountains\, famously requiring finishers to kiss the 'Hardrock' ram's head.
+LOCATION:Silverton Gymnasium\, Silverton\, CO 81433
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:hardrock-100-2026@milehighrunners.com
+DTSTAMP:20260322T000000Z
+DTSTART:20260710T060000Z
+DTEND:20260710T100000Z
+SUMMARY:Hardrock 100
+DESCRIPTION:The legendary Hardrock Hundred Mile Endurance Run is a clockwise loop through the San Juan Mountains. Featuring over 33\,000 feet of climb\, it is widely considered one of the most difficult ultras in the world.
+LOCATION:Silverton School\, 1160 Blair St\, Silverton\, CO 81433
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:leadville-silver-rush-50-run-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20260711T060000Z
 DTEND:20260711T100000Z
 SUMMARY:Leadville Silver Rush 50 Run
-DESCRIPTION:A high-altitude endurance challenge through the historic mining district of Leadville. The out-and-back course is run primarily on dirt roads and reaches 12\,000 feet multiple times.
-LOCATION:Cloud City Ski Hut\, Leadville\, CO 80461
+DESCRIPTION:A technical trail race through the historic mining district on the east side of Leadville. The course consists of four major climbs and reaches nearly 12\,000 feet multiple times.
+LOCATION:Dutch Henry Tubing Hill\, US Hwy 24\, Leadville\, CO 80461
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:silver-rush-50-run-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20260712T060000Z
 DTEND:20260712T100000Z
 SUMMARY:Silver Rush 50 Run
@@ -1146,47 +1126,67 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ouray-100-mile-endurance-run-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20260717T080000Z
 DTEND:20260717T120000Z
 SUMMARY:Ouray 100 Mile Endurance Run
-DESCRIPTION:Commonly cited as one of the hardest 100-milers in the world\, this race features a staggering 42\,000 feet of elevation gain. The course takes runners over high mountain passes and into the heart of the rugged San Juan Mountains.
-LOCATION:Fellin Park\, 900 Main St\, Ouray\, CO 81427
+DESCRIPTION:Known as one of the most difficult 100-milers in the world\, featuring over 41\,000 feet of elevation gain. The 'Switzerland of America' provides a breathtaking but punishing mountain course.
+LOCATION:Fellin Park\, 9th Ave\, Ouray\, CO 81427
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:high-lonesome-100-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20260717T060000Z
 DTEND:20260717T100000Z
 SUMMARY:High Lonesome 100
-DESCRIPTION:A high-altitude loop race through the Sawatch Range of the Rocky Mountains\, featuring 23\,500 feet of vertical gain. The rugged course crosses five alpine passes and utilizes sections of the Continental Divide and Colorado Trails.
-LOCATION:County Road 321\, Nathrop\, CO 81236
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:audi-power-of-four-trail-run-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
-DTSTART:20260718T060000Z
-DTEND:20260718T100000Z
-SUMMARY:Audi Power of Four Trail Run
-DESCRIPTION:A premier endurance race series utilizing the unique terrain of the four Aspen Snowmass mountains. The signature 50K Ultra covers all four mountains on singletrack and dirt roads\, the 25K follows the Government Trail\, and the 10K traverses from Elk Camp down to Fanny Hill.
-LOCATION:Aspen\, Tiehack\, & Elk Camp\, Aspen\, CO
+DESCRIPTION:A high-altitude epic through the Sawatch Range\, traversing five alpine passes and sections of the Continental Divide and Colorado Trails. This race is known for its incredible community support and significant vertical gain of 23\,500 feet.
+LOCATION:7000 Feet Running Company\, Salida\, CO 81201
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:silverton-alpine-runs-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
+DTSTART:20260718T063000Z
+DTEND:20260718T103000Z
+SUMMARY:Silverton Alpine Runs
+DESCRIPTION:High-altitude trail marathons on historic mining roads\, reaching California Pass at nearly 13\,000 feet in the San Juan Mountains.
+LOCATION:Silverton Town Hall\, 1360 Greene St\, Silverton\, CO 81433
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:audi-power-of-four-trail-run-2026@milehighrunners.com
+DTSTAMP:20260322T000000Z
 DTSTART:20260718T060000Z
 DTEND:20260718T100000Z
-SUMMARY:Silverton Alpine Runs
-DESCRIPTION:An alpine trail event that traverses high-altitude 4x4 roads and trails in the heart of the scenic San Juan Mountains.
-LOCATION:Memorial Park\, 1800 Greene St\, Silverton\, CO 81433
+SUMMARY:Audi Power of Four Trail Run
+DESCRIPTION:A premier endurance race series utilizing the unique terrain of the four Aspen Snowmass mountains. The event features a challenging 50K Ultra signature race\, a 25K race along the Government Trail\, and a 10K race traversing from Elk Camp down to Fanny Hill.
+LOCATION:Aspen Snowmass\, Aspen\, CO
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:transrockies-run-pass-to-pub-2026@milehighrunners.com
+DTSTAMP:20260322T000000Z
+DTSTART:20260719T080000Z
+DTEND:20260719T120000Z
+SUMMARY:TransRockies Run - Pass to Pub
+DESCRIPTION:Often called 'Summer Camp for Big Kids\,' this 3-day stage race traverses the Continental Divide. Runners cover 51 miles over three stages\, experiencing professional support\, camp life\, and world-class mountain scenery.
+LOCATION:Leadville to Red Cliff\, CO
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:barr-trail-mountain-race-2026@milehighrunners.com
+DTSTAMP:20260322T000000Z
+DTSTART:20260719T070000Z
+DTEND:20260719T110000Z
+SUMMARY:Barr Trail Mountain Race
+DESCRIPTION:A classic mountain trail race that climbs 3\,600 feet up Pikes Peak to Barr Camp before descending back to the trailhead. It serves as a great preparation for the Pikes Peak Ascent and Marathon.
+LOCATION:Barr Trail Trailhead\, Hydro St\, Manitou Springs\, CO 80829
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:kendall-mountain-run-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20260719T070000Z
 DTEND:20260719T110000Z
 SUMMARY:Kendall Mountain Run
@@ -1195,48 +1195,28 @@ LOCATION:13th St and Greene St\, Silverton\, CO 81433
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:barr-trail-mountain-race-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
-DTSTART:20260719T070000Z
-DTEND:20260719T110000Z
-SUMMARY:Barr Trail Mountain Race
-DESCRIPTION:A premier mountain race that climbs 3\,630 feet from Manitou Springs to Barr Camp on the flank of Pikes Peak.
-LOCATION:Barr Trail Trailhead\, Manitou Springs\, CO 80829
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:transrockies-run-pass-to-pub-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
-DTSTART:20260719T080000Z
-DTEND:20260719T120000Z
-SUMMARY:TransRockies Run - Pass to Pub
-DESCRIPTION:A world-renowned 3-day stage race known as 'Summer Camp for Big Kids.' Runners traverse the Continental Divide from Leadville to Red Cliff\, enjoying shared meals and camping at the end of each stage.
-LOCATION:Harrison Avenue\, Leadville\, CO 80461
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:never-summer-100k-60k-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20260724T053000Z
 DTEND:20260724T093000Z
 SUMMARY:Never Summer 100k & 60k
-DESCRIPTION:A true mountain ultra within State Forest State Park. Features high alpine ridge running and crossing several peaks near Cameron Pass.
+DESCRIPTION:A high-alpine wilderness mountain race within State Forest State Park. The technical course travels between the Never Summer and Medicine Bow Mountains\, reaching elevations up to 11\,852 feet.
 LOCATION:Gould Community Center\, 56750 CO-14\, Gould\, CO 80480
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:never-summer-trail-run-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20260724T053000Z
 DTEND:20260724T093000Z
 SUMMARY:Never Summer Trail Run
-DESCRIPTION:A rugged mountain ultra marathon located in State Forest State Park. The course features high alpine ridge running\, technical terrain\, and multiple peaks with an average elevation over 10\,000 feet.
+DESCRIPTION:A rugged mountain race in State Forest State Park. Expect moose sightings\, alpine ridge running\, and high-altitude challenges in the Medicine Bow Mountains.
 LOCATION:Gould Community Center\, 56750 CO-14\, Gould\, CO 80480
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:never-summer-100km-60km-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20260724T053000Z
 DTEND:20260724T093000Z
 SUMMARY:Never Summer 100km & 60km
@@ -1245,28 +1225,8 @@ LOCATION:Gould Community Center\, 56750 CO-14\, Walden\, CO 80480
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:never-summer-100k-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
-DTSTART:20260725T053000Z
-DTEND:20260725T093000Z
-SUMMARY:Never Summer 100K
-DESCRIPTION:A true mountain ultra held in State Forest State Park. The course features high-alpine ridge running and visits two alpine peaks\, offering some of the most remote and wild trail running in Colorado.
-LOCATION:Gould Community Center\, 56750 CO-14\, Gould\, CO 80480
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:grand-mesa-ultras-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
-DTSTART:20260725T050000Z
-DTEND:20260725T090000Z
-SUMMARY:Grand Mesa Ultras
-DESCRIPTION:Located on the world's largest flat-topped mountain\, this race offers high-elevation trail running with minimal road sections. Runners traverse rocky technical climbs and fast forest singletrack at an average altitude above 10\,000 feet.
-LOCATION:Grand Mesa Lodge\, 25861 CO-65\, Cedaredge\, CO 81413
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:box-canyon-trail-races-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20260725T070000Z
 DTEND:20260725T110000Z
 SUMMARY:Box Canyon Trail Races
@@ -1276,47 +1236,67 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:pikes-peak-ultra-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20260725T050000Z
 DTEND:20260725T090000Z
 SUMMARY:Pikes Peak Ultra
-DESCRIPTION:An ultra-marathon that showcases the best trails on the flanks of Pikes Peak. The 50-mile course is a demanding mountain run with significant vertical gain.
+DESCRIPTION:A high-altitude trail ultra-marathon showcasing the best trails of Colorado Springs. The 50-mile course takes runners deep into the backcountry with challenging elevation gains.
 LOCATION:Bear Creek Regional Park\, 2115 W Upper Skyway\, Colorado Springs\, CO 80906
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:never-summer-100k-2026@milehighrunners.com
+DTSTAMP:20260322T000000Z
+DTSTART:20260725T053000Z
+DTEND:20260725T093000Z
+SUMMARY:Never Summer 100K
+DESCRIPTION:A rugged mountain race taking place almost entirely within State Forest State Park. The course features technical trails\, alpine lakes\, and extended periods of high-altitude ridge running in the Never Summer Mountains.
+LOCATION:Gould Community Center\, Gould\, CO 80480
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:grand-mesa-ultras-2026@milehighrunners.com
+DTSTAMP:20260322T000000Z
+DTSTART:20260725T050000Z
+DTEND:20260725T090000Z
+SUMMARY:Grand Mesa Ultras
+DESCRIPTION:Mountain running on the largest flat-topped mountain in the world. Runners experience rocky technical climbs and fast forest singletrack at an average elevation of over 10\,000 feet.
+LOCATION:Grand Mesa National Forest\, CO-65\, Grand Mesa\, CO
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:aspen-valley-marathon-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
-DTSTART:20260726T060000Z
-DTEND:20260726T100000Z
+DTSTAMP:20260322T000000Z
+DTSTART:20260725T060000Z
+DTEND:20260725T100000Z
 SUMMARY:Aspen Valley Marathon
-DESCRIPTION:A fast\, downhill point-to-point race that follows the Rio Grande Trail from Aspen to Basalt. Runners enjoy stunning river views and a net elevation loss of over 1\,400 feet\, making it a favorite BQ course.
-LOCATION:Wagner Park\, 350 E Durant Ave\, Aspen\, CO 81611
+DESCRIPTION:A scenic point-to-point downhill marathon following the Rio Grande Trail along the Roaring Fork River. The course drops 1\,418 feet from Aspen to the finish in Basalt.
+LOCATION:Wagner Park\, 350 S Monarch St\, Aspen\, CO 81611
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:the-summit-200-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
-DTSTART:20260727T060000Z
-DTEND:20260727T100000Z
+DTSTAMP:20260322T000000Z
+DTSTART:20260727T080000Z
+DTEND:20260727T120000Z
 SUMMARY:The Summit 200
-DESCRIPTION:The highest altitude non-repetitive 200-mile ultra in the U.S.\, this mountain race traverses a massive loop around Summit County. Runners face 40\,000 feet of climbing with the lowest point remaining above 9\,000 feet.
-LOCATION:Summit County Recreation Path\, Frisco\, CO 80443
+DESCRIPTION:The Summit 200 is a non-repetitive 200-mile loop through Summit County\, Colorado. It is recognized as the highest altitude non-repetitive 200-miler in the U.S.\, with the lowest point above 9\,000 feet and total elevation gain/loss of approximately 40\,000 feet. The course features single track trails and forest roads with a 110-hour cutoff.
+LOCATION:Summit County\, CO
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:rocky-mountain-half-marathon-5k-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20260731T180000Z
 DTEND:20260731T220000Z
 SUMMARY:Rocky Mountain Half Marathon & 5K
-DESCRIPTION:A high-altitude road race series outside Rocky Mountain National Park. The 5K is Friday evening and the Half Marathon is Saturday morning.
-LOCATION:Stanley Park\, 380 Community Dr\, Estes Park\, CO 80517
+DESCRIPTION:A challenging but scenic run just outside Rocky Mountain National Park. The course is a paved road loop that starts and ends at Stanley Park\, offering mountain views and reaching a max elevation of 7\,906 ft. Participants can choose between the 5K\, Half Marathon\, or the Elk Double (both races).
+LOCATION:Stanley Park\, Estes Park\, CO
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:wild-west-relay-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20260731T050000Z
 DTEND:20260731T090000Z
 SUMMARY:Wild West Relay
@@ -1325,38 +1305,8 @@ LOCATION:Anheuser-Busch Brewery (Start)\, 2351 Busch Dr\, Fort Collins\, CO 8052
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:aspen-backcountry-marathon-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
-DTSTART:20260801T060000Z
-DTEND:20260801T100000Z
-SUMMARY:Aspen Backcountry Marathon
-DESCRIPTION:A spectacular mountain trail event run almost exclusively on high country dirt trails around Aspen. The course features challenging ascents like Sunnyside and finishes in the heart of downtown during the festive Duck Derby event.
-LOCATION:Rio Grande Park\, Aspen\, CO 81611
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:rocky-mountain-half-marathon-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
-DTSTART:20260801T060000Z
-DTEND:20260801T100000Z
-SUMMARY:Rocky Mountain Half Marathon
-DESCRIPTION:A scenic and challenging high-altitude race held just outside Rocky Mountain National Park. The course features paved roads with mountain views\, starting and ending at Stanley Park in historic Estes Park. Race options include a 5K (held July 31)\, a Half Marathon (held Aug 1)\, and the Elk Double which combines both distances.
-LOCATION:Stanley Park\, Estes Park\, CO
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:power-of-four-trail-run-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
-DTSTART:20260801T060000Z
-DTEND:20260801T100000Z
-SUMMARY:Power of Four Trail Run
-DESCRIPTION:A premier mountain race that connects the four ski areas of Aspen Snowmass: Snowmass\, Buttermilk\, Aspen Highlands\, and Aspen Mountain. This highly technical course features steep climbs\, ridge running\, and high-alpine scenery.
-LOCATION:Aspen Mountain\, 601 E Dean St\, Aspen\, CO 81611
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:sheep-mountain-trail-runs-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20260801T060000Z
 DTEND:20260801T100000Z
 SUMMARY:Sheep Mountain Trail Runs
@@ -1366,7 +1316,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:winter-park-trail-runs-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20260801T070000Z
 DTEND:20260801T110000Z
 SUMMARY:Winter Park Trail Runs
@@ -1375,8 +1325,38 @@ LOCATION:Hideaway Park\, 78820 US-40\, Winter Park\, CO 80482
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:aspen-backcountry-marathon-2026@milehighrunners.com
+DTSTAMP:20260322T000000Z
+DTSTART:20260801T060000Z
+DTEND:20260801T100000Z
+SUMMARY:Aspen Backcountry Marathon
+DESCRIPTION:An all-trail marathon and ultra through the high country surrounding Aspen. Expect challenging ascents and descents on singletrack with spectacular views of the Elk Mountains.
+LOCATION:Rio Grande Park\, Aspen\, CO 81611
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:power-of-four-trail-run-2026@milehighrunners.com
+DTSTAMP:20260322T000000Z
+DTSTART:20260801T060000Z
+DTEND:20260801T100000Z
+SUMMARY:Power of Four Trail Run
+DESCRIPTION:A premier mountain race that connects the four ski areas of Aspen Snowmass: Snowmass\, Buttermilk\, Aspen Highlands\, and Aspen Mountain. This highly technical course features steep climbs\, ridge running\, and high-alpine scenery.
+LOCATION:Aspen Mountain\, 601 E Dean St\, Aspen\, CO 81611
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:rocky-mountain-half-marathon-2026@milehighrunners.com
+DTSTAMP:20260322T000000Z
+DTSTART:20260801T060000Z
+DTEND:20260801T100000Z
+SUMMARY:Rocky Mountain Half Marathon
+DESCRIPTION:A challenging but scenic high-altitude run just outside Rocky Mountain National Park. The course features a paved road loop with killer mountain views\, starting and ending at Stanley Park. The event includes a 5K on Friday evening and the Half Marathon on Saturday morning.
+LOCATION:Stanley Park\, Estes Park\, CO
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:transrockies-run-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20260803T080000Z
 DTEND:20260803T120000Z
 SUMMARY:TransRockies Run
@@ -1385,18 +1365,18 @@ LOCATION:Buena Vista Community Center\, 715 E Main St\, Buena Vista\, CO 81211
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:georgetown-to-idaho-springs-half-marathon-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+UID:emerald-mountain-epic-2026@milehighrunners.com
+DTSTAMP:20260322T000000Z
 DTSTART:20260808T070000Z
 DTEND:20260808T110000Z
-SUMMARY:Georgetown to Idaho Springs Half Marathon
-DESCRIPTION:Known as the GTIS Half\, this high-altitude point-to-point road race offers a fast downhill course along Clear Creek.
-LOCATION:Georgetown Lake\, Georgetown\, CO 80444
+SUMMARY:Emerald Mountain Epic
+DESCRIPTION:Formerly the Steamboat Stinger\, this two-day festival features mountain biking on Saturday and trail running on Sunday (Aug 9). The course is 90% single-track on Steamboat's iconic Emerald Mountain.
+LOCATION:Howelsen Hill\, 845 Howelsen Pkwy\, Steamboat Springs\, CO 80487
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:run-the-rockies-trail-race-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20260808T073000Z
 DTEND:20260808T113000Z
 SUMMARY:Run the Rockies Trail Race
@@ -1405,38 +1385,38 @@ LOCATION:Frisco Nordic Center\, 616 Recreation Way\, Frisco\, CO 80443
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:emerald-mountain-epic-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
-DTSTART:20260809T070000Z
-DTEND:20260809T110000Z
-SUMMARY:Emerald Mountain Epic
-DESCRIPTION:A premier 2-day trail and mountain bike event on the world-class singletrack of Steamboat Springs. The running portion features scenic loops through aspen groves and meadows.
-LOCATION:Howelsen Hill\, 845 Howelsen Pkwy\, Steamboat Springs\, CO 80487
+UID:georgetown-to-idaho-springs-half-marathon-2026@milehighrunners.com
+DTSTAMP:20260322T000000Z
+DTSTART:20260808T070000Z
+DTEND:20260808T110000Z
+SUMMARY:Georgetown to Idaho Springs Half Marathon
+DESCRIPTION:A high-altitude point-to-point road race that descends from Georgetown Lake to Idaho Springs. This race has been a staple of the Colorado summer running season for over 45 years.
+LOCATION:Georgetown Lake Trailhead\, Georgetown\, CO 80444
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:san-juan-softie-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20260814T060000Z
 DTEND:20260814T100000Z
 SUMMARY:San Juan Softie
-DESCRIPTION:The San Juan Softie is a 100-mile mountain ultramarathon that starts and finishes north of Durango\, Colorado. Featuring approximately 19\,000 feet of vertical gain and an average elevation of over 10\,000 feet\, the course traverses rugged terrain including the Colorado Trail with views of Engineer Mountain and the Wilson group of 14ers.
-LOCATION:North of Durango\, Durango\, CO
+DESCRIPTION:A challenging 100-mile mountain ultramarathon starting and finishing north of Durango\, Colorado. The course features approximately 19\,000 feet of vertical gain with an average elevation of 10\,000 feet\, traversing rugged terrain including the Colorado Trail\, Engineer Mountain\, and the Wilson group of 14ers.
+LOCATION:Durango\, CO
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:mount-sneffels-marathon-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
-DTSTART:20260815T070000Z
-DTEND:20260815T110000Z
-SUMMARY:Mount Sneffels Marathon
-DESCRIPTION:A high-altitude road race between Ouray and Ridgway\, known for its incredible scenery in the San Juan Mountains. The course follows the Uncompahgre River and features beautiful views of the jagged 'Switzerland of America' peaks.
-LOCATION:Ouray Hot Springs Pool\, 1220 Main St\, Ouray\, CO 81427
+UID:westminster-trail-race-2026@milehighrunners.com
+DTSTAMP:20260322T000000Z
+DTSTART:20260815T063000Z
+DTEND:20260815T103000Z
+SUMMARY:Westminster Trail Race
+DESCRIPTION:Held at Standley Lake Regional Park\, this race offers a mix of packed dirt and single-track trails with stunning views of the Front Range. Distances cater to all levels\, from novice trail runners to ultra-marathoners.
+LOCATION:10020 100th Ave\, Westminster\, CO 80021
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:leadville-trail-10k-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20260815T080000Z
 DTEND:20260815T120000Z
 SUMMARY:Leadville Trail 10K
@@ -1445,38 +1425,38 @@ LOCATION:6th & Harrison Ave\, Leadville\, CO 80461
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:santa-cruz-trail-run-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
-DTSTART:20260822T083000Z
-DTEND:20260822T123000Z
-SUMMARY:Santa Cruz Trail Run
-DESCRIPTION:A trail run through giant redwoods at Henry Cowell Redwoods State Park. The course features twisting single track\, expansive roads\, ocean breezes\, and river crossings\, with aid stations every 5-6 miles.
-LOCATION:Henry Cowell Redwoods State Park\, Felton\, CA
+UID:mount-sneffels-marathon-2026@milehighrunners.com
+DTSTAMP:20260322T000000Z
+DTSTART:20260815T070000Z
+DTEND:20260815T110000Z
+SUMMARY:Mount Sneffels Marathon
+DESCRIPTION:A high-altitude road race between Ouray and Ridgway\, known for its incredible scenery in the San Juan Mountains. The course follows the Uncompahgre River and features beautiful views of the jagged 'Switzerland of America' peaks.
+LOCATION:Ouray Hot Springs Pool\, 1220 Main St\, Ouray\, CO 81427
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:leadville-10k-run-2026@milehighrunners.com
+DTSTAMP:20260322T000000Z
+DTSTART:20260816T080000Z
+DTEND:20260816T120000Z
+SUMMARY:Leadville 10K Run
+DESCRIPTION:Known as the shortest but hardest 10K in the country\, this high-altitude race takes place just before the LT100. It starts in downtown Leadville and follows the first and last miles of the 100-mile course.
+LOCATION:E. 6th St and Harrison Ave\, Leadville\, CO 80461
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:leadville-trail-100-run-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20260822T040000Z
 DTEND:20260822T080000Z
 SUMMARY:Leadville Trail 100 Run
-DESCRIPTION:The 'Race Across the Sky\,' one of the most prestigious 100-mile ultra marathons in the world. Runners start at 10\,200 feet and reach nearly 12\,600 feet at Hope Pass in this out-and-back mountain epic.
-LOCATION:6th St & Harrison Ave\, Leadville\, CO 80461
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:telluride-mountain-run-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
-DTSTART:20260822T050000Z
-DTEND:20260822T090000Z
-SUMMARY:Telluride Mountain Run
-DESCRIPTION:Technical and high-altitude mountain racing above Telluride. Courses involve exposed ridgelines\, alpine tundra\, and loose rocky summits.
-LOCATION:Telluride Town Park\, Telluride\, CO 81435
+DESCRIPTION:The legendary 'Race Across the Sky' series held at the highest incorporated city in North America. This consolidated entry represents the series of events including the Marathon (June 27)\, Silver Rush 50 (July 11)\, and the world-famous 100 Mile Run (August 22).
+LOCATION:135 E 6th St\, Leadville\, CO 80461
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:staunton-rocks-marathon-half-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20260822T070000Z
 DTEND:20260822T110000Z
 SUMMARY:Staunton Rocks! Marathon & Half
@@ -1485,28 +1465,28 @@ LOCATION:Staunton State Park\, 12102 S Elk Creek Rd\, Pine\, CO 80470
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:mudgirl-denver-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
-DTSTART:20260829T083000Z
-DTEND:20260829T123000Z
-SUMMARY:Mudgirl Denver
-DESCRIPTION:An obstacle race dedicated to women featuring mud\, a festival atmosphere\, and various obstacles. The event is open to participants aged 7 and up\, with waves starting at 8:30 AM.
-LOCATION:4281 County Road 10\, Dacono\, CO 80514
+UID:santa-cruz-trail-run-2026@milehighrunners.com
+DTSTAMP:20260322T000000Z
+DTSTART:20260822T083000Z
+DTEND:20260822T123000Z
+SUMMARY:Santa Cruz Trail Run
+DESCRIPTION:A scenic trail run through giant redwoods in Henry Cowell Redwoods State Park. The course features twisting single track\, expansive paths\, ocean breezes\, river crossings\, and high ridges\, with aid stations every 5-6 miles.
+LOCATION:Henry Cowell Redwoods State Park\, Felton\, CA
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:rock-hawk-trail-races-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
-DTSTART:20260829T060000Z
-DTEND:20260829T100000Z
-SUMMARY:Rock Hawk Trail Races
-DESCRIPTION:A trail race held at Philip S. Miller Park and the Ridgeline Trail system. The flowing single-track offers rolling terrain and great views of the Front Range\, suitable for both beginners and veterans.
-LOCATION:1375 W Plum Creek Pkwy\, Castle Rock\, CO 80109
+UID:telluride-mountain-run-2026@milehighrunners.com
+DTSTAMP:20260322T000000Z
+DTSTART:20260822T050000Z
+DTEND:20260822T090000Z
+SUMMARY:Telluride Mountain Run
+DESCRIPTION:A technical mountain race featuring massive elevation gains in the San Juan Mountains. The 65-mile course includes the 'Mile and a Half of Sky' ridge traverse at 13\,000 feet.
+LOCATION:Telluride Town Park\, 500 E Colorado Ave\, Telluride\, CO 81435
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ridgeline-trail-festival-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20260829T073000Z
 DTEND:20260829T113000Z
 SUMMARY:Ridgeline Trail Festival
@@ -1515,18 +1495,28 @@ LOCATION:Philip S. Miller Park\, 1375 W Plum Creek Pkwy\, Castle Rock\, CO 80109
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:grand-traverse-mountain-run-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
-DTSTART:20260905T050000Z
-DTEND:20260905T090000Z
-SUMMARY:Grand Traverse Mountain Run
-DESCRIPTION:A point-to-point ultramarathon following the historic mail route between Crested Butte and Aspen. The 40-mile trek crosses two alpine passes and over 6\,000 feet of vertical gain in the Elk Mountains.
-LOCATION:Crested Butte Mountain Resort\, Crested Butte\, CO 81225
+UID:rock-hawk-trail-races-2026@milehighrunners.com
+DTSTAMP:20260322T000000Z
+DTSTART:20260829T060000Z
+DTEND:20260829T100000Z
+SUMMARY:Rock Hawk Trail Races
+DESCRIPTION:A trail race held at Philip S. Miller Park and the Ridgeline Trail system. The flowing single-track offers rolling terrain and great views of the Front Range\, suitable for both beginners and veterans.
+LOCATION:1375 W Plum Creek Pkwy\, Castle Rock\, CO 80109
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:mudgirl-denver-2026@milehighrunners.com
+DTSTAMP:20260322T000000Z
+DTSTART:20260829T083000Z
+DTEND:20260829T123000Z
+SUMMARY:Mudgirl Denver
+DESCRIPTION:An obstacle race dedicated to women featuring mud\, obstacles\, and a festival atmosphere. Open to participants ages 7 and up.
+LOCATION:4281 County Road 10\, Dacono\, CO 80514 United States
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:cirque-series-arapahoe-basin-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20260905T100000Z
 DTEND:20260905T140000Z
 SUMMARY:Cirque Series - Arapahoe Basin
@@ -1535,28 +1525,38 @@ LOCATION:Arapahoe Basin Ski Area\, 28194 US-6\, Dillon\, CO 80435
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:labor-day-half-marathon-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
-DTSTART:20260907T070000Z
-DTEND:20260907T110000Z
-SUMMARY:Labor Day Half Marathon
-DESCRIPTION:The Labor Day Half Marathon takes place at Salisbury Park in Parker\, CO. The race travels through the park and onto the paved Cherry Creek Trail with an out-and-back course for all distances. Includes a finisher medal\, race shirt\, and professional chip timing.
-LOCATION:11920 N Motsenbocker Rd\, Parker\, CO 80134
+UID:grand-traverse-mountain-run-2026@milehighrunners.com
+DTSTAMP:20260322T000000Z
+DTSTART:20260905T060000Z
+DTEND:20260905T100000Z
+SUMMARY:Grand Traverse Mountain Run
+DESCRIPTION:A trans-mountain odyssey from Crested Butte to Aspen. Runners climb over 6\,000 vertical feet across the Elk Mountains\, including Star Pass at 12\,507 feet.
+LOCATION:Downtown Crested Butte\, 2nd St & Elk Ave\, Crested Butte\, CO 81224
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:snow-mountain-ranch-trail-festival-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
-DTSTART:20260912T063000Z
-DTEND:20260912T103000Z
-SUMMARY:Snow Mountain Ranch Trail Festival
-DESCRIPTION:A high-altitude trail festival featuring rolling hills and golden aspen groves at the YMCA of the Rockies near Granby.
-LOCATION:YMCA of the Rockies\, 1101 County Rd 53\, Granby\, CO 80446
+UID:labor-day-half-marathon-2026@milehighrunners.com
+DTSTAMP:20260322T000000Z
+DTSTART:20260907T070000Z
+DTEND:20260907T110000Z
+SUMMARY:Labor Day Half Marathon
+DESCRIPTION:A holiday road race on the Cherry Creek Trail system\, offering a mostly flat and fast course through the scenic open spaces of Parker.
+LOCATION:Salisbury Park\, 11920 Motsenbocker Rd\, Parker\, CO 80134
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:imogene-pass-run-2026@milehighrunners.com
+DTSTAMP:20260322T000000Z
+DTSTART:20260912T073000Z
+DTEND:20260912T113000Z
+SUMMARY:Imogene Pass Run
+DESCRIPTION:A historic mountain race from Ouray to Telluride over the 13\,114-foot Imogene Pass. This point-to-point race is a rite of passage for mountain runners.
+LOCATION:4th Ave and Main (Start)\, Telluride (Finish)\, Ouray\, CO 81427
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:nedned-trail-fest-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20260912T080000Z
 DTEND:20260912T120000Z
 SUMMARY:Ned*Ned Trail Fest
@@ -1565,18 +1565,28 @@ LOCATION:151 East Street\, Nederland\, Colorado
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:snow-mountain-ranch-trail-festival-2026@milehighrunners.com
+DTSTAMP:20260322T000000Z
+DTSTART:20260912T070000Z
+DTEND:20260912T110000Z
+SUMMARY:Snow Mountain Ranch Trail Festival
+DESCRIPTION:Set in the rolling alpine meadows of the YMCA of the Rockies near Granby\, this race features a mix of double-track and single-track trails. It offers a variety of distances suitable for the whole family in a beautiful mountain setting.
+LOCATION:1101 Co Rd 53\, Granby\, CO 80446
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:devil-on-the-divide-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20260912T060000Z
 DTEND:20260912T100000Z
 SUMMARY:Devil on the Divide
-DESCRIPTION:Challenging trail races following the Continental Divide. Runners reach altitudes over 13\,000 feet with stunning alpine vistas.
-LOCATION:Empire Town Park\, Empire\, CO 80438
+DESCRIPTION:A high-altitude trail race along the Continental Divide. Runners reach altitudes over 13\,000 feet with point-to-point courses featuring technical singletrack and stunning views.
+LOCATION:Jones Pass\, Empire\, CO 80438
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:black-squirrel-half-marathon-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20260912T070000Z
 DTEND:20260912T110000Z
 SUMMARY:Black Squirrel Half Marathon
@@ -1585,38 +1595,28 @@ LOCATION:Soldier Canyon Picnic Area\, Lory State Park\, Bellvue\, CO 80512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:imogene-pass-run-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
-DTSTART:20260912T073000Z
-DTEND:20260912T113000Z
-SUMMARY:Imogene Pass Run
-DESCRIPTION:A legendary point-to-point mountain race connecting Ouray and Telluride via the 13\,114-foot Imogene Pass. This race covers rugged 4x4 roads and offers some of the most dramatic views in the San Juans.
-LOCATION:Main St & 6th Ave (Start)\, Ouray\, CO 81427
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:run-rabbit-run-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
-DTSTART:20260918T080000Z
-DTEND:20260918T120000Z
+DTSTAMP:20260322T000000Z
+DTSTART:20260918T090000Z
+DTEND:20260918T130000Z
 SUMMARY:Run Rabbit Run
-DESCRIPTION:Known for its massive prize purse and challenging trails\, this ultra-marathon traverses the fall-colored Routt National Forest. The 100-mile race offers both 'Hare' (elite) and 'Tortoise' divisions through the mountains of Northern Colorado.
-LOCATION:Steamboat Ski Resort\, 2305 Mt Werner Cir\, Steamboat Springs\, CO 80487
+DESCRIPTION:A major mountain ultra featuring massive elevation gain through the Routt National Forest. This race is famous for its large prize purse for 'Hares' and its scenic course that covers Buffalo Pass and Emerald Mountain.
+LOCATION:2305 Mt Werner Cir\, Steamboat Springs\, CO 80487
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:pikes-peak-ascent-marathon-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20260919T070000Z
 DTEND:20260919T110000Z
 SUMMARY:Pikes Peak Ascent & Marathon
-DESCRIPTION:A vertical challenge that takes mountain runners from Manitou Springs to the 14\,115-foot summit of Pikes Peak via the Barr Trail.
-LOCATION:City Hall\, 606 Manitou Ave\, Manitou Springs\, CO 80829
+DESCRIPTION:America's ultimate mountain challenge. The Ascent finishes at the 14\,115-foot summit on Saturday\, while the Marathon goes to the summit and back down on Sunday.
+LOCATION:Manitou Springs City Hall\, 606 Manitou Ave\, Manitou Springs\, CO 80829
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:run-the-rockies-road-race-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20260919T080000Z
 DTEND:20260919T120000Z
 SUMMARY:Run the Rockies Road Race
@@ -1626,17 +1626,17 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:pikes-peak-marathon-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20260920T070000Z
 DTEND:20260920T110000Z
 SUMMARY:Pikes Peak Marathon
-DESCRIPTION:Known as 'America's Ultimate Challenge\,' this marathon climbs 7\,800 feet to the 14\,115-foot summit of Pikes Peak and back down. The Ascent occurs on Saturday\, with the full Marathon on Sunday.
-LOCATION:Manitou Springs City Hall\, 606 Manitou Ave\, Manitou Springs\, CO 80829
+DESCRIPTION:Known as 'America's Ultimate Challenge\,' this race climbs over 7\,800 feet to the 14\,115-foot summit of Pikes Peak. The weekend includes the Ascent (Saturday) and the full round-trip Marathon (Sunday).
+LOCATION:Manitou Ave\, Manitou Springs\, CO 80829
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:fall-equinox-marathon-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20260920T070000Z
 DTEND:20260920T110000Z
 SUMMARY:Fall Equinox Marathon
@@ -1646,27 +1646,27 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:red-feather-trail-jamboree-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20260925T060000Z
 DTEND:20260925T100000Z
 SUMMARY:Red Feather Trail Jamboree
-DESCRIPTION:A multi-day trail festival at a high-altitude scout ranch. Includes races\, on-site camping\, live music\, and communal dining.
+DESCRIPTION:A multi-day trail festival in Northern Colorado. The 50-mile course traverses five trail systems through moose-heavy forests and rocky outcroppings on private and national forest land.
 LOCATION:Ben Delatour Scout Ranch\, 2331 County Rd 68C\, Red Feather Lakes\, CO 80545
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:golden-leaf-half-marathon-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
-DTSTART:20260926T080000Z
-DTEND:20260926T120000Z
-SUMMARY:Golden Leaf Half Marathon
-DESCRIPTION:Timed to capture the peak fall colors\, this trail race runs from Snowmass Village to downtown Aspen. The course winds through golden aspen groves and high mountain meadows on technical singletrack.
-LOCATION:Fanny Hill (Start)\, Snowmass Village\, CO 81615
+UID:crested-butte-ultra-2026@milehighrunners.com
+DTSTAMP:20260322T000000Z
+DTSTART:20260926T060000Z
+DTEND:20260926T100000Z
+SUMMARY:Crested Butte Ultra
+DESCRIPTION:A spectacular autumn mountain ultra through the Gunnison National Forest. Runners traverse high-alpine meadows and ridges amid vibrant fall foliage and thin mountain air.
+LOCATION:Crested Butte Community School\, 818 Red Lady Ave\, Crested Butte\, CO 81224
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sangre-de-cristo-trail-festival-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20260926T040000Z
 DTEND:20260926T080000Z
 SUMMARY:Sangre de Cristo Trail Festival
@@ -1675,38 +1675,38 @@ LOCATION:Music Meadows Ranch\, Westcliffe\, CO 81252
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:crested-butte-ultra-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
-DTSTART:20260926T060000Z
-DTEND:20260926T100000Z
-SUMMARY:Crested Butte Ultra
-DESCRIPTION:A breathtaking autumn trail race through golden aspen forests and flowy singletrack in the heart of the Rockies.
-LOCATION:Mt. Crested Butte Base Area\, 12 Emmons Rd\, Crested Butte\, CO 81225
+UID:colorado-tough-mudder-2026@milehighrunners.com
+DTSTAMP:20260322T000000Z
+DTSTART:20260926T080000Z
+DTEND:20260926T120000Z
+SUMMARY:Colorado Tough Mudder
+DESCRIPTION:A team-oriented obstacle course race featuring mud pits\, technical trails\, and signature obstacles like 'Electroshock Therapy' at the base of the Rockies.
+LOCATION:Fort Carson Army Base\, Colorado Springs\, CO 80913
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:colorado-tough-mudder-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
-DTSTART:20260926T073000Z
-DTEND:20260926T113000Z
-SUMMARY:Colorado Tough Mudder
-DESCRIPTION:A team-oriented obstacle course race featuring signature mud pits\, high walls\, and electric shocks. The Fort Carson course is known for its rugged terrain and breathtaking views of the Rocky Mountains.
-LOCATION:2700 Wilderness Road\, Fort Carson\, CO 80913
+UID:golden-leaf-half-marathon-2026@milehighrunners.com
+DTSTAMP:20260322T000000Z
+DTSTART:20260926T080000Z
+DTEND:20260926T120000Z
+SUMMARY:Golden Leaf Half Marathon
+DESCRIPTION:Consistently ranked as one of the most beautiful trail races in the U.S.\, this point-to-point race traverses the Government Trail through massive Aspen groves during peak fall colors.
+LOCATION:Fanny Hill\, Snowmass Village\, CO 81615
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:boulderthon-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20260927T070000Z
 DTEND:20260927T110000Z
 SUMMARY:Boulderthon
-DESCRIPTION:One of the fastest-growing marathons in the US\, Boulderthon starts and finishes in downtown Boulder. The scenic course winds through the foothills of the Flatirons and finishes with a massive celebration on the Pearl Street Mall.
-LOCATION:21st St & Pearl St\, Boulder\, CO 80302
+DESCRIPTION:A signature fall marathon series featuring a downtown start and finish\, with a course that showcases the foothills of the Flatirons and the Boulder Reservoir.
+LOCATION:18th St & Pearl St\, Boulder\, CO 80302
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:rim-to-rim-royal-gorge-races-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20261003T073000Z
 DTEND:20261003T113000Z
 SUMMARY:Rim to Rim Royal Gorge Races
@@ -1715,28 +1715,28 @@ LOCATION:Royal Gorge Bridge & Park\, Canon City\, CO 81212
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:colorado-springs-marathon-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
-DTSTART:20261003T070000Z
-DTEND:20261003T110000Z
-SUMMARY:Colorado Springs Marathon
-DESCRIPTION:A premier road race through the heart of Colorado Springs\, showcasing the city's parks and downtown. The course is largely flat with scenic mountain backdrops.
-LOCATION:Tejon St & Moreno Ave\, Colorado Springs\, CO 80903
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:the-bear-chase-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20261003T060000Z
 DTEND:20261003T100000Z
 SUMMARY:The Bear Chase
-DESCRIPTION:A multi-distance trail running festival on the varied terrain of Bear Creek Lake Park. The course features flat paths\, rolling hills\, and views of the surrounding foothills.
-LOCATION:Bear Creek Lake Park\, 15600 W Morrison Rd\, Lakewood\, CO 80465
+DESCRIPTION:A popular trail event in the Denver Metro area offering distances from 5K to 100K. The course is a mix of singletrack and doubletrack trails with manageable elevation gain\, making it a great entry point for ultra running.
+LOCATION:Bear Creek Lake Park\, Lakewood\, CO 80232
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:colorado-springs-marathon-2026@milehighrunners.com
+DTSTAMP:20260322T000000Z
+DTSTART:20261003T070000Z
+DTEND:20261003T110000Z
+SUMMARY:Colorado Springs Marathon
+DESCRIPTION:A premier road race in the shadow of Pikes Peak. The marathon and half marathon courses utilize the scenic Greenway and Sante Fe trail systems throughout the city.
+LOCATION:215 S Tejon St\, Colorado Springs\, CO 80903
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:bear-chase-trail-race-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20261004T060000Z
 DTEND:20261004T100000Z
 SUMMARY:Bear Chase Trail Race
@@ -1746,7 +1746,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:long-view-marathon-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20261010T073000Z
 DTEND:20261010T113000Z
 SUMMARY:Long View Marathon
@@ -1755,8 +1755,28 @@ LOCATION:Edora Park\, Fort Collins\, CO 80525
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:blue-sky-trail-run-2026@milehighrunners.com
+DTSTAMP:20260322T000000Z
+DTSTART:20261017T070000Z
+DTEND:20261017T110000Z
+SUMMARY:Blue Sky Trail Run
+DESCRIPTION:Fort Collins' original trail marathon\, held on a beautiful north-south tour of the Front Range hogbacks. The course is 100% dirt and almost entirely singletrack.
+LOCATION:Blue Sky Trailhead\, Horsetooth Mountain Park\, Fort Collins\, CO 80526
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:blue-sky-marathon-half-marathon-2026@milehighrunners.com
+DTSTAMP:20260322T000000Z
+DTSTART:20261017T070000Z
+DTEND:20261017T110000Z
+SUMMARY:Blue Sky Marathon & Half Marathon
+DESCRIPTION:A north-south tour of the easternmost hogbacks of Northern Colorado. The course is 100% dirt and almost entirely on singletrack trail.
+LOCATION:Blue Sky Trailhead\, 1500 S County Rd 31\, Loveland\, CO 80537
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:bobcat-trail-races-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20261017T070000Z
 DTEND:20261017T110000Z
 SUMMARY:Bobcat Trail Races
@@ -1766,7 +1786,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:indian-creek-trail-runs-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20261017T060000Z
 DTEND:20261017T100000Z
 SUMMARY:Indian Creek Trail Runs
@@ -1775,28 +1795,8 @@ LOCATION:Indian Creek Campground\, Sedalia\, CO 80135
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:blue-sky-marathon-half-marathon-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
-DTSTART:20261017T070000Z
-DTEND:20261017T110000Z
-SUMMARY:Blue Sky Marathon & Half Marathon
-DESCRIPTION:Trail races between Horsetooth Mountain Park and Devil's Backbone. The course features 100% dirt and beautiful redstone hardpack trails.
-LOCATION:Blue Sky Trailhead\, Horsetooth Mountain Park\, Fort Collins\, CO 80526
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:blue-sky-trail-run-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
-DTSTART:20261017T070000Z
-DTEND:20261017T110000Z
-SUMMARY:Blue Sky Trail Run
-DESCRIPTION:A north-south tour of the Front Range hogbacks on singletrack trails. The marathon is held on Saturday and the half marathon on Sunday\, offering a mix of smooth dirt and technical rocky sections.
-LOCATION:Blue Sky Trailhead\, Horsetooth Mountain Park\, Fort Collins\, CO 80526
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:bridge-burner-ultra-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20261024T070000Z
 DTEND:20261024T110000Z
 SUMMARY:Bridge Burner Ultra
@@ -1806,7 +1806,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ghosts-and-goblins-5k-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20261025T090000Z
 DTEND:20261025T130000Z
 SUMMARY:Ghosts and Goblins 5K
@@ -1816,17 +1816,17 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:rim-rock-marathon-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
-DTSTART:20261101T080000Z
-DTEND:20261101T120000Z
+DTSTAMP:20260322T000000Z
+DTSTART:20261101T073000Z
+DTEND:20261101T113000Z
 SUMMARY:Rim Rock Marathon
-DESCRIPTION:Run the famous Rim Rock Drive through the Colorado National Monument. This monumental road race offers unmatched views of red rock canyons\, vast plateaus\, and the Grand Valley.
-LOCATION:Rim Rock Drive\, Colorado National Monument\, Fruita\, CO 81521
+DESCRIPTION:A breathtaking point-to-point race along Rim Rock Drive through the Colorado National Monument. Runners pass towering red rock monoliths and canyons before finishing in downtown Fruita.
+LOCATION:Colorado National Monument\, Grand Junction\, CO 81507
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:backcountry-wilderness-half-marathon-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20261107T090000Z
 DTEND:20261107T130000Z
 SUMMARY:Backcountry Wilderness Half Marathon
@@ -1836,7 +1836,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:colorado-24-hour-run-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20261107T080000Z
 DTEND:20261107T120000Z
 SUMMARY:Colorado 24 Hour Run
@@ -1846,7 +1846,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:kessel-run-ultra-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20261107T060000Z
 DTEND:20261107T100000Z
 SUMMARY:Kessel Run Ultra
@@ -1856,7 +1856,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:louisville-trail-race-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20261114T073000Z
 DTEND:20261114T113000Z
 SUMMARY:Louisville Trail Race
@@ -1865,28 +1865,8 @@ LOCATION:Louisville Community Park\, 955 Bella Vista Dr\, Louisville\, CO 80027
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:pumpkin-pie-5k10k-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
-DTSTART:20261121T090000Z
-DTEND:20261121T130000Z
-SUMMARY:Pumpkin Pie 5K/10K
-DESCRIPTION:A festive 5K and 10K run/walk held at Denver's City Park featuring a party-like atmosphere. Participants receive a race logo shirt\, a finishers medal\, and pumpkin pie at the finish line. The event is an official BOLDERBoulder qualifier.
-LOCATION:2001 Steele St\, Denver\, CO 80205
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:colorado-cold-rush-ultra-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
-DTSTART:20261121T070000Z
-DTEND:20261121T110000Z
-SUMMARY:Colorado Cold Rush Ultra
-DESCRIPTION:A premier winter trail event that takes runners through historic tunnels and up the scenic High Drive in Colorado Springs. Expect snow\, dirt trails\, and stunning canyon views.
-LOCATION:Bear Creek Regional Park\, Colorado Springs\, CO 80906
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:turkey-trek-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20261121T083000Z
 DTEND:20261121T123000Z
 SUMMARY:Turkey Trek
@@ -1895,8 +1875,28 @@ LOCATION:Long Lake Regional Park\, Arvada\, CO 80007
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:pumpkin-pie-5k10k-2026@milehighrunners.com
+DTSTAMP:20260322T000000Z
+DTSTART:20261121T090000Z
+DTEND:20261121T130000Z
+SUMMARY:Pumpkin Pie 5K/10K
+DESCRIPTION:A popular themed road race at City Park that celebrates the holiday season with a post-race slice of pumpkin pie for every finisher. This event is a staple for local families and fun-runners.
+LOCATION:City Park\, Denver\, CO 80205
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:colorado-cold-rush-ultra-2026@milehighrunners.com
+DTSTAMP:20260322T000000Z
+DTSTART:20261121T070000Z
+DTEND:20261121T110000Z
+SUMMARY:Colorado Cold Rush Ultra
+DESCRIPTION:A premier winter trail event that takes runners through historic tunnels and up the scenic High Drive in Colorado Springs. Expect snow\, dirt trails\, and stunning canyon views.
+LOCATION:Bear Creek Regional Park\, Colorado Springs\, CO 80906
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:broomfield-turkey-day-5k10k-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20261126T083000Z
 DTEND:20261126T123000Z
 SUMMARY:Broomfield Turkey Day 5K/10K
@@ -1905,8 +1905,18 @@ LOCATION:13200 Sheridan Blvd\, Broomfield\, CO 80020
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:mile-high-united-way-turkey-trot-2026@milehighrunners.com
+DTSTAMP:20260322T000000Z
+DTSTART:20261126T090000Z
+DTEND:20261126T130000Z
+SUMMARY:Mile High United Way Turkey Trot
+DESCRIPTION:A 50+ year Thanksgiving tradition in Denver's Washington Park. This family-friendly 4-mile road race draws thousands of participants to support the Mile High United Way.
+LOCATION:Washington Park\, S Franklin St & E Mississippi Ave\, Denver\, CO 80209
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:sawmill-trail-runs-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20261205T070000Z
 DTEND:20261205T110000Z
 SUMMARY:Sawmill Trail Runs
@@ -1916,12 +1926,12 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ugly-sweater-5k-2026@milehighrunners.com
-DTSTAMP:20260315T000000Z
+DTSTAMP:20260322T000000Z
 DTSTART:20261220T090000Z
 DTEND:20261220T130000Z
 SUMMARY:Ugly Sweater 5K
-DESCRIPTION:A festive 5K run/walk held at Denver's Washington Park featuring a party-like atmosphere\, finisher medals\, and ugly sweater themed fun. The event is an official BOLDERBoulder Qualifier and includes professional chip timing\, photo downloads\, and an awards ceremony.
-LOCATION:1000 S Franklin St\, Denver\, CO 80209
+DESCRIPTION:The ultimate holiday-themed fun run where participants are encouraged to wear their most festive (and ugly) winter sweaters for a 5K loop through Washington Park.
+LOCATION:Washington Park\, Denver\, CO 80209
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR
