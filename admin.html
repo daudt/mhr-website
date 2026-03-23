@@ -180,6 +180,22 @@
             cursor: not-allowed;
         }
 
+        .btn .spinner {
+            display: inline-block;
+            width: 14px;
+            height: 14px;
+            border: 2px solid rgba(255,255,255,0.3);
+            border-top-color: #fff;
+            border-radius: 50%;
+            animation: btnSpin 0.6s linear infinite;
+            vertical-align: middle;
+            margin-right: 6px;
+        }
+
+        @keyframes btnSpin {
+            to { transform: rotate(360deg); }
+        }
+
         /* ── Auth Gate ─────────────────────────────────────── */
         .auth-gate {
             display: flex;
@@ -1548,8 +1564,12 @@
         }
 
         _sendingEmail = true;
-        if (sendBtn) sendBtn.disabled = true;
-        status.textContent = 'Saving workouts...';
+        const originalBtnHtml = sendBtn ? sendBtn.innerHTML : '';
+        if (sendBtn) {
+            sendBtn.disabled = true;
+            sendBtn.innerHTML = '<span class="spinner"></span> Saving workouts…';
+        }
+        status.textContent = '';
         status.className = 'send-status';
 
         // Save workouts to GitHub first — since the email has the admin marker,
@@ -1566,10 +1586,12 @@
             status.textContent = `Failed to save workouts: ${e.message}`;
             status.className = 'send-status error';
             showToast(`Error saving workouts: ${e.message}`, 'error');
+            _sendingEmail = false;
+            if (sendBtn) { sendBtn.disabled = false; sendBtn.innerHTML = originalBtnHtml; }
             return;
         }
 
-        status.textContent = 'Sending email...';
+        if (sendBtn) sendBtn.innerHTML = '<span class="spinner"></span> Sending email…';
 
         try {
             const res = await apiFetch('/send-email', {
@@ -1596,7 +1618,7 @@
             showToast(`Error: ${e.message}`, 'error');
         } finally {
             _sendingEmail = false;
-            if (sendBtn) sendBtn.disabled = false;
+            if (sendBtn) { sendBtn.disabled = false; sendBtn.innerHTML = originalBtnHtml; }
         }
     }
 
