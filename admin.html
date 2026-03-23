@@ -1534,16 +1534,21 @@
         return { bodyHtml, bodyText };
     }
 
+    let _sendingEmail = false;
     async function sendEmail() {
+        if (_sendingEmail) return;
         const subject = document.getElementById('email-subject').value.trim();
         const { bodyHtml, bodyText } = getEmailContent();
         const status = document.getElementById('send-status');
+        const sendBtn = document.querySelector('[onclick="sendEmail()"]');
 
         if (!subject || !bodyText) {
             showToast('Subject and body are required', 'error');
             return;
         }
 
+        _sendingEmail = true;
+        if (sendBtn) sendBtn.disabled = true;
         status.textContent = 'Saving workouts...';
         status.className = 'send-status';
 
@@ -1589,6 +1594,9 @@
             status.textContent = `Failed: ${e.message}`;
             status.className = 'send-status error';
             showToast(`Error: ${e.message}`, 'error');
+        } finally {
+            _sendingEmail = false;
+            if (sendBtn) sendBtn.disabled = false;
         }
     }
 
