@@ -1,20 +1,22 @@
 document.addEventListener('DOMContentLoaded', () => {
     // Mobile menu functionality
-    const mobileMenuBtn = document.querySelector('.mobile-menu-btn');
-    const navMenu = document.querySelector('.nav-menu');
+    const mobileMenuBtn = document.getElementById('navBurger');
+    const navMenu = document.getElementById('navLinks');
 
-    mobileMenuBtn.addEventListener('click', () => {
-        navMenu.classList.toggle('active');
-        mobileMenuBtn.classList.toggle('active');
-    });
+    if (mobileMenuBtn && navMenu) {
+        mobileMenuBtn.addEventListener('click', () => {
+            navMenu.classList.toggle('active');
+            mobileMenuBtn.classList.toggle('active');
+        });
 
-    // Close mobile menu when clicking outside
-    document.addEventListener('click', (e) => {
-        if (!e.target.closest('.nav-container')) {
-            navMenu.classList.remove('active');
-            mobileMenuBtn.classList.remove('active');
-        }
-    });
+        // Close mobile menu when clicking outside
+        document.addEventListener('click', (e) => {
+            if (!e.target.closest('.nav')) {
+                navMenu.classList.remove('active');
+                mobileMenuBtn.classList.remove('active');
+            }
+        });
+    }
 
     // Smooth scroll for anchor links
     document.querySelectorAll('a[href^="#"]').forEach(anchor => {
@@ -31,28 +33,17 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     // Add scroll event listener for header
-    const header = document.querySelector('.main-header');
-    let lastScroll = 0;
+    const nav = document.getElementById('mainNav');
 
-    window.addEventListener('scroll', () => {
-        const currentScroll = window.pageYOffset;
-
-        if (currentScroll <= 0) {
-            header.classList.remove('scroll-up');
-            return;
-        }
-
-        if (currentScroll > lastScroll && !header.classList.contains('scroll-down')) {
-            // Scroll Down
-            header.classList.remove('scroll-up');
-            header.classList.add('scroll-down');
-        } else if (currentScroll < lastScroll && header.classList.contains('scroll-down')) {
-            // Scroll Up
-            header.classList.remove('scroll-down');
-            header.classList.add('scroll-up');
-        }
-        lastScroll = currentScroll;
-    });
+    if (nav) {
+        window.addEventListener('scroll', () => {
+            if (window.scrollY > 80) {
+                nav.classList.add('scrolled');
+            } else {
+                nav.classList.remove('scrolled');
+            }
+        });
+    }
 
     // Gallery Grid + Lightbox functionality
     const galleryGrid = document.getElementById('gallery-grid');

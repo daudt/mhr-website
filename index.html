@@ -5,306 +5,1538 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Mile High Runners | Erie, Colorado Running Group</title>
-    <meta name="description"
-        content="Mile High Runners - Erie, Colorado's premier running group for training and friendship. Join us for group training, speed sessions, and race support. Free first week!">
-    <meta name="keywords"
-        content="running, Colorado, Erie, training, running group, Mile High Runners, running club, marathon training, 5K training, Colorado running">
-    <meta name="author" content="Mile High Runners">
-    <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://milehighrunners.com/">
 
-    <!-- Open Graph / Facebook -->
-    <meta property="og:type" content="website">
-    <meta property="og:url" content="https://milehighrunners.com/">
-    <meta property="og:title" content="Mile High Runners | Erie, Colorado Running Group">
-    <meta property="og:description"
-        content="Erie, Colorado's premier running group for training and friendship. Join us for group training, speed sessions, and race support. Free first week!">
-    <meta property="og:image" content="https://milehighrunners.com/images/MHR_Logo_Small.png">
-    <meta property="og:site_name" content="Mile High Runners">
-    <meta property="og:locale" content="en_US">
-
-    <!-- Twitter Card -->
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:url" content="https://milehighrunners.com/">
-    <meta name="twitter:title" content="Mile High Runners | Erie, Colorado Running Group">
-    <meta name="twitter:description"
-        content="Erie, Colorado's premier running group for training and friendship. Join us for group training, speed sessions, and race support. Free first week!">
-    <meta name="twitter:image" content="https://milehighrunners.com/images/MHR_Logo_Small.png">
-
-    <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-EEFJH6J34P"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag() { dataLayer.push(arguments); }
-        gtag('js', new Date());
-
-        gtag('config', 'G-EEFJH6J34P');
-    </script>
-
-    <!-- Preconnect for performance -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link rel="preconnect" href="https://cdnjs.cloudflare.com">
-    <link rel="preconnect" href="https://cdn.jsdelivr.net">
-
-    <link rel="stylesheet" href="styles.css">
-    <!-- Font Awesome for icons -->
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400&family=Caveat:wght@600&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
-    <!-- Google Fonts -->
-    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&family=Montserrat:wght@700&display=swap"
-        rel="stylesheet">
-    <!-- EmailJS -->
     <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js"></script>
 
-    <!-- JSON-LD Structured Data -->
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "LocalBusiness",
-      "name": "Mile High Runners",
-      "description": "Erie, Colorado's premier running group for training and friendship",
-      "url": "https://milehighrunners.com",
-      "telephone": "303-396-5650",
-      "address": {
-        "@type": "PostalAddress",
-        "addressLocality": "Erie",
-        "addressRegion": "CO",
-        "addressCountry": "US"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "40.0500",
-        "longitude": "-105.0497"
-      },
-      "founder": {
-        "@type": "Person",
-        "name": "Doug Croft",
-        "jobTitle": "Head Coach"
-      },
-      "sameAs": [
-        "https://www.facebook.com/milehighrunners",
-        "https://www.instagram.com/milehighrunners"
-      ],
-      "priceRange": "$50-$125",
-      "openingHoursSpecification": {
-        "@type": "OpeningHoursSpecification",
-        "dayOfWeek": [
-          "Tuesday",
-          "Thursday",
-          "Saturday"
-        ],
-        "opens": "06:00",
-        "closes": "09:00"
-      }
-    }
-    </script>
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Organization",
-      "name": "Mile High Runners",
-      "url": "https://milehighrunners.com",
-      "logo": "https://milehighrunners.com/images/MHR_Logo_Small.png",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+1-303-396-5650",
-        "contactType": "Customer Service",
-        "areaServed": "US",
-        "availableLanguage": "English"
-      },
-      "sameAs": [
-        "https://www.facebook.com/milehighrunners",
-        "https://www.instagram.com/milehighrunners"
-      ]
-    }
-    </script>
+    <style>
+        /* ========== RESET & VARIABLES ========== */
+        *, *::before, *::after {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        :root {
+            --coal: #111118;
+            --charcoal: #1a1a2e;
+            --ember: #e85d26;
+            --ember-glow: #ff7a45;
+            --cream: #f5f0eb;
+            --trail: #3d2c1e;
+            --sky: #6ec1e4;
+            --summit: #c9b99a;
+            --text: #2c2c2c;
+            --text-light: #8a8a8a;
+            --white: #ffffff;
+        }
+
+        html {
+            scroll-behavior: smooth;
+        }
+
+        body {
+            font-family: 'DM Sans', sans-serif;
+            color: var(--text);
+            background: var(--cream);
+            overflow-x: hidden;
+            line-height: 1.6;
+        }
+
+        h1, h2, h3, h4, h5, h6 {
+            font-family: 'Bebas Neue', sans-serif;
+            font-weight: 400;
+            letter-spacing: 0.04em;
+            line-height: 1.1;
+        }
+
+        a { text-decoration: none; color: inherit; }
+        img { max-width: 100%; display: block; }
+        ul { list-style: none; }
+
+        /* ========== TRAIL LINE (SVG running route that weaves through the page) ========== */
+        .trail-line {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            pointer-events: none;
+            z-index: 1;
+            opacity: 0.06;
+        }
+
+        .trail-line path {
+            fill: none;
+            stroke: var(--ember);
+            stroke-width: 3;
+            stroke-dasharray: 12 8;
+            animation: trailRun 20s linear infinite;
+        }
+
+        @keyframes trailRun {
+            to { stroke-dashoffset: -1000; }
+        }
+
+        /* ========== NAVIGATION ========== */
+        .nav {
+            position: fixed;
+            top: 0;
+            width: 100%;
+            z-index: 100;
+            padding: 1rem 2rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            transition: all 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+        }
+
+        .nav.scrolled {
+            background: rgba(17, 17, 24, 0.95);
+            backdrop-filter: blur(12px);
+            padding: 0.6rem 2rem;
+            box-shadow: 0 4px 30px rgba(0,0,0,0.3);
+        }
+
+        .nav__logo img {
+            height: 70px;
+            transition: height 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+            filter: brightness(0) invert(1);
+        }
+
+        .nav.scrolled .nav__logo img {
+            height: 50px;
+        }
+
+        .nav__links {
+            display: flex;
+            gap: 0.2rem;
+            align-items: center;
+        }
+
+        .nav__links a {
+            color: var(--white);
+            font-family: 'Bebas Neue', sans-serif;
+            font-size: 1.1rem;
+            letter-spacing: 0.12em;
+            padding: 0.5rem 0.9rem;
+            position: relative;
+            transition: color 0.3s;
+        }
+
+        .nav__links a::after {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: 50%;
+            width: 0;
+            height: 2px;
+            background: var(--ember);
+            transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+            transform: translateX(-50%);
+        }
+
+        .nav__links a:hover::after {
+            width: 80%;
+        }
+
+        .nav__links a:hover {
+            color: var(--ember-glow);
+        }
+
+        .nav__cta {
+            background: var(--ember) !important;
+            color: var(--white) !important;
+            padding: 0.5rem 1.4rem !important;
+            clip-path: polygon(8% 0%, 100% 0%, 92% 100%, 0% 100%);
+            transition: background 0.3s !important;
+        }
+
+        .nav__cta:hover {
+            background: var(--ember-glow) !important;
+        }
+
+        .nav__cta::after { display: none !important; }
+
+        /* Mobile menu */
+        .nav__burger {
+            display: none;
+            flex-direction: column;
+            gap: 5px;
+            cursor: pointer;
+            z-index: 101;
+            background: none;
+            border: none;
+            padding: 0.5rem;
+        }
+
+        .nav__burger span {
+            width: 28px;
+            height: 2px;
+            background: var(--white);
+            transition: all 0.3s;
+            display: block;
+        }
+
+        .nav__burger.active span:nth-child(1) {
+            transform: rotate(45deg) translate(5px, 5px);
+        }
+
+        .nav__burger.active span:nth-child(2) {
+            opacity: 0;
+        }
+
+        .nav__burger.active span:nth-child(3) {
+            transform: rotate(-45deg) translate(5px, -5px);
+        }
+
+        /* ========== HERO ========== */
+        .hero {
+            height: 100vh;
+            min-height: 700px;
+            position: relative;
+            display: flex;
+            align-items: flex-end;
+            justify-content: flex-start;
+            overflow: hidden;
+        }
+
+        .hero__bg {
+            position: absolute;
+            inset: 0;
+            background: url('images/hero-bg.jpg') center/cover no-repeat;
+            transform: scale(1.05);
+            animation: heroZoom 20s ease-in-out infinite alternate;
+        }
+
+        @keyframes heroZoom {
+            from { transform: scale(1.05); }
+            to { transform: scale(1.15); }
+        }
+
+        .hero__overlay {
+            position: absolute;
+            inset: 0;
+            background:
+                linear-gradient(135deg, rgba(17,17,24,0.85) 0%, rgba(17,17,24,0.4) 50%, rgba(232,93,38,0.15) 100%),
+                linear-gradient(to top, rgba(17,17,24,0.9) 0%, transparent 50%);
+        }
+
+        .hero__content {
+            position: relative;
+            z-index: 2;
+            padding: 0 5vw 8vh;
+            max-width: 900px;
+        }
+
+        .hero__tag {
+            font-family: 'Caveat', cursive;
+            font-size: 1.4rem;
+            color: var(--ember-glow);
+            margin-bottom: 0.5rem;
+            display: inline-block;
+            opacity: 0;
+            animation: fadeSlideUp 0.8s 0.3s forwards;
+        }
+
+        .hero__title {
+            font-size: clamp(3.5rem, 10vw, 8rem);
+            color: var(--white);
+            line-height: 0.95;
+            margin-bottom: 1rem;
+            opacity: 0;
+            animation: fadeSlideUp 0.8s 0.5s forwards;
+        }
+
+        .hero__title span {
+            color: var(--ember);
+            display: block;
+        }
+
+        .hero__sub {
+            font-size: 1.15rem;
+            color: rgba(255,255,255,0.75);
+            max-width: 500px;
+            margin-bottom: 2.5rem;
+            opacity: 0;
+            animation: fadeSlideUp 0.8s 0.7s forwards;
+        }
+
+        .hero__actions {
+            display: flex;
+            gap: 1rem;
+            flex-wrap: wrap;
+            opacity: 0;
+            animation: fadeSlideUp 0.8s 0.9s forwards;
+        }
+
+        @keyframes fadeSlideUp {
+            from { opacity: 0; transform: translateY(30px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            font-family: 'Bebas Neue', sans-serif;
+            font-size: 1.2rem;
+            letter-spacing: 0.15em;
+            padding: 0.9rem 2.2rem;
+            cursor: pointer;
+            border: none;
+            transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+            position: relative;
+            overflow: hidden;
+        }
+
+        .btn--primary {
+            background: var(--ember);
+            color: var(--white);
+            clip-path: polygon(6% 0%, 100% 0%, 94% 100%, 0% 100%);
+        }
+
+        .btn--primary:hover {
+            background: var(--ember-glow);
+            transform: translateX(4px);
+        }
+
+        .btn--outline {
+            background: transparent;
+            color: var(--white);
+            border: 2px solid rgba(255,255,255,0.4);
+            clip-path: polygon(6% 0%, 100% 0%, 94% 100%, 0% 100%);
+        }
+
+        .btn--outline:hover {
+            border-color: var(--ember);
+            color: var(--ember-glow);
+            transform: translateX(4px);
+        }
+
+        /* Pace strip at bottom of hero */
+        .hero__pace {
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            z-index: 3;
+            background: var(--ember);
+            display: flex;
+            overflow: hidden;
+            padding: 0.7rem 0;
+        }
+
+        .hero__pace-track {
+            display: flex;
+            animation: scrollPace 25s linear infinite;
+            white-space: nowrap;
+        }
+
+        .hero__pace-item {
+            font-family: 'Bebas Neue', sans-serif;
+            font-size: 0.95rem;
+            letter-spacing: 0.2em;
+            color: var(--white);
+            padding: 0 2rem;
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+            flex-shrink: 0;
+        }
+
+        .hero__pace-item .dot {
+            width: 6px;
+            height: 6px;
+            background: var(--white);
+            border-radius: 50%;
+            opacity: 0.6;
+        }
+
+        @keyframes scrollPace {
+            to { transform: translateX(-50%); }
+        }
+
+        /* ========== ANGLED SECTION DIVIDERS ========== */
+        .angle-top {
+            clip-path: polygon(0 4vw, 100% 0, 100% 100%, 0 100%);
+            margin-top: -4vw;
+            padding-top: calc(4vw + 4rem) !important;
+        }
+
+        .angle-bottom {
+            clip-path: polygon(0 0, 100% 0, 100% calc(100% - 4vw), 0 100%);
+            padding-bottom: calc(4vw + 4rem) !important;
+        }
+
+        /* ========== WELCOME / ABOUT ========== */
+        .about {
+            background: var(--cream);
+            padding: 6rem 5vw;
+            position: relative;
+            z-index: 2;
+        }
+
+        .about__inner {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 4rem;
+            align-items: center;
+        }
+
+        .about__label {
+            font-family: 'Bebas Neue', sans-serif;
+            font-size: 0.9rem;
+            letter-spacing: 0.3em;
+            color: var(--ember);
+            text-transform: uppercase;
+            margin-bottom: 0.5rem;
+        }
+
+        .about__heading {
+            font-size: clamp(2.5rem, 5vw, 4rem);
+            color: var(--charcoal);
+            margin-bottom: 1.5rem;
+        }
+
+        .about__text {
+            font-size: 1.05rem;
+            color: var(--text);
+            line-height: 1.8;
+            margin-bottom: 1rem;
+        }
+
+        .about__text em {
+            color: var(--ember);
+            font-style: normal;
+            font-weight: 600;
+        }
+
+        .about__visual {
+            position: relative;
+        }
+
+        .about__visual-img {
+            width: 100%;
+            height: 500px;
+            object-fit: cover;
+            clip-path: polygon(8% 0%, 100% 0%, 92% 100%, 0% 100%);
+        }
+
+        .about__visual-badge {
+            position: absolute;
+            bottom: -1.5rem;
+            right: 2rem;
+            background: var(--ember);
+            color: var(--white);
+            padding: 1.2rem 2rem;
+            font-family: 'Bebas Neue', sans-serif;
+            font-size: 1.4rem;
+            letter-spacing: 0.1em;
+            clip-path: polygon(6% 0%, 100% 0%, 94% 100%, 0% 100%);
+            box-shadow: 0 8px 30px rgba(232, 93, 38, 0.4);
+        }
+
+        /* ========== FEATURES ========== */
+        .features {
+            background: var(--charcoal);
+            padding: 6rem 5vw;
+            position: relative;
+            z-index: 2;
+        }
+
+        .features__inner {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .features__heading {
+            text-align: center;
+            font-size: clamp(2.5rem, 5vw, 3.5rem);
+            color: var(--white);
+            margin-bottom: 4rem;
+        }
+
+        .features__grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 2rem;
+        }
+
+        .feature {
+            background: rgba(255,255,255,0.04);
+            border: 1px solid rgba(255,255,255,0.08);
+            padding: 2.5rem;
+            position: relative;
+            overflow: hidden;
+            transition: all 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+        }
+
+        .feature:hover {
+            transform: translateY(-6px);
+            background: rgba(255,255,255,0.08);
+            border-color: var(--ember);
+        }
+
+        .feature__number {
+            font-family: 'Bebas Neue', sans-serif;
+            font-size: 5rem;
+            color: rgba(232, 93, 38, 0.1);
+            position: absolute;
+            top: -0.5rem;
+            right: 1rem;
+            line-height: 1;
+        }
+
+        .feature__icon {
+            width: 50px;
+            height: 50px;
+            background: var(--ember);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-bottom: 1.5rem;
+            clip-path: polygon(15% 0%, 100% 0%, 85% 100%, 0% 100%);
+        }
+
+        .feature__icon i {
+            color: var(--white);
+            font-size: 1.2rem;
+        }
+
+        .feature__title {
+            font-size: 1.8rem;
+            color: var(--white);
+            margin-bottom: 0.8rem;
+        }
+
+        .feature__desc {
+            color: rgba(255,255,255,0.6);
+            font-size: 0.95rem;
+            line-height: 1.7;
+        }
+
+        /* ========== GALLERY ========== */
+        .gallery {
+            background: var(--cream);
+            padding: 6rem 5vw;
+            position: relative;
+            z-index: 2;
+        }
+
+        .gallery__header {
+            text-align: center;
+            margin-bottom: 3rem;
+        }
+
+        .gallery__label {
+            font-family: 'Bebas Neue', sans-serif;
+            font-size: 0.9rem;
+            letter-spacing: 0.3em;
+            color: var(--ember);
+            margin-bottom: 0.5rem;
+        }
+
+        .gallery__heading {
+            font-size: clamp(2.5rem, 5vw, 4rem);
+            color: var(--charcoal);
+        }
+
+        .gallery__grid {
+            max-width: 1400px;
+            margin: 0 auto;
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 0.6rem;
+        }
+
+        .gallery-item {
+            position: relative;
+            overflow: hidden;
+            cursor: pointer;
+            aspect-ratio: 1;
+            background: var(--charcoal);
+        }
+
+        .gallery-item:nth-child(1) {
+            grid-column: span 2;
+            grid-row: span 2;
+        }
+
+        .gallery-item img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            transition: transform 0.6s cubic-bezier(0.16, 1, 0.3, 1), filter 0.4s;
+        }
+
+        .gallery-item:hover img {
+            transform: scale(1.08);
+            filter: brightness(0.7);
+        }
+
+        .gallery-item::after {
+            content: '';
+            position: absolute;
+            inset: 0;
+            background: linear-gradient(to top, rgba(17,17,24,0.6) 0%, transparent 50%);
+            opacity: 0;
+            transition: opacity 0.4s;
+        }
+
+        .gallery-item:hover::after {
+            opacity: 1;
+        }
+
+        .gallery__more {
+            text-align: center;
+            margin-top: 2.5rem;
+        }
+
+        .btn--dark {
+            background: var(--charcoal);
+            color: var(--white);
+            clip-path: polygon(6% 0%, 100% 0%, 94% 100%, 0% 100%);
+        }
+
+        .btn--dark:hover {
+            background: var(--coal);
+            transform: translateX(4px);
+        }
+
+        /* ========== UPCOMING EVENTS ========== */
+        .events {
+            background: var(--white);
+            padding: 6rem 5vw;
+            position: relative;
+            z-index: 2;
+        }
+
+        .events__inner {
+            max-width: 1000px;
+            margin: 0 auto;
+        }
+
+        .events__header {
+            text-align: center;
+            margin-bottom: 3rem;
+        }
+
+        .events__label {
+            font-family: 'Bebas Neue', sans-serif;
+            font-size: 0.9rem;
+            letter-spacing: 0.3em;
+            color: var(--ember);
+            margin-bottom: 0.5rem;
+        }
+
+        .events__heading {
+            font-size: clamp(2.5rem, 5vw, 4rem);
+            color: var(--charcoal);
+        }
+
+        .events-container { position: relative; }
+
+        .workout-item {
+            padding: 2rem;
+            margin-bottom: 1.5rem;
+            border-left: 4px solid var(--ember);
+            background: var(--cream);
+            position: relative;
+            transition: transform 0.3s;
+        }
+
+        .workout-item:hover {
+            transform: translateX(6px);
+        }
+
+        .workout-item::before {
+            content: '';
+            position: absolute;
+            left: -10px;
+            top: 2rem;
+            width: 16px;
+            height: 16px;
+            background: var(--ember);
+            border-radius: 50%;
+            border: 3px solid var(--white);
+        }
+
+        .workout-item h3 {
+            font-family: 'Bebas Neue', sans-serif;
+            font-size: 1.5rem;
+            color: var(--charcoal);
+            margin-bottom: 0.5rem;
+            letter-spacing: 0.05em;
+        }
+
+        .workout-item p {
+            color: var(--text);
+            line-height: 1.7;
+            margin-bottom: 0.3rem;
+        }
+
+        .workout-item a {
+            color: var(--ember);
+            font-weight: 600;
+            transition: color 0.3s;
+        }
+
+        .workout-item a:hover {
+            color: var(--ember-glow);
+        }
+
+        .calendar-links {
+            font-size: 0.85rem;
+            color: var(--text-light);
+            margin-top: 0.5rem;
+        }
+
+        .calendar-links i {
+            color: var(--ember);
+        }
+
+        .location-address {
+            font-size: 0.9rem;
+            color: var(--text-light);
+        }
+
+        .no-events {
+            text-align: center;
+            padding: 3rem;
+            color: var(--text-light);
+            font-style: italic;
+        }
+
+        .workouts-list + p {
+            text-align: center;
+            margin-top: 2rem;
+        }
+
+        /* ========== NEWSLETTER ========== */
+        .newsletter {
+            background: var(--charcoal);
+            padding: 6rem 5vw;
+            position: relative;
+            z-index: 2;
+            overflow: hidden;
+        }
+
+        .newsletter::before {
+            content: '';
+            position: absolute;
+            top: -50%;
+            right: -10%;
+            width: 500px;
+            height: 500px;
+            border-radius: 50%;
+            border: 80px solid rgba(232, 93, 38, 0.06);
+            pointer-events: none;
+        }
+
+        .newsletter__inner {
+            max-width: 700px;
+            margin: 0 auto;
+            text-align: center;
+            position: relative;
+        }
+
+        .newsletter__heading {
+            font-size: clamp(2.5rem, 5vw, 3.5rem);
+            color: var(--white);
+            margin-bottom: 0.8rem;
+        }
+
+        .newsletter__sub {
+            color: rgba(255,255,255,0.6);
+            margin-bottom: 2.5rem;
+            font-size: 1.05rem;
+        }
+
+        .newsletter__form {
+            display: flex;
+            gap: 0;
+            max-width: 500px;
+            margin: 0 auto;
+        }
+
+        .newsletter__form input {
+            flex: 1;
+            padding: 1rem 1.4rem;
+            border: 2px solid rgba(255,255,255,0.15);
+            background: rgba(255,255,255,0.05);
+            color: var(--white);
+            font-family: 'DM Sans', sans-serif;
+            font-size: 1rem;
+            outline: none;
+            transition: border-color 0.3s;
+        }
+
+        .newsletter__form input:focus {
+            border-color: var(--ember);
+        }
+
+        .newsletter__form input::placeholder {
+            color: rgba(255,255,255,0.35);
+        }
+
+        .newsletter__form button {
+            padding: 1rem 2rem;
+            background: var(--ember);
+            color: var(--white);
+            border: none;
+            font-family: 'Bebas Neue', sans-serif;
+            font-size: 1.1rem;
+            letter-spacing: 0.15em;
+            cursor: pointer;
+            transition: background 0.3s;
+            clip-path: polygon(8% 0%, 100% 0%, 100% 100%, 0% 100%);
+        }
+
+        .newsletter__form button:hover {
+            background: var(--ember-glow);
+        }
+
+        /* ========== FOOTER ========== */
+        .footer {
+            background: var(--coal);
+            padding: 4rem 5vw 2rem;
+            position: relative;
+            z-index: 2;
+        }
+
+        .footer__inner {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: grid;
+            grid-template-columns: 2fr 1fr 1fr 1.5fr;
+            gap: 3rem;
+        }
+
+        .footer__brand p {
+            color: rgba(255,255,255,0.5);
+            font-size: 0.9rem;
+            line-height: 1.7;
+            margin-top: 1rem;
+            max-width: 280px;
+        }
+
+        .footer__logo {
+            height: 60px;
+            filter: brightness(0) invert(1);
+            opacity: 0.8;
+        }
+
+        .footer h4 {
+            font-size: 1.2rem;
+            color: var(--white);
+            margin-bottom: 1.2rem;
+            letter-spacing: 0.1em;
+        }
+
+        .footer ul li {
+            margin-bottom: 0.6rem;
+        }
+
+        .footer ul a {
+            color: rgba(255,255,255,0.5);
+            font-size: 0.9rem;
+            transition: color 0.3s;
+        }
+
+        .footer ul a:hover {
+            color: var(--ember);
+        }
+
+        .footer__social {
+            display: flex;
+            gap: 1rem;
+            margin-top: 0.5rem;
+        }
+
+        .footer__social a {
+            width: 40px;
+            height: 40px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border: 1px solid rgba(255,255,255,0.15);
+            color: rgba(255,255,255,0.6);
+            transition: all 0.3s;
+            font-size: 1.1rem;
+        }
+
+        .footer__social a:hover {
+            background: var(--ember);
+            border-color: var(--ember);
+            color: var(--white);
+        }
+
+        .footer__contact p {
+            color: rgba(255,255,255,0.5);
+            font-size: 0.9rem;
+            margin-bottom: 0.4rem;
+        }
+
+        .footer__contact a {
+            color: rgba(255,255,255,0.5);
+            transition: color 0.3s;
+        }
+
+        .footer__contact a:hover {
+            color: var(--ember);
+        }
+
+        .footer__bottom {
+            max-width: 1200px;
+            margin: 3rem auto 0;
+            padding-top: 2rem;
+            border-top: 1px solid rgba(255,255,255,0.08);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .footer__bottom p {
+            color: rgba(255,255,255,0.3);
+            font-size: 0.8rem;
+        }
+
+        /* ========== LIGHTBOX ========== */
+        .lightbox {
+            position: fixed;
+            inset: 0;
+            background: rgba(0,0,0,0.95);
+            z-index: 200;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            opacity: 0;
+            pointer-events: none;
+            transition: opacity 0.3s;
+        }
+
+        .lightbox.active {
+            opacity: 1;
+            pointer-events: all;
+        }
+
+        .lightbox-content {
+            max-width: 90vw;
+            max-height: 85vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .lightbox-content img {
+            max-width: 100%;
+            max-height: 85vh;
+            object-fit: contain;
+        }
+
+        .lightbox-close,
+        .lightbox-prev,
+        .lightbox-next {
+            position: absolute;
+            background: none;
+            border: none;
+            color: var(--white);
+            font-size: 2rem;
+            cursor: pointer;
+            padding: 1rem;
+            transition: color 0.3s;
+            z-index: 201;
+        }
+
+        .lightbox-close:hover,
+        .lightbox-prev:hover,
+        .lightbox-next:hover {
+            color: var(--ember);
+        }
+
+        .lightbox-close { top: 1rem; right: 1.5rem; font-size: 2.5rem; }
+        .lightbox-prev { left: 1.5rem; top: 50%; transform: translateY(-50%); }
+        .lightbox-next { right: 1.5rem; top: 50%; transform: translateY(-50%); }
+
+        .lightbox-counter {
+            position: absolute;
+            bottom: 1.5rem;
+            left: 50%;
+            transform: translateX(-50%);
+            color: rgba(255,255,255,0.5);
+            font-family: 'Bebas Neue', sans-serif;
+            font-size: 1.1rem;
+            letter-spacing: 0.2em;
+        }
+
+        /* ========== SCROLL REVEAL ========== */
+        .reveal {
+            opacity: 0;
+            transform: translateY(40px);
+            transition: all 0.8s cubic-bezier(0.16, 1, 0.3, 1);
+        }
+
+        .reveal.visible {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        .reveal-delay-1 { transition-delay: 0.1s; }
+        .reveal-delay-2 { transition-delay: 0.2s; }
+        .reveal-delay-3 { transition-delay: 0.3s; }
+
+        /* ========== STRIDE PATTERN BG ========== */
+        .stride-pattern {
+            position: absolute;
+            bottom: 0;
+            right: 0;
+            width: 300px;
+            height: 300px;
+            opacity: 0.03;
+            background-image:
+                radial-gradient(ellipse 8px 12px at center, var(--charcoal) 50%, transparent 50%);
+            background-size: 40px 60px;
+            transform: rotate(-15deg);
+            pointer-events: none;
+        }
+
+        /* ========== RESPONSIVE ========== */
+        @media (max-width: 1024px) {
+            .about__inner {
+                grid-template-columns: 1fr;
+                gap: 2.5rem;
+            }
+
+            .about__visual-img {
+                height: 350px;
+            }
+
+            .features__grid {
+                grid-template-columns: 1fr;
+                gap: 1.5rem;
+            }
+
+            .gallery__grid {
+                grid-template-columns: repeat(2, 1fr);
+            }
+
+            .footer__inner {
+                grid-template-columns: 1fr 1fr;
+                gap: 2rem;
+            }
+        }
+
+        @media (max-width: 768px) {
+            .nav__links {
+                position: fixed;
+                top: 0;
+                right: -100%;
+                width: 80%;
+                max-width: 350px;
+                height: 100vh;
+                background: var(--coal);
+                flex-direction: column;
+                padding: 6rem 2rem 2rem;
+                gap: 0.5rem;
+                transition: right 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+                box-shadow: -10px 0 40px rgba(0,0,0,0.5);
+            }
+
+            .nav__links.active {
+                right: 0;
+            }
+
+            .nav__links a {
+                font-size: 1.4rem;
+                padding: 0.8rem 0;
+            }
+
+            .nav__burger {
+                display: flex;
+            }
+
+            .hero__content {
+                padding: 0 6vw 12vh;
+            }
+
+            .hero__pace-item {
+                font-size: 0.8rem;
+                padding: 0 1rem;
+            }
+
+            .gallery__grid {
+                grid-template-columns: repeat(2, 1fr);
+            }
+
+            .gallery__item:nth-child(1) {
+                grid-column: span 2;
+                grid-row: span 1;
+            }
+
+            .newsletter__form {
+                flex-direction: column;
+                gap: 0.8rem;
+            }
+
+            .newsletter__form button {
+                clip-path: none;
+                text-align: center;
+                justify-content: center;
+            }
+
+            .footer__inner {
+                grid-template-columns: 1fr;
+            }
+
+            .footer__bottom {
+                flex-direction: column;
+                gap: 0.5rem;
+                text-align: center;
+            }
+        }
+
+        /* ========== LOAD MORE BTN ========== */
+        .load-more-btn {
+            display: block;
+            margin: 2rem auto 0;
+            font-family: 'Bebas Neue', sans-serif;
+            font-size: 1.1rem;
+            letter-spacing: 0.15em;
+            padding: 0.8rem 2rem;
+            background: var(--charcoal);
+            color: var(--white);
+            border: none;
+            cursor: pointer;
+            clip-path: polygon(6% 0%, 100% 0%, 94% 100%, 0% 100%);
+            transition: all 0.3s;
+        }
+
+        .load-more-btn:hover {
+            background: var(--ember);
+            transform: translateX(4px);
+        }
+    </style>
 </head>
 
 <body>
-    <header class="main-header">
-        <nav class="nav-container">
-            <div class="logo">
-                <a href="/"><img src="images/MHR_Logo_Small.png" alt="Mile High Runners Logo"></a>
-            </div>
-            <button class="mobile-menu-btn" aria-label="Toggle menu">
-                <span></span>
-                <span></span>
-                <span></span>
-            </button>
-            <ul class="nav-menu">
-                <li><a href="/">Home</a></li>
-                <li><a href="calendar.html">Calendar</a></li>
-                <li><a href="races.html">Races</a></li>
-                <li><a href="meet-coach.html">Meet the Coach</a></li>
-                <li><a href="membership.html">Membership</a></li>
-                <li><a href="race-results.html">Race Results</a></li>
-                <li><a href="sponsors.html">Sponsors</a></li>
-                <li><a href="contact.html" class="cta-button">Contact Us</a></li>
-            </ul>
-        </nav>
-    </header>
 
-    <main>
-        <section class="hero">
-            <div class="hero-content">
-                <h1>Welcome to Mile High Runners</h1>
-                <p>Erie, Colorado's premier running group for training and friendship</p>
-                <div class="hero-buttons">
-                    <a href="membership.html" class="primary-button">Join Us</a>
-                    <a href="calendar.html" class="secondary-button">View Schedule</a>
-                </div>
-            </div>
-        </section>
+    <!-- Animated trail line SVG -->
+    <svg class="trail-line" viewBox="0 0 1440 5000" preserveAspectRatio="none">
+        <path d="M-50,100 C200,150 300,300 600,250 S900,400 1100,350 S1400,500 1500,450
+                 C1200,600 900,550 700,700 S300,850 100,800 S-100,1000 200,1100
+                 C500,1200 800,1100 1000,1300 S1300,1500 1100,1600
+                 C800,1700 500,1600 300,1800 S0,2000 200,2100
+                 C500,2200 900,2100 1200,2300 S1500,2500 1200,2600
+                 C900,2700 600,2600 300,2800 S-50,3000 200,3100
+                 C500,3200 900,3100 1200,3300 S1500,3500 1200,3600" />
+    </svg>
 
-        <section class="welcome-section">
-            <div class="welcome-content">
-                <h2>WELCOME TO MILE HIGH RUNNERS!</h2>
-                <p>We are an Erie, Colorado based running group for training and friendship. Whether you're a
-                    front-runner or a back of the packer, we provide a group training environment that will enable you
-                    to improve.</p>
-                <p class="emphasis"><strong><em>Happy Running!! We hope you will join us in 2026 and allow us to help
-                            you reach your fitness goals! Group training can be a powerful catalyst for positive change.
-                            Come check us out!</em></strong></p>
-                <p>For questions, please <a href="contact.html">Contact Us</a>!</p>
-            </div>
-        </section>
-
-        <section class="features">
-            <div class="feature-card">
-                <i class="fas fa-users"></i>
-                <h3>Group Training</h3>
-                <p>Train with like-minded runners in a supportive environment</p>
-            </div>
-            <div class="feature-card">
-                <i class="fas fa-map-marker-alt"></i>
-                <h3>Colorado Routes</h3>
-                <p>Experience the best running routes in Erie and beyond</p>
-            </div>
-            <div class="feature-card">
-                <i class="fas fa-trophy"></i>
-                <h3>Race Support</h3>
-                <p>Get ready for your next race with our training programs</p>
-            </div>
-        </section>
-
-        <section class="gallery-section">
-            <div class="gallery-container">
-                <h2>Gallery</h2>
-                <div class="gallery-grid" id="gallery-grid">
-                    <!-- Images will be dynamically populated -->
-                </div>
-            </div>
-        </section>
-
-        <!-- Lightbox -->
-        <div class="lightbox" id="lightbox" aria-hidden="true">
-            <button class="lightbox-close" aria-label="Close lightbox">&times;</button>
-            <button class="lightbox-prev" aria-label="Previous image">
-                <i class="fas fa-chevron-left"></i>
-            </button>
-            <button class="lightbox-next" aria-label="Next image">
-                <i class="fas fa-chevron-right"></i>
-            </button>
-            <div class="lightbox-content">
-                <img id="lightbox-image" src="" alt="Gallery image">
-            </div>
-            <div class="lightbox-counter" id="lightbox-counter"></div>
+    <!-- Navigation -->
+    <nav class="nav" id="mainNav">
+        <a href="/" class="nav__logo">
+            <img src="images/MHR_Logo_Small.png" alt="Mile High Runners">
+        </a>
+        <button class="nav__burger" id="navBurger" aria-label="Toggle menu">
+            <span></span>
+            <span></span>
+            <span></span>
+        </button>
+        <div class="nav__links" id="navLinks">
+            <a href="/">Home</a>
+            <a href="calendar.html">Calendar</a>
+            <a href="races.html">Races</a>
+            <a href="meet-coach.html">Coach</a>
+            <a href="membership.html">Membership</a>
+            <a href="race-results.html">Results</a>
+            <a href="sponsors.html">Sponsors</a>
+            <a href="contact.html" class="nav__cta">Contact</a>
         </div>
+    </nav>
 
-        <section class="upcoming-events">
-            <h2>Upcoming Events</h2>
+    <!-- Hero -->
+    <section class="hero">
+        <div class="hero__bg"></div>
+        <div class="hero__overlay"></div>
+        <div class="hero__content">
+            <span class="hero__tag">Erie, Colorado</span>
+            <h1 class="hero__title">
+                Mile High
+                <span>Runners</span>
+            </h1>
+            <p class="hero__sub">Training and friendship at altitude. Whether you're chasing PRs or chasing sunrises, there's a place for you here.</p>
+            <div class="hero__actions">
+                <a href="membership.html" class="btn btn--primary">Join the Pack</a>
+                <a href="calendar.html" class="btn btn--outline">View Schedule</a>
+            </div>
+        </div>
+        <div class="hero__pace">
+            <div class="hero__pace-track" id="paceTrack">
+                <span class="hero__pace-item"><span class="dot"></span>Tuesday Speed Work</span>
+                <span class="hero__pace-item"><span class="dot"></span>Thursday Intervals</span>
+                <span class="hero__pace-item"><span class="dot"></span>Saturday Long Run</span>
+                <span class="hero__pace-item"><span class="dot"></span>All Paces Welcome</span>
+                <span class="hero__pace-item"><span class="dot"></span>Free First Week</span>
+                <span class="hero__pace-item"><span class="dot"></span>5K to Marathon</span>
+                <span class="hero__pace-item"><span class="dot"></span>Colorado Trails</span>
+                <span class="hero__pace-item"><span class="dot"></span>Run Together</span>
+                <!-- Duplicate for seamless loop -->
+                <span class="hero__pace-item"><span class="dot"></span>Tuesday Speed Work</span>
+                <span class="hero__pace-item"><span class="dot"></span>Thursday Intervals</span>
+                <span class="hero__pace-item"><span class="dot"></span>Saturday Long Run</span>
+                <span class="hero__pace-item"><span class="dot"></span>All Paces Welcome</span>
+                <span class="hero__pace-item"><span class="dot"></span>Free First Week</span>
+                <span class="hero__pace-item"><span class="dot"></span>5K to Marathon</span>
+                <span class="hero__pace-item"><span class="dot"></span>Colorado Trails</span>
+                <span class="hero__pace-item"><span class="dot"></span>Run Together</span>
+            </div>
+        </div>
+    </section>
+
+    <!-- About / Welcome -->
+    <section class="about">
+        <div class="about__inner">
+            <div class="reveal">
+                <div class="about__label">Who We Are</div>
+                <h2 class="about__heading">Run With Us</h2>
+                <p class="about__text">
+                    We are an Erie, Colorado based running group built on <em>training and friendship</em>. Whether you're a front-runner or a back of the packer, we provide a group training environment that will enable you to improve.
+                </p>
+                <p class="about__text">
+                    We hope you will join us in 2026 and allow us to help you reach your fitness goals! <em>Group training can be a powerful catalyst for positive change.</em> Come check us out!
+                </p>
+                <p class="about__text" style="margin-top: 0.5rem;">
+                    For questions, please <a href="contact.html" style="color: var(--ember); font-weight: 600; border-bottom: 2px solid var(--ember);">Contact Us</a>!
+                </p>
+            </div>
+            <div class="about__visual reveal reveal-delay-2">
+                <img src="images/gallery/Group-Run-June-2024-1024x765.jpg" alt="Mile High Runners group run" class="about__visual-img">
+                <div class="about__visual-badge">Est. Erie, CO</div>
+            </div>
+        </div>
+        <div class="stride-pattern"></div>
+    </section>
+
+    <!-- Features -->
+    <section class="features angle-top angle-bottom">
+        <div class="features__inner">
+            <h2 class="features__heading reveal">Why Run With Us</h2>
+            <div class="features__grid">
+                <div class="feature reveal reveal-delay-1">
+                    <span class="feature__number">01</span>
+                    <div class="feature__icon"><i class="fas fa-users"></i></div>
+                    <h3 class="feature__title">Group Training</h3>
+                    <p class="feature__desc">Train with like-minded runners in a supportive environment. Every pace, every level, every goal.</p>
+                </div>
+                <div class="feature reveal reveal-delay-2">
+                    <span class="feature__number">02</span>
+                    <div class="feature__icon"><i class="fas fa-mountain"></i></div>
+                    <h3 class="feature__title">Colorado Routes</h3>
+                    <p class="feature__desc">Experience the best running routes in Erie and beyond. Trails, roads, and everything in between.</p>
+                </div>
+                <div class="feature reveal reveal-delay-3">
+                    <span class="feature__number">03</span>
+                    <div class="feature__icon"><i class="fas fa-trophy"></i></div>
+                    <h3 class="feature__title">Race Support</h3>
+                    <p class="feature__desc">Get ready for your next race with structured training programs from 5K through marathon distance.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Gallery -->
+    <section class="gallery">
+        <div class="gallery__header reveal">
+            <div class="gallery__label">On The Trail</div>
+            <h2 class="gallery__heading">Gallery</h2>
+        </div>
+        <div class="gallery__grid" id="gallery-grid">
+            <!-- Dynamically populated -->
+        </div>
+    </section>
+
+    <!-- Lightbox -->
+    <div class="lightbox" id="lightbox" aria-hidden="true">
+        <button class="lightbox-close" aria-label="Close lightbox">&times;</button>
+        <button class="lightbox-prev" aria-label="Previous image"><i class="fas fa-chevron-left"></i></button>
+        <button class="lightbox-next" aria-label="Next image"><i class="fas fa-chevron-right"></i></button>
+        <div class="lightbox-content">
+            <img id="lightbox-image" src="" alt="Gallery image">
+        </div>
+        <div class="lightbox-counter" id="lightbox-counter"></div>
+    </div>
+
+    <!-- Events -->
+    <section class="events">
+        <div class="events__inner">
+            <div class="events__header reveal">
+                <div class="events__label">Lace Up</div>
+                <h2 class="events__heading">Upcoming Runs</h2>
+            </div>
             <div class="events-container">
-                <!-- Events will be dynamically populated -->
                 <p class="no-events">There are no upcoming events.</p>
             </div>
-        </section>
+        </div>
+    </section>
 
-        <section class="newsletter">
-            <div class="newsletter-content">
-                <h2>Stay Updated</h2>
-                <p>Subscribe to our newsletter for the latest updates and running tips</p>
-                <form class="newsletter-form">
-                    <input type="email" placeholder="Enter your email" required>
-                    <button type="submit">Subscribe</button>
-                </form>
-            </div>
-        </section>
-    </main>
+    <!-- Newsletter -->
+    <section class="newsletter angle-top">
+        <div class="newsletter__inner reveal">
+            <h2 class="newsletter__heading">Stay In Stride</h2>
+            <p class="newsletter__sub">Subscribe to our newsletter for the latest updates and running tips</p>
+            <form class="newsletter__form newsletter-form">
+                <input type="email" placeholder="Enter your email" required>
+                <button type="submit">Subscribe</button>
+            </form>
+        </div>
+    </section>
 
-    <footer class="main-footer">
-        <div class="footer-content">
-            <div class="footer-section">
-                <h3>Connect With Us</h3>
-                <div class="social-links">
-                    <a href="https://www.facebook.com/milehighrunners" target="_blank" aria-label="Facebook"><i
-                            class="fab fa-facebook"></i></a>
-                    <a href="https://www.instagram.com/milehighrunners" target="_blank" aria-label="Instagram"><i
-                            class="fab fa-instagram"></i></a>
-                </div>
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="footer__inner">
+            <div class="footer__brand">
+                <img src="images/MHR_Logo_Small.png" alt="Mile High Runners" class="footer__logo">
+                <p>Erie, Colorado's running community. Training together, racing together, growing together.</p>
             </div>
-            <div class="footer-section">
-                <h3>Quick Links</h3>
+            <div>
+                <h4>Navigate</h4>
                 <ul>
+                    <li><a href="/">Home</a></li>
+                    <li><a href="calendar.html">Calendar</a></li>
+                    <li><a href="races.html">Races</a></li>
+                    <li><a href="membership.html">Membership</a></li>
+                </ul>
+            </div>
+            <div>
+                <h4>Connect</h4>
+                <div class="footer__social">
+                    <a href="https://www.facebook.com/milehighrunners" target="_blank" aria-label="Facebook"><i class="fab fa-facebook-f"></i></a>
+                    <a href="https://www.instagram.com/milehighrunners" target="_blank" aria-label="Instagram"><i class="fab fa-instagram"></i></a>
+                </div>
+                <ul style="margin-top: 1rem;">
                     <li><a href="meet-coach.html">About Us</a></li>
                     <li><a href="contact.html">Contact</a></li>
                     <li><a href="privacy.html">Privacy Policy</a></li>
                 </ul>
             </div>
-            <div class="footer-section">
-                <h3>Contact Info</h3>
+            <div class="footer__contact">
+                <h4>Get In Touch</h4>
                 <p>Doug Croft</p>
                 <p>Erie, Colorado</p>
                 <p><a href="contact.html">Contact Us</a></p>
                 <p><a href="tel:303-396-5650">303-396-5650</a></p>
             </div>
         </div>
-        <div class="footer-bottom">
+        <div class="footer__bottom">
             <p>&copy; 2026 Mile High Runners. All rights reserved.</p>
         </div>
     </footer>
 
-    <script src="main.js"></script>
+    <!-- Scripts -->
     <script>
-        // Load workouts on page load
+        // ===== NAV SCROLL BEHAVIOR =====
+        const nav = document.getElementById('mainNav');
+        const burger = document.getElementById('navBurger');
+        const navLinks = document.getElementById('navLinks');
+
+        window.addEventListener('scroll', () => {
+            nav.classList.toggle('scrolled', window.scrollY > 80);
+        });
+
+        burger.addEventListener('click', () => {
+            burger.classList.toggle('active');
+            navLinks.classList.toggle('active');
+        });
+
+        document.addEventListener('click', (e) => {
+            if (!e.target.closest('.nav')) {
+                burger.classList.remove('active');
+                navLinks.classList.remove('active');
+            }
+        });
+
+        // ===== SCROLL REVEAL =====
+        const revealElements = document.querySelectorAll('.reveal');
+        const revealObserver = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    entry.target.classList.add('visible');
+                }
+            });
+        }, { threshold: 0.15 });
+
+        revealElements.forEach(el => revealObserver.observe(el));
+
+        // ===== GALLERY + LIGHTBOX =====
+        const galleryGrid = document.getElementById('gallery-grid');
+        const lightbox = document.getElementById('lightbox');
+
+        if (galleryGrid && lightbox) {
+            let galleryImages = [];
+            let currentImageIndex = 0;
+            let displayedCount = 0;
+            const IMAGES_PER_PAGE = 20;
+
+            const lightboxImage = document.getElementById('lightbox-image');
+            const lightboxCounter = document.getElementById('lightbox-counter');
+            const lightboxClose = document.querySelector('.lightbox-close');
+            const lightboxPrev = document.querySelector('.lightbox-prev');
+            const lightboxNext = document.querySelector('.lightbox-next');
+
+            const loadMoreBtn = document.createElement('button');
+            loadMoreBtn.className = 'load-more-btn';
+            loadMoreBtn.textContent = 'Load More Photos';
+            loadMoreBtn.style.display = 'none';
+            galleryGrid.parentNode.appendChild(loadMoreBtn);
+
+            function displayImages(startIndex, count) {
+                const endIndex = Math.min(startIndex + count, galleryImages.length);
+                for (let i = startIndex; i < endIndex; i++) {
+                    const image = galleryImages[i];
+                    const item = document.createElement('div');
+                    item.className = 'gallery-item';
+                    item.dataset.index = i;
+                    const img = document.createElement('img');
+                    img.src = `images/gallery/${image}`;
+                    img.alt = 'Mile High Runners Gallery Image';
+                    img.loading = 'lazy';
+                    item.appendChild(img);
+                    galleryGrid.appendChild(item);
+                    item.addEventListener('click', () => openLightbox(i));
+                }
+                displayedCount = endIndex;
+                if (displayedCount < galleryImages.length) {
+                    const remaining = galleryImages.length - displayedCount;
+                    loadMoreBtn.textContent = `Load More Photos (${remaining} remaining)`;
+                    loadMoreBtn.style.display = 'block';
+                } else {
+                    loadMoreBtn.style.display = 'none';
+                }
+            }
+
+            loadMoreBtn.addEventListener('click', () => {
+                displayImages(displayedCount, IMAGES_PER_PAGE);
+            });
+
+            fetch('data/gallery.json')
+                .then(r => { if (!r.ok) throw new Error(`HTTP ${r.status}`); return r.json(); })
+                .then(images => { galleryImages = images; displayImages(0, IMAGES_PER_PAGE); })
+                .catch(err => { galleryGrid.innerHTML = `<p style="color:red;padding:2rem;">Error loading gallery: ${err.message}</p>`; });
+
+            function openLightbox(index) {
+                currentImageIndex = index;
+                updateLightboxImage();
+                lightbox.classList.add('active');
+                lightbox.setAttribute('aria-hidden', 'false');
+                document.body.style.overflow = 'hidden';
+            }
+            function closeLightbox() {
+                lightbox.classList.remove('active');
+                lightbox.setAttribute('aria-hidden', 'true');
+                document.body.style.overflow = '';
+            }
+            function updateLightboxImage() {
+                lightboxImage.src = `images/gallery/${galleryImages[currentImageIndex]}`;
+                lightboxCounter.textContent = `${currentImageIndex + 1} / ${galleryImages.length}`;
+            }
+            function nextImage() { currentImageIndex = (currentImageIndex + 1) % galleryImages.length; updateLightboxImage(); }
+            function prevImage() { currentImageIndex = (currentImageIndex - 1 + galleryImages.length) % galleryImages.length; updateLightboxImage(); }
+
+            lightboxClose.addEventListener('click', closeLightbox);
+            lightboxNext.addEventListener('click', nextImage);
+            lightboxPrev.addEventListener('click', prevImage);
+            lightbox.addEventListener('click', (e) => {
+                if (e.target === lightbox || e.target === document.querySelector('.lightbox-content')) closeLightbox();
+            });
+            document.addEventListener('keydown', (e) => {
+                if (!lightbox.classList.contains('active')) return;
+                if (e.key === 'Escape') closeLightbox();
+                else if (e.key === 'ArrowRight') { e.preventDefault(); nextImage(); }
+                else if (e.key === 'ArrowLeft') { e.preventDefault(); prevImage(); }
+            });
+
+            let touchStartX = 0;
+            lightbox.addEventListener('touchstart', (e) => { touchStartX = e.changedTouches[0].screenX; }, { passive: true });
+            lightbox.addEventListener('touchend', (e) => {
+                const diff = touchStartX - e.changedTouches[0].screenX;
+                if (Math.abs(diff) > 50) { diff > 0 ? nextImage() : prevImage(); }
+            }, { passive: true });
+        }
+
+        // ===== EMAILJS =====
+        const EMAILJS_CONFIG = {
+            PUBLIC_KEY: '2ZqYNkVwSXVoSaaij',
+            SERVICE_ID: 'service_j6fkx5r',
+            TEMPLATE_ID: 'template_tvdy5dn',
+            NEWSLETTER_TEMPLATE_ID: 'template_2oex3ym'
+        };
+        if (typeof emailjs !== 'undefined' && EMAILJS_CONFIG.PUBLIC_KEY !== 'YOUR_PUBLIC_KEY') {
+            emailjs.init(EMAILJS_CONFIG.PUBLIC_KEY);
+        }
+
+        // Newsletter form
+        const newsletterForm = document.querySelector('.newsletter-form');
+        if (newsletterForm) {
+            newsletterForm.addEventListener('submit', async (e) => {
+                e.preventDefault();
+                const emailInput = newsletterForm.querySelector('input[type="email"]');
+                const submitButton = newsletterForm.querySelector('button[type="submit"]');
+                if (!emailjs || EMAILJS_CONFIG.PUBLIC_KEY === 'YOUR_PUBLIC_KEY') return;
+                submitButton.disabled = true;
+                submitButton.textContent = 'Subscribing...';
+                try {
+                    const response = await emailjs.send(EMAILJS_CONFIG.SERVICE_ID, EMAILJS_CONFIG.NEWSLETTER_TEMPLATE_ID, {
+                        subscriber_email: emailInput.value,
+                        signup_date: new Date().toLocaleString('en-US', { weekday:'long',year:'numeric',month:'long',day:'numeric',hour:'2-digit',minute:'2-digit' })
+                    });
+                    if (response.status === 200) {
+                        const msg = document.createElement('p');
+                        msg.textContent = 'Thank you for subscribing!';
+                        msg.style.cssText = 'color:#2ecc71;margin-top:1rem;font-weight:600;';
+                        newsletterForm.appendChild(msg);
+                        newsletterForm.reset();
+                        setTimeout(() => msg.remove(), 5000);
+                    }
+                } catch (err) {
+                    console.error(err);
+                } finally {
+                    submitButton.disabled = false;
+                    submitButton.textContent = 'Subscribe';
+                }
+            });
+        }
+
+        // ===== LOAD EVENTS =====
         loadUpcomingEvents();
 
         async function loadUpcomingEvents() {
             const container = document.querySelector('.events-container');
-
             try {
                 const response = await fetch('data/workouts.json');
-
                 if (!response.ok) {
                     container.innerHTML = '<p class="no-events">There are no upcoming events at this time. Please check back soon!</p>';
                     return;
                 }
-
                 const workouts = await response.json();
-
                 if (!workouts || workouts.length === 0) {
                     container.innerHTML = '<p class="no-events">There are no upcoming events at this time. Please check back soon!</p>';
                     return;
                 }
-
-                // Sort by date
                 workouts.sort((a, b) => new Date(a.date) - new Date(b.date));
-
                 let html = '<div class="workouts-list">';
-
                 workouts.forEach(workout => {
-                    // Parse date as local time (not UTC) to avoid timezone shift issues
                     const [year, month, day] = workout.date.split('-').map(Number);
-                    const workoutDate = new Date(year, month - 1, day); // month is 0-indexed
+                    const workoutDate = new Date(year, month - 1, day);
                     const dateStr = workoutDate.toLocaleDateString('en-US', {
-                        weekday: 'long',
-                        year: 'numeric',
-                        month: 'long',
-                        day: 'numeric'
+                        weekday: 'long', year: 'numeric', month: 'long', day: 'numeric'
                     });
-
                     html += '<div class="workout-item">';
-                    html += `<h3>${dateStr} – ${workout.time}</h3>`;
-
+                    html += `<h3>${dateStr} \u2013 ${workout.time}</h3>`;
                     if (workout.location && workout.location.name) {
                         html += `<p><strong>Location:</strong> `;
                         if (workout.location.map_link) {
@@ -317,30 +1549,24 @@
                         }
                         html += '</p>';
                     }
-
                     if (workout.description) {
                         html += `<p>${workout.description}</p>`;
                     }
-
-                    // Add calendar links if available
                     if (workout.google_calendar_link || workout.apple_calendar_link) {
                         html += '<p class="calendar-links"><i class="fas fa-calendar-plus"></i> Add to calendar: ';
                         const links = [];
                         if (workout.google_calendar_link) {
-                            links.push(`<a href="${workout.google_calendar_link}" target="_blank" title="Add to Google Calendar">Google</a>`);
+                            links.push(`<a href="${workout.google_calendar_link}" target="_blank">Google</a>`);
                         }
                         if (workout.apple_calendar_link) {
-                            links.push(`<a href="${workout.apple_calendar_link}" download="workout.ics" title="Add to Apple Calendar / Outlook">Apple/Outlook</a>`);
+                            links.push(`<a href="${workout.apple_calendar_link}" download="workout.ics">Apple/Outlook</a>`);
                         }
-                        html += links.join(' | ');
-                        html += '</p>';
+                        html += links.join(' | ') + '</p>';
                     }
-
                     html += '</div>';
                 });
-
                 html += '</div>';
-                html += '<p style="text-align: center; margin-top: 2rem;"><a href="calendar.html" class="primary-button">View Full Calendar</a></p>';
+                html += '<p style="text-align: center; margin-top: 2rem;"><a href="calendar.html" class="btn btn--primary">View Full Calendar</a></p>';
                 container.innerHTML = html;
             } catch (error) {
                 console.error('Error loading workouts:', error);
