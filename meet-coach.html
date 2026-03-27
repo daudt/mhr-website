@@ -64,33 +64,30 @@
     <!-- Font Awesome for icons -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
     <!-- Google Fonts -->
-    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&family=Montserrat:wght@700&display=swap"
-        rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400&family=Caveat:wght@600&display=swap" rel="stylesheet">
 </head>
 
 <body>
-    <header class="main-header">
-        <nav class="nav-container">
-            <div class="logo">
-                <a href="/"><img src="images/MHR_Logo_Small.png" alt="Mile High Runners Logo"></a>
-            </div>
-            <button class="mobile-menu-btn" aria-label="Toggle menu">
-                <span></span>
-                <span></span>
-                <span></span>
-            </button>
-            <ul class="nav-menu">
-                <li><a href="/">Home</a></li>
-                <li><a href="calendar.html">Calendar</a></li>
-                <li><a href="races.html">Races</a></li>
-                <li><a href="meet-coach.html">Meet the Coach</a></li>
-                <li><a href="membership.html">Membership</a></li>
-                <li><a href="race-results.html">Race Results</a></li>
-                <li><a href="sponsors.html">Sponsors</a></li>
-                <li><a href="contact.html" class="cta-button">Contact Us</a></li>
-            </ul>
-        </nav>
-    </header>
+    <nav class="nav" id="mainNav">
+        <a href="/" class="nav__logo">
+            <img src="images/MHR_Logo_Small.png" alt="Mile High Runners">
+        </a>
+        <button class="nav__burger" id="navBurger" aria-label="Toggle menu">
+            <span></span>
+            <span></span>
+            <span></span>
+        </button>
+        <div class="nav__links" id="navLinks">
+            <a href="/">Home</a>
+            <a href="calendar.html">Calendar</a>
+            <a href="races.html">Races</a>
+            <a href="meet-coach.html">Coach</a>
+            <a href="membership.html">Membership</a>
+            <a href="race-results.html">Results</a>
+            <a href="sponsors.html">Sponsors</a>
+            <a href="contact.html" class="nav__cta">Contact</a>
+        </div>
+    </nav>
 
     <main>
         <section class="page-hero">
@@ -143,34 +140,42 @@
         </section>
     </main>
 
-    <footer class="main-footer">
-        <div class="footer-content">
-            <div class="footer-section">
-                <h3>Connect With Us</h3>
-                <div class="social-links">
-                    <a href="https://www.facebook.com/milehighrunners" target="_blank" aria-label="Facebook"><i
-                            class="fab fa-facebook"></i></a>
-                    <a href="https://www.instagram.com/milehighrunners" target="_blank" aria-label="Instagram"><i
-                            class="fab fa-instagram"></i></a>
-                </div>
+    <footer class="footer">
+        <div class="footer__inner">
+            <div class="footer__brand">
+                <img src="images/MHR_Logo_Small.png" alt="Mile High Runners" class="footer__logo">
+                <p>Erie, Colorado's running community. Training together, racing together, growing together.</p>
             </div>
-            <div class="footer-section">
-                <h3>Quick Links</h3>
+            <div>
+                <h4>Navigate</h4>
                 <ul>
+                    <li><a href="/">Home</a></li>
+                    <li><a href="calendar.html">Calendar</a></li>
+                    <li><a href="races.html">Races</a></li>
+                    <li><a href="membership.html">Membership</a></li>
+                </ul>
+            </div>
+            <div>
+                <h4>Connect</h4>
+                <div class="footer__social">
+                    <a href="https://www.facebook.com/milehighrunners" target="_blank" aria-label="Facebook"><i class="fab fa-facebook-f"></i></a>
+                    <a href="https://www.instagram.com/milehighrunners" target="_blank" aria-label="Instagram"><i class="fab fa-instagram"></i></a>
+                </div>
+                <ul style="margin-top: 1rem;">
                     <li><a href="meet-coach.html">About Us</a></li>
                     <li><a href="contact.html">Contact</a></li>
                     <li><a href="privacy.html">Privacy Policy</a></li>
                 </ul>
             </div>
-            <div class="footer-section">
-                <h3>Contact Info</h3>
+            <div class="footer__contact">
+                <h4>Get In Touch</h4>
                 <p>Doug Croft</p>
                 <p>Erie, Colorado</p>
                 <p><a href="contact.html">Contact Us</a></p>
                 <p><a href="tel:303-396-5650">303-396-5650</a></p>
             </div>
         </div>
-        <div class="footer-bottom">
+        <div class="footer__bottom">
             <p>&copy; 2026 Mile High Runners. All rights reserved.</p>
         </div>
     </footer>
