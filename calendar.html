@@ -179,7 +179,7 @@
                     }
 
                     if (workout.description) {
-                        html += `<p>${workout.description}</p>`;
+                        html += `<p>${workout.description.replace(/\n/g, '<br>')}</p>`;
                     }
 
                     // Add calendar links if available
