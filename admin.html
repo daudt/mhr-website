@@ -1172,12 +1172,15 @@
             }
             const description = document.getElementById(`desc-${id}`)?.value || '';
 
-            workouts.push({
-                date,
-                time,
-                location_name: locationName,
-                description,
-            });
+            // Only include workouts that have at least a date and description
+            if (date && description.trim()) {
+                workouts.push({
+                    date,
+                    time,
+                    location_name: locationName,
+                    description,
+                });
+            }
         });
         return workouts;
     }

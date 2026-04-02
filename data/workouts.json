@@ -13,18 +13,6 @@
   },
   {
     "date": "2026-04-04",
-    "time": "5:20 AM",
-    "location": {
-      "name": "TBD",
-      "address": "",
-      "map_link": ""
-    },
-    "description": "",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout+%E2%80%93+2026-04-04&dates=20260404T112000Z%2F20260404T122000Z&details=&location=",
-    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwNDA0VDExMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDQwMlQxNzExNDRaDQpEVFNUQVJUOjIwMjYwNDA0VDExMjAwMFoNCkRURU5EOjIwMjYwNDA0VDEyMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQg4oCTIDIwMjYtMDQtMDQNCkRFU0NSSVBUSU9OOg0KTE9DQVRJT046DQpTVEFUVVM6Q09ORklSTUVEDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFS"
-  },
-  {
-    "date": "2026-04-04",
     "time": "7:00 AM",
     "location": {
       "name": "The Great Bark Dog Park",
