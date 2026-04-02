@@ -1,29 +1,5 @@
 [
   {
-    "date": "2026-03-28",
-    "time": "7:00 AM",
-    "location": {
-      "name": "Bobolink Trailhead",
-      "address": "Bobolink Trailhead",
-      "map_link": "https://maps.google.com/?q=Bobolink+Trailhead"
-    },
-    "description": "Saturday Social Run: 4 - 7 miles. All levels and abilities welcome! Join us for an easy run followed by optional coffee and hanging out.",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout+%E2%80%93+2026-03-28&dates=20260328T130000Z%2F20260328T140000Z&details=Saturday+Social+Run%3A+4+-+7+miles.+All+levels+and+abilities+welcome%21+Join+us+for+an+easy+run+followed+by+optional+coffee+and+hanging+out.&location=Bobolink+Trailhead",
-    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwMzI4VDEzMDAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDMyM1QwMDQ4NThaDQpEVFNUQVJUOjIwMjYwMzI4VDEzMDAwMFoNCkRURU5EOjIwMjYwMzI4VDE0MDAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQg4oCTIDIwMjYtMDMtMjgNCkRFU0NSSVBUSU9OOlNhdHVyZGF5IFNvY2lhbCBSdW46IDQgLSA3IG1pbGVzLiBBbGwgbGV2ZWxzIGFuZCBhYmlsaXRpZXMgd2VsY29tZSEgSm9pbiB1cyBmb3IgYW4gZWFzeSBydW4gZm9sbG93ZWQgYnkgb3B0aW9uYWwgY29mZmVlIGFuZCBoYW5naW5nIG91dC4NCkxPQ0FUSU9OOkJvYm9saW5rIFRyYWlsaGVhZA0KU1RBVFVTOkNPTkZJUk1FRA0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg=="
-  },
-  {
-    "date": "2026-03-31",
-    "time": "5:20 AM",
-    "location": {
-      "name": "Erie Middle School",
-      "address": "650 Main Street, Erie, CO 80516",
-      "map_link": "https://maps.google.com/?q=Erie+Middle+School,Erie,CO+80516"
-    },
-    "description": "2 mile warm up, drills and 4 - 5 x 20 second strides \nPace Shifters: 400 meters at 5k 400 meters at marathon pace, 400 meters at 5k pace, 400 meters marathon pace for a total of 1600 meters of continuous running x 3 - 4 sets with a 1 lap easy jog/walk between sets.",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout+%E2%80%93+2026-03-31&dates=20260331T112000Z%2F20260331T122000Z&details=2+mile+warm+up%2C+drills+and+4+-+5+x+20+second+strides+%0APace+Shifters%3A+400+meters+at+5k+400+meters+at+marathon+pace%2C+400+meters+at+5k+pace%2C+400+meters+marathon+pace+for+a+total+of+1600+meters+of+continuous+running+x+3+-+4+sets+with+a+1+lap+easy+jog%2Fwalk+between+sets.&location=650+Main+Street%2C+Erie%2C+CO+80516",
-    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwMzMxVDExMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDMyOFQxNjQ5MDBaDQpEVFNUQVJUOjIwMjYwMzMxVDExMjAwMFoNCkRURU5EOjIwMjYwMzMxVDEyMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQg4oCTIDIwMjYtMDMtMzENCkRFU0NSSVBUSU9OOjIgbWlsZSB3YXJtIHVwXCwgZHJpbGxzIGFuZCA0IC0gNSB4IDIwIHNlY29uZCBzdHJpZGVzIFxuUGFjZSBTaGlmdGVyczogNDAwIG1ldGVycyBhdCA1ayA0MDAgbWV0ZXJzIGF0IG1hcmF0aG9uIHBhY2VcLCA0MDAgbWV0ZXJzIGF0IDVrIHBhY2VcLCA0MDAgbWV0ZXJzIG1hcmF0aG9uIHBhY2UgZm9yIGEgdG90YWwgb2YgMTYwMCBtZXRlcnMgb2YgY29udGludW91cyBydW5uaW5nIHggMyAtIDQgc2V0cyB3aXRoIGEgMSBsYXAgZWFzeSBqb2cvd2FsayBiZXR3ZWVuIHNldHMuDQpMT0NBVElPTjo2NTAgTWFpbiBTdHJlZXRcLCBFcmllXCwgQ08gODA1MTYNClNUQVRVUzpDT05GSVJNRUQNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVI="
-  },
-  {
     "date": "2026-04-02",
     "time": "5:20 AM",
     "location": {
@@ -34,6 +10,18 @@
     "description": "1k warm up, drills, 4 x 20 second strides \n1 mile, 2 mile, mile at 10k - 1/2 marathon pace with a 75 - 90 second recovery between intervals",
     "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout+%E2%80%93+2026-04-02&dates=20260402T112000Z%2F20260402T122000Z&details=1k+warm+up%2C+drills%2C+4+x+20+second+strides+%0A1+mile%2C+2+mile%2C+mile+at+10k+-+1%2F2+marathon+pace+with+a+75+-+90+second+recovery+between+intervals&location=Lehigh+Park%2C+Erie%2C+CO+80516",
     "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwNDAyVDExMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDMyOFQxNjQ5MDBaDQpEVFNUQVJUOjIwMjYwNDAyVDExMjAwMFoNCkRURU5EOjIwMjYwNDAyVDEyMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQg4oCTIDIwMjYtMDQtMDINCkRFU0NSSVBUSU9OOjFrIHdhcm0gdXBcLCBkcmlsbHNcLCA0IHggMjAgc2Vjb25kIHN0cmlkZXMgXG4xIG1pbGVcLCAyIG1pbGVcLCBtaWxlIGF0IDEwayAtIDEvMiBtYXJhdGhvbiBwYWNlIHdpdGggYSA3NSAtIDkwIHNlY29uZCByZWNvdmVyeSBiZXR3ZWVuIGludGVydmFscw0KTE9DQVRJT046TGVoaWdoIFBhcmtcLCBFcmllXCwgQ08gODA1MTYNClNUQVRVUzpDT05GSVJNRUQNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVI="
+  },
+  {
+    "date": "2026-04-04",
+    "time": "5:20 AM",
+    "location": {
+      "name": "TBD",
+      "address": "",
+      "map_link": ""
+    },
+    "description": "",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout+%E2%80%93+2026-04-04&dates=20260404T112000Z%2F20260404T122000Z&details=&location=",
+    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwNDA0VDExMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDQwMlQxNzExNDRaDQpEVFNUQVJUOjIwMjYwNDA0VDExMjAwMFoNCkRURU5EOjIwMjYwNDA0VDEyMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQg4oCTIDIwMjYtMDQtMDQNCkRFU0NSSVBUSU9OOg0KTE9DQVRJT046DQpTVEFUVVM6Q09ORklSTUVEDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFS"
   },
   {
     "date": "2026-04-04",
