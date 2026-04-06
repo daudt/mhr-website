@@ -1,26 +1,38 @@
 [
   {
-    "date": "2026-04-02",
+    "date": "2026-04-07",
     "time": "5:20 AM",
     "location": {
       "name": "Lehigh Park",
       "address": "Lehigh Park, Erie, CO 80516",
-      "map_link": "https://maps.google.com/?q=Lehigh+Park,Erie,CO+80516"
+      "map_link": "https://maps.app.goo.gl/dZyWomG4Jozg954f6"
     },
-    "description": "1k warm up, drills, 4 x 20 second strides \n1 mile, 2 mile, mile at 10k - 1/2 marathon pace with a 75 - 90 second recovery between intervals",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout+%E2%80%93+2026-04-02&dates=20260402T112000Z%2F20260402T122000Z&details=1k+warm+up%2C+drills%2C+4+x+20+second+strides+%0A1+mile%2C+2+mile%2C+mile+at+10k+-+1%2F2+marathon+pace+with+a+75+-+90+second+recovery+between+intervals&location=Lehigh+Park%2C+Erie%2C+CO+80516",
-    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwNDAyVDExMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDMyOFQxNjQ5MDBaDQpEVFNUQVJUOjIwMjYwNDAyVDExMjAwMFoNCkRURU5EOjIwMjYwNDAyVDEyMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQg4oCTIDIwMjYtMDQtMDINCkRFU0NSSVBUSU9OOjFrIHdhcm0gdXBcLCBkcmlsbHNcLCA0IHggMjAgc2Vjb25kIHN0cmlkZXMgXG4xIG1pbGVcLCAyIG1pbGVcLCBtaWxlIGF0IDEwayAtIDEvMiBtYXJhdGhvbiBwYWNlIHdpdGggYSA3NSAtIDkwIHNlY29uZCByZWNvdmVyeSBiZXR3ZWVuIGludGVydmFscw0KTE9DQVRJT046TGVoaWdoIFBhcmtcLCBFcmllXCwgQ08gODA1MTYNClNUQVRVUzpDT05GSVJNRUQNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVI="
+    "description": "8\u201310 x 0.12 hill repeats at a hard, sustainable pace (jog/walk recovery), followed by 4\u20136 x 400 meters at 3k\u20135k pace (90\u2013120 second recovery).",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout+%E2%80%93+2026-04-07&dates=20260407T112000Z%2F20260407T122000Z&details=8%E2%80%9310+x+0.12+hill+repeats+at+a+hard%2C+sustainable+pace+%28jog%2Fwalk+recovery%29%2C+followed+by+4%E2%80%936+x+400+meters+at+3k%E2%80%935k+pace+%2890%E2%80%93120+second+recovery%29.&location=Lehigh+Park%2C+Erie%2C+CO+80516",
+    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwNDA3VDExMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDQwNlQxMzQ0MzJaDQpEVFNUQVJUOjIwMjYwNDA3VDExMjAwMFoNCkRURU5EOjIwMjYwNDA3VDEyMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQg4oCTIDIwMjYtMDQtMDcNCkRFU0NSSVBUSU9OOjjigJMxMCB4IDAuMTIgaGlsbCByZXBlYXRzIGF0IGEgaGFyZFwsIHN1c3RhaW5hYmxlIHBhY2UgKGpvZy93YWxrIHJlY292ZXJ5KVwsIGZvbGxvd2VkIGJ5IDTigJM2IHggNDAwIG1ldGVycyBhdCAza+KAkzVrIHBhY2UgKDkw4oCTMTIwIHNlY29uZCByZWNvdmVyeSkuDQpMT0NBVElPTjpMZWhpZ2ggUGFya1wsIEVyaWVcLCBDTyA4MDUxNg0KU1RBVFVTOkNPTkZJUk1FRA0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg=="
   },
   {
-    "date": "2026-04-04",
+    "date": "2026-04-09",
+    "time": "5:20 AM",
+    "location": {
+      "name": "Vista Pointe",
+      "address": "Vista Pointe, Erie, CO",
+      "map_link": "https://maps.app.goo.gl/kTHuonHBBZtbQUq6A"
+    },
+    "description": "1-2-1-2k at 10k effort with 90\u2013120 second recovery between kilometers.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout+%E2%80%93+2026-04-09&dates=20260409T112000Z%2F20260409T122000Z&details=1-2-1-2k+at+10k+effort+with+90%E2%80%93120+second+recovery+between+kilometers.&location=Vista+Pointe%2C+Erie%2C+CO",
+    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwNDA5VDExMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDQwNlQxMzQ0MzJaDQpEVFNUQVJUOjIwMjYwNDA5VDExMjAwMFoNCkRURU5EOjIwMjYwNDA5VDEyMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQg4oCTIDIwMjYtMDQtMDkNCkRFU0NSSVBUSU9OOjEtMi0xLTJrIGF0IDEwayBlZmZvcnQgd2l0aCA5MOKAkzEyMCBzZWNvbmQgcmVjb3ZlcnkgYmV0d2VlbiBraWxvbWV0ZXJzLg0KTE9DQVRJT046VmlzdGEgUG9pbnRlXCwgRXJpZVwsIENPDQpTVEFUVVM6Q09ORklSTUVEDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFS"
+  },
+  {
+    "date": "2026-04-11",
     "time": "7:00 AM",
     "location": {
-      "name": "The Great Bark Dog Park",
-      "address": "The Great Bark Dog Park, Lafayette, CO",
-      "map_link": "https://maps.app.goo.gl/YKVanb8YVQNyoyXD9"
+      "name": "Reliance Park",
+      "address": "Reliance Park, Erie, CO",
+      "map_link": "https://maps.app.goo.gl/fHrRqiw4XV1RBvVz8"
     },
-    "description": "Join us for a 5 - 6 mile social run at The Great Bark Dog Park in Lafayette. This a very friendly group run for all levels and abilities! Join us after the run for coffee and cake to help celebrate Blair\u2019s 50th birthday! Welcome to a new age group Blair! Once again you\u2019re the young guy in your age group!",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout+%E2%80%93+2026-04-04&dates=20260404T130000Z%2F20260404T140000Z&details=Join+us+for+a+5+-+6+mile+social+run+at+The+Great+Dog+Bark+Park+in+Lafayette.+This+a+very+friendly+group+run+for+all+levels+and+abilities%21+Join+us+after+the+run+for+coffee+and+cake+to+help+celebrate+Blair%E2%80%99s+50th+birthday%21+Welcome+to+a+new+age+group+Blair%21+Once+again+you%E2%80%99re+the+young+guy+in+your+age+group%21&location=The+Great+Bark+Dog+Park%2C+Lafayette%2C+CO",
-    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwNDA0VDEzMDAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDMyOFQxNjQ5MDBaDQpEVFNUQVJUOjIwMjYwNDA0VDEzMDAwMFoNCkRURU5EOjIwMjYwNDA0VDE0MDAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQg4oCTIDIwMjYtMDQtMDQNCkRFU0NSSVBUSU9OOkpvaW4gdXMgZm9yIGEgNSAtIDYgbWlsZSBzb2NpYWwgcnVuIGF0IFRoZSBHcmVhdCBEb2cgQmFyayBQYXJrIGluIExhZmF5ZXR0ZS4gVGhpcyBhIHZlcnkgZnJpZW5kbHkgZ3JvdXAgcnVuIGZvciBhbGwgbGV2ZWxzIGFuZCBhYmlsaXRpZXMhIEpvaW4gdXMgYWZ0ZXIgdGhlIHJ1biBmb3IgY29mZmVlIGFuZCBjYWtlIHRvIGhlbHAgY2VsZWJyYXRlIEJsYWly4oCZcyA1MHRoIGJpcnRoZGF5ISBXZWxjb21lIHRvIGEgbmV3IGFnZSBncm91cCBCbGFpciEgT25jZSBhZ2FpbiB5b3XigJlyZSB0aGUgeW91bmcgZ3V5IGluIHlvdXIgYWdlIGdyb3VwIQ0KTE9DQVRJT046VGhlIEdyZWF0IEJhcmsgRG9nIFBhcmtcLCBMYWZheWV0dGVcLCBDTw0KU1RBVFVTOkNPTkZJUk1FRA0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg=="
+    "description": "Social Run: This is a free run and all levels are welcome. The more the merrier!",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout+%E2%80%93+2026-04-11&dates=20260411T130000Z%2F20260411T140000Z&details=Social+Run%3A+This+is+a+free+run+and+all+levels+are+welcome.+The+more+the+merrier%21&location=Reliance+Park%2C+Erie%2C+CO",
+    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwNDExVDEzMDAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDQwNlQxMzQ0MzJaDQpEVFNUQVJUOjIwMjYwNDExVDEzMDAwMFoNCkRURU5EOjIwMjYwNDExVDE0MDAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQg4oCTIDIwMjYtMDQtMTENCkRFU0NSSVBUSU9OOlNvY2lhbCBSdW46IFRoaXMgaXMgYSBmcmVlIHJ1biBhbmQgYWxsIGxldmVscyBhcmUgd2VsY29tZS4gVGhlIG1vcmUgdGhlIG1lcnJpZXIhDQpMT0NBVElPTjpSZWxpYW5jZSBQYXJrXCwgRXJpZVwsIENPDQpTVEFUVVM6Q09ORklSTUVEDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFS"
   }
 ]
