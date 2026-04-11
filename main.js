@@ -122,7 +122,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 return response.json();
             })
             .then(images => {
-                galleryImages = images;
+                galleryImages = images.reverse();
                 displayImages(0, IMAGES_PER_PAGE);
             })
             .catch(err => {
