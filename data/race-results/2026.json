@@ -40,5 +40,29 @@
         "time": "N/A"
       }
     ]
+  },
+  {
+    "event_name": "Desert Rats 100k, 50k, and 10k",
+    "date": "2026-04-12",
+    "results": [
+      {
+        "runner": "Nick",
+        "placement": null,
+        "division": null,
+        "time": null
+      },
+      {
+        "runner": "Lindsey",
+        "placement": null,
+        "division": null,
+        "time": null
+      },
+      {
+        "runner": "Maddie",
+        "placement": null,
+        "division": null,
+        "time": null
+      }
+    ]
   }
 ]
