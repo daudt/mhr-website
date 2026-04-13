@@ -837,6 +837,88 @@
     let workoutCounter = 0;
     let locations = {};
 
+    // ── Draft persistence (survives Safari tab purges) ────────
+    const DRAFT_KEY = 'mhr_draft';
+
+    function saveDraft() {
+        try {
+            const draft = {
+                chatHistory,
+                workouts: collectWorkouts(),
+                emailSubject: document.getElementById('email-subject')?.value || '',
+                emailBody: document.getElementById('email-body')?.innerHTML || '',
+                emailVisible: document.getElementById('email-preview')?.classList.contains('visible') || false,
+                savedAt: Date.now(),
+            };
+            localStorage.setItem(DRAFT_KEY, JSON.stringify(draft));
+        } catch (e) {
+            console.warn('Could not save draft:', e);
+        }
+    }
+
+    function restoreDraft() {
+        try {
+            const raw = localStorage.getItem(DRAFT_KEY);
+            if (!raw) return false;
+            const draft = JSON.parse(raw);
+
+            // Discard drafts older than 7 days
+            if (draft.savedAt && Date.now() - draft.savedAt > 7 * 24 * 60 * 60 * 1000) {
+                localStorage.removeItem(DRAFT_KEY);
+                return false;
+            }
+
+            // Restore workout cards
+            if (draft.workouts && draft.workouts.length > 0) {
+                document.querySelectorAll('.workout-card').forEach(c => c.remove());
+                workoutCounter = 0;
+                draft.workouts.forEach(w => addWorkoutCard(w));
+            }
+
+            // Restore chat history and messages
+            if (draft.chatHistory && draft.chatHistory.length > 0) {
+                chatHistory = draft.chatHistory;
+                const container = document.getElementById('chat-messages');
+                // Clear default welcome bubble
+                container.innerHTML = '';
+                chatHistory.forEach(msg => addChatBubble(msg.role, msg.content));
+            }
+
+            // Restore email preview
+            if (draft.emailVisible) {
+                document.getElementById('email-subject').value = draft.emailSubject || '';
+                document.getElementById('email-body').innerHTML = draft.emailBody || '';
+                document.getElementById('email-preview').classList.add('visible');
+            }
+
+            showToast('Draft restored', 'success');
+            return true;
+        } catch (e) {
+            console.warn('Could not restore draft:', e);
+            return false;
+        }
+    }
+
+    function clearDraft() {
+        localStorage.removeItem(DRAFT_KEY);
+    }
+
+    // Auto-save when workout form fields change (debounced)
+    let _draftTimer = null;
+    document.addEventListener('input', function(e) {
+        const inWorkout = e.target.closest('.workout-card');
+        const inEmail = e.target.closest('#email-preview');
+        if (inWorkout || inEmail) {
+            clearTimeout(_draftTimer);
+            _draftTimer = setTimeout(saveDraft, 500);
+        }
+    });
+    document.addEventListener('change', function(e) {
+        if (e.target.closest('.workout-card')) {
+            saveDraft();
+        }
+    });
+
     // ── Auth ──────────────────────────────────────────────────
 
     // Initialize Google Sign-In
@@ -943,17 +1025,20 @@
             document.getElementById('user-avatar').style.display = 'none';
         }
 
-        // Clear any existing workout cards (e.g. from session restore) and add defaults
+        // Try to restore a saved draft; fall back to blank cards
         const existingCards = document.querySelectorAll('.workout-card');
         existingCards.forEach(c => c.remove());
         workoutCounter = 0;
-        addWorkoutCard();
-        addWorkoutCard();
+        if (!restoreDraft()) {
+            addWorkoutCard();
+            addWorkoutCard();
+        }
     }
 
     function signOut() {
         authToken = null;
         chatHistory = [];
+        clearDraft();
         localStorage.removeItem('mhr_auth');
         document.getElementById('auth-gate').style.display = '';
         document.getElementById('admin-main').classList.remove('visible');
@@ -1129,7 +1214,7 @@
         const card = document.getElementById(`workout-${id}`);
         if (card) {
             card.style.animation = 'bubbleIn 0.2s ease reverse';
-            setTimeout(() => card.remove(), 200);
+            setTimeout(() => { card.remove(); saveDraft(); }, 200);
         }
     }
 
@@ -1298,6 +1383,7 @@
                 try {
                     const updatedWorkouts = JSON.parse(updateMatch[1]);
                     applyWorkoutUpdates(updatedWorkouts);
+                    saveDraft();
                     showToast('Workouts updated from AI suggestions', 'success');
                 } catch (e) {
                     console.warn('Failed to parse workout update:', e);
@@ -1320,6 +1406,7 @@
 
             addChatBubble('assistant', aiMessage);
             chatHistory.push({ role: 'assistant', content: aiMessage });
+            saveDraft();
         } catch (e) {
             typing.classList.remove('visible');
             sendBtn.disabled = false;
@@ -1415,6 +1502,7 @@
 
     function clearChat() {
         chatHistory = [];
+        clearDraft();
         const container = document.getElementById('chat-messages');
         container.innerHTML = `
             <div class="chat-bubble assistant">
@@ -1540,6 +1628,7 @@
         // Convert markdown to HTML for rich preview
         document.getElementById('email-body').innerHTML = markdownToEmailHtml(body);
         document.getElementById('send-status').textContent = '';
+        saveDraft();
     }
 
     function hideEmailPreview() {
@@ -1614,6 +1703,7 @@
                 status.textContent = `Sent to ${res.recipient}`;
                 status.className = 'send-status success';
                 showToast('Workouts saved & email sent!', 'success');
+                clearDraft();
             }
         } catch (e) {
             status.textContent = `Failed: ${e.message}`;
