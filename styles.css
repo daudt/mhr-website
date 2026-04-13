@@ -102,7 +102,6 @@ ul { list-style: none; }
 .nav__logo img {
     height: 70px;
     transition: height 0.4s cubic-bezier(0.16, 1, 0.3, 1);
-    filter: brightness(0) invert(1);
 }
 
 .nav.scrolled .nav__logo img {
@@ -1158,7 +1157,6 @@ ul { list-style: none; }
 
 .footer__logo {
     height: 60px;
-    filter: brightness(0) invert(1);
     opacity: 0.8;
 }
 
