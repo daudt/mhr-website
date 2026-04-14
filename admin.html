@@ -933,8 +933,16 @@
                 document.getElementById('g_id_signin'),
                 { theme: 'outline', size: 'large', width: 300 }
             );
+            // Hide the center button while One Tap is showing to avoid double login UI
+            document.getElementById('g_id_signin').style.display = 'none';
+
             // Prompt One Tap for returning users
-            google.accounts.id.prompt();
+            google.accounts.id.prompt((notification) => {
+                // Show the center button only if One Tap wasn't displayed or was dismissed
+                if (notification.isNotDisplayed() || notification.isSkippedMoment() || notification.isDismissedMoment()) {
+                    document.getElementById('g_id_signin').style.display = 'flex';
+                }
+            });
 
             // Check for stored session — verify with backend before showing UI
             const stored = localStorage.getItem('mhr_auth');
