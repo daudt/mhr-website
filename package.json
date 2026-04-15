@@ -1,0 +1,16 @@
+{
+  "name": "mhr-website",
+  "private": true,
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "test:e2e": "playwright test",
+    "test:e2e:headed": "playwright test --headed",
+    "test:all": "vitest run && playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.52.0",
+    "serve": "^14.2.4",
+    "vitest": "^3.1.3"
+  }
+}
