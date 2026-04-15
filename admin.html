@@ -238,6 +238,26 @@
             display: none;
         }
 
+        .auth-spinner {
+            display: none;
+            flex-direction: column;
+            align-items: center;
+            gap: 1rem;
+            padding: 1rem 0;
+        }
+        .auth-spinner .spinner {
+            width: 36px;
+            height: 36px;
+            border: 3px solid #e0e0e0;
+            border-top-color: var(--primary);
+            border-radius: 50%;
+            animation: btnSpin 0.8s linear infinite;
+        }
+        .auth-spinner span {
+            color: #666;
+            font-size: 0.9rem;
+        }
+
         /* ── Main Layout ───────────────────────────────────── */
         .admin-main {
             display: none;
@@ -739,6 +759,10 @@
             <h2>Coach Login</h2>
             <p>Sign in with your Google account to manage workouts.</p>
             <div id="g_id_signin"></div>
+            <div class="auth-spinner" id="auth-spinner">
+                <div class="spinner"></div>
+                <span>Signing in…</span>
+            </div>
             <p class="auth-error" id="auth-error"></p>
         </div>
     </div>
@@ -951,6 +975,9 @@
                     const data = JSON.parse(stored);
                     authToken = data.token;
                     adminEmail = data.email || '';
+                    // Show spinner while verifying stored session
+                    document.getElementById('g_id_signin').style.display = 'none';
+                    document.getElementById('auth-spinner').style.display = 'flex';
                     verifyAndShowAdmin(data.name, data.picture);
                 } catch (e) {
                     localStorage.removeItem('mhr_auth');
@@ -986,6 +1013,10 @@
         const name = payload.name || payload.email;
         const picture = payload.picture || '';
         adminEmail = payload.email || '';
+
+        // Show spinner while verifying
+        document.getElementById('g_id_signin').style.display = 'none';
+        document.getElementById('auth-spinner').style.display = 'flex';
 
         // Persist across page refreshes and browser restarts
         localStorage.setItem('mhr_auth', JSON.stringify({
@@ -1052,6 +1083,8 @@
         document.getElementById('admin-main').classList.remove('visible');
         document.getElementById('sign-out-btn').style.display = 'none';
         document.getElementById('user-info').style.display = 'none';
+        document.getElementById('auth-spinner').style.display = 'none';
+        document.getElementById('g_id_signin').style.display = 'flex';
         if (GOOGLE_CLIENT_ID) {
             google.accounts.id.disableAutoSelect();
         }
