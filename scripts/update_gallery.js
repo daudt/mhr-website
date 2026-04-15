@@ -1,32 +1,36 @@
 const fs = require('fs');
 const path = require('path');
 
-const galleryDir = path.join(__dirname, '../images/gallery');
-const outputFile = path.join(__dirname, '../data/gallery.json');
+const IMAGE_EXTENSIONS = ['.jpg', '.jpeg', '.png', '.gif', '.webp'];
 
-// Ensure gallery directory exists
-if (!fs.existsSync(galleryDir)) {
-    console.error(`Gallery directory not found: ${galleryDir}`);
-    process.exit(1);
+function filterImageFiles(files) {
+    return files.filter(file => {
+        const ext = path.extname(file).toLowerCase();
+        return IMAGE_EXTENSIONS.includes(ext);
+    });
 }
 
-// Read directory
-try {
-    const files = fs.readdirSync(galleryDir);
+// Allow importing for tests
+module.exports = { filterImageFiles, IMAGE_EXTENSIONS };
 
-    // Filter for image files (jpg, jpeg, png, gif, webp)
-    const imageFiles = files.filter(file => {
-        const ext = path.extname(file).toLowerCase();
-        return ['.jpg', '.jpeg', '.png', '.gif', '.webp'].includes(ext);
-    });
+// Run as script when executed directly
+if (require.main === module) {
+    const galleryDir = path.join(__dirname, '../images/gallery');
+    const outputFile = path.join(__dirname, '../data/gallery.json');
 
-    // Write to JSON file
-    const jsonContent = JSON.stringify(imageFiles, null, 2);
-    fs.writeFileSync(outputFile, jsonContent);
+    if (!fs.existsSync(galleryDir)) {
+        console.error(`Gallery directory not found: ${galleryDir}`);
+        process.exit(1);
+    }
 
-    console.log(`Updated gallery.json with ${imageFiles.length} images.`);
-
-} catch (err) {
-    console.error('Error updating gallery JSON:', err);
-    process.exit(1);
+    try {
+        const files = fs.readdirSync(galleryDir);
+        const imageFiles = filterImageFiles(files);
+        const jsonContent = JSON.stringify(imageFiles, null, 2);
+        fs.writeFileSync(outputFile, jsonContent);
+        console.log(`Updated gallery.json with ${imageFiles.length} images.`);
+    } catch (err) {
+        console.error('Error updating gallery JSON:', err);
+        process.exit(1);
+    }
 }

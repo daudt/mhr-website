@@ -18,6 +18,14 @@ ehthumbs.db
 Desktop.ini
 
 
+# Dependencies
+node_modules/
+
+# Test artifacts
+test-results/
+playwright-report/
+playwright/.cache/
+
 # wrangler files
 .wrangler
 .dev.vars*
