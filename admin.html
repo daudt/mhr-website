@@ -1052,6 +1052,8 @@
     }
 
     function showAdmin(name, picture) {
+        // Dismiss the One Tap prompt if it's still showing
+        if (GOOGLE_CLIENT_ID) google.accounts.id.cancel();
         document.getElementById('auth-gate').style.display = 'none';
         document.getElementById('admin-main').classList.add('visible');
         document.getElementById('sign-out-btn').style.display = '';
