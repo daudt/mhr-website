@@ -10,6 +10,12 @@ import {
 
 const DRAFT_KEY = 'mhr_draft';
 
+function futureDate(daysAhead: number): string {
+  const d = new Date();
+  d.setDate(d.getDate() + daysAhead);
+  return d.toISOString().slice(0, 10);
+}
+
 /**
  * Helper: build a draft object that restoreDraft() can parse.
  */
@@ -18,7 +24,7 @@ function buildDraft(overrides: Record<string, any> = {}) {
     chatHistory: [],
     workouts: [
       {
-        date: '2026-04-20',
+        date: futureDate(2),
         time: '6:00 AM',
         location_name: '',
         description: 'Tempo run 5 miles',
@@ -81,8 +87,8 @@ test.describe('Admin Draft Persistence', () => {
     const jwt = createMockJwt();
     const draft = buildDraft({
       workouts: [
-        { date: '2026-04-21', time: '5:30 AM', location_name: '', description: 'Long run 10 miles' },
-        { date: '2026-04-23', time: '6:00 AM', location_name: '', description: 'Intervals 8x400m' },
+        { date: futureDate(2), time: '5:30 AM', location_name: '', description: 'Long run 10 miles' },
+        { date: futureDate(4), time: '6:00 AM', location_name: '', description: 'Intervals 8x400m' },
       ],
     });
 
@@ -272,7 +278,7 @@ test.describe('Admin Draft Persistence', () => {
     const desc = page.locator('textarea[id^="desc-"]').first();
     await desc.fill('Workout before email send');
     const dateInput = page.locator('input[id^="date-"]').first();
-    await dateInput.fill('2026-04-20');
+    await dateInput.fill(futureDate(3));
     await page.waitForTimeout(700);
 
     // Compose email — make the email preview visible and fill content
