@@ -64,5 +64,47 @@
         "time": null
       }
     ]
+  },
+  {
+    "event_name": "Cheyenne Mountain 50k",
+    "date": "2026-04-25",
+    "results": [
+      {
+        "runner": "Nicole",
+        "placement": null,
+        "division": null,
+        "time": null
+      },
+      {
+        "runner": "Kummi",
+        "placement": null,
+        "division": null,
+        "time": null
+      },
+      {
+        "runner": "Blair",
+        "placement": null,
+        "division": null,
+        "time": null
+      },
+      {
+        "runner": "Dale",
+        "placement": null,
+        "division": null,
+        "time": null
+      }
+    ]
+  },
+  {
+    "event_name": "NOCO Half Marathon",
+    "date": "2026-04-25",
+    "results": [
+      {
+        "runner": "Alina",
+        "placement": "1st",
+        "division": "age group",
+        "time": null
+      }
+    ]
   }
 ]

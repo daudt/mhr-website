@@ -146,6 +146,11 @@
             transform: translateY(-1px);
         }
 
+        .btn-sent {
+            background: #27ae60 !important;
+            cursor: default;
+        }
+
         .btn-secondary {
             background: var(--primary);
             color: var(--white);
@@ -892,11 +897,19 @@
                 return false;
             }
 
-            // Restore workout cards
+            // Restore workout cards (skip workouts with past dates)
             if (draft.workouts && draft.workouts.length > 0) {
-                document.querySelectorAll('.workout-card').forEach(c => c.remove());
-                workoutCounter = 0;
-                draft.workouts.forEach(w => addWorkoutCard(w));
+                const today = new Date().toISOString().slice(0, 10);
+                const futureWorkouts = draft.workouts.filter(w => !w.date || w.date >= today);
+                if (futureWorkouts.length > 0) {
+                    document.querySelectorAll('.workout-card').forEach(c => c.remove());
+                    workoutCounter = 0;
+                    futureWorkouts.forEach(w => addWorkoutCard(w));
+                } else {
+                    // All workouts are in the past — start fresh
+                    localStorage.removeItem(DRAFT_KEY);
+                    return false;
+                }
             }
 
             // Restore chat history and messages
@@ -1698,6 +1711,20 @@
             return;
         }
 
+        // Warn if any workout dates are in the past
+        const today = new Date().toISOString().slice(0, 10);
+        const workoutsToSave = collectWorkouts();
+        const pastWorkouts = workoutsToSave.filter(w => w.date && w.date < today);
+        if (pastWorkouts.length > 0 && workoutsToSave.length === pastWorkouts.length) {
+            if (!confirm('All workout dates are in the past and won\'t be saved to the schedule. Continue sending the email anyway?')) {
+                return;
+            }
+        } else if (pastWorkouts.length > 0) {
+            if (!confirm(`${pastWorkouts.length} workout(s) have past dates and will be filtered out. Continue?`)) {
+                return;
+            }
+        }
+
         _sendingEmail = true;
         const originalBtnHtml = sendBtn ? sendBtn.innerHTML : '';
         if (sendBtn) {
@@ -1710,7 +1737,7 @@
         // Save workouts to GitHub first — since the email has the admin marker,
         // the email processor will skip it, so we must commit workouts here
         try {
-            const workouts = collectWorkouts();
+            const workouts = workoutsToSave;
             if (workouts.length > 0) {
                 await apiFetch('/workouts', {
                     method: 'POST',
@@ -1742,17 +1769,23 @@
                 status.textContent = 'Dry run — email logged to console';
                 status.className = 'send-status success';
                 showToast('Dry run: workouts saved, email would be sent', 'success');
+                _sendingEmail = false;
+                if (sendBtn) { sendBtn.disabled = false; sendBtn.innerHTML = originalBtnHtml; }
             } else {
                 status.textContent = `Sent to ${res.recipient}`;
                 status.className = 'send-status success';
                 showToast('Workouts saved & email sent!', 'success');
                 clearDraft();
+                // Keep button disabled to prevent accidental double sends
+                if (sendBtn) {
+                    sendBtn.innerHTML = '<i class="fas fa-check"></i> Email Sent';
+                    sendBtn.classList.add('btn-sent');
+                }
             }
         } catch (e) {
             status.textContent = `Failed: ${e.message}`;
             status.className = 'send-status error';
             showToast(`Error: ${e.message}`, 'error');
-        } finally {
             _sendingEmail = false;
             if (sendBtn) { sendBtn.disabled = false; sendBtn.innerHTML = originalBtnHtml; }
         }
