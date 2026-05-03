@@ -1,38 +1,38 @@
 [
   {
-    "date": "2026-04-28",
+    "date": "2026-05-05",
     "time": "5:20 AM",
     "location": {
       "name": "Erie Middle School",
       "address": "650 Main Street, Erie, CO 80516",
       "map_link": "https://maps.google.com/?q=Erie+Middle+School,Erie,CO+80516"
     },
-    "description": "2 mile warm up + Drills & 4 x 20 second accelerators\n8-12 x 400m uphill repeats (focusing on strong form and consistent effort)\n90s-2min recovery jog back down\n1 mile cooldown jog and stretching",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout+%E2%80%93+2026-04-28&dates=20260428T112000Z%2F20260428T122000Z&details=2+mile+warm+up+%2B+Drills+%26+4+x+20+second+accelerators%0A8-12+x+400m+uphill+repeats+%28focusing+on+strong+form+and+consistent+effort%29%0A90s-2min+recovery+jog+back+down%0A1+mile+cooldown+jog+and+stretching&location=650+Main+Street%2C+Erie%2C+CO+80516",
-    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwNDI4VDExMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDQyN1QwMDM1MDhaDQpEVFNUQVJUOjIwMjYwNDI4VDExMjAwMFoNCkRURU5EOjIwMjYwNDI4VDEyMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQg4oCTIDIwMjYtMDQtMjgNCkRFU0NSSVBUSU9OOjIgbWlsZSB3YXJtIHVwICsgRHJpbGxzICYgNCB4IDIwIHNlY29uZCBhY2NlbGVyYXRvcnNcbjgtMTIgeCA0MDBtIHVwaGlsbCByZXBlYXRzIChmb2N1c2luZyBvbiBzdHJvbmcgZm9ybSBhbmQgY29uc2lzdGVudCBlZmZvcnQpXG45MHMtMm1pbiByZWNvdmVyeSBqb2cgYmFjayBkb3duXG4xIG1pbGUgY29vbGRvd24gam9nIGFuZCBzdHJldGNoaW5nDQpMT0NBVElPTjo2NTAgTWFpbiBTdHJlZXRcLCBFcmllXCwgQ08gODA1MTYNClNUQVRVUzpDT05GSVJNRUQNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVI="
+    "description": "1.5 mile easy running warm up + Drills and accelerators \n1 x 1600 meters at 10k pace with a 2 minute recovery \n2 x 800 meters at 5k pace with a 2 minute recovery \n1 x 1600 meters at 10k pace with a 2 minute recovery \n4 x 400 meters at 3k pace with a 90 second recovery \n",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout+%E2%80%93+2026-05-05&dates=20260505T112000Z%2F20260505T122000Z&details=1.5+mile+easy+running+warm+up+%2B+Drills+and+accelerators+%0A1+x+1600+meters+at+10k+pace+with+a+2+minute+recovery+%0A2+x+800+meters+at+5k+pace+with+a+2+minute+recovery+%0A1+x+1600+meters+at+10k+pace+with+a+2+minute+recovery+%0A4+x+400+meters+at+3k+pace+with+a+90+second+recovery+%0A&location=650+Main+Street%2C+Erie%2C+CO+80516",
+    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwNTA1VDExMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDUwM1QyMTM3MTFaDQpEVFNUQVJUOjIwMjYwNTA1VDExMjAwMFoNCkRURU5EOjIwMjYwNTA1VDEyMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQg4oCTIDIwMjYtMDUtMDUNCkRFU0NSSVBUSU9OOjEuNSBtaWxlIGVhc3kgcnVubmluZyB3YXJtIHVwICsgRHJpbGxzIGFuZCBhY2NlbGVyYXRvcnMgXG4xIHggMTYwMCBtZXRlcnMgYXQgMTBrIHBhY2Ugd2l0aCBhIDIgbWludXRlIHJlY292ZXJ5IFxuMiB4IDgwMCBtZXRlcnMgYXQgNWsgcGFjZSB3aXRoIGEgMiBtaW51dGUgcmVjb3ZlcnkgXG4xIHggMTYwMCBtZXRlcnMgYXQgMTBrIHBhY2Ugd2l0aCBhIDIgbWludXRlIHJlY292ZXJ5IFxuNCB4IDQwMCBtZXRlcnMgYXQgM2sgcGFjZSB3aXRoIGEgOTAgc2Vjb25kIHJlY292ZXJ5IFxuDQpMT0NBVElPTjo2NTAgTWFpbiBTdHJlZXRcLCBFcmllXCwgQ08gODA1MTYNClNUQVRVUzpDT05GSVJNRUQNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVI="
   },
   {
-    "date": "2026-04-30",
+    "date": "2026-05-07",
     "time": "5:20 AM",
     "location": {
-      "name": "Calvary Bible Church",
-      "address": "615 Evans St, Erie, CO 80516",
-      "map_link": "https://maps.app.goo.gl/eRXHpbB2h6qo8C8v8?g_st=ic"
+      "name": "Erie Middle School",
+      "address": "650 Main Street, Erie, CO 80516",
+      "map_link": "https://maps.google.com/?q=Erie+Middle+School,Erie,CO+80516"
     },
-    "description": "2 mile warm up + Drills & 4 x 20 second accelerators\n3 x 2-mile repeats at slightly faster than 10k pace\n2-3 minute recovery between reps\n1 mile cooldown jog and stretching",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout+%E2%80%93+2026-04-30&dates=20260430T112000Z%2F20260430T122000Z&details=2+mile+warm+up+%2B+Drills+%26+4+x+20+second+accelerators%0A3+x+2-mile+repeats+at+slightly+faster+than+10k+pace%0A2-3+minute+recovery+between+reps%0A1+mile+cooldown+jog+and+stretching&location=615+Evans+St%2C+Erie%2C+CO+80516",
-    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwNDMwVDExMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDQyN1QwMDM1MDhaDQpEVFNUQVJUOjIwMjYwNDMwVDExMjAwMFoNCkRURU5EOjIwMjYwNDMwVDEyMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQg4oCTIDIwMjYtMDQtMzANCkRFU0NSSVBUSU9OOjIgbWlsZSB3YXJtIHVwICsgRHJpbGxzICYgNCB4IDIwIHNlY29uZCBhY2NlbGVyYXRvcnNcbjMgeCAyLW1pbGUgcmVwZWF0cyBhdCBzbGlnaHRseSBmYXN0ZXIgdGhhbiAxMGsgcGFjZVxuMi0zIG1pbnV0ZSByZWNvdmVyeSBiZXR3ZWVuIHJlcHNcbjEgbWlsZSBjb29sZG93biBqb2cgYW5kIHN0cmV0Y2hpbmcNCkxPQ0FUSU9OOjYxNSBFdmFucyBTdFwsIEVyaWVcLCBDTyA4MDUxNg0KU1RBVFVTOkNPTkZJUk1FRA0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg=="
+    "description": "1.5 mile easy running warm up + Drills and accelerators \n20 minutes out at 10k pace plus 10 seconds or half marathon pace, 17 minutes back at slightly faster than 10k pace \n",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout+%E2%80%93+2026-05-07&dates=20260507T112000Z%2F20260507T122000Z&details=1.5+mile+easy+running+warm+up+%2B+Drills+and+accelerators+%0A20+minutes+out+at+10k+pace+plus+10+seconds+or+half+marathon+pace%2C+17+minutes+back+at+slightly+faster+than+10k+pace+%0A&location=650+Main+Street%2C+Erie%2C+CO+80516",
+    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwNTA3VDExMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDUwM1QyMTM3MTFaDQpEVFNUQVJUOjIwMjYwNTA3VDExMjAwMFoNCkRURU5EOjIwMjYwNTA3VDEyMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQg4oCTIDIwMjYtMDUtMDcNCkRFU0NSSVBUSU9OOjEuNSBtaWxlIGVhc3kgcnVubmluZyB3YXJtIHVwICsgRHJpbGxzIGFuZCBhY2NlbGVyYXRvcnMgXG4yMCBtaW51dGVzIG91dCBhdCAxMGsgcGFjZSBwbHVzIDEwIHNlY29uZHMgb3IgaGFsZiBtYXJhdGhvbiBwYWNlXCwgMTcgbWludXRlcyBiYWNrIGF0IHNsaWdodGx5IGZhc3RlciB0aGFuIDEwayBwYWNlIFxuDQpMT0NBVElPTjo2NTAgTWFpbiBTdHJlZXRcLCBFcmllXCwgQ08gODA1MTYNClNUQVRVUzpDT05GSVJNRUQNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVI="
   },
   {
-    "date": "2026-05-02",
+    "date": "2026-05-09",
     "time": "7:00 AM",
     "location": {
-      "name": "Waneka Lake Park",
-      "address": "1600 Caria Dr, Lafayette, CO 80026",
-      "map_link": "https://maps.google.com/?q=Waneka+Lake+Park,1600+Caria+Dr,Lafayette,CO+80026"
+      "name": "Flagg Park",
+      "address": "Flagg Park, Lafayette, CO 80026",
+      "map_link": "https://maps.google.com/?q=Flagg+Park,Lafayette,CO+80026"
     },
-    "description": "Join us for our weekly social run! This is open to everyone \u2014 all levels and abilities are welcome. We\u2019ll meet up for the run and then grab coffee at a local shop afterward. No charge, just come out and enjoy the miles!",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout+%E2%80%93+2026-05-02&dates=20260502T130000Z%2F20260502T140000Z&details=Join+us+for+our+weekly+social+run%21+This+is+open+to+everyone+%E2%80%94+all+levels+and+abilities+are+welcome.+We%E2%80%99ll+meet+up+for+the+run+and+then+grab+coffee+at+a+local+shop+afterward.+No+charge%2C+just+come+out+and+enjoy+the+miles%21&location=1600+Caria+Dr%2C+Lafayette%2C+CO+80026",
-    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwNTAyVDEzMDAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDQyN1QwMDM1MDhaDQpEVFNUQVJUOjIwMjYwNTAyVDEzMDAwMFoNCkRURU5EOjIwMjYwNTAyVDE0MDAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQg4oCTIDIwMjYtMDUtMDINCkRFU0NSSVBUSU9OOkpvaW4gdXMgZm9yIG91ciB3ZWVrbHkgc29jaWFsIHJ1biEgVGhpcyBpcyBvcGVuIHRvIGV2ZXJ5b25lIOKAlCBhbGwgbGV2ZWxzIGFuZCBhYmlsaXRpZXMgYXJlIHdlbGNvbWUuIFdl4oCZbGwgbWVldCB1cCBmb3IgdGhlIHJ1biBhbmQgdGhlbiBncmFiIGNvZmZlZSBhdCBhIGxvY2FsIHNob3AgYWZ0ZXJ3YXJkLiBObyBjaGFyZ2VcLCBqdXN0IGNvbWUgb3V0IGFuZCBlbmpveSB0aGUgbWlsZXMhDQpMT0NBVElPTjoxNjAwIENhcmlhIERyXCwgTGFmYXlldHRlXCwgQ08gODAwMjYNClNUQVRVUzpDT05GSVJNRUQNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVI="
+    "description": "Come one come all to the Saturday social run at Flagg Park! This run is more of social gathering than a run! All levels and abilities are welcome! The more the merrier! ",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout+%E2%80%93+2026-05-09&dates=20260509T130000Z%2F20260509T140000Z&details=Come+one+come+all+to+the+Saturday+social+run+at+Flagg+Park%21+This+run+is+more+of+social+gathering+than+a+run%21+All+levels+and+abilities+are+welcome%21+The+more+the+merrier%21+&location=Flagg+Park%2C+Lafayette%2C+CO+80026",
+    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwNTA5VDEzMDAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDUwM1QyMTM3MTFaDQpEVFNUQVJUOjIwMjYwNTA5VDEzMDAwMFoNCkRURU5EOjIwMjYwNTA5VDE0MDAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQg4oCTIDIwMjYtMDUtMDkNCkRFU0NSSVBUSU9OOkNvbWUgb25lIGNvbWUgYWxsIHRvIHRoZSBTYXR1cmRheSBzb2NpYWwgcnVuIGF0IEZsYWdnIFBhcmshIFRoaXMgcnVuIGlzIG1vcmUgb2Ygc29jaWFsIGdhdGhlcmluZyB0aGFuIGEgcnVuISBBbGwgbGV2ZWxzIGFuZCBhYmlsaXRpZXMgYXJlIHdlbGNvbWUhIFRoZSBtb3JlIHRoZSBtZXJyaWVyISANCkxPQ0FUSU9OOkZsYWdnIFBhcmtcLCBMYWZheWV0dGVcLCBDTyA4MDAyNg0KU1RBVFVTOkNPTkZJUk1FRA0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg=="
   }
 ]
