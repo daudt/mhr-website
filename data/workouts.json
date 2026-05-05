@@ -3,25 +3,15 @@
     "date": "2026-05-05",
     "time": "5:20 AM",
     "location": {
-      "name": "TBD",
-      "address": "",
-      "map_link": ""
-    },
-    "description": "Due to the rain practice is canceled. See everyone on Thursday ",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout+%E2%80%93+2026-05-05&dates=20260505T112000Z%2F20260505T122000Z&details=Due+to+the+rain+practice+is+canceled.+See+everyone+on+Thursday+&location=",
-    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwNTA1VDExMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDUwNVQxMDEwMzZaDQpEVFNUQVJUOjIwMjYwNTA1VDExMjAwMFoNCkRURU5EOjIwMjYwNTA1VDEyMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQg4oCTIDIwMjYtMDUtMDUNCkRFU0NSSVBUSU9OOkR1ZSB0byB0aGUgcmFpbiBwcmFjdGljZSBpcyBjYW5jZWxlZC4gU2VlIGV2ZXJ5b25lIG9uIFRodXJzZGF5IA0KTE9DQVRJT046DQpTVEFUVVM6Q09ORklSTUVEDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFS"
-  },
-  {
-    "date": "2026-05-05",
-    "time": "5:20 AM",
-    "location": {
       "name": "Erie Middle School",
       "address": "650 Main Street, Erie, CO 80516",
       "map_link": "https://maps.google.com/?q=Erie+Middle+School,Erie,CO+80516"
     },
     "description": "1.5 mile easy running warm up + Drills and accelerators \n1 x 1600 meters at 10k pace with a 2 minute recovery \n2 x 800 meters at 5k pace with a 2 minute recovery \n1 x 1600 meters at 10k pace with a 2 minute recovery \n4 x 400 meters at 3k pace with a 90 second recovery \n",
     "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout+%E2%80%93+2026-05-05&dates=20260505T112000Z%2F20260505T122000Z&details=1.5+mile+easy+running+warm+up+%2B+Drills+and+accelerators+%0A1+x+1600+meters+at+10k+pace+with+a+2+minute+recovery+%0A2+x+800+meters+at+5k+pace+with+a+2+minute+recovery+%0A1+x+1600+meters+at+10k+pace+with+a+2+minute+recovery+%0A4+x+400+meters+at+3k+pace+with+a+90+second+recovery+%0A&location=650+Main+Street%2C+Erie%2C+CO+80516",
-    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwNTA1VDExMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDUwM1QyMTM3MTFaDQpEVFNUQVJUOjIwMjYwNTA1VDExMjAwMFoNCkRURU5EOjIwMjYwNTA1VDEyMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQg4oCTIDIwMjYtMDUtMDUNCkRFU0NSSVBUSU9OOjEuNSBtaWxlIGVhc3kgcnVubmluZyB3YXJtIHVwICsgRHJpbGxzIGFuZCBhY2NlbGVyYXRvcnMgXG4xIHggMTYwMCBtZXRlcnMgYXQgMTBrIHBhY2Ugd2l0aCBhIDIgbWludXRlIHJlY292ZXJ5IFxuMiB4IDgwMCBtZXRlcnMgYXQgNWsgcGFjZSB3aXRoIGEgMiBtaW51dGUgcmVjb3ZlcnkgXG4xIHggMTYwMCBtZXRlcnMgYXQgMTBrIHBhY2Ugd2l0aCBhIDIgbWludXRlIHJlY292ZXJ5IFxuNCB4IDQwMCBtZXRlcnMgYXQgM2sgcGFjZSB3aXRoIGEgOTAgc2Vjb25kIHJlY292ZXJ5IFxuDQpMT0NBVElPTjo2NTAgTWFpbiBTdHJlZXRcLCBFcmllXCwgQ08gODA1MTYNClNUQVRVUzpDT05GSVJNRUQNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVI="
+    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwNTA1VDExMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDUwM1QyMTM3MTFaDQpEVFNUQVJUOjIwMjYwNTA1VDExMjAwMFoNCkRURU5EOjIwMjYwNTA1VDEyMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQg4oCTIDIwMjYtMDUtMDUNCkRFU0NSSVBUSU9OOjEuNSBtaWxlIGVhc3kgcnVubmluZyB3YXJtIHVwICsgRHJpbGxzIGFuZCBhY2NlbGVyYXRvcnMgXG4xIHggMTYwMCBtZXRlcnMgYXQgMTBrIHBhY2Ugd2l0aCBhIDIgbWludXRlIHJlY292ZXJ5IFxuMiB4IDgwMCBtZXRlcnMgYXQgNWsgcGFjZSB3aXRoIGEgMiBtaW51dGUgcmVjb3ZlcnkgXG4xIHggMTYwMCBtZXRlcnMgYXQgMTBrIHBhY2Ugd2l0aCBhIDIgbWludXRlIHJlY292ZXJ5IFxuNCB4IDQwMCBtZXRlcnMgYXQgM2sgcGFjZSB3aXRoIGEgOTAgc2Vjb25kIHJlY292ZXJ5IFxuDQpMT0NBVElPTjo2NTAgTWFpbiBTdHJlZXRcLCBFcmllXCwgQ08gODA1MTYNClNUQVRVUzpDT05GSVJNRUQNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVI=",
+    "cancelled": true,
+    "cancellation_reason": "Due to the rain"
   },
   {
     "date": "2026-05-07",
