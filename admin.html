@@ -356,6 +356,40 @@
 
         .remove-workout:hover { color: var(--secondary); }
 
+        .cancel-workout {
+            background: none;
+            border: 1px solid var(--secondary);
+            color: var(--secondary);
+            cursor: pointer;
+            font-size: 0.75rem;
+            padding: 0.2rem 0.5rem;
+            border-radius: 4px;
+            transition: all 0.2s;
+        }
+
+        .cancel-workout:hover { background: var(--secondary); color: #fff; }
+
+        .workout-card.is-cancelled {
+            opacity: 0.6;
+            border-left: 4px solid var(--secondary);
+        }
+
+        .workout-card.is-cancelled .cancelled-label {
+            background: var(--secondary);
+            color: #fff;
+            padding: 0.2rem 0.6rem;
+            border-radius: 4px;
+            font-size: 0.75rem;
+            font-weight: 600;
+        }
+
+        .workout-card.is-cancelled input,
+        .workout-card.is-cancelled select,
+        .workout-card.is-cancelled textarea {
+            pointer-events: none;
+            opacity: 0.5;
+        }
+
         .form-row {
             display: grid;
             grid-template-columns: 1fr 1fr;
@@ -1177,9 +1211,14 @@
         card.innerHTML = `
             <div class="workout-card-header">
                 <h3>Workout ${id}</h3>
-                <button class="remove-workout" onclick="removeWorkout(${id})" title="Remove">
-                    <i class="fas fa-times"></i>
-                </button>
+                <div style="display:flex;gap:0.5rem;align-items:center;">
+                    <button class="cancel-workout" id="cancel-btn-${id}" onclick="cancelWorkout(${id})" title="Cancel this practice">
+                        <i class="fas fa-ban"></i> Cancel
+                    </button>
+                    <button class="remove-workout" onclick="removeWorkout(${id})" title="Remove">
+                        <i class="fas fa-times"></i>
+                    </button>
+                </div>
             </div>
             <div class="form-row">
                 <div class="form-group">
@@ -1261,6 +1300,18 @@
                 document.getElementById(`custom-location-${id}`).value = data.location.name;
             }
         }
+
+        return id;
+    }
+
+    function markCardCancelled(id) {
+        const card = document.getElementById(`workout-${id}`);
+        if (!card) return;
+        card.classList.add('is-cancelled');
+        const header = card.querySelector('.workout-card-header h3');
+        if (header) header.innerHTML = `Workout ${id} <span class="cancelled-label"><i class="fas fa-ban"></i> Cancelled</span>`;
+        const btn = document.getElementById(`cancel-btn-${id}`);
+        if (btn) btn.remove();
     }
 
     function removeWorkout(id) {
@@ -1268,6 +1319,48 @@
         if (card) {
             card.style.animation = 'bubbleIn 0.2s ease reverse';
             setTimeout(() => { card.remove(); saveDraft(); }, 200);
+        }
+    }
+
+    async function cancelWorkout(id) {
+        const card = document.getElementById(`workout-${id}`);
+        if (!card) return;
+
+        const dateInput = document.getElementById(`date-${id}`);
+        const timeSelect = document.getElementById(`time-${id}`);
+        const date = dateInput ? dateInput.value : '';
+        const time = timeSelect ? timeSelect.value : '';
+
+        if (!date) {
+            showToast('Set a date before cancelling', 'error');
+            return;
+        }
+
+        const reason = prompt('Reason for cancellation (e.g. "Rain", "Holiday"):');
+        if (reason === null) return;
+
+        const btn = document.getElementById(`cancel-btn-${id}`);
+        if (btn) { btn.disabled = true; btn.innerHTML = '<span class="spinner"></span>'; }
+
+        try {
+            const res = await apiFetch('/workouts/cancel', {
+                method: 'POST',
+                body: JSON.stringify({ date, time, reason: reason || '' }),
+            });
+
+            if (res.already_cancelled) {
+                showToast('This practice was already cancelled', 'success');
+            } else {
+                showToast('Practice cancelled — website updated', 'success');
+            }
+
+            card.classList.add('is-cancelled');
+            const header = card.querySelector('.workout-card-header h3');
+            if (header) header.innerHTML = `Workout ${id} <span class="cancelled-label"><i class="fas fa-ban"></i> Cancelled</span>`;
+            if (btn) btn.remove();
+        } catch (e) {
+            showToast(`Failed to cancel: ${e.message}`, 'error');
+            if (btn) { btn.disabled = false; btn.innerHTML = '<i class="fas fa-ban"></i> Cancel'; }
         }
     }
 
@@ -1298,6 +1391,7 @@
         const cards = document.querySelectorAll('.workout-card');
         const workouts = [];
         cards.forEach(card => {
+            if (card.classList.contains('is-cancelled')) return;
             const id = card.id.replace('workout-', '');
             const date = document.getElementById(`date-${id}`)?.value || '';
             const timeSelect = document.getElementById(`time-${id}`);
@@ -1373,12 +1467,13 @@
             }
 
             workouts.forEach(w => {
-                addWorkoutCard({
+                const cardId = addWorkoutCard({
                     date: w.date,
                     time: w.time,
                     location: w.location,
                     description: w.description,
                 });
+                if (w.cancelled) markCardCancelled(cardId);
             });
             showToast(`Loaded ${workouts.length} workouts`, 'success');
         } catch (e) {
