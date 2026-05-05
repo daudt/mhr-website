@@ -854,6 +854,23 @@ h6 {
     margin-bottom: 0.5rem;
 }
 
+.workout-cancelled {
+    opacity: 0.75;
+    border-left: 4px solid var(--secondary-color);
+    padding-left: 1.2rem;
+}
+
+.cancelled-banner {
+    background: var(--secondary-color);
+    color: #fff;
+    padding: 0.4rem 0.8rem;
+    border-radius: 4px;
+    font-weight: 600;
+    font-size: 0.9rem;
+    display: inline-block;
+    margin-bottom: 0.5rem;
+}
+
 .location-address {
     color: #666;
     font-size: 0.9rem;

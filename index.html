@@ -302,7 +302,14 @@
                         day: 'numeric'
                     });
 
-                    html += '<div class="workout-item">';
+                    const isCancelled = workout.cancelled === true;
+                    html += `<div class="workout-item${isCancelled ? ' workout-cancelled' : ''}">`;
+
+                    if (isCancelled) {
+                        const reason = workout.cancellation_reason || 'Practice cancelled';
+                        html += `<div class="cancelled-banner"><i class="fas fa-ban"></i> ${reason}</div>`;
+                    }
+
                     html += `<h3>${dateStr} – ${workout.time}</h3>`;
 
                     if (workout.location && workout.location.name) {
@@ -322,8 +329,8 @@
                         html += `<p>${workout.description}</p>`;
                     }
 
-                    // Add calendar links if available
-                    if (workout.google_calendar_link || workout.apple_calendar_link) {
+                    // Add calendar links if available (skip for cancelled workouts)
+                    if (!isCancelled && (workout.google_calendar_link || workout.apple_calendar_link)) {
                         html += '<p class="calendar-links"><i class="fas fa-calendar-plus"></i> Add to calendar: ';
                         const links = [];
                         if (workout.google_calendar_link) {
