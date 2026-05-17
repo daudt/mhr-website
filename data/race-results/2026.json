@@ -106,5 +106,23 @@
         "time": null
       }
     ]
+  },
+  {
+    "event_name": "Colfax Marathon Relays",
+    "date": "2026-05-17",
+    "results": [
+      {
+        "runner": "Lindsay",
+        "placement": "N/A",
+        "division": "N/A",
+        "time": null
+      },
+      {
+        "runner": "Tyko",
+        "placement": "N/A",
+        "division": "N/A",
+        "time": null
+      }
+    ]
   }
 ]

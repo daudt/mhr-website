@@ -1,38 +1,39 @@
 [
   {
-    "date": "2026-05-12",
+    "date": "2026-05-19",
     "time": "5:20 AM",
     "location": {
       "name": "Erie Middle School",
       "address": "650 Main Street, Erie, CO 80516",
       "map_link": "https://maps.google.com/?q=Erie+Middle+School,Erie,CO+80516"
     },
-    "description": "Track Speed Sharpening: 1.5-mile warmup + drills + 4x50m strides. Main set: 10-12 x 400m @ 5k/10k pace w/ 90s recovery. 1-mile cooldown.",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout+%E2%80%93+2026-05-12&dates=20260512T112000Z%2F20260512T122000Z&details=Track+Speed+Sharpening%3A+1.5-mile+warmup+%2B+drills+%2B+4x50m+strides.+Main+set%3A+10-12+x+400m+%40+5k%2F10k+pace+w%2F+90s+recovery.+1-mile+cooldown.&location=650+Main+Street%2C+Erie%2C+CO+80516",
-    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwNTEyVDExMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDUxMFQyMjQ3MDlaDQpEVFNUQVJUOjIwMjYwNTEyVDExMjAwMFoNCkRURU5EOjIwMjYwNTEyVDEyMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQg4oCTIDIwMjYtMDUtMTINCkRFU0NSSVBUSU9OOlRyYWNrIFNwZWVkIFNoYXJwZW5pbmc6IDEuNS1taWxlIHdhcm11cCArIGRyaWxscyArIDR4NTBtIHN0cmlkZXMuIE1haW4gc2V0OiAxMC0xMiB4IDQwMG0gQCA1ay8xMGsgcGFjZSB3LyA5MHMgcmVjb3ZlcnkuIDEtbWlsZSBjb29sZG93bi4NCkxPQ0FUSU9OOjY1MCBNYWluIFN0cmVldFwsIEVyaWVcLCBDTyA4MDUxNg0KU1RBVFVTOkNPTkZJUk1FRA0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg=="
+    "location_link": null,
+    "description": "Warmup: 1.5 miles easy + drills + 4 x 20-second accelerators. Workout: 5 x 400 meters at 5k pace (90-second recovery), followed by 4 x 100 meters at \"fun fast\" or mile pace (60-second recovery). Cool down: 0.5 miles easy jog around the track.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+EMS&dates=20260519T112000Z%2F20260519T122000Z&details=Warmup%3A+1.5+miles+easy+%2B+drills+%2B+4+x+20-second+accelerators.+Workout%3A+5+x+400+meters+at+5k+pace+%2890-second+recovery%29%2C+followed+by+4+x+100+meters+at+%22fun+fast%22+or+mile+pace+%2860-second+recovery%29.+Cool+down%3A+0.5+miles+easy+jog+around+the+track.&location=650+Main+Street%2C+Erie%2C+CO+80516",
+    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwNTE5VDExMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDUxN1QyMDU4MDBaDQpEVFNUQVJUOjIwMjYwNTE5VDExMjAwMFoNCkRURU5EOjIwMjYwNTE5VDEyMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IEVNUw0KREVTQ1JJUFRJT046V2FybXVwOiAxLjUgbWlsZXMgZWFzeSArIGRyaWxscyArIDQgeCAyMC1zZWNvbmQgYWNjZWxlcmF0b3JzLiBXb3Jrb3V0OiA1IHggNDAwIG1ldGVycyBhdCA1ayBwYWNlICg5MC1zZWNvbmQgcmVjb3ZlcnkpXCwgZm9sbG93ZWQgYnkgNCB4IDEwMCBtZXRlcnMgYXQgImZ1biBmYXN0IiBvciBtaWxlIHBhY2UgKDYwLXNlY29uZCByZWNvdmVyeSkuIENvb2wgZG93bjogMC41IG1pbGVzIGVhc3kgam9nIGFyb3VuZCB0aGUgdHJhY2suDQpMT0NBVElPTjo2NTAgTWFpbiBTdHJlZXRcLCBFcmllXCwgQ08gODA1MTYNClNUQVRVUzpDT05GSVJNRUQNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVI="
   },
   {
-    "date": "2026-05-14",
+    "date": "2026-05-21",
     "time": "5:20 AM",
     "location": {
-      "name": "Lehigh Park",
-      "address": "Lehigh Park, Erie, CO 80516",
-      "map_link": "https://maps.google.com/?q=Lehigh+Park,Erie,CO+80516"
+      "name": "Erie Middle School",
+      "address": "650 Main Street, Erie, CO 80516",
+      "map_link": "https://maps.google.com/?q=Erie+Middle+School,Erie,CO+80516"
     },
-    "description": "Road Threshold Rhythm: 1.5-mile warmup. Main set: 2 x 2 miles @ Threshold pace (10-15s slower than 10k pace) w/ 3 min recovery. 1-mile cooldown.",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout+%E2%80%93+2026-05-14&dates=20260514T112000Z%2F20260514T122000Z&details=Road+Threshold+Rhythm%3A+1.5-mile+warmup.+Main+set%3A+2+x+2+miles+%40+Threshold+pace+%2810-15s+slower+than+10k+pace%29+w%2F+3+min+recovery.+1-mile+cooldown.&location=Lehigh+Park%2C+Erie%2C+CO+80516",
-    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwNTE0VDExMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDUxMFQyMjQ3MDlaDQpEVFNUQVJUOjIwMjYwNTE0VDExMjAwMFoNCkRURU5EOjIwMjYwNTE0VDEyMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQg4oCTIDIwMjYtMDUtMTQNCkRFU0NSSVBUSU9OOlJvYWQgVGhyZXNob2xkIFJoeXRobTogMS41LW1pbGUgd2FybXVwLiBNYWluIHNldDogMiB4IDIgbWlsZXMgQCBUaHJlc2hvbGQgcGFjZSAoMTAtMTVzIHNsb3dlciB0aGFuIDEwayBwYWNlKSB3LyAzIG1pbiByZWNvdmVyeS4gMS1taWxlIGNvb2xkb3duLg0KTE9DQVRJT046TGVoaWdoIFBhcmtcLCBFcmllXCwgQ08gODA1MTYNClNUQVRVUzpDT05GSVJNRUQNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVI="
+    "location_link": null,
+    "description": "Warmup: 1.5 miles easy + drills + 4 x 20-second accelerators. Workout: 2 x 1-mile intervals at 10k pace plus 10 seconds (1-lap easy jog recovery), followed by 2 x 400 meters at goal 10k pace (1-minute recovery). Cool down: 0.5 miles easy jog.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+EMS&dates=20260521T112000Z%2F20260521T122000Z&details=Warmup%3A+1.5+miles+easy+%2B+drills+%2B+4+x+20-second+accelerators.+Workout%3A+2+x+1-mile+intervals+at+10k+pace+plus+10+seconds+%281-lap+easy+jog+recovery%29%2C+followed+by+2+x+400+meters+at+goal+10k+pace+%281-minute+recovery%29.+Cool+down%3A+0.5+miles+easy+jog.&location=650+Main+Street%2C+Erie%2C+CO+80516",
+    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwNTIxVDExMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDUxN1QyMDU4MDBaDQpEVFNUQVJUOjIwMjYwNTIxVDExMjAwMFoNCkRURU5EOjIwMjYwNTIxVDEyMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IEVNUw0KREVTQ1JJUFRJT046V2FybXVwOiAxLjUgbWlsZXMgZWFzeSArIGRyaWxscyArIDQgeCAyMC1zZWNvbmQgYWNjZWxlcmF0b3JzLiBXb3Jrb3V0OiAyIHggMS1taWxlIGludGVydmFscyBhdCAxMGsgcGFjZSBwbHVzIDEwIHNlY29uZHMgKDEtbGFwIGVhc3kgam9nIHJlY292ZXJ5KVwsIGZvbGxvd2VkIGJ5IDIgeCA0MDAgbWV0ZXJzIGF0IGdvYWwgMTBrIHBhY2UgKDEtbWludXRlIHJlY292ZXJ5KS4gQ29vbCBkb3duOiAwLjUgbWlsZXMgZWFzeSBqb2cuDQpMT0NBVElPTjo2NTAgTWFpbiBTdHJlZXRcLCBFcmllXCwgQ08gODA1MTYNClNUQVRVUzpDT05GSVJNRUQNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVI="
   },
   {
-    "date": "2026-05-16",
-    "time": "7:00 AM",
+    "date": "2026-05-23",
+    "time": null,
     "location": {
-      "name": "Waneka Lake",
-      "address": "Waneka Lake",
-      "map_link": "https://maps.google.com/?q=Waneka+Lake"
+      "name": "Reliance Park",
+      "address": "Reliance Park",
+      "map_link": "https://maps.google.com/?q=Reliance+Park"
     },
-    "description": "Saturday Social Run: 4-6 miles at conversational pace around the lake. Meet at the boathouse.",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout+%E2%80%93+2026-05-16&dates=20260516T130000Z%2F20260516T140000Z&details=Saturday+Social+Run%3A+4-6+miles+at+conversational+pace+around+the+lake.+Meet+at+the+boathouse.&location=Waneka+Lake",
-    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwNTE2VDEzMDAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDUxMFQyMjQ3MDlaDQpEVFNUQVJUOjIwMjYwNTE2VDEzMDAwMFoNCkRURU5EOjIwMjYwNTE2VDE0MDAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQg4oCTIDIwMjYtMDUtMTYNCkRFU0NSSVBUSU9OOlNhdHVyZGF5IFNvY2lhbCBSdW46IDQtNiBtaWxlcyBhdCBjb252ZXJzYXRpb25hbCBwYWNlIGFyb3VuZCB0aGUgbGFrZS4gTWVldCBhdCB0aGUgYm9hdGhvdXNlLg0KTE9DQVRJT046V2FuZWthIExha2UNClNUQVRVUzpDT05GSVJNRUQNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVI="
+    "location_link": null,
+    "description": "Social run; free and open to all levels and abilities."
   }
 ]
