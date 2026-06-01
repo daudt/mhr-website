@@ -232,5 +232,17 @@
         "time": "1:11:18"
       }
     ]
+  },
+  {
+    "event_name": "San Diego Rock & Roll Marathon",
+    "date": "2026-06-01",
+    "results": [
+      {
+        "runner": "Tyko",
+        "placement": null,
+        "division": null,
+        "time": "3:35:44"
+      }
+    ]
   }
 ]

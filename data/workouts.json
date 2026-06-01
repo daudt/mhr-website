@@ -1,38 +1,41 @@
 [
   {
-    "date": "2026-05-26",
+    "date": "2026-06-02",
     "time": "5:20 AM",
     "location": {
-      "name": "Erie Middle School",
-      "address": "650 Main Street, Erie, CO 80516",
-      "map_link": "https://maps.google.com/?q=Erie+Middle+School,Erie,CO+80516"
+      "name": "EMS",
+      "address": "EMS",
+      "map_link": "https://maps.app.goo.gl/ZA5dMfqj7QKAZYG99?g_st=ic"
     },
-    "description": "Recovery Focus\n2-mile warmup, drills, and accelerators\n5–10 x 100 meters at a \"fun fast\" pace (no sprinting)\n60–90 second recovery between intervals\n1-mile easy cooldown",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout+%E2%80%93+2026-05-26&dates=20260526T112000Z%2F20260526T122000Z&details=Recovery+Focus%0A2-mile+warmup%2C+drills%2C+and+accelerators%0A5%E2%80%9310+x+100+meters+at+a+%22fun+fast%22+pace+%28no+sprinting%29%0A60%E2%80%9390+second+recovery+between+intervals%0A1-mile+easy+cooldown&location=650+Main+Street%2C+Erie%2C+CO+80516",
-    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwNTI2VDExMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDUyNlQxMjM0MTZaDQpEVFNUQVJUOjIwMjYwNTI2VDExMjAwMFoNCkRURU5EOjIwMjYwNTI2VDEyMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQg4oCTIDIwMjYtMDUtMjYNCkRFU0NSSVBUSU9OOjItbWlsZSB3YXJtdXBcLCBkcmlsbHNcLCBhbmQgYWNjZWxlcmF0b3JzXG414oCTMTAgeCAxMDAgbWV0ZXJzIGF0IGEgImZ1biBmYXN0IiBwYWNlIChubyBzcHJpbnRpbmcpXG42MOKAkzkwIHNlY29uZCByZWNvdmVyeSBiZXR3ZWVuIGludGVydmFsc1xuMS1taWxlIGVhc3kgY29vbGRvd24NCkxPQ0FUSU9OOjY1MCBNYWluIFN0cmVldFwsIEVyaWVcLCBDTyA4MDUxNg0KU1RBVFVTOkNPTkZJUk1FRA0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg=="
+    "location_link": "https://maps.app.goo.gl/ZA5dMfqj7QKAZYG99?g_st=ic",
+    "description": "2-mile warmup, drills, and 2 laps of accelerators/strides. 4 x 400 meters at mile goal pace (2-minute active recovery). 2 x 200 meters at 800 pace (200-meter easy jog/walk recovery).",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+EMS&dates=20260602T112000Z%2F20260602T122000Z&details=2-mile+warmup%2C+drills%2C+and+2+laps+of+accelerators%2Fstrides.+4+x+400+meters+at+mile+goal+pace+%282-minute+active+recovery%29.+2+x+200+meters+at+800+pace+%28200-meter+easy+jog%2Fwalk+recovery%29.&location=EMS",
+    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwNjAyVDExMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDYwMVQwMDQxMTVaDQpEVFNUQVJUOjIwMjYwNjAyVDExMjAwMFoNCkRURU5EOjIwMjYwNjAyVDEyMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IEVNUw0KREVTQ1JJUFRJT046Mi1taWxlIHdhcm11cFwsIGRyaWxsc1wsIGFuZCAyIGxhcHMgb2YgYWNjZWxlcmF0b3JzL3N0cmlkZXMuIDQgeCA0MDAgbWV0ZXJzIGF0IG1pbGUgZ29hbCBwYWNlICgyLW1pbnV0ZSBhY3RpdmUgcmVjb3ZlcnkpLiAyIHggMjAwIG1ldGVycyBhdCA4MDAgcGFjZSAoMjAwLW1ldGVyIGVhc3kgam9nL3dhbGsgcmVjb3ZlcnkpLg0KTE9DQVRJT046RU1TDQpTVEFUVVM6Q09ORklSTUVEDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFS"
   },
   {
-    "date": "2026-05-28",
+    "date": "2026-06-04",
     "time": "5:20 AM",
     "location": {
-      "name": "Erie Middle School",
-      "address": "650 Main Street, Erie, CO 80516",
-      "map_link": "https://maps.google.com/?q=Erie+Middle+School,Erie,CO+80516"
+      "name": "EMS",
+      "address": "EMS",
+      "map_link": "https://maps.app.goo.gl/ZA5dMfqj7QKAZYG99?g_st=ic"
     },
-    "description": "Recovery Focus\n2-mile warmup, drills, and accelerators\n7–10 minutes out and 7–10 minutes back at slightly faster than marathon pace\n1-mile easy cooldown",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout+%E2%80%93+2026-05-28&dates=20260528T112000Z%2F20260528T122000Z&details=Recovery+Focus%0A2-mile+warmup%2C+drills%2C+and+accelerators%0A7%E2%80%9310+minutes+out+and+7%E2%80%9310+minutes+back+at+slightly+faster+than+marathon+pace%0A1-mile+easy+cooldown&location=650+Main+Street%2C+Erie%2C+CO+80516",
-    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwNTI4VDExMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDUyNlQxMjM0MTZaDQpEVFNUQVJUOjIwMjYwNTI4VDExMjAwMFoNCkRURU5EOjIwMjYwNTI4VDEyMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQg4oCTIDIwMjYtMDUtMjgNCkRFU0NSSVBUSU9OOjItbWlsZSB3YXJtdXBcLCBkcmlsbHNcLCBhbmQgYWNjZWxlcmF0b3JzXG434oCTMTAgbWludXRlcyBvdXQgYW5kIDfigJMxMCBtaW51dGVzIGJhY2sgYXQgc2xpZ2h0bHkgZmFzdGVyIHRoYW4gbWFyYXRob24gcGFjZVxuMS1taWxlIGVhc3kgY29vbGRvd24NCkxPQ0FUSU9OOjY1MCBNYWluIFN0cmVldFwsIEVyaWVcLCBDTyA4MDUxNg0KU1RBVFVTOkNPTkZJUk1FRA0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg=="
+    "location_link": "https://maps.app.goo.gl/ZA5dMfqj7QKAZYG99?g_st=ic",
+    "description": "2-mile warmup, drills, and 2 laps of accelerators/strides. 2 x 800 meters at mile goal pace (2\u20133 minute active recovery). 5 x 100 meters at 400-meter pace (60-second recovery).",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+EMS&dates=20260604T112000Z%2F20260604T122000Z&details=2-mile+warmup%2C+drills%2C+and+2+laps+of+accelerators%2Fstrides.+2+x+800+meters+at+mile+goal+pace+%282%E2%80%933+minute+active+recovery%29.+5+x+100+meters+at+400-meter+pace+%2860-second+recovery%29.&location=EMS",
+    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwNjA0VDExMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDYwMVQwMDQxMTVaDQpEVFNUQVJUOjIwMjYwNjA0VDExMjAwMFoNCkRURU5EOjIwMjYwNjA0VDEyMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IEVNUw0KREVTQ1JJUFRJT046Mi1taWxlIHdhcm11cFwsIGRyaWxsc1wsIGFuZCAyIGxhcHMgb2YgYWNjZWxlcmF0b3JzL3N0cmlkZXMuIDIgeCA4MDAgbWV0ZXJzIGF0IG1pbGUgZ29hbCBwYWNlICgy4oCTMyBtaW51dGUgYWN0aXZlIHJlY292ZXJ5KS4gNSB4IDEwMCBtZXRlcnMgYXQgNDAwLW1ldGVyIHBhY2UgKDYwLXNlY29uZCByZWNvdmVyeSkuDQpMT0NBVElPTjpFTVMNClNUQVRVUzpDT05GSVJNRUQNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVI="
   },
   {
-    "date": "2026-05-30",
+    "date": "2026-06-06",
     "time": "7:00 AM",
     "location": {
-      "name": "Flagg Park",
-      "address": "Flagg Park, Lafayette, CO 80026",
-      "map_link": "https://maps.google.com/?q=Flagg+Park,Lafayette,CO+80026"
+      "name": "Public Road Trailhead",
+      "address": "Public Road Trailhead",
+      "map_link": "https://maps.app.goo.gl/69uoNCr5KQC8KqCq7?g_st=ic"
     },
-    "description": "Group Social Run at Flagg Park. Open to all abilities. Coffee afterward for those who have time.",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout+%E2%80%93+2026-05-30&dates=20260530T130000Z%2F20260530T140000Z&details=Group+Social+Run+at+Flagg+Park.+Open+to+all+abilities.+Coffee+afterward+for+those+who+have+time.&location=Flagg+Park%2C+Lafayette%2C+CO+80026",
-    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwNTMwVDEzMDAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDUyNlQxMjM0MTZaDQpEVFNUQVJUOjIwMjYwNTMwVDEzMDAwMFoNCkRURU5EOjIwMjYwNTMwVDE0MDAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQg4oCTIDIwMjYtMDUtMzANCkRFU0NSSVBUSU9OOkdyb3VwIFNvY2lhbCBSdW4gYXQgRmxhZ2cgUGFyay4gT3BlbiB0byBhbGwgYWJpbGl0aWVzLiBDb2ZmZWUgYWZ0ZXJ3YXJkIGZvciB0aG9zZSB3aG8gaGF2ZSB0aW1lLg0KTE9DQVRJT046RmxhZ2cgUGFya1wsIExhZmF5ZXR0ZVwsIENPIDgwMDI2DQpTVEFUVVM6Q09ORklSTUVEDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFS"
+    "location_link": "https://maps.app.goo.gl/69uoNCr5KQC8KqCq7?g_st=ic",
+    "description": "Group social run. Open to all levels.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+Public+Road+Trailhead&dates=20260606T130000Z%2F20260606T140000Z&details=Group+social+run.+Open+to+all+levels.&location=Public+Road+Trailhead",
+    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwNjA2VDEzMDAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDYwMVQwMDQxMTVaDQpEVFNUQVJUOjIwMjYwNjA2VDEzMDAwMFoNCkRURU5EOjIwMjYwNjA2VDE0MDAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IFB1YmxpYyBSb2FkIFRyYWlsaGVhZA0KREVTQ1JJUFRJT046R3JvdXAgc29jaWFsIHJ1bi4gT3BlbiB0byBhbGwgbGV2ZWxzLg0KTE9DQVRJT046UHVibGljIFJvYWQgVHJhaWxoZWFkDQpTVEFUVVM6Q09ORklSTUVEDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFS"
   }
 ]
