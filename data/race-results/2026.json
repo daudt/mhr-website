@@ -244,5 +244,17 @@
         "time": "3:35:44"
       }
     ]
+  },
+  {
+    "event_name": "Haul Ass Ultra running festival",
+    "date": "2026-06-07",
+    "results": [
+      {
+        "runner": "Song",
+        "placement": null,
+        "division": "10k",
+        "time": null
+      }
+    ]
   }
 ]

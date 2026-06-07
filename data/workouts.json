@@ -1,41 +1,41 @@
 [
   {
-    "date": "2026-06-02",
+    "date": "2026-06-09",
     "time": "5:20 AM",
     "location": {
       "name": "EMS",
       "address": "EMS",
-      "map_link": "https://maps.app.goo.gl/ZA5dMfqj7QKAZYG99?g_st=ic"
+      "map_link": "https://maps.app.goo.gl/gMK1rNQckZXJNT259?g_st=ic"
     },
-    "location_link": "https://maps.app.goo.gl/ZA5dMfqj7QKAZYG99?g_st=ic",
-    "description": "2-mile warmup, drills, and 2 laps of accelerators/strides. 4 x 400 meters at mile goal pace (2-minute active recovery). 2 x 200 meters at 800 pace (200-meter easy jog/walk recovery).",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+EMS&dates=20260602T112000Z%2F20260602T122000Z&details=2-mile+warmup%2C+drills%2C+and+2+laps+of+accelerators%2Fstrides.+4+x+400+meters+at+mile+goal+pace+%282-minute+active+recovery%29.+2+x+200+meters+at+800+pace+%28200-meter+easy+jog%2Fwalk+recovery%29.&location=EMS",
-    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwNjAyVDExMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDYwMVQwMDQxMTVaDQpEVFNUQVJUOjIwMjYwNjAyVDExMjAwMFoNCkRURU5EOjIwMjYwNjAyVDEyMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IEVNUw0KREVTQ1JJUFRJT046Mi1taWxlIHdhcm11cFwsIGRyaWxsc1wsIGFuZCAyIGxhcHMgb2YgYWNjZWxlcmF0b3JzL3N0cmlkZXMuIDQgeCA0MDAgbWV0ZXJzIGF0IG1pbGUgZ29hbCBwYWNlICgyLW1pbnV0ZSBhY3RpdmUgcmVjb3ZlcnkpLiAyIHggMjAwIG1ldGVycyBhdCA4MDAgcGFjZSAoMjAwLW1ldGVyIGVhc3kgam9nL3dhbGsgcmVjb3ZlcnkpLg0KTE9DQVRJT046RU1TDQpTVEFUVVM6Q09ORklSTUVEDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFS"
+    "location_link": "https://maps.app.goo.gl/gMK1rNQckZXJNT259?g_st=ic",
+    "description": "One-mile time trial with extended warm-up and strides.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+EMS&dates=20260609T112000Z%2F20260609T122000Z&details=One-mile+time+trial+with+extended+warm-up+and+strides.&location=EMS",
+    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwNjA5VDExMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDYwN1QyMTI0MDhaDQpEVFNUQVJUOjIwMjYwNjA5VDExMjAwMFoNCkRURU5EOjIwMjYwNjA5VDEyMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IEVNUw0KREVTQ1JJUFRJT046T25lLW1pbGUgdGltZSB0cmlhbCB3aXRoIGV4dGVuZGVkIHdhcm0tdXAgYW5kIHN0cmlkZXMuDQpMT0NBVElPTjpFTVMNClNUQVRVUzpDT05GSVJNRUQNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVI="
   },
   {
-    "date": "2026-06-04",
+    "date": "2026-06-11",
     "time": "5:20 AM",
     "location": {
-      "name": "EMS",
-      "address": "EMS",
-      "map_link": "https://maps.app.goo.gl/ZA5dMfqj7QKAZYG99?g_st=ic"
+      "name": "Lehigh Park",
+      "address": "Lehigh Park",
+      "map_link": "https://maps.app.goo.gl/WSZvZVePtzCUhTND8?g_st=ic"
     },
-    "location_link": "https://maps.app.goo.gl/ZA5dMfqj7QKAZYG99?g_st=ic",
-    "description": "2-mile warmup, drills, and 2 laps of accelerators/strides. 2 x 800 meters at mile goal pace (2\u20133 minute active recovery). 5 x 100 meters at 400-meter pace (60-second recovery).",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+EMS&dates=20260604T112000Z%2F20260604T122000Z&details=2-mile+warmup%2C+drills%2C+and+2+laps+of+accelerators%2Fstrides.+2+x+800+meters+at+mile+goal+pace+%282%E2%80%933+minute+active+recovery%29.+5+x+100+meters+at+400-meter+pace+%2860-second+recovery%29.&location=EMS",
-    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwNjA0VDExMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDYwMVQwMDQxMTVaDQpEVFNUQVJUOjIwMjYwNjA0VDExMjAwMFoNCkRURU5EOjIwMjYwNjA0VDEyMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IEVNUw0KREVTQ1JJUFRJT046Mi1taWxlIHdhcm11cFwsIGRyaWxsc1wsIGFuZCAyIGxhcHMgb2YgYWNjZWxlcmF0b3JzL3N0cmlkZXMuIDIgeCA4MDAgbWV0ZXJzIGF0IG1pbGUgZ29hbCBwYWNlICgy4oCTMyBtaW51dGUgYWN0aXZlIHJlY292ZXJ5KS4gNSB4IDEwMCBtZXRlcnMgYXQgNDAwLW1ldGVyIHBhY2UgKDYwLXNlY29uZCByZWNvdmVyeSkuDQpMT0NBVElPTjpFTVMNClNUQVRVUzpDT05GSVJNRUQNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVI="
+    "location_link": "https://maps.app.goo.gl/WSZvZVePtzCUhTND8?g_st=ic",
+    "description": "3\u20135 x 1k at 5k pace with 2\u20133 minutes of recovery between intervals.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+Lehigh+Park&dates=20260611T112000Z%2F20260611T122000Z&details=3%E2%80%935+x+1k+at+5k+pace+with+2%E2%80%933+minutes+of+recovery+between+intervals.&location=Lehigh+Park",
+    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwNjExVDExMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDYwN1QyMTI0MDhaDQpEVFNUQVJUOjIwMjYwNjExVDExMjAwMFoNCkRURU5EOjIwMjYwNjExVDEyMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IExlaGlnaCBQYXJrDQpERVNDUklQVElPTjoz4oCTNSB4IDFrIGF0IDVrIHBhY2Ugd2l0aCAy4oCTMyBtaW51dGVzIG9mIHJlY292ZXJ5IGJldHdlZW4gaW50ZXJ2YWxzLg0KTE9DQVRJT046TGVoaWdoIFBhcmsNClNUQVRVUzpDT05GSVJNRUQNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVI="
   },
   {
-    "date": "2026-06-06",
+    "date": "2026-06-13",
     "time": "6:30 AM",
     "location": {
-      "name": "Public Road Trailhead",
-      "address": "Public Road Trailhead",
-      "map_link": "https://maps.app.goo.gl/69uoNCr5KQC8KqCq7?g_st=ic"
+      "name": "Winot Coffee Shop, Niwot",
+      "address": "Winot Coffee Shop, Niwot",
+      "map_link": "https://maps.app.goo.gl/f5xVGFQuztLxrsJx8?g_st=ic"
     },
-    "location_link": "https://maps.app.goo.gl/69uoNCr5KQC8KqCq7?g_st=ic",
-    "description": "Group social run. Open to all levels.",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+Public+Road+Trailhead&dates=20260606T130000Z%2F20260606T140000Z&details=Group+social+run.+Open+to+all+levels.&location=Public+Road+Trailhead",
-    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwNjA2VDEzMDAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDYwMVQwMDQxMTVaDQpEVFNUQVJUOjIwMjYwNjA2VDEzMDAwMFoNCkRURU5EOjIwMjYwNjA2VDE0MDAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IFB1YmxpYyBSb2FkIFRyYWlsaGVhZA0KREVTQ1JJUFRJT046R3JvdXAgc29jaWFsIHJ1bi4gT3BlbiB0byBhbGwgbGV2ZWxzLg0KTE9DQVRJT046UHVibGljIFJvYWQgVHJhaWxoZWFkDQpTVEFUVVM6Q09ORklSTUVEDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFS"
+    "location_link": "https://maps.app.goo.gl/f5xVGFQuztLxrsJx8?g_st=ic",
+    "description": "Social run on a scenic 6.2-mile loop.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+Winot+Coffee+Shop%2C+Niwot&dates=20260613T123000Z%2F20260613T133000Z&details=Social+run+on+a+scenic+6.2-mile+loop.&location=Winot+Coffee+Shop%2C+Niwot",
+    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwNjEzVDEyMzAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDYwN1QyMTI0MDhaDQpEVFNUQVJUOjIwMjYwNjEzVDEyMzAwMFoNCkRURU5EOjIwMjYwNjEzVDEzMzAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IFdpbm90IENvZmZlZSBTaG9wXCwgTml3b3QNCkRFU0NSSVBUSU9OOlNvY2lhbCBydW4gb24gYSBzY2VuaWMgNi4yLW1pbGUgbG9vcC4NCkxPQ0FUSU9OOldpbm90IENvZmZlZSBTaG9wXCwgTml3b3QNClNUQVRVUzpDT05GSVJNRUQNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVI="
   }
 ]
