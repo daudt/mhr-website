@@ -32,4 +32,21 @@ jobs:
       with:
         context: ./mhr-gallery
         push: true
-        tags: registry.local-registry.svc.cluster.local:5000/mhr-gallery:latest
+        tags: |
+          registry.local-registry.svc.cluster.local:5000/mhr-gallery:${{ github.sha }}
+          registry.local-registry.svc.cluster.local:5000/mhr-gallery:latest
+
+    # ARGOCD_REPO_TOKEN is injected into the self-hosted runner pod env by the
+    # arc-runner-set chart (apps/arc-runner-set in the argocd repo) — it is NOT a
+    # GitHub Actions secret, so it is referenced as a plain shell variable here.
+    - name: Update ArgoCD manifest
+      if: github.event_name != 'pull_request'
+      run: |
+        git clone https://x-access-token:${ARGOCD_REPO_TOKEN}@github.com/daudt/argocd.git /tmp/argocd
+        cd /tmp/argocd
+        sed -i "s|mhr-gallery:.*|mhr-gallery:${GITHUB_SHA}|" apps/mhr-gallery/deployment.yaml
+        git config user.name "github-actions"
+        git config user.email "actions@github.com"
+        git add apps/mhr-gallery/deployment.yaml
+        git diff --cached --quiet || git commit -m "chore: update mhr-gallery image to ${GITHUB_SHA::7}"
+        git push
