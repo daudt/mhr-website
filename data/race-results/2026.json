@@ -256,5 +256,23 @@
         "time": null
       }
     ]
+  },
+  {
+    "event_name": "Big Horn 52 mile",
+    "date": "2026-06-21",
+    "results": [
+      {
+        "runner": "Kummi KA",
+        "placement": "2nd AG",
+        "division": "Age Group",
+        "time": null
+      },
+      {
+        "runner": "Nicole Rubis",
+        "placement": "3rd AG",
+        "division": "Age Group",
+        "time": null
+      }
+    ]
   }
 ]

@@ -1,41 +1,54 @@
 [
   {
-    "date": "2026-06-16",
+    "date": "2026-06-23",
     "time": "5:20 AM",
     "location": {
       "name": "EMS",
       "address": "EMS",
-      "map_link": "https://maps.app.goo.gl/tVUpmTbrzs37E2YA9?g_st=ic"
+      "map_link": "https://maps.app.goo.gl/8uoz81e91vNqVQNr9?g_st=ic"
     },
-    "location_link": "https://maps.app.goo.gl/tVUpmTbrzs37E2YA9?g_st=ic",
-    "description": "1 x 1600m @ 10k pace, 1 x 1200m @ 5k pace, 1 x 800m @ 5k pace, 1 x 400m @ Mile pace, Recovery: 2\u20133 minutes between intervals",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+EMS&dates=20260616T112000Z%2F20260616T122000Z&details=1+x+1600m+%40+10k+pace%2C+1+x+1200m+%40+5k+pace%2C+1+x+800m+%40+5k+pace%2C+1+x+400m+%40+Mile+pace%2C+Recovery%3A+2%E2%80%933+minutes+between+intervals&location=EMS",
-    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwNjE2VDExMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDYxNVQwMDQzNThaDQpEVFNUQVJUOjIwMjYwNjE2VDExMjAwMFoNCkRURU5EOjIwMjYwNjE2VDEyMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IEVNUw0KREVTQ1JJUFRJT046MSB4IDE2MDBtIEAgMTBrIHBhY2VcLCAxIHggMTIwMG0gQCA1ayBwYWNlXCwgMSB4IDgwMG0gQCA1ayBwYWNlXCwgMSB4IDQwMG0gQCBNaWxlIHBhY2VcLCBSZWNvdmVyeTogMuKAkzMgbWludXRlcyBiZXR3ZWVuIGludGVydmFscw0KTE9DQVRJT046RU1TDQpTVEFUVVM6Q09ORklSTUVEDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFS"
+    "location_link": "https://maps.app.goo.gl/8uoz81e91vNqVQNr9?g_st=ic",
+    "description": "400@3k pace/800@5k pace/400@3k pace x 3 sets for 3 miles of total hard work. 90 sec recovery after 400s, 60 sec recovery after 800s, 1 lap recovery after each set",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+EMS&dates=20260623T112000Z%2F20260623T122000Z&details=400%403k+pace%2F800%405k+pace%2F400%403k+pace+x+3+sets+for+3+miles+of+total+hard+work.+90+sec+recovery+after+400s%2C+60+sec+recovery+after+800s%2C+1+lap+recovery+after+each+set&location=EMS",
+    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwNjIzVDExMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDYyMVQyMjU4MjJaDQpEVFNUQVJUOjIwMjYwNjIzVDExMjAwMFoNCkRURU5EOjIwMjYwNjIzVDEyMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IEVNUw0KREVTQ1JJUFRJT046NDAwQDNrIHBhY2UvODAwQDVrIHBhY2UvNDAwQDNrIHBhY2UgeCAzIHNldHMgZm9yIDMgbWlsZXMgb2YgdG90YWwgaGFyZCB3b3JrLiA5MCBzZWMgcmVjb3ZlcnkgYWZ0ZXIgNDAwc1wsIDYwIHNlYyByZWNvdmVyeSBhZnRlciA4MDBzXCwgMSBsYXAgcmVjb3ZlcnkgYWZ0ZXIgZWFjaCBzZXQNCkxPQ0FUSU9OOkVNUw0KU1RBVFVTOkNPTkZJUk1FRA0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg=="
   },
   {
-    "date": "2026-06-18",
+    "date": "2026-06-25",
+    "time": "5:00 AM",
+    "location": {
+      "name": "Calvary Bible Church",
+      "address": "Calvary Bible Church",
+      "map_link": "https://maps.app.goo.gl/yss3SWxZenXTeQEA9?g_st=ic"
+    },
+    "location_link": "https://maps.app.goo.gl/yss3SWxZenXTeQEA9?g_st=ic",
+    "description": "Group A: 1 mile progressive warm up, 6 x 20 second Accelerators, 3 - 4 x 2 mile (1 x 2 miles at slightly faster than marathon pace, 1 x 2 miles at 1/2 marathon pace, 1 x 2 miles at 10k pace plus 10 seconds, 1 x 2 miles at 10k pace plus 10 seconds), 60 second recovery between each set, 4 x 100 meters at Fun Fast pace",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+Calvary+Bible+Church&dates=20260625T110000Z%2F20260625T120000Z&details=Group+A%3A+1+mile+progressive+warm+up%2C+6+x+20+second+Accelerators%2C+3+-+4+x+2+mile+%281+x+2+miles+at+slightly+faster+than+marathon+pace%2C+1+x+2+miles+at+1%2F2+marathon+pace%2C+1+x+2+miles+at+10k+pace+plus+10+seconds%2C+1+x+2+miles+at+10k+pace+plus+10+seconds%29%2C+60+second+recovery+between+each+set%2C+4+x+100+meters+at+Fun+Fast+pace&location=Calvary+Bible+Church",
+    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwNjI1VDExMDAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDYyMVQyMjU4MjJaDQpEVFNUQVJUOjIwMjYwNjI1VDExMDAwMFoNCkRURU5EOjIwMjYwNjI1VDEyMDAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IENhbHZhcnkgQmlibGUgQ2h1cmNoDQpERVNDUklQVElPTjpHcm91cCBBOiAxIG1pbGUgcHJvZ3Jlc3NpdmUgd2FybSB1cFwsIDYgeCAyMCBzZWNvbmQgQWNjZWxlcmF0b3JzXCwgMyAtIDQgeCAyIG1pbGUgKDEgeCAyIG1pbGVzIGF0IHNsaWdodGx5IGZhc3RlciB0aGFuIG1hcmF0aG9uIHBhY2VcLCAxIHggMiBtaWxlcyBhdCAxLzIgbWFyYXRob24gcGFjZVwsIDEgeCAyIG1pbGVzIGF0IDEwayBwYWNlIHBsdXMgMTAgc2Vjb25kc1wsIDEgeCAyIG1pbGVzIGF0IDEwayBwYWNlIHBsdXMgMTAgc2Vjb25kcylcLCA2MCBzZWNvbmQgcmVjb3ZlcnkgYmV0d2VlbiBlYWNoIHNldFwsIDQgeCAxMDAgbWV0ZXJzIGF0IEZ1biBGYXN0IHBhY2UNCkxPQ0FUSU9OOkNhbHZhcnkgQmlibGUgQ2h1cmNoDQpTVEFUVVM6Q09ORklSTUVEDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFS"
+  },
+  {
+    "date": "2026-06-25",
     "time": "5:20 AM",
     "location": {
-      "name": "Lehigh Park",
-      "address": "Lehigh Park",
-      "map_link": "https://maps.app.goo.gl/VNeu7WhMTwAf5ohf9?g_st=ic"
+      "name": "Calvary Bible Church",
+      "address": "Calvary Bible Church",
+      "map_link": "https://maps.app.goo.gl/yss3SWxZenXTeQEA9?g_st=ic"
     },
-    "location_link": "https://maps.app.goo.gl/VNeu7WhMTwAf5ohf9?g_st=ic",
-    "description": "3\u20135 x 1200m @ 10k pace, Recovery: 2 minutes between intervals, 4 x 100 m at Fun Fast",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+Lehigh+Park&dates=20260618T112000Z%2F20260618T122000Z&details=3%E2%80%935+x+1200m+%40+10k+pace%2C+Recovery%3A+2+minutes+between+intervals%2C+4+x+100+m+at+Fun+Fast&location=Lehigh+Park",
-    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwNjE4VDExMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDYxNVQwMDQzNThaDQpEVFNUQVJUOjIwMjYwNjE4VDExMjAwMFoNCkRURU5EOjIwMjYwNjE4VDEyMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IExlaGlnaCBQYXJrDQpERVNDUklQVElPTjoz4oCTNSB4IDEyMDBtIEAgMTBrIHBhY2VcLCBSZWNvdmVyeTogMiBtaW51dGVzIGJldHdlZW4gaW50ZXJ2YWxzXCwgNCB4IDEwMCBtIGF0IEZ1biBGYXN0DQpMT0NBVElPTjpMZWhpZ2ggUGFyaw0KU1RBVFVTOkNPTkZJUk1FRA0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg=="
+    "location_link": "https://maps.app.goo.gl/yss3SWxZenXTeQEA9?g_st=ic",
+    "description": "Group B: 1 mile easy warm up + Drills + 6 x 100 m Accelerators, 4 - 6 x .50 miles at 10k - 1/2 marathon pace with a 90 second recovery between sets",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+Calvary+Bible+Church&dates=20260625T112000Z%2F20260625T122000Z&details=Group+B%3A+1+mile+easy+warm+up+%2B+Drills+%2B+6+x+100+m+Accelerators%2C+4+-+6+x+.50+miles+at+10k+-+1%2F2+marathon+pace+with+a+90+second+recovery+between+sets&location=Calvary+Bible+Church",
+    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwNjI1VDExMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDYyMVQyMjU4MjJaDQpEVFNUQVJUOjIwMjYwNjI1VDExMjAwMFoNCkRURU5EOjIwMjYwNjI1VDEyMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IENhbHZhcnkgQmlibGUgQ2h1cmNoDQpERVNDUklQVElPTjpHcm91cCBCOiAxIG1pbGUgZWFzeSB3YXJtIHVwICsgRHJpbGxzICsgNiB4IDEwMCBtIEFjY2VsZXJhdG9yc1wsIDQgLSA2IHggLjUwIG1pbGVzIGF0IDEwayAtIDEvMiBtYXJhdGhvbiBwYWNlIHdpdGggYSA5MCBzZWNvbmQgcmVjb3ZlcnkgYmV0d2VlbiBzZXRzDQpMT0NBVElPTjpDYWx2YXJ5IEJpYmxlIENodXJjaA0KU1RBVFVTOkNPTkZJUk1FRA0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg=="
   },
   {
-    "date": "2026-06-20",
+    "date": "2026-06-27",
     "time": "6:30 AM",
     "location": {
-      "name": "E. Simpson Coffee Shop",
-      "address": "E. Simpson Coffee Shop",
-      "map_link": "https://maps.app.goo.gl/a9hDhedeixsHFe9S6?g_st=ic"
+      "name": "Reliance Park",
+      "address": "Reliance Park",
+      "map_link": "https://maps.google.com/?q=Reliance+Park"
     },
-    "location_link": "https://maps.app.goo.gl/a9hDhedeixsHFe9S6?g_st=ic",
-    "description": "Social run",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+E.+Simpson+Coffee+Shop&dates=20260620T123000Z%2F20260620T133000Z&details=Social+run&location=E.+Simpson+Coffee+Shop",
-    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwNjIwVDEyMzAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDYxNVQwMDQzNThaDQpEVFNUQVJUOjIwMjYwNjIwVDEyMzAwMFoNCkRURU5EOjIwMjYwNjIwVDEzMzAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IEUuIFNpbXBzb24gQ29mZmVlIFNob3ANCkRFU0NSSVBUSU9OOlNvY2lhbCBydW4NCkxPQ0FUSU9OOkUuIFNpbXBzb24gQ29mZmVlIFNob3ANClNUQVRVUzpDT05GSVJNRUQNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVI="
+    "location_link": null,
+    "description": "Social run. All levels and abilities welcome.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+Reliance+Park&dates=20260627T123000Z%2F20260627T133000Z&details=Social+run.+All+levels+and+abilities+welcome.&location=Reliance+Park",
+    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwNjI3VDEyMzAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDYyMVQyMjU4MjJaDQpEVFNUQVJUOjIwMjYwNjI3VDEyMzAwMFoNCkRURU5EOjIwMjYwNjI3VDEzMzAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IFJlbGlhbmNlIFBhcmsNCkRFU0NSSVBUSU9OOlNvY2lhbCBydW4uIEFsbCBsZXZlbHMgYW5kIGFiaWxpdGllcyB3ZWxjb21lLg0KTE9DQVRJT046UmVsaWFuY2UgUGFyaw0KU1RBVFVTOkNPTkZJUk1FRA0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg=="
   }
 ]
