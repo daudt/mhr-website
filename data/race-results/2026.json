@@ -274,5 +274,17 @@
         "time": null
       }
     ]
+  },
+  {
+    "event_name": "Slacker Half Marathon",
+    "date": "2026-06-27",
+    "results": [
+      {
+        "runner": "Amy Wu",
+        "placement": null,
+        "division": null,
+        "time": "2:29:28"
+      }
+    ]
   }
 ]
