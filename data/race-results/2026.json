@@ -286,5 +286,17 @@
         "time": "2:29:28"
       }
     ]
+  },
+  {
+    "event_name": "Avery 5k",
+    "date": "2026-07-04",
+    "results": [
+      {
+        "runner": "Jenn Marino",
+        "placement": "N/A",
+        "division": "N/A",
+        "time": "26:39"
+      }
+    ]
   }
 ]

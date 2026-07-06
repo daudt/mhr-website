@@ -1,54 +1,41 @@
 [
   {
-    "date": "2026-06-30",
+    "date": "2026-07-07",
     "time": "5:20 AM",
     "location": {
       "name": "EMS",
       "address": "EMS",
-      "map_link": "https://maps.app.goo.gl/b3AFs1XjpNZTspem7?g_st=ic"
+      "map_link": "https://maps.app.goo.gl/HkLMf5G2Z6o7v1Ep9?g_st=ic"
     },
-    "location_link": "https://maps.app.goo.gl/b3AFs1XjpNZTspem7?g_st=ic",
-    "description": "Group A (Racing the Niwot Mile): 5\u20138 x 400m at current mile PR pace with 90-second recoveries. Group B (Not racing): 8\u201310 x 400m at current 5K PR pace with 90-second recoveries.",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+EMS&dates=20260630T112000Z%2F20260630T122000Z&details=Group+A+%28Racing+the+Niwot+Mile%29%3A+5%E2%80%938+x+400m+at+current+mile+PR+pace+with+90-second+recoveries.+Group+B+%28Not+racing%29%3A+8%E2%80%9310+x+400m+at+current+5K+PR+pace+with+90-second+recoveries.&location=EMS",
-    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwNjMwVDExMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDYyOFQyMDU3MDJaDQpEVFNUQVJUOjIwMjYwNjMwVDExMjAwMFoNCkRURU5EOjIwMjYwNjMwVDEyMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IEVNUw0KREVTQ1JJUFRJT046R3JvdXAgQSAoUmFjaW5nIHRoZSBOaXdvdCBNaWxlKTogNeKAkzggeCA0MDBtIGF0IGN1cnJlbnQgbWlsZSBQUiBwYWNlIHdpdGggOTAtc2Vjb25kIHJlY292ZXJpZXMuIEdyb3VwIEIgKE5vdCByYWNpbmcpOiA44oCTMTAgeCA0MDBtIGF0IGN1cnJlbnQgNUsgUFIgcGFjZSB3aXRoIDkwLXNlY29uZCByZWNvdmVyaWVzLg0KTE9DQVRJT046RU1TDQpTVEFUVVM6Q09ORklSTUVEDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFS"
+    "location_link": "https://maps.app.goo.gl/HkLMf5G2Z6o7v1Ep9?g_st=ic",
+    "description": "Group A: 4 x 400m at 5k pace (2-minute recovery) + 2 x 200m. Group B: 8-12 x 400m at 5k pace (90-second recovery) + 4 x 100m at Fun Fast pace. Group C: Warm-up, drills, and a few easy 400s.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+EMS&dates=20260707T112000Z%2F20260707T122000Z&details=Group+A%3A+4+x+400m+at+5k+pace+%282-minute+recovery%29+%2B+2+x+200m.+Group+B%3A+8-12+x+400m+at+5k+pace+%2890-second+recovery%29+%2B+4+x+100m+at+Fun+Fast+pace.+Group+C%3A+Warm-up%2C+drills%2C+and+a+few+easy+400s.&location=EMS",
+    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwNzA3VDExMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDcwNlQwMDUyMThaDQpEVFNUQVJUOjIwMjYwNzA3VDExMjAwMFoNCkRURU5EOjIwMjYwNzA3VDEyMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IEVNUw0KREVTQ1JJUFRJT046R3JvdXAgQTogNCB4IDQwMG0gYXQgNWsgcGFjZSAoMi1taW51dGUgcmVjb3ZlcnkpICsgMiB4IDIwMG0uIEdyb3VwIEI6IDgtMTIgeCA0MDBtIGF0IDVrIHBhY2UgKDkwLXNlY29uZCByZWNvdmVyeSkgKyA0IHggMTAwbSBhdCBGdW4gRmFzdCBwYWNlLiBHcm91cCBDOiBXYXJtLXVwXCwgZHJpbGxzXCwgYW5kIGEgZmV3IGVhc3kgNDAwcy4NCkxPQ0FUSU9OOkVNUw0KU1RBVFVTOkNPTkZJUk1FRA0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg=="
   },
   {
-    "date": "2026-07-02",
+    "date": "2026-07-09",
     "time": "5:20 AM",
     "location": {
-      "name": "EMS",
-      "address": "EMS",
-      "map_link": "https://maps.app.goo.gl/b3AFs1XjpNZTspem7?g_st=ic"
+      "name": "Lehigh Park",
+      "address": "Lehigh Park",
+      "map_link": "https://maps.app.goo.gl/V2SQJZMiqti8GFF29?g_st=ic"
     },
-    "location_link": "https://maps.app.goo.gl/b3AFs1XjpNZTspem7?g_st=ic",
-    "description": "Group A (Racing the Niwot Mile): 4-mile easy tempo run at goal marathon pace, followed by 4 x 150m downhill strides at mile pace (walk back recovery). Group B (Not racing): 10\u201312 minute out-and-back at 10K pace plus 10 seconds, followed by 4 x 200m at 5K pace (200m walk recovery).",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+EMS&dates=20260702T112000Z%2F20260702T122000Z&details=Group+A+%28Racing+the+Niwot+Mile%29%3A+4-mile+easy+tempo+run+at+goal+marathon+pace%2C+followed+by+4+x+150m+downhill+strides+at+mile+pace+%28walk+back+recovery%29.+Group+B+%28Not+racing%29%3A+10%E2%80%9312+minute+out-and-back+at+10K+pace+plus+10+seconds%2C+followed+by+4+x+200m+at+5K+pace+%28200m+walk+recovery%29.&location=EMS",
-    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwNzAyVDExMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDYyOFQyMDU3MDJaDQpEVFNUQVJUOjIwMjYwNzAyVDExMjAwMFoNCkRURU5EOjIwMjYwNzAyVDEyMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IEVNUw0KREVTQ1JJUFRJT046R3JvdXAgQSAoUmFjaW5nIHRoZSBOaXdvdCBNaWxlKTogNC1taWxlIGVhc3kgdGVtcG8gcnVuIGF0IGdvYWwgbWFyYXRob24gcGFjZVwsIGZvbGxvd2VkIGJ5IDQgeCAxNTBtIGRvd25oaWxsIHN0cmlkZXMgYXQgbWlsZSBwYWNlICh3YWxrIGJhY2sgcmVjb3ZlcnkpLiBHcm91cCBCIChOb3QgcmFjaW5nKTogMTDigJMxMiBtaW51dGUgb3V0LWFuZC1iYWNrIGF0IDEwSyBwYWNlIHBsdXMgMTAgc2Vjb25kc1wsIGZvbGxvd2VkIGJ5IDQgeCAyMDBtIGF0IDVLIHBhY2UgKDIwMG0gd2FsayByZWNvdmVyeSkuDQpMT0NBVElPTjpFTVMNClNUQVRVUzpDT05GSVJNRUQNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVI="
+    "location_link": "https://maps.app.goo.gl/V2SQJZMiqti8GFF29?g_st=ic",
+    "description": "Group A: 2 x 1 mile at 10k pace (+10 seconds) + 4 x 100m at Fun Fast pace. Group B: 3-4 x 1 mile at 10k pace (+5 seconds) + 4 x 100m at Fun Fast pace. Group C: Warm-up, drills, and 1 mile at ultra pace.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+Lehigh+Park&dates=20260709T112000Z%2F20260709T122000Z&details=Group+A%3A+2+x+1+mile+at+10k+pace+%28%2B10+seconds%29+%2B+4+x+100m+at+Fun+Fast+pace.+Group+B%3A+3-4+x+1+mile+at+10k+pace+%28%2B5+seconds%29+%2B+4+x+100m+at+Fun+Fast+pace.+Group+C%3A+Warm-up%2C+drills%2C+and+1+mile+at+ultra+pace.&location=Lehigh+Park",
+    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwNzA5VDExMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDcwNlQwMDUyMThaDQpEVFNUQVJUOjIwMjYwNzA5VDExMjAwMFoNCkRURU5EOjIwMjYwNzA5VDEyMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IExlaGlnaCBQYXJrDQpERVNDUklQVElPTjpHcm91cCBBOiAyIHggMSBtaWxlIGF0IDEwayBwYWNlICgrMTAgc2Vjb25kcykgKyA0IHggMTAwbSBhdCBGdW4gRmFzdCBwYWNlLiBHcm91cCBCOiAzLTQgeCAxIG1pbGUgYXQgMTBrIHBhY2UgKCs1IHNlY29uZHMpICsgNCB4IDEwMG0gYXQgRnVuIEZhc3QgcGFjZS4gR3JvdXAgQzogV2FybS11cFwsIGRyaWxsc1wsIGFuZCAxIG1pbGUgYXQgdWx0cmEgcGFjZS4NCkxPQ0FUSU9OOkxlaGlnaCBQYXJrDQpTVEFUVVM6Q09ORklSTUVEDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFS"
   },
   {
-    "date": "2026-07-04",
+    "date": "2026-07-11",
     "time": "6:30 AM",
     "location": {
-      "name": "Niwot Coffee",
-      "address": "Niwot Coffee",
-      "map_link": "https://maps.app.goo.gl/ZdCqe214oQsXHdwr7?g_st=ic"
+      "name": "Cristos Coffee",
+      "address": "Cristos Coffee",
+      "map_link": "https://maps.app.goo.gl/3fUTPrXTmCvxzmp68?g_st=ic"
     },
-    "location_link": "https://maps.app.goo.gl/ZdCqe214oQsXHdwr7?g_st=ic",
-    "description": "Social run meeting at Niwot Coffee.",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+Niwot+Coffee&dates=20260704T123000Z%2F20260704T133000Z&details=Social+run+meeting+at+Niwot+Coffee.&location=Niwot+Coffee",
-    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwNzA0VDEyMzAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDYyOFQyMDU3MDJaDQpEVFNUQVJUOjIwMjYwNzA0VDEyMzAwMFoNCkRURU5EOjIwMjYwNzA0VDEzMzAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IE5pd290IENvZmZlZQ0KREVTQ1JJUFRJT046U29jaWFsIHJ1biBtZWV0aW5nIGF0IE5pd290IENvZmZlZS4NCkxPQ0FUSU9OOk5pd290IENvZmZlZQ0KU1RBVFVTOkNPTkZJUk1FRA0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg=="
-  },
-  {
-    "date": "2026-07-04",
-    "time": "7:30 AM",
-    "location": {
-      "name": "Niwot Coffee",
-      "address": "Niwot Coffee",
-      "map_link": "https://maps.app.goo.gl/ZdCqe214oQsXHdwr7?g_st=ic"
-    },
-    "location_link": "https://maps.app.goo.gl/ZdCqe214oQsXHdwr7?g_st=ic",
-    "description": "Niwot Mile race, followed by coffee.",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+Niwot+Coffee&dates=20260704T133000Z%2F20260704T143000Z&details=Niwot+Mile+race%2C+followed+by+coffee.&location=Niwot+Coffee",
-    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwNzA0VDEzMzAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDYyOFQyMDU3MDJaDQpEVFNUQVJUOjIwMjYwNzA0VDEzMzAwMFoNCkRURU5EOjIwMjYwNzA0VDE0MzAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IE5pd290IENvZmZlZQ0KREVTQ1JJUFRJT046Tml3b3QgTWlsZSByYWNlXCwgZm9sbG93ZWQgYnkgY29mZmVlLg0KTE9DQVRJT046Tml3b3QgQ29mZmVlDQpTVEFUVVM6Q09ORklSTUVEDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFS"
+    "location_link": "https://maps.app.goo.gl/3fUTPrXTmCvxzmp68?g_st=ic",
+    "description": "Group social run.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+Cristos+Coffee&dates=20260711T123000Z%2F20260711T133000Z&details=Group+social+run.&location=Cristos+Coffee",
+    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwNzExVDEyMzAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDcwNlQwMDUyMThaDQpEVFNUQVJUOjIwMjYwNzExVDEyMzAwMFoNCkRURU5EOjIwMjYwNzExVDEzMzAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IENyaXN0b3MgQ29mZmVlDQpERVNDUklQVElPTjpHcm91cCBzb2NpYWwgcnVuLg0KTE9DQVRJT046Q3Jpc3RvcyBDb2ZmZWUNClNUQVRVUzpDT05GSVJNRUQNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVI="
   }
 ]
