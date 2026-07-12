@@ -298,5 +298,23 @@
         "time": "26:39"
       }
     ]
+  },
+  {
+    "event_name": "Cookie Chase 5K",
+    "date": "2026-07-12",
+    "results": [
+      {
+        "runner": "Yianna",
+        "placement": null,
+        "division": "1st in age group",
+        "time": "18:25"
+      },
+      {
+        "runner": "Jake",
+        "placement": null,
+        "division": "4th in age group",
+        "time": "19:05"
+      }
+    ]
   }
 ]

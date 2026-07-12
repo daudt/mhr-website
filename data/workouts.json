@@ -1,41 +1,41 @@
 [
   {
-    "date": "2026-07-07",
+    "date": "2026-07-14",
+    "time": "5:20 AM",
+    "location": {
+      "name": "Calvary Bible Church",
+      "address": "Calvary Bible Church",
+      "map_link": "https://maps.app.goo.gl/k9tmpCmwKjjtPjsX9?g_st=ic"
+    },
+    "location_link": "https://maps.app.goo.gl/k9tmpCmwKjjtPjsX9?g_st=ic",
+    "description": "Group A: Warmup, drills, and accelerators; 2 x 1 mile at 1/2 marathon pace (2 min active recovery); 10\u201315 min easy cool down jog. Group B: Warmup, drills, and accelerators; 4\u20136 x 0.50 miles at 5k pace downhill / 10k pace uphill (2 min active recovery). Group C: 1\u20132 mile easy recovery jog.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+Calvary+Bible+Church&dates=20260714T112000Z%2F20260714T122000Z&details=Group+A%3A+Warmup%2C+drills%2C+and+accelerators%3B+2+x+1+mile+at+1%2F2+marathon+pace+%282+min+active+recovery%29%3B+10%E2%80%9315+min+easy+cool+down+jog.+Group+B%3A+Warmup%2C+drills%2C+and+accelerators%3B+4%E2%80%936+x+0.50+miles+at+5k+pace+downhill+%2F+10k+pace+uphill+%282+min+active+recovery%29.+Group+C%3A+1%E2%80%932+mile+easy+recovery+jog.&location=Calvary+Bible+Church",
+    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwNzE0VDExMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDcxMlQyMDQxNThaDQpEVFNUQVJUOjIwMjYwNzE0VDExMjAwMFoNCkRURU5EOjIwMjYwNzE0VDEyMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IENhbHZhcnkgQmlibGUgQ2h1cmNoDQpERVNDUklQVElPTjpHcm91cCBBOiBXYXJtdXBcLCBkcmlsbHNcLCBhbmQgYWNjZWxlcmF0b3JzXDsgMiB4IDEgbWlsZSBhdCAxLzIgbWFyYXRob24gcGFjZSAoMiBtaW4gYWN0aXZlIHJlY292ZXJ5KVw7IDEw4oCTMTUgbWluIGVhc3kgY29vbCBkb3duIGpvZy4gR3JvdXAgQjogV2FybXVwXCwgZHJpbGxzXCwgYW5kIGFjY2VsZXJhdG9yc1w7IDTigJM2IHggMC41MCBtaWxlcyBhdCA1ayBwYWNlIGRvd25oaWxsIC8gMTBrIHBhY2UgdXBoaWxsICgyIG1pbiBhY3RpdmUgcmVjb3ZlcnkpLiBHcm91cCBDOiAx4oCTMiBtaWxlIGVhc3kgcmVjb3Zlcnkgam9nLg0KTE9DQVRJT046Q2FsdmFyeSBCaWJsZSBDaHVyY2gNClNUQVRVUzpDT05GSVJNRUQNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVI="
+  },
+  {
+    "date": "2026-07-16",
     "time": "5:20 AM",
     "location": {
       "name": "EMS",
       "address": "EMS",
-      "map_link": "https://maps.app.goo.gl/HkLMf5G2Z6o7v1Ep9?g_st=ic"
+      "map_link": "https://maps.app.goo.gl/6SkUneJbJv2muJ1FA?g_st=ic"
     },
-    "location_link": "https://maps.app.goo.gl/HkLMf5G2Z6o7v1Ep9?g_st=ic",
-    "description": "Group A: 4 x 400m at 5k pace (2-minute recovery) + 2 x 200m. Group B: 8-12 x 400m at 5k pace (90-second recovery) + 4 x 100m at Fun Fast pace. Group C: Warm-up, drills, and a few easy 400s.",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+EMS&dates=20260707T112000Z%2F20260707T122000Z&details=Group+A%3A+4+x+400m+at+5k+pace+%282-minute+recovery%29+%2B+2+x+200m.+Group+B%3A+8-12+x+400m+at+5k+pace+%2890-second+recovery%29+%2B+4+x+100m+at+Fun+Fast+pace.+Group+C%3A+Warm-up%2C+drills%2C+and+a+few+easy+400s.&location=EMS",
-    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwNzA3VDExMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDcwNlQwMDUyMThaDQpEVFNUQVJUOjIwMjYwNzA3VDExMjAwMFoNCkRURU5EOjIwMjYwNzA3VDEyMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IEVNUw0KREVTQ1JJUFRJT046R3JvdXAgQTogNCB4IDQwMG0gYXQgNWsgcGFjZSAoMi1taW51dGUgcmVjb3ZlcnkpICsgMiB4IDIwMG0uIEdyb3VwIEI6IDgtMTIgeCA0MDBtIGF0IDVrIHBhY2UgKDkwLXNlY29uZCByZWNvdmVyeSkgKyA0IHggMTAwbSBhdCBGdW4gRmFzdCBwYWNlLiBHcm91cCBDOiBXYXJtLXVwXCwgZHJpbGxzXCwgYW5kIGEgZmV3IGVhc3kgNDAwcy4NCkxPQ0FUSU9OOkVNUw0KU1RBVFVTOkNPTkZJUk1FRA0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg=="
+    "location_link": "https://maps.app.goo.gl/6SkUneJbJv2muJ1FA?g_st=ic",
+    "description": "Group A: Warmup, drills, and accelerators; 4 x 800m at current 5k pace (2 min easy jog recovery); 4 x 400m at 3k pace (90 sec active recovery); 10 min easy cool down. Group B: Warmup, drills, and accelerators; 800m, 1200m, 1600m, 1200m at current 10k pace (1 lap easy jog recovery between intervals, continuous movement); 10 min easy cool down.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+EMS&dates=20260716T112000Z%2F20260716T122000Z&details=Group+A%3A+Warmup%2C+drills%2C+and+accelerators%3B+4+x+800m+at+current+5k+pace+%282+min+easy+jog+recovery%29%3B+4+x+400m+at+3k+pace+%2890+sec+active+recovery%29%3B+10+min+easy+cool+down.+Group+B%3A+Warmup%2C+drills%2C+and+accelerators%3B+800m%2C+1200m%2C+1600m%2C+1200m+at+current+10k+pace+%281+lap+easy+jog+recovery+between+intervals%2C+continuous+movement%29%3B+10+min+easy+cool+down.&location=EMS",
+    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwNzE2VDExMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDcxMlQyMDQxNThaDQpEVFNUQVJUOjIwMjYwNzE2VDExMjAwMFoNCkRURU5EOjIwMjYwNzE2VDEyMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IEVNUw0KREVTQ1JJUFRJT046R3JvdXAgQTogV2FybXVwXCwgZHJpbGxzXCwgYW5kIGFjY2VsZXJhdG9yc1w7IDQgeCA4MDBtIGF0IGN1cnJlbnQgNWsgcGFjZSAoMiBtaW4gZWFzeSBqb2cgcmVjb3ZlcnkpXDsgNCB4IDQwMG0gYXQgM2sgcGFjZSAoOTAgc2VjIGFjdGl2ZSByZWNvdmVyeSlcOyAxMCBtaW4gZWFzeSBjb29sIGRvd24uIEdyb3VwIEI6IFdhcm11cFwsIGRyaWxsc1wsIGFuZCBhY2NlbGVyYXRvcnNcOyA4MDBtXCwgMTIwMG1cLCAxNjAwbVwsIDEyMDBtIGF0IGN1cnJlbnQgMTBrIHBhY2UgKDEgbGFwIGVhc3kgam9nIHJlY292ZXJ5IGJldHdlZW4gaW50ZXJ2YWxzXCwgY29udGludW91cyBtb3ZlbWVudClcOyAxMCBtaW4gZWFzeSBjb29sIGRvd24uDQpMT0NBVElPTjpFTVMNClNUQVRVUzpDT05GSVJNRUQNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVI="
   },
   {
-    "date": "2026-07-09",
-    "time": "5:20 AM",
-    "location": {
-      "name": "Lehigh Park",
-      "address": "Lehigh Park",
-      "map_link": "https://maps.app.goo.gl/V2SQJZMiqti8GFF29?g_st=ic"
-    },
-    "location_link": "https://maps.app.goo.gl/V2SQJZMiqti8GFF29?g_st=ic",
-    "description": "Group A: 2 x 1 mile at 10k pace (+10 seconds) + 4 x 100m at Fun Fast pace. Group B: 3-4 x 1 mile at 10k pace (+5 seconds) + 4 x 100m at Fun Fast pace. Group C: Warm-up, drills, and 1 mile at ultra pace.",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+Lehigh+Park&dates=20260709T112000Z%2F20260709T122000Z&details=Group+A%3A+2+x+1+mile+at+10k+pace+%28%2B10+seconds%29+%2B+4+x+100m+at+Fun+Fast+pace.+Group+B%3A+3-4+x+1+mile+at+10k+pace+%28%2B5+seconds%29+%2B+4+x+100m+at+Fun+Fast+pace.+Group+C%3A+Warm-up%2C+drills%2C+and+1+mile+at+ultra+pace.&location=Lehigh+Park",
-    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwNzA5VDExMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDcwNlQwMDUyMThaDQpEVFNUQVJUOjIwMjYwNzA5VDExMjAwMFoNCkRURU5EOjIwMjYwNzA5VDEyMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IExlaGlnaCBQYXJrDQpERVNDUklQVElPTjpHcm91cCBBOiAyIHggMSBtaWxlIGF0IDEwayBwYWNlICgrMTAgc2Vjb25kcykgKyA0IHggMTAwbSBhdCBGdW4gRmFzdCBwYWNlLiBHcm91cCBCOiAzLTQgeCAxIG1pbGUgYXQgMTBrIHBhY2UgKCs1IHNlY29uZHMpICsgNCB4IDEwMG0gYXQgRnVuIEZhc3QgcGFjZS4gR3JvdXAgQzogV2FybS11cFwsIGRyaWxsc1wsIGFuZCAxIG1pbGUgYXQgdWx0cmEgcGFjZS4NCkxPQ0FUSU9OOkxlaGlnaCBQYXJrDQpTVEFUVVM6Q09ORklSTUVEDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFS"
-  },
-  {
-    "date": "2026-07-11",
+    "date": "2026-07-18",
     "time": "6:30 AM",
     "location": {
-      "name": "Cristos Coffee",
-      "address": "Cristos Coffee",
-      "map_link": "https://maps.app.goo.gl/3fUTPrXTmCvxzmp68?g_st=ic"
+      "name": "Bobolink",
+      "address": "Bobolink",
+      "map_link": "https://maps.app.goo.gl/JC1nDxo6YJwAkUBa8?g_st=ic"
     },
-    "location_link": "https://maps.app.goo.gl/3fUTPrXTmCvxzmp68?g_st=ic",
-    "description": "Group social run.",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+Cristos+Coffee&dates=20260711T123000Z%2F20260711T133000Z&details=Group+social+run.&location=Cristos+Coffee",
-    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwNzExVDEyMzAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDcwNlQwMDUyMThaDQpEVFNUQVJUOjIwMjYwNzExVDEyMzAwMFoNCkRURU5EOjIwMjYwNzExVDEzMzAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IENyaXN0b3MgQ29mZmVlDQpERVNDUklQVElPTjpHcm91cCBzb2NpYWwgcnVuLg0KTE9DQVRJT046Q3Jpc3RvcyBDb2ZmZWUNClNUQVRVUzpDT05GSVJNRUQNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVI="
+    "location_link": "https://maps.app.goo.gl/JC1nDxo6YJwAkUBa8?g_st=ic",
+    "description": "Join us for an enjoyable 4 - 6 mile social run on a very runnable mostly dirt trail. Meet for coffee afterward.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+Bobolink&dates=20260718T123000Z%2F20260718T133000Z&details=Join+us+for+an+enjoyable+4+-+6+mile+social+run+on+a+very+runnable+mostly+dirt+trail.+Meet+for+coffee+afterward.&location=Bobolink",
+    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwNzE4VDEyMzAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDcxMlQyMDQxNThaDQpEVFNUQVJUOjIwMjYwNzE4VDEyMzAwMFoNCkRURU5EOjIwMjYwNzE4VDEzMzAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IEJvYm9saW5rDQpERVNDUklQVElPTjpKb2luIHVzIGZvciBhbiBlbmpveWFibGUgNCAtIDYgbWlsZSBzb2NpYWwgcnVuIG9uIGEgdmVyeSBydW5uYWJsZSBtb3N0bHkgZGlydCB0cmFpbC4gTWVldCBmb3IgY29mZmVlIGFmdGVyd2FyZC4NCkxPQ0FUSU9OOkJvYm9saW5rDQpTVEFUVVM6Q09ORklSTUVEDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFS"
   }
 ]
