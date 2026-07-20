@@ -1,41 +1,67 @@
 [
   {
-    "date": "2026-07-14",
-    "time": "5:20 AM",
+    "date": "2026-07-21",
+    "time": "5:00 AM",
     "location": {
-      "name": "Calvary Bible Church",
-      "address": "Calvary Bible Church",
-      "map_link": "https://maps.app.goo.gl/k9tmpCmwKjjtPjsX9?g_st=ic"
+      "name": "EMS",
+      "address": "EMS",
+      "map_link": "https://maps.app.goo.gl/7MZomr115xqpwBcj9?g_st=ic"
     },
-    "location_link": "https://maps.app.goo.gl/k9tmpCmwKjjtPjsX9?g_st=ic",
-    "description": "Group A: Warmup, drills, and accelerators; 2 x 1 mile at 1/2 marathon pace (2 min active recovery); 10\u201315 min easy cool down jog. Group B: Warmup, drills, and accelerators; 4\u20136 x 0.50 miles at 5k pace downhill / 10k pace uphill (2 min active recovery). Group C: 1\u20132 mile easy recovery jog.",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+Calvary+Bible+Church&dates=20260714T112000Z%2F20260714T122000Z&details=Group+A%3A+Warmup%2C+drills%2C+and+accelerators%3B+2+x+1+mile+at+1%2F2+marathon+pace+%282+min+active+recovery%29%3B+10%E2%80%9315+min+easy+cool+down+jog.+Group+B%3A+Warmup%2C+drills%2C+and+accelerators%3B+4%E2%80%936+x+0.50+miles+at+5k+pace+downhill+%2F+10k+pace+uphill+%282+min+active+recovery%29.+Group+C%3A+1%E2%80%932+mile+easy+recovery+jog.&location=Calvary+Bible+Church",
-    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwNzE0VDExMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDcxMlQyMDQxNThaDQpEVFNUQVJUOjIwMjYwNzE0VDExMjAwMFoNCkRURU5EOjIwMjYwNzE0VDEyMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IENhbHZhcnkgQmlibGUgQ2h1cmNoDQpERVNDUklQVElPTjpHcm91cCBBOiBXYXJtdXBcLCBkcmlsbHNcLCBhbmQgYWNjZWxlcmF0b3JzXDsgMiB4IDEgbWlsZSBhdCAxLzIgbWFyYXRob24gcGFjZSAoMiBtaW4gYWN0aXZlIHJlY292ZXJ5KVw7IDEw4oCTMTUgbWluIGVhc3kgY29vbCBkb3duIGpvZy4gR3JvdXAgQjogV2FybXVwXCwgZHJpbGxzXCwgYW5kIGFjY2VsZXJhdG9yc1w7IDTigJM2IHggMC41MCBtaWxlcyBhdCA1ayBwYWNlIGRvd25oaWxsIC8gMTBrIHBhY2UgdXBoaWxsICgyIG1pbiBhY3RpdmUgcmVjb3ZlcnkpLiBHcm91cCBDOiAx4oCTMiBtaWxlIGVhc3kgcmVjb3Zlcnkgam9nLg0KTE9DQVRJT046Q2FsdmFyeSBCaWJsZSBDaHVyY2gNClNUQVRVUzpDT05GSVJNRUQNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVI="
+    "location_link": "https://maps.app.goo.gl/7MZomr115xqpwBcj9?g_st=ic",
+    "description": "Group A: 20 minutes out and 20 minutes back at 10k pace plus 10 seconds, followed by a recovery walk to the track. Second half: 4-6 x 400m at 10k pace with a 30-second recovery between intervals.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+EMS&dates=20260721T110000Z%2F20260721T120000Z&details=Group+A%3A+20+minutes+out+and+20+minutes+back+at+10k+pace+plus+10+seconds%2C+followed+by+a+recovery+walk+to+the+track.+Second+half%3A+4-6+x+400m+at+10k+pace+with+a+30-second+recovery+between+intervals.&location=EMS",
+    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwNzIxVDExMDAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDcyMFQwMjA0MDVaDQpEVFNUQVJUOjIwMjYwNzIxVDExMDAwMFoNCkRURU5EOjIwMjYwNzIxVDEyMDAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IEVNUw0KREVTQ1JJUFRJT046R3JvdXAgQTogMjAgbWludXRlcyBvdXQgYW5kIDIwIG1pbnV0ZXMgYmFjayBhdCAxMGsgcGFjZSBwbHVzIDEwIHNlY29uZHNcLCBmb2xsb3dlZCBieSBhIHJlY292ZXJ5IHdhbGsgdG8gdGhlIHRyYWNrLiBTZWNvbmQgaGFsZjogNC02IHggNDAwbSBhdCAxMGsgcGFjZSB3aXRoIGEgMzAtc2Vjb25kIHJlY292ZXJ5IGJldHdlZW4gaW50ZXJ2YWxzLg0KTE9DQVRJT046RU1TDQpTVEFUVVM6Q09ORklSTUVEDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFS"
   },
   {
-    "date": "2026-07-16",
+    "date": "2026-07-21",
     "time": "5:20 AM",
     "location": {
       "name": "EMS",
       "address": "EMS",
-      "map_link": "https://maps.app.goo.gl/6SkUneJbJv2muJ1FA?g_st=ic"
+      "map_link": "https://maps.app.goo.gl/7MZomr115xqpwBcj9?g_st=ic"
     },
-    "location_link": "https://maps.app.goo.gl/6SkUneJbJv2muJ1FA?g_st=ic",
-    "description": "Group A: Warmup, drills, and accelerators; 4 x 800m at current 5k pace (2 min easy jog recovery); 4 x 400m at 3k pace (90 sec active recovery); 10 min easy cool down. Group B: Warmup, drills, and accelerators; 800m, 1200m, 1600m, 1200m at current 10k pace (1 lap easy jog recovery between intervals, continuous movement); 10 min easy cool down.",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+EMS&dates=20260716T112000Z%2F20260716T122000Z&details=Group+A%3A+Warmup%2C+drills%2C+and+accelerators%3B+4+x+800m+at+current+5k+pace+%282+min+easy+jog+recovery%29%3B+4+x+400m+at+3k+pace+%2890+sec+active+recovery%29%3B+10+min+easy+cool+down.+Group+B%3A+Warmup%2C+drills%2C+and+accelerators%3B+800m%2C+1200m%2C+1600m%2C+1200m+at+current+10k+pace+%281+lap+easy+jog+recovery+between+intervals%2C+continuous+movement%29%3B+10+min+easy+cool+down.&location=EMS",
-    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwNzE2VDExMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDcxMlQyMDQxNThaDQpEVFNUQVJUOjIwMjYwNzE2VDExMjAwMFoNCkRURU5EOjIwMjYwNzE2VDEyMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IEVNUw0KREVTQ1JJUFRJT046R3JvdXAgQTogV2FybXVwXCwgZHJpbGxzXCwgYW5kIGFjY2VsZXJhdG9yc1w7IDQgeCA4MDBtIGF0IGN1cnJlbnQgNWsgcGFjZSAoMiBtaW4gZWFzeSBqb2cgcmVjb3ZlcnkpXDsgNCB4IDQwMG0gYXQgM2sgcGFjZSAoOTAgc2VjIGFjdGl2ZSByZWNvdmVyeSlcOyAxMCBtaW4gZWFzeSBjb29sIGRvd24uIEdyb3VwIEI6IFdhcm11cFwsIGRyaWxsc1wsIGFuZCBhY2NlbGVyYXRvcnNcOyA4MDBtXCwgMTIwMG1cLCAxNjAwbVwsIDEyMDBtIGF0IGN1cnJlbnQgMTBrIHBhY2UgKDEgbGFwIGVhc3kgam9nIHJlY292ZXJ5IGJldHdlZW4gaW50ZXJ2YWxzXCwgY29udGludW91cyBtb3ZlbWVudClcOyAxMCBtaW4gZWFzeSBjb29sIGRvd24uDQpMT0NBVElPTjpFTVMNClNUQVRVUzpDT05GSVJNRUQNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVI="
+    "location_link": "https://maps.app.goo.gl/7MZomr115xqpwBcj9?g_st=ic",
+    "description": "Group B: 10-12 x 200m at 3k pace with a 200m easy jog recovery.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+EMS&dates=20260721T112000Z%2F20260721T122000Z&details=Group+B%3A+10-12+x+200m+at+3k+pace+with+a+200m+easy+jog+recovery.&location=EMS",
+    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwNzIxVDExMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDcyMFQwMjA0MDVaDQpEVFNUQVJUOjIwMjYwNzIxVDExMjAwMFoNCkRURU5EOjIwMjYwNzIxVDEyMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IEVNUw0KREVTQ1JJUFRJT046R3JvdXAgQjogMTAtMTIgeCAyMDBtIGF0IDNrIHBhY2Ugd2l0aCBhIDIwMG0gZWFzeSBqb2cgcmVjb3ZlcnkuDQpMT0NBVElPTjpFTVMNClNUQVRVUzpDT05GSVJNRUQNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVI="
   },
   {
-    "date": "2026-07-18",
+    "date": "2026-07-23",
+    "time": "5:00 AM",
+    "location": {
+      "name": "Thomas Reservoir",
+      "address": "Thomas Reservoir",
+      "map_link": "https://maps.app.goo.gl/JYPMpg9Uh5mFu6ni9?g_st=ic"
+    },
+    "location_link": "https://maps.app.goo.gl/JYPMpg9Uh5mFu6ni9?g_st=ic",
+    "description": "Group A: 4 x 2k at 10k pace plus 10 seconds with a 60- 75 second recovery between intervals.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+Thomas+Reservoir&dates=20260723T110000Z%2F20260723T120000Z&details=Group+A%3A+4+x+2k+at+10k+pace+plus+10+seconds+with+a+60-+75+second+recovery+between+intervals.&location=Thomas+Reservoir",
+    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwNzIzVDExMDAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDcyMFQwMjA0MDVaDQpEVFNUQVJUOjIwMjYwNzIzVDExMDAwMFoNCkRURU5EOjIwMjYwNzIzVDEyMDAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IFRob21hcyBSZXNlcnZvaXINCkRFU0NSSVBUSU9OOkdyb3VwIEE6IDQgeCAyayBhdCAxMGsgcGFjZSBwbHVzIDEwIHNlY29uZHMgd2l0aCBhIDYwLSA3NSBzZWNvbmQgcmVjb3ZlcnkgYmV0d2VlbiBpbnRlcnZhbHMuDQpMT0NBVElPTjpUaG9tYXMgUmVzZXJ2b2lyDQpTVEFUVVM6Q09ORklSTUVEDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFS"
+  },
+  {
+    "date": "2026-07-23",
+    "time": "5:20 AM",
+    "location": {
+      "name": "Thomas Reservoir",
+      "address": "Thomas Reservoir",
+      "map_link": "https://maps.app.goo.gl/JYPMpg9Uh5mFu6ni9?g_st=ic"
+    },
+    "location_link": "https://maps.app.goo.gl/JYPMpg9Uh5mFu6ni9?g_st=ic",
+    "description": "Group B: 5 x 1k at 10k pace with a 90-120 second recovery between intervals.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+Thomas+Reservoir&dates=20260723T112000Z%2F20260723T122000Z&details=Group+B%3A+5+x+1k+at+10k+pace+with+a+90-120+second+recovery+between+intervals.&location=Thomas+Reservoir",
+    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwNzIzVDExMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDcyMFQwMjA0MDVaDQpEVFNUQVJUOjIwMjYwNzIzVDExMjAwMFoNCkRURU5EOjIwMjYwNzIzVDEyMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IFRob21hcyBSZXNlcnZvaXINCkRFU0NSSVBUSU9OOkdyb3VwIEI6IDUgeCAxayBhdCAxMGsgcGFjZSB3aXRoIGEgOTAtMTIwIHNlY29uZCByZWNvdmVyeSBiZXR3ZWVuIGludGVydmFscy4NCkxPQ0FUSU9OOlRob21hcyBSZXNlcnZvaXINClNUQVRVUzpDT05GSVJNRUQNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVI="
+  },
+  {
+    "date": "2026-07-25",
     "time": "6:30 AM",
     "location": {
-      "name": "Bobolink",
-      "address": "Bobolink",
-      "map_link": "https://maps.app.goo.gl/JC1nDxo6YJwAkUBa8?g_st=ic"
+      "name": "Winot Coffee Shop",
+      "address": "Winot Coffee Shop",
+      "map_link": "https://maps.app.goo.gl/u22h7EfewHS6q6or7?g_st=ic"
     },
-    "location_link": "https://maps.app.goo.gl/JC1nDxo6YJwAkUBa8?g_st=ic",
-    "description": "Join us for an enjoyable 4 - 6 mile social run on a very runnable mostly dirt trail. Meet for coffee afterward.",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+Bobolink&dates=20260718T123000Z%2F20260718T133000Z&details=Join+us+for+an+enjoyable+4+-+6+mile+social+run+on+a+very+runnable+mostly+dirt+trail.+Meet+for+coffee+afterward.&location=Bobolink",
-    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwNzE4VDEyMzAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDcxMlQyMDQxNThaDQpEVFNUQVJUOjIwMjYwNzE4VDEyMzAwMFoNCkRURU5EOjIwMjYwNzE4VDEzMzAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IEJvYm9saW5rDQpERVNDUklQVElPTjpKb2luIHVzIGZvciBhbiBlbmpveWFibGUgNCAtIDYgbWlsZSBzb2NpYWwgcnVuIG9uIGEgdmVyeSBydW5uYWJsZSBtb3N0bHkgZGlydCB0cmFpbC4gTWVldCBmb3IgY29mZmVlIGFmdGVyd2FyZC4NCkxPQ0FUSU9OOkJvYm9saW5rDQpTVEFUVVM6Q09ORklSTUVEDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFS"
+    "location_link": "https://maps.app.goo.gl/u22h7EfewHS6q6or7?g_st=ic",
+    "description": "Social Run: All levels and abilities are welcome to join us!",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+Winot+Coffee+Shop&dates=20260725T123000Z%2F20260725T133000Z&details=Social+Run%3A+All+levels+and+abilities+are+welcome+to+join+us%21&location=Winot+Coffee+Shop",
+    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwNzI1VDEyMzAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDcyMFQwMjA0MDVaDQpEVFNUQVJUOjIwMjYwNzI1VDEyMzAwMFoNCkRURU5EOjIwMjYwNzI1VDEzMzAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IFdpbm90IENvZmZlZSBTaG9wDQpERVNDUklQVElPTjpTb2NpYWwgUnVuOiBBbGwgbGV2ZWxzIGFuZCBhYmlsaXRpZXMgYXJlIHdlbGNvbWUgdG8gam9pbiB1cyENCkxPQ0FUSU9OOldpbm90IENvZmZlZSBTaG9wDQpTVEFUVVM6Q09ORklSTUVEDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFS"
   }
 ]
