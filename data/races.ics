@@ -5,58 +5,8 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Mile High Runners Race Calendar
 BEGIN:VEVENT
-UID:rocky-mountain-half-marathon-5k-2026@milehighrunners.com
-DTSTAMP:20260726T000000Z
-DTSTART:20260731T180000Z
-DTEND:20260731T220000Z
-SUMMARY:Rocky Mountain Half Marathon & 5K
-DESCRIPTION:A scenic half marathon and 5K race in the Estes Valley just outside Rocky Mountain National Park. The race starts and ends by the lake at the fairgrounds in historic Estes Park\, Colorado\, featuring killer mountain views of the Continental Divide. Runners experience alpine views\, high elevation paced loops\, and iconic landscapes with sweeping vistas of jagged granite peaks.
-LOCATION:Stanley Park Ball Field\, Estes Park\, CO
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:wild-west-relay-2026@milehighrunners.com
-DTSTAMP:20260726T000000Z
-DTSTART:20260731T050000Z
-DTEND:20260731T090000Z
-SUMMARY:Wild West Relay
-DESCRIPTION:A scenic point-to-point relay race across Colorado starting in Fort Collins and finishing 200 miles away in Steamboat Springs. Teams of 1-12 runners navigate mountain passes\, open spaces\, and roads. Available team configurations include 12-person teams\, Ultra teams (4-6 runners)\, Super Ultra teams (1-3 runners)\, and High School teams. Registration ends July 31\, 2026 at 11:59 PM MDT.
-LOCATION:Budweiser Brewing Plant (Anheuser Busch Facility)\, Fort Collins\, CO 80524
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:rocky-mountain-half-marathon-2026@milehighrunners.com
-DTSTAMP:20260726T000000Z
-DTSTART:20260801T060000Z
-DTEND:20260801T100000Z
-SUMMARY:Rocky Mountain Half Marathon
-DESCRIPTION:A challenging but scenic running event just outside Rocky Mountain National Park. The race starts and ends by the lake at the fairgrounds in historic Estes Park\, Colorado with stunning mountain views. The 5K features a counterclockwise loop around Lake Estes with an aggressive initial climb\, while the Half Marathon includes elevation gain of +1\,267 ft / -1\,263 ft with a 4.5-hour cutoff.
-LOCATION:Stanley Park Ball Field\, Estes Park\, CO
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:berry-picker-2026@milehighrunners.com
-DTSTAMP:20260726T000000Z
-DTSTART:20260801T080000Z
-DTEND:20260801T120000Z
-SUMMARY:Berry Picker
-DESCRIPTION:Trail running race part of the Vail Trail Running Series featuring well-marked routes\, aid stations\, and experienced volunteers.
-LOCATION:Vail\, CO
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:aspen-backcountry-marathon-2026@milehighrunners.com
-DTSTAMP:20260726T000000Z
-DTSTART:20260801T060000Z
-DTEND:20260801T100000Z
-SUMMARY:Aspen Backcountry Marathon
-DESCRIPTION:The Aspen Backcountry returns on August 1\, 2026 with a 50 Kilometer distance to complement the marathon and 'heavy half' marathon. Hosted next to the Duck Derby fundraising event by the Rotary Club Aspen. All participants must obtain a valid CORSAR card for the day of the event. Start times: 50K at 6:00 AM\, Marathon at 7:30 AM\, Heavy Half Marathon at 8:00 AM.
-LOCATION:N Mill St and Rio Grande Place\, Aspen\, CO
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:transrockies-run-2026@milehighrunners.com
-DTSTAMP:20260726T000000Z
+DTSTAMP:20260802T000000Z
 DTSTART:20260803T080000Z
 DTEND:20260803T120000Z
 SUMMARY:TransRockies Run
@@ -66,7 +16,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:choice-city-running-festival-2026@milehighrunners.com
-DTSTAMP:20260726T000000Z
+DTSTAMP:20260802T000000Z
 DTSTART:20260807T080000Z
 DTEND:20260807T120000Z
 SUMMARY:Choice City Running Festival
@@ -76,7 +26,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:georgetown-to-idaho-springs-half-marathon-2026@milehighrunners.com
-DTSTAMP:20260726T000000Z
+DTSTAMP:20260802T000000Z
 DTSTART:20260808T070000Z
 DTEND:20260808T110000Z
 SUMMARY:Georgetown to Idaho Springs Half Marathon
@@ -85,48 +35,38 @@ LOCATION:Georgetown Lake\, Georgetown\, CO 80444
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:san-juan-softie-2026@milehighrunners.com
-DTSTAMP:20260726T000000Z
-DTSTART:20260814T060000Z
-DTEND:20260814T100000Z
-SUMMARY:San Juan Softie
-DESCRIPTION:San Juan Softie 100-mile Ultramarathon starting and finishing just north of Durango\, Colorado. Runs through stunning San Juan mountain terrain with approximately 19\,000 feet of elevation gain and average elevation of 10\,000 feet. Features 38-hour cut-off with start Friday 6:00 AM MT and finish Saturday 8:00 PM MT.
-LOCATION:Durango\, CO (start/finish just north of Durango)
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:mt-sneffels-half-marathon-2026@milehighrunners.com
-DTSTAMP:20260726T000000Z
+UID:mount-sneffels-marathon-2026@milehighrunners.com
+DTSTAMP:20260802T000000Z
 DTSTART:20260815T080000Z
 DTEND:20260815T120000Z
-SUMMARY:Mt. Sneffels Half Marathon
-DESCRIPTION:Run in the 'Switzerland of America' - Mt. Sneffels Half Marathon\, 10K\, and Kids Fun Run. Benefiting the Mount Sneffels Education Foundation\, which has funded over $1.5 million into over 865 programs enriching the lives of Ouray County children.
-LOCATION:TBD
+SUMMARY:Mount Sneffels Marathon
+DESCRIPTION:Mt. Sneffels Half Marathon\, 10K\, and Kids Fun Run in the Switzerland of America. All races start and finish at Frontier Field in Ridgway\, CO. Note: Due to county road and bridge construction work\, the half marathon course has been changed and will no longer start in Ouray. Packet pickup is Friday\, August 14th from 4-8 PM at Ridgway Athletic Park/Frontier Field.
+LOCATION:Frontier Field\, CR 23\, Ridgway\, CO
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:leadville-trail-10k-2026@milehighrunners.com
-DTSTAMP:20260726T000000Z
+DTSTAMP:20260802T000000Z
 DTSTART:20260815T060000Z
 DTEND:20260815T100000Z
 SUMMARY:Leadville Trail 10K
-DESCRIPTION:The Life Time Leadville Trail 100 MTB is one of the most prestigious endurance cross-country mountain bike events in the world. This 105.3-mile out-and-back course traverses the Colorado Rockies with 12\,304 feet of elevation gain\, reaching a peak elevation of 12\,500 feet at Columbine Mine. Riders tackle steep climbs and technical descents across forest service roads\, high alpine two-track\, and singletrack terrain.
-LOCATION:Corner of 6th St & Harrison\, Leadville\, CO
+DESCRIPTION:The Life Time Leadville Trail 100 MTB is one of the most prestigious endurance cross-country mountain bike races in the world. Riders tackle a grueling 100-mile course with approximately 12\,000 feet of elevation gain\, reaching peak elevation of 12\,600 feet at Columbine Mine. The race features steep climbs\, technical descents\, and stunning Rocky Mountain scenery. Competitors have 12 hours to complete the race and earn a silver or gold belt buckle.
+LOCATION:Corner of 6th St & Harrison Ave\, Leadville\, CO
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:mount-sneffels-marathon-2026@milehighrunners.com
-DTSTAMP:20260726T000000Z
+UID:mt-sneffels-half-marathon-2026@milehighrunners.com
+DTSTAMP:20260802T000000Z
 DTSTART:20260815T080000Z
 DTEND:20260815T120000Z
-SUMMARY:Mount Sneffels Marathon
-DESCRIPTION:Run in the 'Switzerland of America' - Half Marathon\, 10K\, and Kids Fun Run benefiting the Mount Sneffels Education Foundation\, which has funded over $1.5 million into programs enriching Ouray County children since 1992.
-LOCATION:TBD
+SUMMARY:Mt. Sneffels Half Marathon
+DESCRIPTION:Run in the 'Switzerland of America'. The 2026 Mt. Sneffels Half Marathon\, 10K\, and Kids Fun Run will start and finish at Frontier Field in Ridgway due to county road and bridge construction work affecting the original Ouray course. Packet pickup is Friday\, August 14th\, 2026 from 4-8 PM at Ridgway Athletic Park/Frontier Field. The event benefits the Mount Sneffels Education Foundation.
+LOCATION:Frontier Field CR 23\, Ridgway\, CO
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:staunton-rocks-marathon-and-half-marathon-2026@milehighrunners.com
-DTSTAMP:20260726T000000Z
+DTSTAMP:20260802T000000Z
 DTSTART:20260821T070000Z
 DTEND:20260821T110000Z
 SUMMARY:Staunton Rocks! Marathon and Half Marathon
@@ -135,88 +75,78 @@ LOCATION:Staunton State Park\, 12102 S Elk Creek Rd\, Pine\, CO 80470
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:leadville-trail-100-run-2026@milehighrunners.com
-DTSTAMP:20260726T000000Z
-DTSTART:20260822T040000Z
-DTEND:20260822T080000Z
-SUMMARY:Leadville Trail 100 Run
-DESCRIPTION:The Life Time Leadville Trail 100 RUN presented by La Sportiva is one of the oldest and most iconic ultramarathons in the world. This brutal 100-mile out-and-back ultramarathon course reaches a peak elevation of 12\,500+ feet on Hope Pass and includes over 15\,000 feet of elevation gain across steep climbs\, high-altitude passes\, and technical terrain in the Colorado Rockies. Runners start at 10\,200 feet and face extreme high-altitude conditions. Big buckle awarded for sub-25 hour finishes; small buckle for sub-30 hour finishes.
-LOCATION:Corner of 6th St & Harrison\, Leadville\, CO
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:bergen-peak-trail-race-2026@milehighrunners.com
-DTSTAMP:20260726T000000Z
+DTSTAMP:20260802T000000Z
 DTSTART:20260822T070000Z
 DTEND:20260822T110000Z
 SUMMARY:Bergen Peak Trail Race
-DESCRIPTION:Come run with us in beautiful Evergreen to the top of Bergen Peak at gorgeous Elk Meadow Park! This race day will offer a 5K race running through the lower sections of Elk Meadow Park or a Half Marathon to the top of Bergen Peak. Registration Check-in starts at 6am at the Elk Meadow trailhead access at Buchanan Park Rec Center. Races will start promptly at 7am.
+DESCRIPTION:Come run with us in beautiful Evergreen to the top of Bergen Peak at gorgeous Elk Meadow Park! This race day will offer a 5K race running through the lower sections of Elk Meadow Park or a Half Marathon to the top of Bergen Peak. Registration Check-in starts at 6am at the Elk Meadow trailhead access at Buchanan Park Rec Center.
 LOCATION:32003 Ellingwood Trail\, Evergreen\, CO 80439
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:santa-cruz-trail-run-2026@milehighrunners.com
-DTSTAMP:20260726T000000Z
-DTSTART:20260822T083000Z
-DTEND:20260822T123000Z
-SUMMARY:Santa Cruz Trail Run
-DESCRIPTION:Trail run through giant redwoods in Henry Cowell Redwoods State Park featuring twisting single track\, expansive roads and paths with ocean breezes from the Santa Cruz coast. Course includes river crossings and high ridges with aid stations every 5-6 miles. Events offered: 10K\, Half Marathon\, and 30K with a 6-hour time limit for the 30K.
-LOCATION:Henry Cowell Redwoods State Park\, Felton\, CA
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:arrowhead-half-marathon-5k-2026@milehighrunners.com
-DTSTAMP:20260726T000000Z
+DTSTAMP:20260802T000000Z
 DTSTART:20260822T070000Z
 DTEND:20260822T110000Z
 SUMMARY:Arrowhead Half Marathon & 5K
-DESCRIPTION:Trail running race part of the Vail Trail Running Series featuring well-marked routes\, aid stations\, and experienced volunteers.
+DESCRIPTION:Part of the Vail Trail Running Series
 LOCATION:Arrowhead\, CO
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:leadville-trail-100-run-2026@milehighrunners.com
+DTSTAMP:20260802T000000Z
+DTSTART:20260822T040000Z
+DTEND:20260822T080000Z
+SUMMARY:Leadville Trail 100 Run
+DESCRIPTION:The Life Time Leadville Trail 100 RUN presented by La Sportiva is one of the oldest and most storied endurance running events in the world. This brutal 100-mile out-and-back ultramarathon starts at 10\,200 feet and features over 15\,000 feet of elevation gain with a peak elevation of 12\,500 feet at Hope Pass. Runners compete for coveted silver and gold belt buckles based on finish times under 25 hours (big buckle) or 30 hours (small buckle).
+LOCATION:Corner of 6th St & Harrison\, Leadville\, CO
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:staunton-rocks-marathon-half-2026@milehighrunners.com
-DTSTAMP:20260726T000000Z
+DTSTAMP:20260802T000000Z
 DTSTART:20260822T070000Z
 DTEND:20260822T110000Z
 SUMMARY:Staunton Rocks! Marathon & Half
-DESCRIPTION:An event put on by trail runners for trail runners\, touring the renowned singletrack of Staunton State Park in Colorado's Front Range Mountains southwest of Denver. The marathon features 4\,500ft of vertical gain (90% singletrack\, 10% dirt road) with elevations ranging from 8\,200' to 9\,500'. The half marathon features 2\,200ft of vertical gain. Both courses offer 60+ mile views from overlooks\, scenic lakes and streams\, and wildlife viewing opportunities including marmots\, raptors\, elk\, mule deer\, black bears\, and mountain lions. Registration caps at 150 for each distance with 10-hour cutoff for marathon and 9-hour cutoff for half marathon.
+DESCRIPTION:An event put on by trail runners for trail runners. Touring the renowned singletrack of Staunton State Park in Colorado's Front Range Mountains southwest of Denver. Features flowing trails with gradual climbs & descents\, technical features\, 60+ mile views from overlooks\, scenic lakes and streams\, and wildlife viewing opportunities. Marathon: 4\,500ft elevation gain; Half Marathon: 2\,200ft elevation gain. Elevation range 8\,200'-9\,500'. 90% singletrack\, 10% dirt road. Time allowances: Marathon 10 hours\, Half Marathon 9 hours. Registration caps: 150 per distance.
 LOCATION:Staunton State Park\, Pine\, Colorado
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:mudgirl-denver-2026@milehighrunners.com
-DTSTAMP:20260726T000000Z
-DTSTART:20260829T083000Z
-DTEND:20260829T123000Z
-SUMMARY:Mudgirl Denver
-DESCRIPTION:Mudgirl is an obstacle race dedicated to women. The Denver event takes place August 29-30\, 2026 at Colorado National Speedway. Race includes obstacles\, festival activities\, finisher medals\, and post-race festivities. Minimum age 7 years old (ages 7-13 must be accompanied by an adult).
-LOCATION:4281 County Road 10\, Dacono\, CO 80514\, United States
+UID:rock-hawk-trail-races-2026@milehighrunners.com
+DTSTAMP:20260802T000000Z
+DTSTART:20260829T060000Z
+DTEND:20260829T100000Z
+SUMMARY:Rock Hawk Trail Races
+DESCRIPTION:Rock Hawk Trail Races are held on the gorgeous\, thrilling and rolling trails of Castle Rock's Miller Park & Ridgeline Trail systems. While not overly technical\, these trails will challenge and excite runners while soaking up amazing views. This is an excellent race for both first-time and veteran trail runners\, and provides a nice test for those training for longer summer events. A portion of proceeds benefit open spaces and trails of Castle Rock and partner charities.
+LOCATION:Philip S. Miller Park\, 1375 W Plum Creek Pkwy\, Castle Rock\, CO 80109
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:grand-traverse-mountain-run-2026@milehighrunners.com
-DTSTAMP:20260726T000000Z
+DTSTAMP:20260802T000000Z
 DTSTART:20260905T060000Z
 DTEND:20260905T100000Z
 SUMMARY:Grand Traverse Mountain Run
-DESCRIPTION:Point-to-point ultramarathon from Crested Butte to Aspen\, Colorado. The course follows the route of the Grand Traverse Backcountry Ski race across the Elk Mountains with over 6\,000 feet of elevation gain. Operated as a fundraising event for Crested Butte Nordic\, a 501(c)(3) nonprofit organization.
+DESCRIPTION:Point-to-point ultramarathon from Crested Butte to Aspen\, Colorado following the Grand Traverse Backcountry Ski race route. Runners travel 40 miles across the Elk Mountains with over 6\,000 feet of elevation gain. Fundraising event for Crested Butte Nordic\, a 501(c)(3) recreational non-profit organization.
 LOCATION:Town Park\, Crested Butte\, CO to Ajax Park – 1001 S. Ute Ave\, Aspen\, CO
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:golden-harvest-half-marathon-5k10k-2026@milehighrunners.com
-DTSTAMP:20260726T000000Z
+DTSTAMP:20260802T000000Z
 DTSTART:20260905T080000Z
 DTEND:20260905T120000Z
 SUMMARY:Golden Harvest Half Marathon & 5K/10K
-DESCRIPTION:Family-friendly fall race featuring multiple distances including a kid's dash for ages 10 and under. Includes custom shirt\, finisher medal\, chip-timing with live results\, free photos\, and finish line snacks. Virtual participation option available. Age group awards for 5K/10K/Half Marathon. Part of the Fall Half Marathon Bundle.
+DESCRIPTION:Family-friendly race organized by Bodies Race Company featuring multiple distance options including a Kids Dash. Includes custom race shirt\, finisher medal\, chip-timing with live results\, free photos\, and snacks at the finish line. Age group awards available for 5K/10K/Half Marathon participants. Virtual participation option available.
 LOCATION:Parking Lot South of The Westin Westminster\, 10600 Westminster Blvd\, Westminster\, CO 80020
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:the-grand-traverse-bike-2026@milehighrunners.com
-DTSTAMP:20260726T000000Z
+DTSTAMP:20260802T000000Z
 DTSTART:20260906T080000Z
 DTEND:20260906T120000Z
 SUMMARY:The Grand Traverse (Bike)
@@ -225,18 +155,8 @@ LOCATION:Crested Butte\, CO to Aspen\, CO
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:meadowgold-11k-5k-2026@milehighrunners.com
-DTSTAMP:20260726T000000Z
-DTSTART:20260912T090000Z
-DTEND:20260912T130000Z
-SUMMARY:MeadowGold 11K & 5K
-DESCRIPTION:Trail running race part of the Vail Trail Running Series featuring well-marked routes\, aid stations\, and experienced volunteers.
-LOCATION:Minturn\, CO
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:black-squirrel-half-marathon-2026@milehighrunners.com
-DTSTAMP:20260726T000000Z
+DTSTAMP:20260802T000000Z
 DTSTART:20260912T070000Z
 DTEND:20260912T110000Z
 SUMMARY:Black Squirrel Half Marathon
@@ -245,18 +165,8 @@ LOCATION:Lory State Park\, 708 Lodgepole Dr\, Bellvue\, CO 80512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:devil-on-the-divide-2026@milehighrunners.com
-DTSTAMP:20260726T000000Z
-DTSTART:20260912T060000Z
-DTEND:20260912T100000Z
-SUMMARY:Devil on the Divide
-DESCRIPTION:A high-altitude point-to-point trail ultra that stays above 10\,000 feet for nearly the entire distance. The route includes a summit over 13\,000 feet with stunning views of the Continental Divide.
-LOCATION:Guanella Pass\, Empire\, CO 80438
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:ned-ned-run-2026@milehighrunners.com
-DTSTAMP:20260726T000000Z
+DTSTAMP:20260802T000000Z
 DTSTART:20260912T080000Z
 DTEND:20260912T120000Z
 SUMMARY:Ned Ned Run
@@ -265,18 +175,38 @@ LOCATION:151 East St\, Nederland\, CO 80466
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:meadowgold-11k-5k-2026@milehighrunners.com
+DTSTAMP:20260802T000000Z
+DTSTART:20260912T090000Z
+DTEND:20260912T130000Z
+SUMMARY:MeadowGold 11K & 5K
+DESCRIPTION:Part of the Vail Trail Running Series
+LOCATION:Minturn\, CO
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:devil-on-the-divide-2026@milehighrunners.com
+DTSTAMP:20260802T000000Z
+DTSTART:20260912T060000Z
+DTEND:20260912T100000Z
+SUMMARY:Devil on the Divide
+DESCRIPTION:A high-altitude point-to-point trail ultra that stays above 10\,000 feet for nearly the entire distance. The route includes a summit over 13\,000 feet with stunning views of the Continental Divide.
+LOCATION:Guanella Pass\, Empire\, CO 80438
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:lead-king-loop-2026@milehighrunners.com
-DTSTAMP:20260726T000000Z
+DTSTAMP:20260802T000000Z
 DTSTART:20260913T080000Z
 DTEND:20260913T120000Z
 SUMMARY:Lead King Loop
-DESCRIPTION:A spectacular fall running event through peak fall colors in the Elk Mountains. Participants can run\, hike\, or walk the 25K Lead King Loop past Crystal Mill and through the historic Town of Crystal\, or take on the 8-Mile Quarry Climb along the Yule Marble Quarry Road. Includes post-race BBQ\, beer (21+)\, custom shirt\, and finisher medal. Kids 2.5K fun run around Beaver Lake. Benefits Marble Charter School.
+DESCRIPTION:A spectacular fall running event through peak colors in the heart of the Elk Mountains. The 25K course winds through Lead King Basin\, past the iconic Crystal Mill\, and through the historic Town of Crystal. Also features the 8-Mile Quarry Climb along the Yule Marble Quarry Road. Includes post-race BBQ lunch\, beer (21+)\, custom shirt\, finisher medal\, and kids race. All proceeds benefit Marble Charter School.
 LOCATION:TBD
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:run-rabbit-run-2026@milehighrunners.com
-DTSTAMP:20260726T000000Z
+DTSTAMP:20260802T000000Z
 DTSTART:20260918T090000Z
 DTEND:20260918T130000Z
 SUMMARY:Run Rabbit Run
@@ -285,18 +215,8 @@ LOCATION:Steamboat Ski Resort\, 2305 Mt Werner Cir\, Steamboat Springs\, CO 8048
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:pikes-peak-ascent-marathon-2026@milehighrunners.com
-DTSTAMP:20260726T000000Z
-DTSTART:20260919T080000Z
-DTEND:20260919T120000Z
-SUMMARY:Pikes Peak Ascent & Marathon
-DESCRIPTION:The Pikes Peak Marathon\, founded in 1956 and the oldest continually held marathon in the United States\, takes runners from Manitou Springs\, Colorado\, to the summit of Pikes Peak at 14\,115 feet and back down for a total of 26.2 grueling mountain miles. The sister race\, the Pikes Peak Ascent\, is a 13.3-mile climb to the summit via the historic Barr Trail on the east face of the mountain\, gaining approximately 7\,800 vertical feet.
-LOCATION:441 Manitou Ave\, Suite 100\, Manitou Springs\, CO 80829
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:run-the-rockies-road-race-2026@milehighrunners.com
-DTSTAMP:20260726T000000Z
+DTSTAMP:20260802T000000Z
 DTSTART:20260919T080000Z
 DTEND:20260919T120000Z
 SUMMARY:Run the Rockies Road Race
@@ -305,18 +225,18 @@ LOCATION:Starts near Copper Mountain\, ends at Frisco Historic Park\, 1 Main Str
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:fall-equinox-marathon-2026@milehighrunners.com
-DTSTAMP:20260726T000000Z
-DTSTART:20260920T080000Z
-DTEND:20260920T120000Z
-SUMMARY:Fall Equinox Marathon
-DESCRIPTION:The Fall Equinox is a multi-day race event held in Fort Collins\, CO\, running from September 20 through October 3\, 2026. It features a Half Marathon and 5 Mile distances.
-LOCATION:Fort Collins\, CO
+UID:pikes-peak-ascent-marathon-2026@milehighrunners.com
+DTSTAMP:20260802T000000Z
+DTSTART:20260919T080000Z
+DTEND:20260919T120000Z
+SUMMARY:Pikes Peak Ascent & Marathon
+DESCRIPTION:The oldest continually held marathon in the United States (founded in 1956). The Pikes Peak Marathon takes runners from Manitou Springs to the summit of Pikes Peak at 14\,115 feet and back down for a total of 26.2 grueling mountain miles with approximately 7\,800 vertical feet of elevation gain. The sister race\, the Pikes Peak Ascent\, is a 13.3-mile climb to the summit via the historic Barr Trail.
+LOCATION:441 Manitou Ave\, Suite 100\, Manitou Springs\, CO 80829
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:pikes-peak-marathon-2026@milehighrunners.com
-DTSTAMP:20260726T000000Z
+DTSTAMP:20260802T000000Z
 DTSTART:20260920T070000Z
 DTEND:20260920T110000Z
 SUMMARY:Pikes Peak Marathon
@@ -325,18 +245,38 @@ LOCATION:Manitou Ave (City Hall)\, Manitou Springs\, CO 80829
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:fall-equinox-marathon-2026@milehighrunners.com
+DTSTAMP:20260802T000000Z
+DTSTART:20260920T080000Z
+DTEND:20260920T120000Z
+SUMMARY:Fall Equinox Marathon
+DESCRIPTION:The Fall Equinox is a multi-day race event held in Fort Collins\, CO\, running from September 20 through October 3\, 2026. It features a Half Marathon and 5 Mile distances.
+LOCATION:Fort Collins\, CO
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:golden-leaf-half-marathon-2026@milehighrunners.com
-DTSTAMP:20260726T000000Z
+DTSTAMP:20260802T000000Z
 DTSTART:20260926T080000Z
 DTEND:20260926T120000Z
 SUMMARY:Golden Leaf Half Marathon
-DESCRIPTION:The Golden Leaf Half Marathon is a 13.3-mile trail race traversing from Snowmass Village to the heart of Aspen on mountain trails and roads. Chosen by Trail Runner Magazine as one of 'America's 14 most scenic races' and by Colorado Runner as a Best Half Marathon\, this race showcases Colorado's breathtaking fall colors at peak season. Registration includes race entry\, lunch\, t-shirt\, bar\, and prize giveaway. Mass start format with no waves. Note: A valid CORSAR (Colorado Outdoor Recreation Search and Rescue) card is required by Pitkin County for participation.
-LOCATION:Snowmass Village to Aspen\, CO
+DESCRIPTION:The Golden Leaf Half Marathon presented by ACG is one of the most beautiful foot races in the Rockies. This 13.3 mile half marathon traverses from Snowmass Village to the heart of Aspen on mountain trails and roads at the height of Colorado's breathtaking fall colors. Chosen by Trail Runner Magazine as one of America's 14 most scenic races and by Colorado Runner as a Best Half Marathon. Registration is SOLD OUT for 2026. Mass start at 8:00 AM with no waves. Requires valid CORSAR card for participation.
+LOCATION:Snowmass Village to Aspen\, CO (mountain trails and roads)
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cougar-ridge-classic-26k-trail-run-2026@milehighrunners.com
+DTSTAMP:20260802T000000Z
+DTSTART:20260926T070000Z
+DTEND:20260926T110000Z
+SUMMARY:Cougar Ridge Classic 26K Trail Run
+DESCRIPTION:Separate from the main series
+LOCATION:Start: 352 E Meadow Dr.\, Vail\, CO | Finish: 101113 Williams St.\, Minturn\, CO
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:west-line-winder-2026@milehighrunners.com
-DTSTAMP:20260726T000000Z
+DTSTAMP:20260802T000000Z
 DTSTART:20260926T080000Z
 DTEND:20260926T120000Z
 SUMMARY:West Line Winder
@@ -346,7 +286,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:crested-butte-ultra-2026@milehighrunners.com
-DTSTAMP:20260726T000000Z
+DTSTAMP:20260802T000000Z
 DTSTART:20260926T060000Z
 DTEND:20260926T100000Z
 SUMMARY:Crested Butte Ultra
@@ -355,18 +295,28 @@ LOCATION:Crested Butte Mountain Resort\, 12 Emmons Rd\, Crested Butte\, CO 81225
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:cougar-ridge-classic-26k-trail-run-2026@milehighrunners.com
-DTSTAMP:20260726T000000Z
-DTSTART:20260926T070000Z
-DTEND:20260926T110000Z
-SUMMARY:Cougar Ridge Classic 26K Trail Run
-DESCRIPTION:Separate trail running race (not part of the main series) featuring a 26K distance from Vail to Minturn with well-marked routes and aid stations.
-LOCATION:Start: 352 E Meadow Dr.\, Vail\, CO | Finish: 101113 Williams St.\, Minturn\, CO
+UID:bear-chase-trail-run-2026@milehighrunners.com
+DTSTAMP:20260802T000000Z
+DTSTART:20261002T060000Z
+DTEND:20261002T100000Z
+SUMMARY:Bear Chase Trail Run
+DESCRIPTION:An endurance festival at Bear Creek Lake Park offering distances from 5K to 100K. The non-technical dirt trails and moderate hills make it a perfect race for first-time ultra-runners.
+LOCATION:15600 W Morrison Rd\, Lakewood\, CO 80465
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:rim-to-rim-royal-gorge-races-2026@milehighrunners.com
+DTSTAMP:20260802T000000Z
+DTSTART:20261003T080000Z
+DTEND:20261003T120000Z
+SUMMARY:Rim to Rim Royal Gorge Races
+DESCRIPTION:Scenic races including a 5K road run\, an 8-mile trail run\, and a half marathon trail run through the foothills and across the majestic Royal Gorge Bridge. The event also features a free 'Dinosaur Dash' kids race and virtual options.
+LOCATION:Royal Gorge Bridge\, Canon City\, CO
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:colorado-springs-marathon-2026@milehighrunners.com
-DTSTAMP:20260726T000000Z
+DTSTAMP:20260802T000000Z
 DTSTART:20261003T070000Z
 DTEND:20261003T110000Z
 SUMMARY:Colorado Springs Marathon
@@ -376,37 +326,27 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:the-bear-chase-2026@milehighrunners.com
-DTSTAMP:20260726T000000Z
+DTSTAMP:20260802T000000Z
 DTSTART:20261003T053000Z
 DTEND:20261003T093000Z
 SUMMARY:The Bear Chase
-DESCRIPTION:The Bear Chase Race Endurance Festival is a trail running event featuring 100K\, 50 Mile\, 50K\, Half Marathon\, 10K and 5K distances at Bear Creek Lake Park in Lakewood\, CO. The course is relatively fast by trail/ultra standards with 99% soft surface single track dirt trail. An excellent race for first-time trail and ultramarathoners\, offering challenging terrain and panoramic views. Organized by Aravaipa Running.
+DESCRIPTION:The Bear Chase Race Endurance Festival is a multi-distance trail running event featuring 100K\, 50 Mile\, 50K\, Half Marathon\, 10K and 5K distances at Bear Creek Lake Park in Lakewood\, CO. The course is relatively fast by trail/ultra standards with 99% soft surface single track dirt trail. An excellent race for first-time trail and ultramarathoners with challenging terrain and panoramic views. Races held October 3-4\, 2026 with 100K and 50 Mile on Saturday and Half Marathon\, 10K\, and 5K on Sunday.
 LOCATION:Bear Creek Lake Park\, Big Soda Lake Beach\, 15600 W. Morrison Road\, Lakewood\, CO
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:rim-to-rim-royal-gorge-races-2026@milehighrunners.com
-DTSTAMP:20260726T000000Z
-DTSTART:20261003T080000Z
-DTEND:20261003T120000Z
-SUMMARY:Rim to Rim Royal Gorge Races
-DESCRIPTION:Scenic races including a 5K road run\, an 8-mile trail run\, and a half marathon trail run through the foothills and across the majestic Royal Gorge Bridge. The event also features a free 'Dinosaur Dash' kids race and virtual options.
-LOCATION:Royal Gorge Bridge\, Canon City\, CO
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:windsor-marathon-2026@milehighrunners.com
-DTSTAMP:20260726T000000Z
+DTSTAMP:20260802T000000Z
 DTSTART:20261004T070000Z
 DTEND:20261004T110000Z
 SUMMARY:Windsor Marathon
-DESCRIPTION:The Windsor Marathon presented by Banner Health features multiple distances starting and ending at The Island at Pelican Lakes in Water Valley. Race includes 1 Mile Fit & Fun Run\, 5K\, 10K\, Half Marathon\, and Full Marathon with finisher lunch\, beverages\, finisher shirts and medals. Benefits Banner MD Anderson Cancer Center and local nonprofits including Windsor Community Foundation\, Health4Heroes\, and St. Jude's Children's Hospital.
-LOCATION:The Island at Pelican Lakes\, Water Valley\, Windsor\, CO 80550
+DESCRIPTION:The Windsor Marathon events presented by Banner MD Anderson feature multiple distances for all ages. Starting and ending at The Island at Pelican Lakes in Water Valley\, with a great after party including food\, drinks\, music\, kids zone and more in Windsor\, Colorado. Race perks include finisher lunch\, beer and non-alcoholic beverages\, finisher shirts and medals\, prizes for top finishers\, and support for local nonprofits.
+LOCATION:The Island at Pelican Lakes in Water Valley\, Windsor\, CO 80550
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:long-view-marathon-2026@milehighrunners.com
-DTSTAMP:20260726T000000Z
+DTSTAMP:20260802T000000Z
 DTSTART:20261010T073000Z
 DTEND:20261010T113000Z
 SUMMARY:Long View Marathon
@@ -416,27 +356,17 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:durango-marathon-2026@milehighrunners.com
-DTSTAMP:20260726T000000Z
+DTSTAMP:20260802T000000Z
 DTSTART:20261011T080000Z
 DTEND:20261011T120000Z
 SUMMARY:Durango Marathon
-DESCRIPTION:Colorado's Newest Fall Classic - the inaugural Durango Marathon\, Half Marathon\, and 5K. A scenic road race through one of Colorado's most beautiful mountain communities\, starting and finishing at Santa Rita Park along the banks of the Animas River. Features crisp autumn temperatures\, spectacular fall colors\, and sweeping views of the San Juan Mountains. Race proceeds support the Durango Education Foundation for local student scholarships.
-LOCATION:111 South Camino Del Rio\, Durango\, CO 81301
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:blue-sky-trail-run-2026@milehighrunners.com
-DTSTAMP:20260726T000000Z
-DTSTART:20261017T080000Z
-DTEND:20261017T120000Z
-SUMMARY:Blue Sky Trail Run
-DESCRIPTION:A scenic trail run taking place on trails between Horsetooth Mountain Park and Devil's Backbone Open Space. The course features 100% dirt terrain with 90% Colorado singletrack\, ranging from smooth dirt trail to technical rock gardens. Marathon course is 26.7 miles (3\,500' elevation gain) with a 9-hour cut-off. Half Marathon is 13.4 miles (1\,800' elevation gain) on October 18\, 2026 with a 6-hour cut-off. Includes aid stations\, finisher awards\, finish line meal\, and gender-specific race t-shirt.
-LOCATION:Blue Sky Trailhead\, Horsetooth Mountain Park\, Fort Collins\, Colorado
+DESCRIPTION:Inaugural Durango Marathon Weekend featuring a scenic road race experience through one of Colorado's most beautiful mountain communities. Starting and finishing at Santa Rita Park along the Animas River\, runners will experience crisp autumn temperatures\, spectacular fall colors\, and sweeping views of the San Juan Mountains. The course begins at approximately 6\,500 feet elevation and reaches nearly 6\,900 feet at its highest point. Race proceeds support the Durango Education Foundation scholarships for local high school students.
+LOCATION:Santa Rita Park\, 111 South Camino Del Rio\, Durango\, CO 81301
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:blue-sky-marathon-half-marathon-2026@milehighrunners.com
-DTSTAMP:20260726T000000Z
+DTSTAMP:20260802T000000Z
 DTSTART:20261017T070000Z
 DTEND:20261017T110000Z
 SUMMARY:Blue Sky Marathon & Half Marathon
@@ -445,28 +375,38 @@ LOCATION:Blue Sky Trailhead\, Horsetooth Mountain Park\, Fort Collins\, CO 80526
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:blue-sky-trail-run-2026@milehighrunners.com
+DTSTAMP:20260802T000000Z
+DTSTART:20261017T080000Z
+DTEND:20261017T120000Z
+SUMMARY:Blue Sky Trail Run
+DESCRIPTION:A scenic trail run taking place on trails between Horsetooth Mountain Park and Devil's Backbone Open Space. The course features 100% dirt terrain with 90% Colorado singletrack\, ranging from smooth dirt trail to technical rock gardens. Marathon course is 26.7 miles (3\,500' elevation gain) with a 9-hour cut-off. Half Marathon is 13.4 miles (1\,800' elevation gain) on October 18\, 2026 with a 6-hour cut-off. Includes aid stations\, finisher awards\, finish line meal\, and gender-specific race t-shirt.
+LOCATION:Blue Sky Trailhead\, Horsetooth Mountain Park\, Fort Collins\, Colorado
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:bobcat-trail-races-2026@milehighrunners.com
+DTSTAMP:20260802T000000Z
+DTSTART:20261017T070000Z
+DTEND:20261017T110000Z
+SUMMARY:Bobcat Trail Races
+DESCRIPTION:Bobcat Trail Races feature one of Colorado Springs' best city parks\, Palmer Park. Runners will enjoy views of the city and Pikes Peak from the rocky bluffs. The event offers multiple distances (50K\, 25K\, 10K\, 5K) with challenging trail terrain ranging from technical single-track to rolling hills and rocky outcrops. Organized by Aravaipa Running.
+LOCATION:Palmer Park\, 3650 Maizeland Rd\, Colorado Springs\, CO 80909
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:all-out-kooky-spooky-2026@milehighrunners.com
-DTSTAMP:20260726T000000Z
+DTSTAMP:20260802T000000Z
 DTSTART:20261101T090000Z
 DTEND:20261101T130000Z
 SUMMARY:All-Out Kooky-Spooky
-DESCRIPTION:The 15th annual Kooky-Spooky Halloween race featuring 5K\, 10K\, and half marathon distances. Courses wind along scenic Ralston Creek Trail and by Arvada's Blunn Reservoir. Includes costume contest\, on-course support\, virtual options\, and serves as an official BOLDERBoulder Qualifier. Benefits the Colorado National Kidney Foundation.
+DESCRIPTION:The 15th annual Kooky-Spooky is a Halloween-themed race featuring a 5K\, 10K\, and half marathon starting from Jefferson County's NAAC Stadium\, winding along the scenic Ralston Creek Trail and by Arvada's Blunn Reservoir. Features a costume contest\, benefits the Colorado National Kidney Foundation\, and serves as an official BOLDERBoulder Qualifier. Virtual options available for all distances.
 LOCATION:Ralston Creek Trail\, Golden\, CO 80403
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:kessel-run-ultra-2026@milehighrunners.com
-DTSTAMP:20260726T000000Z
-DTSTART:20261107T070000Z
-DTEND:20261107T110000Z
-SUMMARY:Kessel Run Ultra
-DESCRIPTION:A late-season desert ultra featuring the flowy trails of North Fruita Desert. This race is popular for its fast terrain and Star Wars-themed fun.
-LOCATION:Highline Lake State Park\, 1800 11.8 Rd\, Loma\, CO 81524
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:colorado-24-hour-run-2026@milehighrunners.com
-DTSTAMP:20260726T000000Z
+DTSTAMP:20260802T000000Z
 DTSTART:20261107T080000Z
 DTEND:20261107T120000Z
 SUMMARY:Colorado 24 Hour Run
@@ -475,8 +415,18 @@ LOCATION:4927 County Rd 36\, Fort Collins\, CO 80528
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:kessel-run-ultra-2026@milehighrunners.com
+DTSTAMP:20260802T000000Z
+DTSTART:20261107T070000Z
+DTEND:20261107T110000Z
+SUMMARY:Kessel Run Ultra
+DESCRIPTION:A late-season desert ultra featuring the flowy trails of North Fruita Desert. This race is popular for its fast terrain and Star Wars-themed fun.
+LOCATION:Highline Lake State Park\, 1800 11.8 Rd\, Loma\, CO 81524
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:moab-trail-marathon-2026@milehighrunners.com
-DTSTAMP:20260726T000000Z
+DTSTAMP:20260802T000000Z
 DTSTART:20261107T080000Z
 DTEND:20261107T120000Z
 SUMMARY:Moab Trail Marathon
@@ -486,7 +436,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:longmont-turkey-trot-2026@milehighrunners.com
-DTSTAMP:20260726T000000Z
+DTSTAMP:20260802T000000Z
 DTSTART:20261114T090000Z
 DTEND:20261114T130000Z
 SUMMARY:Longmont Turkey Trot
@@ -496,37 +446,47 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:pumpkin-pie-5k10k-2026@milehighrunners.com
-DTSTAMP:20260726T000000Z
+DTSTAMP:20260802T000000Z
 DTSTART:20261121T090000Z
 DTEND:20261121T130000Z
 SUMMARY:Pumpkin Pie 5K/10K
-DESCRIPTION:The Pumpkin Pie 5K/10K is an annual run/walk event held at City Park in Denver\, CO. Both the 5K and 10K start at 9:00 AM. Participants receive a race logo shirt\, finisher's medal\, pumpkin pie at the finish line\, professional chip timing\, and free photo downloads. The 10K consists of two laps of the certified 5K course. Pre-race packet pickup is available on Friday\, November 20\, 2026 from 4:00–7:00 PM at Runners Roost (1685 S Colorado Blvd\, Denver\, CO 80222). A virtual participation option is also available. The event is designated as an official BOLDERBoulder Qualifier.
+DESCRIPTION:Annual Pumpkin Pie 5K and 10K Run/Walk event featuring race logo shirt\, finisher's medal\, pumpkin pie at finish line\, fully stocked aid stations\, professional chip timing\, and free photo downloads. BOLDERBoulder qualifier event.
 LOCATION:City Park\, 2001 Steele St\, Denver\, CO 80205
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:turkey-trek-2026@milehighrunners.com
-DTSTAMP:20260726T000000Z
+DTSTAMP:20260802T000000Z
 DTSTART:20261121T083000Z
 DTEND:20261121T123000Z
 SUMMARY:Turkey Trek
-DESCRIPTION:A holiday-themed race featuring unique challenges including the Egg Nog Chug\, Hay Bale Hop\, and 'Fill Your Pie Hole' pumpkin pie station. The event offers a Half Marathon (Half Turkey)\, 10k\, 5k\, and an un-timed 2k Turkey Toddle.
+DESCRIPTION:Turkey Trek features multiple distance options (2K\, 5K\, 10K\, and Half Marathon) with holiday-themed challenges including an Egg Nog Chug Challenge at the 3-mile summit\, a Hay Bale Hop Challenge\, and a Fill Your Pie Hole Challenge with pumpkin pie. The course includes an uphill climb to a mesa ridge with scenic views\, followed by a descent and flat sections. Half Marathon finishers receive a commemorative mug. All participants receive a performance blend brown hooded sweatshirt. Proceeds benefit Community Table food bank.
 LOCATION:Long Lake Regional Park\, Arvada\, CO 80007
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:alpine-bank-boulder-thanksgiving-day-5k-2026@milehighrunners.com
-DTSTAMP:20260726T000000Z
-DTSTART:20261126T080000Z
-DTEND:20261126T120000Z
-SUMMARY:Alpine Bank Boulder Thanksgiving Day 5K
-DESCRIPTION:A festive community 5K that winds through downtown Boulder and the Pearl Street Mall. The race supports local food banks and offers a high-energy holiday atmosphere for runners and families.
-LOCATION:Pearl Street Mall\, 1300 Pearl St\, Boulder\, CO 80302
+UID:gobble-wobble-run-2026@milehighrunners.com
+DTSTAMP:20260802T000000Z
+DTSTART:20261126T083000Z
+DTEND:20261126T123000Z
+SUMMARY:Gobble Wobble Run
+DESCRIPTION:Gobble Wobble Run 5K on Thanksgiving Day. Features early packet pickup at Fleet Feet. 2026 beneficiary is the Colorado National Guard Foundation. Title sponsor is The Alan Smith Team at RE/MAX Professionals.
+LOCATION:Clement Park\, Littleton\, CO
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:broomfield-turkey-day-5k10k-2026@milehighrunners.com
+DTSTAMP:20260802T000000Z
+DTSTART:20261126T090000Z
+DTEND:20261126T130000Z
+SUMMARY:Broomfield Turkey Day 5K/10K
+DESCRIPTION:Colorado's Only Thanksgiving Day 10K event welcoming all runners\, walkers\, and families. Features 5K and 10K races plus an untimed kids fun run (approx 1/2 mile). Includes finisher medals\, free pumpkin pie\, winter knit beanie swag\, chip timing\, and free parking. Benefits Broomfield FISH charity with food drive raffle.
+LOCATION:13200 Sheridan Blvd\, Broomfield County Commons\, Broomfield\, CO 80020
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:turkey-rock-trot-5k-2026@milehighrunners.com
-DTSTAMP:20260726T000000Z
+DTSTAMP:20260802T000000Z
 DTSTART:20261126T090000Z
 DTEND:20261126T130000Z
 SUMMARY:Turkey ROCK Trot 5k
@@ -535,8 +495,18 @@ LOCATION:500 Fairgrounds Drive\, Castle Rock\, CO
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:alpine-bank-boulder-thanksgiving-day-5k-2026@milehighrunners.com
+DTSTAMP:20260802T000000Z
+DTSTART:20261126T080000Z
+DTEND:20261126T120000Z
+SUMMARY:Alpine Bank Boulder Thanksgiving Day 5K
+DESCRIPTION:Thanksgiving Day Fun Run
+LOCATION:Pearl Street Mall\, 1300 Pearl St\, Boulder\, CO 80302
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:mile-high-united-way-turkey-trot-2026@milehighrunners.com
-DTSTAMP:20260726T000000Z
+DTSTAMP:20260802T000000Z
 DTSTART:20261126T090000Z
 DTEND:20261126T130000Z
 SUMMARY:Mile High United Way Turkey Trot
@@ -545,28 +515,8 @@ LOCATION:Washington Park\, 1700 E Louisiana Ave\, Denver\, CO 80210
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:broomfield-turkey-day-5k10k-2026@milehighrunners.com
-DTSTAMP:20260726T000000Z
-DTSTART:20261126T090000Z
-DTEND:20261126T130000Z
-SUMMARY:Broomfield Turkey Day 5K/10K
-DESCRIPTION:A family Thanksgiving tradition featuring a 5K\, 10K\, and Kids Fun Run. Participants receive a winter knit beanie\, a finisher's medal\, and a slice of pumpkin pie. The event also hosts a food drive for Broomfield FISH and is an official qualifier for the BolderBoulder.
-LOCATION:13200 Sheridan Blvd\, Broomfield County Commons\, Broomfield\, CO 80020
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:gobble-wobble-run-2026@milehighrunners.com
-DTSTAMP:20260726T000000Z
-DTSTART:20261126T083000Z
-DTEND:20261126T123000Z
-SUMMARY:Gobble Wobble Run
-DESCRIPTION:Gobble Wobble Run 5K on Thanksgiving Day. Benefiting the Colorado National Guard Foundation to support Colorado's military members and their families. Early packet pickup available at Fleet Feet on November 23-24.
-LOCATION:Clement Park\, Littleton\, CO
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:sawmill-trail-runs-2026@milehighrunners.com
-DTSTAMP:20260726T000000Z
+DTSTAMP:20260802T000000Z
 DTSTART:20261205T070000Z
 DTEND:20261205T110000Z
 SUMMARY:Sawmill Trail Runs
