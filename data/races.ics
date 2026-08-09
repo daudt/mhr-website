@@ -5,48 +5,8 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Mile High Runners Race Calendar
 BEGIN:VEVENT
-UID:transrockies-run-2026@milehighrunners.com
-DTSTAMP:20260802T000000Z
-DTSTART:20260803T080000Z
-DTEND:20260803T120000Z
-SUMMARY:TransRockies Run
-DESCRIPTION:A multi-day trail running stage race often described as 'Summer Camp for Runners.' Participants traverse the heart of the Rockies over six days\, finishing in Beaver Creek.
-LOCATION:East Main Street\, Buena Vista\, CO 81211
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:choice-city-running-festival-2026@milehighrunners.com
-DTSTAMP:20260802T000000Z
-DTSTART:20260807T080000Z
-DTEND:20260807T120000Z
-SUMMARY:Choice City Running Festival
-DESCRIPTION:A two-day running festival featuring the 28th Annual Jane Welzel Mountain Avenue Mile on August 7th and the 43rd Annual Human Race including a Half Marathon\, 10K\, and 5K on August 8th. Registration opens May 31st.
-LOCATION:Civic Center Park\, Fort Collins\, CO
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:georgetown-to-idaho-springs-half-marathon-2026@milehighrunners.com
-DTSTAMP:20260802T000000Z
-DTSTART:20260808T070000Z
-DTEND:20260808T110000Z
-SUMMARY:Georgetown to Idaho Springs Half Marathon
-DESCRIPTION:An iconic point-to-point mountain road race that winds down the Clear Creek Valley. Starting at Georgetown Lake\, the course drops 1\,000 feet in elevation to finish in historic downtown Idaho Springs.
-LOCATION:Georgetown Lake\, Georgetown\, CO 80444
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:mount-sneffels-marathon-2026@milehighrunners.com
-DTSTAMP:20260802T000000Z
-DTSTART:20260815T080000Z
-DTEND:20260815T120000Z
-SUMMARY:Mount Sneffels Marathon
-DESCRIPTION:Mt. Sneffels Half Marathon\, 10K\, and Kids Fun Run in the Switzerland of America. All races start and finish at Frontier Field in Ridgway\, CO. Note: Due to county road and bridge construction work\, the half marathon course has been changed and will no longer start in Ouray. Packet pickup is Friday\, August 14th from 4-8 PM at Ridgway Athletic Park/Frontier Field.
-LOCATION:Frontier Field\, CR 23\, Ridgway\, CO
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:leadville-trail-10k-2026@milehighrunners.com
-DTSTAMP:20260802T000000Z
+DTSTAMP:20260809T000000Z
 DTSTART:20260815T060000Z
 DTEND:20260815T100000Z
 SUMMARY:Leadville Trail 10K
@@ -56,7 +16,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:mt-sneffels-half-marathon-2026@milehighrunners.com
-DTSTAMP:20260802T000000Z
+DTSTAMP:20260809T000000Z
 DTSTART:20260815T080000Z
 DTEND:20260815T120000Z
 SUMMARY:Mt. Sneffels Half Marathon
@@ -65,8 +25,18 @@ LOCATION:Frontier Field CR 23\, Ridgway\, CO
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:mount-sneffels-marathon-2026@milehighrunners.com
+DTSTAMP:20260809T000000Z
+DTSTART:20260815T080000Z
+DTEND:20260815T120000Z
+SUMMARY:Mount Sneffels Marathon
+DESCRIPTION:Mt. Sneffels Half Marathon\, 10K\, and Kids Fun Run in the Switzerland of America. All races start and finish at Frontier Field in Ridgway\, CO. Note: Due to county road and bridge construction work\, the half marathon course has been changed and will no longer start in Ouray. Packet pickup is Friday\, August 14th from 4-8 PM at Ridgway Athletic Park/Frontier Field.
+LOCATION:Frontier Field\, CR 23\, Ridgway\, CO
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:staunton-rocks-marathon-and-half-marathon-2026@milehighrunners.com
-DTSTAMP:20260802T000000Z
+DTSTAMP:20260809T000000Z
 DTSTART:20260821T070000Z
 DTEND:20260821T110000Z
 SUMMARY:Staunton Rocks! Marathon and Half Marathon
@@ -76,7 +46,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:bergen-peak-trail-race-2026@milehighrunners.com
-DTSTAMP:20260802T000000Z
+DTSTAMP:20260809T000000Z
 DTSTART:20260822T070000Z
 DTEND:20260822T110000Z
 SUMMARY:Bergen Peak Trail Race
@@ -86,17 +56,17 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:arrowhead-half-marathon-5k-2026@milehighrunners.com
-DTSTAMP:20260802T000000Z
+DTSTAMP:20260809T000000Z
 DTSTART:20260822T070000Z
 DTEND:20260822T110000Z
 SUMMARY:Arrowhead Half Marathon & 5K
-DESCRIPTION:Part of the Vail Trail Running Series
+DESCRIPTION:Part of the Vail Trail Running Series featuring half marathon and 5K distances with aid stations and experienced volunteers.
 LOCATION:Arrowhead\, CO
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:leadville-trail-100-run-2026@milehighrunners.com
-DTSTAMP:20260802T000000Z
+DTSTAMP:20260809T000000Z
 DTSTART:20260822T040000Z
 DTEND:20260822T080000Z
 SUMMARY:Leadville Trail 100 Run
@@ -106,7 +76,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:staunton-rocks-marathon-half-2026@milehighrunners.com
-DTSTAMP:20260802T000000Z
+DTSTAMP:20260809T000000Z
 DTSTART:20260822T070000Z
 DTEND:20260822T110000Z
 SUMMARY:Staunton Rocks! Marathon & Half
@@ -116,7 +86,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:rock-hawk-trail-races-2026@milehighrunners.com
-DTSTAMP:20260802T000000Z
+DTSTAMP:20260809T000000Z
 DTSTART:20260829T060000Z
 DTEND:20260829T100000Z
 SUMMARY:Rock Hawk Trail Races
@@ -126,17 +96,17 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:grand-traverse-mountain-run-2026@milehighrunners.com
-DTSTAMP:20260802T000000Z
+DTSTAMP:20260809T000000Z
 DTSTART:20260905T060000Z
 DTEND:20260905T100000Z
 SUMMARY:Grand Traverse Mountain Run
-DESCRIPTION:Point-to-point ultramarathon from Crested Butte to Aspen\, Colorado following the Grand Traverse Backcountry Ski race route. Runners travel 40 miles across the Elk Mountains with over 6\,000 feet of elevation gain. Fundraising event for Crested Butte Nordic\, a 501(c)(3) recreational non-profit organization.
+DESCRIPTION:Point-to-point ultramarathon from Crested Butte to Aspen across the Elk Mountains with 6\,000+ feet of elevation gain. Fundraising event for Crested Butte Nordic\, a 501(c)(3) nonprofit organization.
 LOCATION:Town Park\, Crested Butte\, CO to Ajax Park – 1001 S. Ute Ave\, Aspen\, CO
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:golden-harvest-half-marathon-5k10k-2026@milehighrunners.com
-DTSTAMP:20260802T000000Z
+DTSTAMP:20260809T000000Z
 DTSTART:20260905T080000Z
 DTEND:20260905T120000Z
 SUMMARY:Golden Harvest Half Marathon & 5K/10K
@@ -146,7 +116,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:the-grand-traverse-bike-2026@milehighrunners.com
-DTSTAMP:20260802T000000Z
+DTSTAMP:20260809T000000Z
 DTSTART:20260906T080000Z
 DTEND:20260906T120000Z
 SUMMARY:The Grand Traverse (Bike)
@@ -156,7 +126,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:black-squirrel-half-marathon-2026@milehighrunners.com
-DTSTAMP:20260802T000000Z
+DTSTAMP:20260809T000000Z
 DTSTART:20260912T070000Z
 DTEND:20260912T110000Z
 SUMMARY:Black Squirrel Half Marathon
@@ -166,7 +136,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ned-ned-run-2026@milehighrunners.com
-DTSTAMP:20260802T000000Z
+DTSTAMP:20260809T000000Z
 DTSTART:20260912T080000Z
 DTEND:20260912T120000Z
 SUMMARY:Ned Ned Run
@@ -176,17 +146,17 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:meadowgold-11k-5k-2026@milehighrunners.com
-DTSTAMP:20260802T000000Z
+DTSTAMP:20260809T000000Z
 DTSTART:20260912T090000Z
 DTEND:20260912T130000Z
 SUMMARY:MeadowGold 11K & 5K
-DESCRIPTION:Part of the Vail Trail Running Series
+DESCRIPTION:Part of the Vail Trail Running Series with well-marked routes\, aid stations\, and challenging courses for all levels.
 LOCATION:Minturn\, CO
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:devil-on-the-divide-2026@milehighrunners.com
-DTSTAMP:20260802T000000Z
+DTSTAMP:20260809T000000Z
 DTSTART:20260912T060000Z
 DTEND:20260912T100000Z
 SUMMARY:Devil on the Divide
@@ -196,7 +166,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:lead-king-loop-2026@milehighrunners.com
-DTSTAMP:20260802T000000Z
+DTSTAMP:20260809T000000Z
 DTSTART:20260913T080000Z
 DTEND:20260913T120000Z
 SUMMARY:Lead King Loop
@@ -206,7 +176,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:run-rabbit-run-2026@milehighrunners.com
-DTSTAMP:20260802T000000Z
+DTSTAMP:20260809T000000Z
 DTSTART:20260918T090000Z
 DTEND:20260918T130000Z
 SUMMARY:Run Rabbit Run
@@ -216,7 +186,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:run-the-rockies-road-race-2026@milehighrunners.com
-DTSTAMP:20260802T000000Z
+DTSTAMP:20260809T000000Z
 DTSTART:20260919T080000Z
 DTEND:20260919T120000Z
 SUMMARY:Run the Rockies Road Race
@@ -226,7 +196,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:pikes-peak-ascent-marathon-2026@milehighrunners.com
-DTSTAMP:20260802T000000Z
+DTSTAMP:20260809T000000Z
 DTSTART:20260919T080000Z
 DTEND:20260919T120000Z
 SUMMARY:Pikes Peak Ascent & Marathon
@@ -236,7 +206,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:pikes-peak-marathon-2026@milehighrunners.com
-DTSTAMP:20260802T000000Z
+DTSTAMP:20260809T000000Z
 DTSTART:20260920T070000Z
 DTEND:20260920T110000Z
 SUMMARY:Pikes Peak Marathon
@@ -246,7 +216,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:fall-equinox-marathon-2026@milehighrunners.com
-DTSTAMP:20260802T000000Z
+DTSTAMP:20260809T000000Z
 DTSTART:20260920T080000Z
 DTEND:20260920T120000Z
 SUMMARY:Fall Equinox Marathon
@@ -255,8 +225,18 @@ LOCATION:Fort Collins\, CO
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:crested-butte-ultra-2026@milehighrunners.com
+DTSTAMP:20260809T000000Z
+DTSTART:20260926T060000Z
+DTEND:20260926T100000Z
+SUMMARY:Crested Butte Ultra
+DESCRIPTION:Hosted during the peak of autumn\, this trail race treats runners to golden aspen groves and expansive mountain vistas. The course uses flowy singletrack and challenging terrain around one of Colorado's most famous mountain towns.
+LOCATION:Crested Butte Mountain Resort\, 12 Emmons Rd\, Crested Butte\, CO 81225
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:golden-leaf-half-marathon-2026@milehighrunners.com
-DTSTAMP:20260802T000000Z
+DTSTAMP:20260809T000000Z
 DTSTART:20260926T080000Z
 DTEND:20260926T120000Z
 SUMMARY:Golden Leaf Half Marathon
@@ -266,17 +246,17 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:cougar-ridge-classic-26k-trail-run-2026@milehighrunners.com
-DTSTAMP:20260802T000000Z
+DTSTAMP:20260809T000000Z
 DTSTART:20260926T070000Z
 DTEND:20260926T110000Z
 SUMMARY:Cougar Ridge Classic 26K Trail Run
-DESCRIPTION:Separate from the main series
-LOCATION:Start: 352 E Meadow Dr.\, Vail\, CO | Finish: 101113 Williams St.\, Minturn\, CO
+DESCRIPTION:Point-to-point trail running race starting in Vail and finishing in Minturn. The 26K features a long climb up Vail Mountain (11\,000 ft elevation) with stunning views of Mount of the Holy Cross and golden aspen groves\, followed by a technical descent on Cougar Ridge Singletrack Trail. A new 14K option (Cougar Cub) starts at Eagle's Nest. Registration limited to 250 racers. Includes post-race lunch vouchers at participating Minturn restaurants.
+LOCATION:352 E Meadow Dr.\, Vail\, CO (Start - Gravity Haus Vail) | 101113 Williams St.\, Minturn\, CO (Finish/After-Party)
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:west-line-winder-2026@milehighrunners.com
-DTSTAMP:20260802T000000Z
+DTSTAMP:20260809T000000Z
 DTSTART:20260926T080000Z
 DTEND:20260926T120000Z
 SUMMARY:West Line Winder
@@ -285,18 +265,8 @@ LOCATION:Buena Vista\, CO
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:crested-butte-ultra-2026@milehighrunners.com
-DTSTAMP:20260802T000000Z
-DTSTART:20260926T060000Z
-DTEND:20260926T100000Z
-SUMMARY:Crested Butte Ultra
-DESCRIPTION:Hosted during the peak of autumn\, this trail race treats runners to golden aspen groves and expansive mountain vistas. The course uses flowy singletrack and challenging terrain around one of Colorado's most famous mountain towns.
-LOCATION:Crested Butte Mountain Resort\, 12 Emmons Rd\, Crested Butte\, CO 81225
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:bear-chase-trail-run-2026@milehighrunners.com
-DTSTAMP:20260802T000000Z
+DTSTAMP:20260809T000000Z
 DTSTART:20261002T060000Z
 DTEND:20261002T100000Z
 SUMMARY:Bear Chase Trail Run
@@ -305,18 +275,8 @@ LOCATION:15600 W Morrison Rd\, Lakewood\, CO 80465
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:rim-to-rim-royal-gorge-races-2026@milehighrunners.com
-DTSTAMP:20260802T000000Z
-DTSTART:20261003T080000Z
-DTEND:20261003T120000Z
-SUMMARY:Rim to Rim Royal Gorge Races
-DESCRIPTION:Scenic races including a 5K road run\, an 8-mile trail run\, and a half marathon trail run through the foothills and across the majestic Royal Gorge Bridge. The event also features a free 'Dinosaur Dash' kids race and virtual options.
-LOCATION:Royal Gorge Bridge\, Canon City\, CO
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:colorado-springs-marathon-2026@milehighrunners.com
-DTSTAMP:20260802T000000Z
+DTSTAMP:20260809T000000Z
 DTSTART:20261003T070000Z
 DTEND:20261003T110000Z
 SUMMARY:Colorado Springs Marathon
@@ -326,7 +286,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:the-bear-chase-2026@milehighrunners.com
-DTSTAMP:20260802T000000Z
+DTSTAMP:20260809T000000Z
 DTSTART:20261003T053000Z
 DTEND:20261003T093000Z
 SUMMARY:The Bear Chase
@@ -335,8 +295,18 @@ LOCATION:Bear Creek Lake Park\, Big Soda Lake Beach\, 15600 W. Morrison Road\, L
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:rim-to-rim-royal-gorge-races-2026@milehighrunners.com
+DTSTAMP:20260809T000000Z
+DTSTART:20261003T080000Z
+DTEND:20261003T120000Z
+SUMMARY:Rim to Rim Royal Gorge Races
+DESCRIPTION:Scenic races including a 5K road run\, an 8-mile trail run\, and a half marathon trail run through the foothills and across the majestic Royal Gorge Bridge. The event also features a free 'Dinosaur Dash' kids race and virtual options.
+LOCATION:Royal Gorge Bridge\, Canon City\, CO
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:windsor-marathon-2026@milehighrunners.com
-DTSTAMP:20260802T000000Z
+DTSTAMP:20260809T000000Z
 DTSTART:20261004T070000Z
 DTEND:20261004T110000Z
 SUMMARY:Windsor Marathon
@@ -346,7 +316,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:long-view-marathon-2026@milehighrunners.com
-DTSTAMP:20260802T000000Z
+DTSTAMP:20260809T000000Z
 DTSTART:20261010T073000Z
 DTEND:20261010T113000Z
 SUMMARY:Long View Marathon
@@ -356,7 +326,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:durango-marathon-2026@milehighrunners.com
-DTSTAMP:20260802T000000Z
+DTSTAMP:20260809T000000Z
 DTSTART:20261011T080000Z
 DTEND:20261011T120000Z
 SUMMARY:Durango Marathon
@@ -365,8 +335,18 @@ LOCATION:Santa Rita Park\, 111 South Camino Del Rio\, Durango\, CO 81301
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:bobcat-trail-races-2026@milehighrunners.com
+DTSTAMP:20260809T000000Z
+DTSTART:20261017T070000Z
+DTEND:20261017T110000Z
+SUMMARY:Bobcat Trail Races
+DESCRIPTION:Bobcat Trail Races feature one of Colorado Springs' best city parks\, Palmer Park. Runners will enjoy views of the city and Pikes Peak from the rocky bluffs. The event offers multiple distances (50K\, 25K\, 10K\, 5K) with challenging trail terrain ranging from technical single-track to rolling hills and rocky outcrops. Organized by Aravaipa Running.
+LOCATION:Palmer Park\, 3650 Maizeland Rd\, Colorado Springs\, CO 80909
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:blue-sky-marathon-half-marathon-2026@milehighrunners.com
-DTSTAMP:20260802T000000Z
+DTSTAMP:20260809T000000Z
 DTSTART:20261017T070000Z
 DTEND:20261017T110000Z
 SUMMARY:Blue Sky Marathon & Half Marathon
@@ -376,7 +356,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:blue-sky-trail-run-2026@milehighrunners.com
-DTSTAMP:20260802T000000Z
+DTSTAMP:20260809T000000Z
 DTSTART:20261017T080000Z
 DTEND:20261017T120000Z
 SUMMARY:Blue Sky Trail Run
@@ -385,18 +365,8 @@ LOCATION:Blue Sky Trailhead\, Horsetooth Mountain Park\, Fort Collins\, Colorado
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:bobcat-trail-races-2026@milehighrunners.com
-DTSTAMP:20260802T000000Z
-DTSTART:20261017T070000Z
-DTEND:20261017T110000Z
-SUMMARY:Bobcat Trail Races
-DESCRIPTION:Bobcat Trail Races feature one of Colorado Springs' best city parks\, Palmer Park. Runners will enjoy views of the city and Pikes Peak from the rocky bluffs. The event offers multiple distances (50K\, 25K\, 10K\, 5K) with challenging trail terrain ranging from technical single-track to rolling hills and rocky outcrops. Organized by Aravaipa Running.
-LOCATION:Palmer Park\, 3650 Maizeland Rd\, Colorado Springs\, CO 80909
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:all-out-kooky-spooky-2026@milehighrunners.com
-DTSTAMP:20260802T000000Z
+DTSTAMP:20260809T000000Z
 DTSTART:20261101T090000Z
 DTEND:20261101T130000Z
 SUMMARY:All-Out Kooky-Spooky
@@ -405,18 +375,8 @@ LOCATION:Ralston Creek Trail\, Golden\, CO 80403
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:colorado-24-hour-run-2026@milehighrunners.com
-DTSTAMP:20260802T000000Z
-DTSTART:20261107T080000Z
-DTEND:20261107T120000Z
-SUMMARY:Colorado 24 Hour Run
-DESCRIPTION:A community-focused timed event held on a scenic 1-mile flat dirt loop at the Swift Ponds Campus. Runners can push their limits to see how far they can go in a set amount of time\, with a festive atmosphere and shared meals throughout the day and night.
-LOCATION:4927 County Rd 36\, Fort Collins\, CO 80528
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:kessel-run-ultra-2026@milehighrunners.com
-DTSTAMP:20260802T000000Z
+DTSTAMP:20260809T000000Z
 DTSTART:20261107T070000Z
 DTEND:20261107T110000Z
 SUMMARY:Kessel Run Ultra
@@ -426,7 +386,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:moab-trail-marathon-2026@milehighrunners.com
-DTSTAMP:20260802T000000Z
+DTSTAMP:20260809T000000Z
 DTSTART:20261107T080000Z
 DTEND:20261107T120000Z
 SUMMARY:Moab Trail Marathon
@@ -435,8 +395,18 @@ LOCATION:TBD
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:colorado-24-hour-run-2026@milehighrunners.com
+DTSTAMP:20260809T000000Z
+DTSTART:20261107T080000Z
+DTEND:20261107T120000Z
+SUMMARY:Colorado 24 Hour Run
+DESCRIPTION:A community-focused timed event held on a scenic 1-mile flat dirt loop at the Swift Ponds Campus. Runners can push their limits to see how far they can go in a set amount of time\, with a festive atmosphere and shared meals throughout the day and night.
+LOCATION:4927 County Rd 36\, Fort Collins\, CO 80528
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:longmont-turkey-trot-2026@milehighrunners.com
-DTSTAMP:20260802T000000Z
+DTSTAMP:20260809T000000Z
 DTSTART:20261114T090000Z
 DTEND:20261114T130000Z
 SUMMARY:Longmont Turkey Trot
@@ -446,7 +416,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:pumpkin-pie-5k10k-2026@milehighrunners.com
-DTSTAMP:20260802T000000Z
+DTSTAMP:20260809T000000Z
 DTSTART:20261121T090000Z
 DTEND:20261121T130000Z
 SUMMARY:Pumpkin Pie 5K/10K
@@ -456,7 +426,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:turkey-trek-2026@milehighrunners.com
-DTSTAMP:20260802T000000Z
+DTSTAMP:20260809T000000Z
 DTSTART:20261121T083000Z
 DTEND:20261121T123000Z
 SUMMARY:Turkey Trek
@@ -465,18 +435,18 @@ LOCATION:Long Lake Regional Park\, Arvada\, CO 80007
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:gobble-wobble-run-2026@milehighrunners.com
-DTSTAMP:20260802T000000Z
-DTSTART:20261126T083000Z
-DTEND:20261126T123000Z
-SUMMARY:Gobble Wobble Run
-DESCRIPTION:Gobble Wobble Run 5K on Thanksgiving Day. Features early packet pickup at Fleet Feet. 2026 beneficiary is the Colorado National Guard Foundation. Title sponsor is The Alan Smith Team at RE/MAX Professionals.
-LOCATION:Clement Park\, Littleton\, CO
+UID:alpine-bank-boulder-thanksgiving-day-5k-2026@milehighrunners.com
+DTSTAMP:20260809T000000Z
+DTSTART:20261126T080000Z
+DTEND:20261126T120000Z
+SUMMARY:Alpine Bank Boulder Thanksgiving Day 5K
+DESCRIPTION:Thanksgiving Day Fun Run
+LOCATION:Pearl Street Mall\, 1300 Pearl St\, Boulder\, CO 80302
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:broomfield-turkey-day-5k10k-2026@milehighrunners.com
-DTSTAMP:20260802T000000Z
+DTSTAMP:20260809T000000Z
 DTSTART:20261126T090000Z
 DTEND:20261126T130000Z
 SUMMARY:Broomfield Turkey Day 5K/10K
@@ -486,27 +456,27 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:turkey-rock-trot-5k-2026@milehighrunners.com
-DTSTAMP:20260802T000000Z
+DTSTAMP:20260809T000000Z
 DTSTART:20261126T090000Z
 DTEND:20261126T130000Z
 SUMMARY:Turkey ROCK Trot 5k
-DESCRIPTION:The Plum Creek Church 22nd Annual Turkey ROCK Trot Presented by CORE - a 5K family fun run/walk/stroll held on Thanksgiving morning featuring live DJ at start line\, live music on course\, indoor health & wellness expo with 30+ vendors\, free kids dash (8:30 AM)\, food\, beverages\, and family activities. All proceeds benefit the Help & Hope Center.
-LOCATION:500 Fairgrounds Drive\, Castle Rock\, CO
+DESCRIPTION:The Plum Creek Church 22nd Annual Turkey ROCK Trot Presented by CORE is Castle Rock's largest attended running race featuring a 5K run/walk/stroll and FREE 1K Kids Dash on Thanksgiving morning. Includes indoor Health & Wellness Expo with 30+ vendors\, live DJ and music\, food vendors\, and festivities. All proceeds benefit the Help&Hope Center. Family-friendly event with wave corrals\, awards\, costume contest\, and dance-off.
+LOCATION:Douglas County Event Center\, 500 Fairgrounds Drive\, Castle Rock\, CO
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:alpine-bank-boulder-thanksgiving-day-5k-2026@milehighrunners.com
-DTSTAMP:20260802T000000Z
-DTSTART:20261126T080000Z
-DTEND:20261126T120000Z
-SUMMARY:Alpine Bank Boulder Thanksgiving Day 5K
-DESCRIPTION:Thanksgiving Day Fun Run
-LOCATION:Pearl Street Mall\, 1300 Pearl St\, Boulder\, CO 80302
+UID:gobble-wobble-run-2026@milehighrunners.com
+DTSTAMP:20260809T000000Z
+DTSTART:20261126T083000Z
+DTEND:20261126T123000Z
+SUMMARY:Gobble Wobble Run
+DESCRIPTION:Gobble Wobble Run 5K on Thanksgiving Day. Features early packet pickup at Fleet Feet. 2026 beneficiary is the Colorado National Guard Foundation. Title sponsor is The Alan Smith Team at RE/MAX Professionals.
+LOCATION:Clement Park\, Littleton\, CO
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:mile-high-united-way-turkey-trot-2026@milehighrunners.com
-DTSTAMP:20260802T000000Z
+DTSTAMP:20260809T000000Z
 DTSTART:20261126T090000Z
 DTEND:20261126T130000Z
 SUMMARY:Mile High United Way Turkey Trot
@@ -516,7 +486,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sawmill-trail-runs-2026@milehighrunners.com
-DTSTAMP:20260802T000000Z
+DTSTAMP:20260809T000000Z
 DTSTART:20261205T070000Z
 DTEND:20261205T110000Z
 SUMMARY:Sawmill Trail Runs
