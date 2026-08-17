@@ -81,6 +81,56 @@
         <section class="calendar-section">
             <div class="content-container">
                 <h2>Upcoming Events</h2>
+
+                <div class="calendar-subscribe-bar">
+                    <div class="subscribe-info">
+                        <i class="fas fa-calendar-alt"></i>
+                        <span>Subscribe to our training calendar and get every practice on your
+                            phone automatically</span>
+                    </div>
+                    <div class="subscribe-buttons">
+                        <a href="webcal://milehighrunners.com/calendar.ics" class="subscribe-btn apple-btn"
+                            title="Subscribe with Apple Calendar">
+                            <i class="fab fa-apple"></i> Apple Calendar
+                        </a>
+                        <a href="https://calendar.google.com/calendar/r?cid=https%3A%2F%2Fmilehighrunners.com%2Fcalendar.ics"
+                            target="_blank" rel="noopener" class="subscribe-btn google-btn"
+                            title="Subscribe with Google Calendar">
+                            <i class="fab fa-google"></i> Google Calendar
+                        </a>
+                        <button type="button" class="subscribe-btn copy-btn" id="copy-feed-btn"
+                            data-feed-url="https://milehighrunners.com/calendar.ics"
+                            title="Copy the calendar feed address">
+                            <i class="fas fa-link"></i> <span>Copy feed URL</span>
+                        </button>
+                        <a href="calendar.ics" download="mhr-training.ics" class="subscribe-btn ics-btn"
+                            title="Download ICS file">
+                            <i class="fas fa-download"></i> Download .ics
+                        </a>
+                    </div>
+                </div>
+
+                <details class="subscribe-help">
+                    <summary>How do I subscribe?</summary>
+                    <p>Subscribing is different from downloading: the calendar keeps itself up to date
+                        as practices are added, changed, or cancelled. The feed address is:</p>
+                    <p><code class="feed-url">https://milehighrunners.com/calendar.ics</code></p>
+                    <ul>
+                        <li><strong>iPhone, iPad or Mac:</strong> tap <em>Apple Calendar</em> above and
+                            confirm. Or in the Calendar app, choose <em>File &rarr; New Calendar
+                                Subscription</em> and paste the address. You can set how often it refreshes.</li>
+                        <li><strong>Google Calendar:</strong> tap <em>Google Calendar</em> above, or go to
+                            <a href="https://calendar.google.com/" target="_blank" rel="noopener">Google
+                                Calendar</a> on a computer and choose <em>Other calendars &rarr; + &rarr; From
+                                URL</em>, paste the address, then <em>Add calendar</em>. Note that Google
+                            refreshes subscribed calendars on its own schedule &mdash; usually within a day,
+                            and it cannot be forced. Same-day changes may not reach you in time, so please
+                            keep an eye on our email and Facebook for last-minute cancellations.</li>
+                        <li><strong>Outlook:</strong> choose <em>Add calendar &rarr; Subscribe from web</em>
+                            and paste the address.</li>
+                    </ul>
+                </details>
+
                 <div id="workouts-container">
                     <p class="no-events">Loading upcoming events...</p>
                 </div>
@@ -125,6 +175,43 @@
 
     <script src="main.js"></script>
     <script>
+        // Copy the calendar feed URL to the clipboard
+        (function setupCopyFeedUrl() {
+            const btn = document.getElementById('copy-feed-btn');
+            if (!btn) return;
+
+            const label = btn.querySelector('span');
+            const original = label.textContent;
+
+            async function copy(text) {
+                // navigator.clipboard needs a secure context; fall back for the rest.
+                if (navigator.clipboard && window.isSecureContext) {
+                    await navigator.clipboard.writeText(text);
+                    return;
+                }
+                const area = document.createElement('textarea');
+                area.value = text;
+                area.setAttribute('readonly', '');
+                area.style.position = 'fixed';
+                area.style.opacity = '0';
+                document.body.appendChild(area);
+                area.select();
+                document.execCommand('copy');
+                document.body.removeChild(area);
+            }
+
+            btn.addEventListener('click', async () => {
+                try {
+                    await copy(btn.dataset.feedUrl);
+                    label.textContent = 'Copied!';
+                } catch (error) {
+                    console.error('Could not copy feed URL:', error);
+                    label.textContent = 'Copy failed — select it below';
+                }
+                setTimeout(() => { label.textContent = original; }, 2500);
+            });
+        })();
+
         // Load workouts on page load
         loadWorkouts();
 

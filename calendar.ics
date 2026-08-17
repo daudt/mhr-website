@@ -1,0 +1,137 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Mile High Runners//Workout Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+NAME:Mile High Runners Training
+X-WR-CALNAME:Mile High Runners Training
+DESCRIPTION:Group workouts for Mile High Runners — Erie\, Colorado
+X-WR-CALDESC:Group workouts for Mile High Runners — Erie\, Colorado
+X-WR-TIMEZONE:America/Denver
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+SOURCE;VALUE=URI:https://milehighrunners.com/calendar.ics
+BEGIN:VTIMEZONE
+TZID:America/Denver
+X-LIC-LOCATION:America/Denver
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+TZNAME:MDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:16e237e9b090cd159117cb69a7bf2ca376962f93@milehighrunners.com
+DTSTAMP:20260817T232003Z
+DTSTART;TZID=America/Denver:20260818T050000
+DTEND;TZID=America/Denver:20260818T060000
+SUMMARY:MHR Practice — Erie Middle School
+DESCRIPTION:1-mile easy jog warmup\, drills\, and accelerators\; 4 x 400 me
+ ters at 5k pace (60-second recovery)\; 2-minute active recovery\; 1k (2.5 
+ laps) at 10k pace\; 2-minute active recovery\; 4 x 400 meters at 5k pace (
+ 60-second recovery)\; 2-minute active recovery\; 1k (2.5 laps) at 10k pace
+ \; 4 x 100 meters at FFP\n\nDetails: https://milehighrunners.com/calendar.
+ html
+LOCATION:Erie Middle School\, 650 Main Street\, Erie\, CO 80516
+URL;VALUE=URI:https://maps.google.com/?q=Erie+Middle+School,Erie,CO+80516
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Running,Practice
+BEGIN:VALARM
+TRIGGER:-PT45M
+ACTION:DISPLAY
+DESCRIPTION:MHR Practice — Erie Middle School in 45 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:04dba118d3e1511edf9cd59e5d722d364a5c345a@milehighrunners.com
+DTSTAMP:20260817T232003Z
+DTSTART;TZID=America/Denver:20260818T052000
+DTEND;TZID=America/Denver:20260818T062000
+SUMMARY:MHR Practice — Erie Middle School
+DESCRIPTION:1-mile easy jog warmup\, drills\, and accelerators\; 2 x 400 me
+ ters at 5k pace (60-second recovery)\; 2-minute active recovery\; 1k at 10
+ k pace\; 2-minute active recovery\; 2 x 400 meters at 5k pace (60-second r
+ ecovery)\; 2-minute active recovery\; 1k at 10k pace\; 4 x 100 meters at F
+ FP\n\nDetails: https://milehighrunners.com/calendar.html
+LOCATION:Erie Middle School\, 650 Main Street\, Erie\, CO 80516
+URL;VALUE=URI:https://maps.google.com/?q=Erie+Middle+School,Erie,CO+80516
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Running,Practice
+BEGIN:VALARM
+TRIGGER:-PT45M
+ACTION:DISPLAY
+DESCRIPTION:MHR Practice — Erie Middle School in 45 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b0a43570cd00b82fc4395011b8432a346d770a4e@milehighrunners.com
+DTSTAMP:20260817T232003Z
+DTSTART;TZID=America/Denver:20260820T050000
+DTEND;TZID=America/Denver:20260820T060000
+SUMMARY:MHR Practice — Thomas Reservoir
+DESCRIPTION:1k easy jog warmup\, drills\, and accelerators\; 3 x 3k (1st la
+ p at MGP\, 2nd lap at HMP\, 3rd lap at 10k pace\; 90-second recovery betwe
+ en sets). Focus: Patience\, control\, and pace awareness\n\nDetails: https
+ ://milehighrunners.com/calendar.html
+LOCATION:Thomas Reservoir\, Thomas Reservoir\, Erie\, CO 80516
+URL;VALUE=URI:https://maps.google.com/?q=Thomas+Reservoir,Erie,CO+80516
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Running,Practice
+BEGIN:VALARM
+TRIGGER:-PT45M
+ACTION:DISPLAY
+DESCRIPTION:MHR Practice — Thomas Reservoir in 45 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:69f08499c846c49bae8911ce0e6717de5b2c8d0d@milehighrunners.com
+DTSTAMP:20260817T232003Z
+DTSTART;TZID=America/Denver:20260820T052000
+DTEND;TZID=America/Denver:20260820T062000
+SUMMARY:MHR Practice — Thomas Reservoir
+DESCRIPTION:1k easy jog warmup\, drills\, and accelerators\; 3–5 x 1k at 
+ 10k pace plus 10 seconds (60-second recovery)\n\nDetails: https://milehigh
+ runners.com/calendar.html
+LOCATION:Thomas Reservoir\, Thomas Reservoir\, Erie\, CO 80516
+URL;VALUE=URI:https://maps.google.com/?q=Thomas+Reservoir,Erie,CO+80516
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Running,Practice
+BEGIN:VALARM
+TRIGGER:-PT45M
+ACTION:DISPLAY
+DESCRIPTION:MHR Practice — Thomas Reservoir in 45 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a704b45a30bb0458dd1527968a61df4c2883f22c@milehighrunners.com
+DTSTAMP:20260817T232003Z
+DTSTART;TZID=America/Denver:20260822T063000
+DTEND;TZID=America/Denver:20260822T080000
+SUMMARY:MHR Practice — Fox Dog Coffee Shop
+DESCRIPTION:Social Run. All levels and abilities are welcome to join.\n\nDe
+ tails: https://milehighrunners.com/calendar.html
+LOCATION:Fox Dog Coffee Shop\, Fox Dog Coffee Shop
+URL;VALUE=URI:https://maps.google.com/?q=Fox+Dog+Coffee+Shop
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Running,Practice
+BEGIN:VALARM
+TRIGGER:-PT45M
+ACTION:DISPLAY
+DESCRIPTION:MHR Practice — Fox Dog Coffee Shop in 45 minutes
+END:VALARM
+END:VEVENT
+END:VCALENDAR

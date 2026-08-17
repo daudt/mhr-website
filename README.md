@@ -10,6 +10,7 @@ A modern, responsive website for Mile High Runners, Erie Colorado's premier runn
 - Social media integration
 - Mobile-friendly navigation
 - Event calendar integration
+- Subscribable training calendar feed (`/calendar.ics`)
 - Contact form
 
 ## Setup Instructions
@@ -60,6 +61,27 @@ Update the content in `index.html` to match your specific needs:
 - Add your own events
 - Update contact information
 - Add your social media links
+
+## Training Calendar Feed
+
+`calendar.ics` is a subscribable iCalendar feed of upcoming practices, published at
+<https://milehighrunners.com/calendar.ics> and linked from the subscribe bar on
+`calendar.html`.
+
+It is **generated, not hand-edited**. `data/workouts.json` is the single source of truth for
+both the schedule page and the feed, so the two can never disagree. Whenever
+`data/workouts.json` changes, the `Update Calendar Feed` workflow
+(`.github/workflows/calendar_ics.yml`) runs `scripts/generate_workouts_ics.js` and commits the
+regenerated `calendar.ics`.
+
+To regenerate locally:
+
+```bash
+node scripts/generate_workouts_ics.js
+```
+
+The feed mirrors the current contents of `workouts.json` — current and upcoming practices only.
+Past practices are not retained, and subscribers' calendars follow suit.
 
 ## Development
 
