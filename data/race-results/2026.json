@@ -316,5 +316,23 @@
         "time": "19:05"
       }
     ]
+  },
+  {
+    "event_name": "Aravaipa Westminster Trail 36k and 12k",
+    "date": "2026-08-16",
+    "results": [
+      {
+        "runner": "Nick",
+        "placement": null,
+        "division": null,
+        "time": null
+      },
+      {
+        "runner": "Maddie",
+        "placement": null,
+        "division": null,
+        "time": null
+      }
+    ]
   }
 ]

@@ -1,67 +1,67 @@
 [
   {
-    "date": "2026-08-11",
+    "date": "2026-08-18",
     "time": "5:00 AM",
     "location": {
-      "name": "EMS",
-      "address": "EMS",
-      "map_link": "https://maps.app.goo.gl/sNh7YgfjLHYEoDQm8?g_st=ic"
+      "name": "Erie Middle School",
+      "address": "650 Main Street, Erie, CO 80516",
+      "map_link": "https://maps.google.com/?q=Erie+Middle+School,Erie,CO+80516"
     },
-    "location_link": "https://maps.app.goo.gl/sNh7YgfjLHYEoDQm8?g_st=ic",
-    "description": "Warm-up: 1-mile easy jog, drills, and accelerators; Workout: 4 x 400 meters at 5k pace (60-second recovery); Road Transition: 1.5 miles (.75 miles out, .75 miles back) at 10k pace; Track Transition: 4 x 400 meters at 5k pace (60-second recovery); Road Transition: 1.5 miles (.75 miles out, .75 miles back) at 10k pace; Finish: 4 x 100 meters at FFP or mile pace",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+EMS&dates=20260811T110000Z%2F20260811T120000Z&details=Warm-up%3A+1-mile+easy+jog%2C+drills%2C+and+accelerators%3B+Workout%3A+4+x+400+meters+at+5k+pace+%2860-second+recovery%29%3B+Road+Transition%3A+1.5+miles+%28.75+miles+out%2C+.75+miles+back%29+at+10k+pace%3B+Track+Transition%3A+4+x+400+meters+at+5k+pace+%2860-second+recovery%29%3B+Road+Transition%3A+1.5+miles+%28.75+miles+out%2C+.75+miles+back%29+at+10k+pace%3B+Finish%3A+4+x+100+meters+at+FFP+or+mile+pace&location=EMS",
-    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwODExVDExMDAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDgwOVQxOTU2NDRaDQpEVFNUQVJUOjIwMjYwODExVDExMDAwMFoNCkRURU5EOjIwMjYwODExVDEyMDAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IEVNUw0KREVTQ1JJUFRJT046V2FybS11cDogMS1taWxlIGVhc3kgam9nXCwgZHJpbGxzXCwgYW5kIGFjY2VsZXJhdG9yc1w7IFdvcmtvdXQ6IDQgeCA0MDAgbWV0ZXJzIGF0IDVrIHBhY2UgKDYwLXNlY29uZCByZWNvdmVyeSlcOyBSb2FkIFRyYW5zaXRpb246IDEuNSBtaWxlcyAoLjc1IG1pbGVzIG91dFwsIC43NSBtaWxlcyBiYWNrKSBhdCAxMGsgcGFjZVw7IFRyYWNrIFRyYW5zaXRpb246IDQgeCA0MDAgbWV0ZXJzIGF0IDVrIHBhY2UgKDYwLXNlY29uZCByZWNvdmVyeSlcOyBSb2FkIFRyYW5zaXRpb246IDEuNSBtaWxlcyAoLjc1IG1pbGVzIG91dFwsIC43NSBtaWxlcyBiYWNrKSBhdCAxMGsgcGFjZVw7IEZpbmlzaDogNCB4IDEwMCBtZXRlcnMgYXQgRkZQIG9yIG1pbGUgcGFjZQ0KTE9DQVRJT046RU1TDQpTVEFUVVM6Q09ORklSTUVEDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFS"
+    "location_link": null,
+    "description": "1-mile easy jog warmup, drills, and accelerators; 4 x 400 meters at 5k pace (60-second recovery); 2-minute active recovery; 1k (2.5 laps) at 10k pace; 2-minute active recovery; 4 x 400 meters at 5k pace (60-second recovery); 2-minute active recovery; 1k (2.5 laps) at 10k pace; 4 x 100 meters at FFP",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+EMS&dates=20260818T110000Z%2F20260818T120000Z&details=1-mile+easy+jog+warmup%2C+drills%2C+and+accelerators%3B+4+x+400+meters+at+5k+pace+%2860-second+recovery%29%3B+2-minute+active+recovery%3B+1k+%282.5+laps%29+at+10k+pace%3B+2-minute+active+recovery%3B+4+x+400+meters+at+5k+pace+%2860-second+recovery%29%3B+2-minute+active+recovery%3B+1k+%282.5+laps%29+at+10k+pace%3B+4+x+100+meters+at+FFP&location=650+Main+Street%2C+Erie%2C+CO+80516",
+    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwODE4VDExMDAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDgxN1QwMTAxMjlaDQpEVFNUQVJUOjIwMjYwODE4VDExMDAwMFoNCkRURU5EOjIwMjYwODE4VDEyMDAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IEVNUw0KREVTQ1JJUFRJT046MS1taWxlIGVhc3kgam9nIHdhcm11cFwsIGRyaWxsc1wsIGFuZCBhY2NlbGVyYXRvcnNcOyA0IHggNDAwIG1ldGVycyBhdCA1ayBwYWNlICg2MC1zZWNvbmQgcmVjb3ZlcnkpXDsgMi1taW51dGUgYWN0aXZlIHJlY292ZXJ5XDsgMWsgKDIuNSBsYXBzKSBhdCAxMGsgcGFjZVw7IDItbWludXRlIGFjdGl2ZSByZWNvdmVyeVw7IDQgeCA0MDAgbWV0ZXJzIGF0IDVrIHBhY2UgKDYwLXNlY29uZCByZWNvdmVyeSlcOyAyLW1pbnV0ZSBhY3RpdmUgcmVjb3ZlcnlcOyAxayAoMi41IGxhcHMpIGF0IDEwayBwYWNlXDsgNCB4IDEwMCBtZXRlcnMgYXQgRkZQDQpMT0NBVElPTjo2NTAgTWFpbiBTdHJlZXRcLCBFcmllXCwgQ08gODA1MTYNClNUQVRVUzpDT05GSVJNRUQNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVI="
   },
   {
-    "date": "2026-08-11",
+    "date": "2026-08-18",
     "time": "5:20 AM",
     "location": {
-      "name": "EMS",
-      "address": "EMS",
-      "map_link": "https://maps.app.goo.gl/sNh7YgfjLHYEoDQm8?g_st=ic"
+      "name": "Erie Middle School",
+      "address": "650 Main Street, Erie, CO 80516",
+      "map_link": "https://maps.google.com/?q=Erie+Middle+School,Erie,CO+80516"
     },
-    "location_link": "https://maps.app.goo.gl/sNh7YgfjLHYEoDQm8?g_st=ic",
-    "description": "Warm-up: 1-mile easy jog, drills, and accelerators; Workout: 8\u201312 x 400 meters at 5k pace (high Zone 3 to low Zone 4) with a 60-second recovery (take a 1-lap recovery after every third 400); Finish: 4 x 100 meters at FFP or mile pace",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+EMS&dates=20260811T112000Z%2F20260811T122000Z&details=Warm-up%3A+1-mile+easy+jog%2C+drills%2C+and+accelerators%3B+Workout%3A+8%E2%80%9312+x+400+meters+at+5k+pace+%28high+Zone+3+to+low+Zone+4%29+with+a+60-second+recovery+%28take+a+1-lap+recovery+after+every+third+400%29%3B+Finish%3A+4+x+100+meters+at+FFP+or+mile+pace&location=EMS",
-    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwODExVDExMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDgwOVQxOTU2NDRaDQpEVFNUQVJUOjIwMjYwODExVDExMjAwMFoNCkRURU5EOjIwMjYwODExVDEyMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IEVNUw0KREVTQ1JJUFRJT046V2FybS11cDogMS1taWxlIGVhc3kgam9nXCwgZHJpbGxzXCwgYW5kIGFjY2VsZXJhdG9yc1w7IFdvcmtvdXQ6IDjigJMxMiB4IDQwMCBtZXRlcnMgYXQgNWsgcGFjZSAoaGlnaCBab25lIDMgdG8gbG93IFpvbmUgNCkgd2l0aCBhIDYwLXNlY29uZCByZWNvdmVyeSAodGFrZSBhIDEtbGFwIHJlY292ZXJ5IGFmdGVyIGV2ZXJ5IHRoaXJkIDQwMClcOyBGaW5pc2g6IDQgeCAxMDAgbWV0ZXJzIGF0IEZGUCBvciBtaWxlIHBhY2UNCkxPQ0FUSU9OOkVNUw0KU1RBVFVTOkNPTkZJUk1FRA0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg=="
+    "location_link": null,
+    "description": "1-mile easy jog warmup, drills, and accelerators; 2 x 400 meters at 5k pace (60-second recovery); 2-minute active recovery; 1k at 10k pace; 2-minute active recovery; 2 x 400 meters at 5k pace (60-second recovery); 2-minute active recovery; 1k at 10k pace; 4 x 100 meters at FFP",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+EMS&dates=20260818T112000Z%2F20260818T122000Z&details=1-mile+easy+jog+warmup%2C+drills%2C+and+accelerators%3B+2+x+400+meters+at+5k+pace+%2860-second+recovery%29%3B+2-minute+active+recovery%3B+1k+at+10k+pace%3B+2-minute+active+recovery%3B+2+x+400+meters+at+5k+pace+%2860-second+recovery%29%3B+2-minute+active+recovery%3B+1k+at+10k+pace%3B+4+x+100+meters+at+FFP&location=650+Main+Street%2C+Erie%2C+CO+80516",
+    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwODE4VDExMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDgxN1QwMTAxMjlaDQpEVFNUQVJUOjIwMjYwODE4VDExMjAwMFoNCkRURU5EOjIwMjYwODE4VDEyMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IEVNUw0KREVTQ1JJUFRJT046MS1taWxlIGVhc3kgam9nIHdhcm11cFwsIGRyaWxsc1wsIGFuZCBhY2NlbGVyYXRvcnNcOyAyIHggNDAwIG1ldGVycyBhdCA1ayBwYWNlICg2MC1zZWNvbmQgcmVjb3ZlcnkpXDsgMi1taW51dGUgYWN0aXZlIHJlY292ZXJ5XDsgMWsgYXQgMTBrIHBhY2VcOyAyLW1pbnV0ZSBhY3RpdmUgcmVjb3ZlcnlcOyAyIHggNDAwIG1ldGVycyBhdCA1ayBwYWNlICg2MC1zZWNvbmQgcmVjb3ZlcnkpXDsgMi1taW51dGUgYWN0aXZlIHJlY292ZXJ5XDsgMWsgYXQgMTBrIHBhY2VcOyA0IHggMTAwIG1ldGVycyBhdCBGRlANCkxPQ0FUSU9OOjY1MCBNYWluIFN0cmVldFwsIEVyaWVcLCBDTyA4MDUxNg0KU1RBVFVTOkNPTkZJUk1FRA0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg=="
   },
   {
-    "date": "2026-08-13",
+    "date": "2026-08-20",
     "time": "5:00 AM",
     "location": {
-      "name": "EMS",
-      "address": "EMS",
-      "map_link": "https://maps.app.goo.gl/sNh7YgfjLHYEoDQm8?g_st=ic"
+      "name": "Thomas Reservoir",
+      "address": "Thomas Reservoir, Erie, CO 80516",
+      "map_link": "https://maps.google.com/?q=Thomas+Reservoir,Erie,CO+80516"
     },
-    "location_link": "https://maps.app.goo.gl/sNh7YgfjLHYEoDQm8?g_st=ic",
-    "description": "Workout: 20 minutes out at 10k pace + 10 seconds, then 20 minutes back at 10k pace; Track Transition: 4 x 800 meters at 10k pace (60-second recovery)",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+EMS&dates=20260813T110000Z%2F20260813T120000Z&details=Workout%3A+20+minutes+out+at+10k+pace+%2B+10+seconds%2C+then+20+minutes+back+at+10k+pace%3B+Track+Transition%3A+4+x+800+meters+at+10k+pace+%2860-second+recovery%29&location=EMS",
-    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwODEzVDExMDAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDgwOVQxOTU2NDRaDQpEVFNUQVJUOjIwMjYwODEzVDExMDAwMFoNCkRURU5EOjIwMjYwODEzVDEyMDAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IEVNUw0KREVTQ1JJUFRJT046V29ya291dDogMjAgbWludXRlcyBvdXQgYXQgMTBrIHBhY2UgKyAxMCBzZWNvbmRzXCwgdGhlbiAyMCBtaW51dGVzIGJhY2sgYXQgMTBrIHBhY2VcOyBUcmFjayBUcmFuc2l0aW9uOiA0IHggODAwIG1ldGVycyBhdCAxMGsgcGFjZSAoNjAtc2Vjb25kIHJlY292ZXJ5KQ0KTE9DQVRJT046RU1TDQpTVEFUVVM6Q09ORklSTUVEDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFS"
+    "location_link": null,
+    "description": "1k easy jog warmup, drills, and accelerators; 3 x 3k (1st lap at MGP, 2nd lap at HMP, 3rd lap at 10k pace; 90-second recovery between sets). Focus: Patience, control, and pace awareness",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+Thomas+Reservoir&dates=20260820T110000Z%2F20260820T120000Z&details=1k+easy+jog+warmup%2C+drills%2C+and+accelerators%3B+3+x+3k+%281st+lap+at+MGP%2C+2nd+lap+at+HMP%2C+3rd+lap+at+10k+pace%3B+90-second+recovery+between+sets%29.+Focus%3A+Patience%2C+control%2C+and+pace+awareness&location=Thomas+Reservoir%2C+Erie%2C+CO+80516",
+    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwODIwVDExMDAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDgxN1QwMTAxMjlaDQpEVFNUQVJUOjIwMjYwODIwVDExMDAwMFoNCkRURU5EOjIwMjYwODIwVDEyMDAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IFRob21hcyBSZXNlcnZvaXINCkRFU0NSSVBUSU9OOjFrIGVhc3kgam9nIHdhcm11cFwsIGRyaWxsc1wsIGFuZCBhY2NlbGVyYXRvcnNcOyAzIHggM2sgKDFzdCBsYXAgYXQgTUdQXCwgMm5kIGxhcCBhdCBITVBcLCAzcmQgbGFwIGF0IDEwayBwYWNlXDsgOTAtc2Vjb25kIHJlY292ZXJ5IGJldHdlZW4gc2V0cykuIEZvY3VzOiBQYXRpZW5jZVwsIGNvbnRyb2xcLCBhbmQgcGFjZSBhd2FyZW5lc3MNCkxPQ0FUSU9OOlRob21hcyBSZXNlcnZvaXJcLCBFcmllXCwgQ08gODA1MTYNClNUQVRVUzpDT05GSVJNRUQNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVI="
   },
   {
-    "date": "2026-08-13",
+    "date": "2026-08-20",
     "time": "5:20 AM",
     "location": {
-      "name": "EMS",
-      "address": "EMS",
-      "map_link": "https://maps.app.goo.gl/sNh7YgfjLHYEoDQm8?g_st=ic"
+      "name": "Thomas Reservoir",
+      "address": "Thomas Reservoir, Erie, CO 80516",
+      "map_link": "https://maps.google.com/?q=Thomas+Reservoir,Erie,CO+80516"
     },
-    "location_link": "https://maps.app.goo.gl/sNh7YgfjLHYEoDQm8?g_st=ic",
-    "description": "Workout: 12 minutes out and 12 minutes back at 10k pace; Track Transition: 4 x 400 meters at 5k pace (60-second recovery)",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+EMS&dates=20260813T112000Z%2F20260813T122000Z&details=Workout%3A+12+minutes+out+and+12+minutes+back+at+10k+pace%3B+Track+Transition%3A+4+x+400+meters+at+5k+pace+%2860-second+recovery%29&location=EMS",
-    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwODEzVDExMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDgwOVQxOTU2NDRaDQpEVFNUQVJUOjIwMjYwODEzVDExMjAwMFoNCkRURU5EOjIwMjYwODEzVDEyMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IEVNUw0KREVTQ1JJUFRJT046V29ya291dDogMTIgbWludXRlcyBvdXQgYW5kIDEyIG1pbnV0ZXMgYmFjayBhdCAxMGsgcGFjZVw7IFRyYWNrIFRyYW5zaXRpb246IDQgeCA0MDAgbWV0ZXJzIGF0IDVrIHBhY2UgKDYwLXNlY29uZCByZWNvdmVyeSkNCkxPQ0FUSU9OOkVNUw0KU1RBVFVTOkNPTkZJUk1FRA0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg=="
+    "location_link": null,
+    "description": "1k easy jog warmup, drills, and accelerators; 3\u20135 x 1k at 10k pace plus 10 seconds (60-second recovery)",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+Thomas+Reservoir&dates=20260820T112000Z%2F20260820T122000Z&details=1k+easy+jog+warmup%2C+drills%2C+and+accelerators%3B+3%E2%80%935+x+1k+at+10k+pace+plus+10+seconds+%2860-second+recovery%29&location=Thomas+Reservoir%2C+Erie%2C+CO+80516",
+    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwODIwVDExMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDgxN1QwMTAxMjlaDQpEVFNUQVJUOjIwMjYwODIwVDExMjAwMFoNCkRURU5EOjIwMjYwODIwVDEyMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IFRob21hcyBSZXNlcnZvaXINCkRFU0NSSVBUSU9OOjFrIGVhc3kgam9nIHdhcm11cFwsIGRyaWxsc1wsIGFuZCBhY2NlbGVyYXRvcnNcOyAz4oCTNSB4IDFrIGF0IDEwayBwYWNlIHBsdXMgMTAgc2Vjb25kcyAoNjAtc2Vjb25kIHJlY292ZXJ5KQ0KTE9DQVRJT046VGhvbWFzIFJlc2Vydm9pclwsIEVyaWVcLCBDTyA4MDUxNg0KU1RBVFVTOkNPTkZJUk1FRA0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg=="
   },
   {
-    "date": "2026-08-15",
+    "date": "2026-08-22",
     "time": "6:30 AM",
     "location": {
-      "name": "Flagg Park",
-      "address": "Flagg Park",
-      "map_link": "https://maps.app.goo.gl/ts8P6iYRoEWg8cqk8?g_st=ic"
+      "name": "Fox Dog Coffee Shop",
+      "address": "Fox Dog Coffee Shop",
+      "map_link": "https://maps.google.com/?q=Fox+Dog+Coffee+Shop"
     },
-    "location_link": "https://maps.app.goo.gl/ts8P6iYRoEWg8cqk8?g_st=ic",
-    "description": "Social Run: All levels and abilities are welcome.",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+Flagg+Park&dates=20260815T123000Z%2F20260815T133000Z&details=Social+Run%3A+All+levels+and+abilities+are+welcome.&location=Flagg+Park",
-    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwODE1VDEyMzAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDgwOVQxOTU2NDRaDQpEVFNUQVJUOjIwMjYwODE1VDEyMzAwMFoNCkRURU5EOjIwMjYwODE1VDEzMzAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IEZsYWdnIFBhcmsNCkRFU0NSSVBUSU9OOlNvY2lhbCBSdW46IEFsbCBsZXZlbHMgYW5kIGFiaWxpdGllcyBhcmUgd2VsY29tZS4NCkxPQ0FUSU9OOkZsYWdnIFBhcmsNClNUQVRVUzpDT05GSVJNRUQNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVI="
+    "location_link": null,
+    "description": "Social Run. All levels and abilities are welcome to join.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+Fox+Dog+Coffee+Shop&dates=20260822T123000Z%2F20260822T133000Z&details=Social+Run.+All+levels+and+abilities+are+welcome+to+join.&location=Fox+Dog+Coffee+Shop",
+    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwODIyVDEyMzAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDgxN1QwMTAxMjlaDQpEVFNUQVJUOjIwMjYwODIyVDEyMzAwMFoNCkRURU5EOjIwMjYwODIyVDEzMzAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IEZveCBEb2cgQ29mZmVlIFNob3ANCkRFU0NSSVBUSU9OOlNvY2lhbCBSdW4uIEFsbCBsZXZlbHMgYW5kIGFiaWxpdGllcyBhcmUgd2VsY29tZSB0byBqb2luLg0KTE9DQVRJT046Rm94IERvZyBDb2ZmZWUgU2hvcA0KU1RBVFVTOkNPTkZJUk1FRA0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg=="
   }
 ]
