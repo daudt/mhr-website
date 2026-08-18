@@ -1,0 +1,36 @@
+name: Update Calendar Feed
+
+on:
+  push:
+    paths:
+      - 'data/workouts.json'
+  workflow_dispatch:
+
+jobs:
+  update-calendar-ics:
+    runs-on: mhr-website-runner
+    permissions:
+      contents: write
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v6
+      with:
+        fetch-depth: 0
+
+    - name: Pull latest changes
+      run: git pull origin main
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v6
+      with:
+        node-version: '20'
+
+    - name: Generate calendar.ics
+      run: node scripts/generate_workouts_ics.js
+
+    - name: Commit and push changes
+      uses: stefanzweifel/git-auto-commit-action@v7
+      with:
+        commit_message: "Auto-update calendar.ics [skip ci]"
+        file_pattern: "calendar.ics"
