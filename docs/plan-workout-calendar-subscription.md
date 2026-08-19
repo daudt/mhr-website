@@ -330,7 +330,7 @@ Reuse the existing, already-styled `.calendar-subscribe-bar` component from `rac
   <div class="subscribe-buttons">
     <a href="webcal://milehighrunners.com/calendar.ics"
        class="subscribe-btn apple-btn"><i class="fab fa-apple"></i> Apple Calendar</a>
-    <a href="https://calendar.google.com/calendar/r?cid=https%3A%2F%2Fmilehighrunners.com%2Fcalendar.ics"
+    <a href="https://calendar.google.com/calendar/r?cid=webcal://milehighrunners.com/calendar.ics"
        target="_blank" rel="noopener"
        class="subscribe-btn google-btn"><i class="fab fa-google"></i> Google Calendar</a>
     <button type="button" class="subscribe-btn copy-btn"
@@ -345,7 +345,7 @@ Reuse the existing, already-styled `.calendar-subscribe-bar` component from `rac
 
 Details:
 - **Apple** → `webcal://`. macOS/iOS register the scheme and open Calendar's "Subscribe to Calendar" sheet directly. One click.
-- **Google** → `https://calendar.google.com/calendar/r?cid=<url-encoded **https** URL>`. **Important fix vs. `races.html`:** that page passes `cid=webcal://...` **unencoded** (`races.html:88`). Google's add-by-URL flow wants an encoded `https` URL; the `webcal` scheme there is at best undocumented behavior. Use `cid=https%3A%2F%2F…`.
+- **Google** → `https://calendar.google.com/calendar/r?cid=<**unencoded** webcal:// URL>`, i.e. what `races.html:88` already does. Do **not** "improve" this into an encoded `https` URL: the `?cid=` deep link is not the settings page's *From URL* box. The box takes an `https` address; `cid=` only recognises an unencoded `webcal://` URL, and given anything else it falls back to reading `cid` as one of Google's own calendar IDs and reports *"Unable to add this calendar, please check the URL."*
 - **Copy button** → `navigator.clipboard.writeText(...)` with a toast/label swap ("Copied!"), and a `document.execCommand('copy')` textarea fallback for non-secure contexts. `admin.html:1674` already has a working clipboard + toast pattern to copy from. The raw URL should also be visible as selectable text (`<code>`) for anyone whose clipboard API is blocked.
 - **`<details>` help block** with three short, literal walkthroughs (Google: *Other calendars → + → From URL → paste → Add calendar*; Apple: *File → New Calendar Subscription*, or just tap the button; Outlook: *Add calendar → Subscribe from web*). Include the "Google can take up to ~24h to pick up changes" caveat right there, because that's the #1 support question this feature will generate.
 - Mirror onto `index.html` only if the homepage schedule block should also offer it — recommend **no**, keep one canonical place.
@@ -358,7 +358,7 @@ Details:
 | Client | How to subscribe | Refresh cadence | Gotchas |
 |---|---|---|---|
 | **Apple Calendar** (macOS/iOS) | `webcal://` one-click, or paste `https://` into *File → New Calendar Subscription* | User-configurable per calendar: Every 5 min / 15 min / hour / day. Default often **daily** | Honors `VALARM` but iOS asks whether to keep alerts on subscribe. `X-WR-CALNAME` sets the calendar name. Handles `TZID` + `VTIMEZONE` correctly. `STATUS:CANCELLED` renders greyed/struck. |
-| **Google Calendar** | *Other calendars → + → From URL → paste `https://…` → Add calendar*. The `?cid=` link is a shortcut to the same flow | **Google's own schedule, not ours. Typically 8–24 hours, occasionally longer.** `REFRESH-INTERVAL`/`X-PUBLISHED-TTL` are **ignored**. There is no way to force a refresh | **Must be a public, internet-reachable `https://` URL with no auth** — Google's fetchers are anonymous and won't follow a login. ✅ `milehighrunners.com` qualifies (Pages, `https_enforced`, no auth). **No `webcal://` support** in the add-by-URL box. **Ignores `VALARM`** in subscribed feeds. Aggressively caches — a same-day cancellation will *not* reliably reach Google subscribers, which the UI copy must say. Also strips/ignores `COLOR`. |
+| **Google Calendar** | *Other calendars → + → From URL → paste `https://…` → Add calendar*. The `?cid=` link is a shortcut to the same flow | **Google's own schedule, not ours. Typically 8–24 hours, occasionally longer.** `REFRESH-INTERVAL`/`X-PUBLISHED-TTL` are **ignored**. There is no way to force a refresh | **Must be a public, internet-reachable `https://` URL with no auth** — Google's fetchers are anonymous and won't follow a login. ✅ `milehighrunners.com` qualifies (Pages, `https_enforced`, no auth). **No `webcal://` support** in the add-by-URL box — but the `?cid=` deep link is the mirror image and requires `webcal://`. **Ignores `VALARM`** in subscribed feeds. Aggressively caches — a same-day cancellation will *not* reliably reach Google subscribers, which the UI copy must say. Also strips/ignores `COLOR`. |
 | **Outlook.com / Microsoft 365** | *Add calendar → Subscribe from web → paste `https://…`* | Server-side, ~3–24h, not user-controllable | Honors `X-PUBLISHED-TTL` loosely. `METHOD:PUBLISH` should be present. Wants strict RFC line folding — sloppy folding is where Outlook breaks first (another reason for §3.4). Renders `X-ALT-DESC` HTML if present. |
 | **Outlook desktop (classic)** | *Open Calendar → From Internet* | Follows `X-PUBLISHED-TTL` | Same folding sensitivity. |
 | **Thunderbird / Android (via Google)** | Standard ICS URL | Thunderbird configurable, often 30 min | Android has no native ICS subscription — it goes through the Google account, so Google's cadence applies. |
@@ -468,7 +468,7 @@ Details:
 | `.github/workflows/calendar_ics.yml` | regenerate + auto-commit | **new** |
 | `calendar.html` | schedule page + subscribe UI | **edit** |
 | `styles.css` | `.calendar-subscribe-bar` (exists), `.copy-btn` | **small edit** |
-| `races.html:88` | `cid=webcal://` bug | **fix in passing** |
+| `races.html:88` | `cid=webcal://` — already correct | none (reference) |
 | `package.json` | add `ical-generator` | **edit** |
 | `admin.html:831,1325` | Cloud Function writer, cancel flow | none (reference) |
 | `.github/workflows/gallery_update.yml` | template for the new workflow | none (reference) |
