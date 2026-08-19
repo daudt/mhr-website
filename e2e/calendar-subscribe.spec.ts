@@ -73,13 +73,14 @@ test.describe('Calendar subscribe bar', () => {
 });
 
 test.describe('Races subscribe bar', () => {
-  test('hands Google a URL-encoded https feed address', async ({ page }) => {
+  test('hands Google the feed as an unencoded webcal:// cid', async ({ page }) => {
     await page.goto('/races.html');
 
     const href = await page.locator('.calendar-subscribe-bar a.google-btn').getAttribute('href');
-    expect(href).not.toContain('webcal');
-    expect(new URL(href!).searchParams.get('cid')).toBe(
-      'https://milehighrunners.com/data/races.ics'
+    expect(href).toBe(
+      'https://calendar.google.com/calendar/r?cid=webcal://milehighrunners.com/data/races.ics'
     );
+    expect(href).toContain('cid=webcal://milehighrunners.com');
+    expect(href).not.toContain('%3A%2F%2F');
   });
 });
