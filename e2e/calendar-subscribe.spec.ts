@@ -13,16 +13,20 @@ test.describe('Calendar subscribe bar', () => {
     await expect(apple).toHaveAttribute('href', 'webcal://milehighrunners.com/calendar.ics');
   });
 
-  test('hands Google a URL-encoded https feed address, not webcal', async ({ page }) => {
+  test('hands Google the feed as an unencoded webcal:// cid', async ({ page }) => {
     const google = page.locator('.calendar-subscribe-bar a.google-btn');
     const href = await google.getAttribute('href');
 
     expect(href).toBe(
-      'https://calendar.google.com/calendar/r?cid=https%3A%2F%2Fmilehighrunners.com%2Fcalendar.ics'
+      'https://calendar.google.com/calendar/r?cid=webcal://milehighrunners.com/calendar.ics'
     );
-    // Google's add-by-URL flow needs an encoded https URL; webcal:// silently fails.
-    expect(href).not.toContain('webcal');
-    expect(new URL(href!).searchParams.get('cid')).toBe(FEED_URL);
+    // The ?cid= deep link is not the same thing as the "From URL" box in Google's
+    // settings: the box takes an https address, but cid= only recognises an
+    // unencoded webcal:// URL. Give it an https URL, encoded or not, and Google
+    // reads cid as one of its own calendar IDs and answers "Unable to add this
+    // calendar, please check the URL".
+    expect(href).toContain(`cid=webcal://${new URL(FEED_URL).host}`);
+    expect(href).not.toContain('%3A%2F%2F');
   });
 
   test('offers a direct download of the feed', async ({ page }) => {
@@ -69,13 +73,14 @@ test.describe('Calendar subscribe bar', () => {
 });
 
 test.describe('Races subscribe bar', () => {
-  test('hands Google a URL-encoded https feed address', async ({ page }) => {
+  test('hands Google the feed as an unencoded webcal:// cid', async ({ page }) => {
     await page.goto('/races.html');
 
     const href = await page.locator('.calendar-subscribe-bar a.google-btn').getAttribute('href');
-    expect(href).not.toContain('webcal');
-    expect(new URL(href!).searchParams.get('cid')).toBe(
-      'https://milehighrunners.com/data/races.ics'
+    expect(href).toBe(
+      'https://calendar.google.com/calendar/r?cid=webcal://milehighrunners.com/data/races.ics'
     );
+    expect(href).toContain('cid=webcal://milehighrunners.com');
+    expect(href).not.toContain('%3A%2F%2F');
   });
 });
