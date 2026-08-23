@@ -30,108 +30,102 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:16e237e9b090cd159117cb69a7bf2ca376962f93@milehighrunners.com
-DTSTAMP:20260817T232003Z
-DTSTART;TZID=America/Denver:20260818T050000
-DTEND;TZID=America/Denver:20260818T060000
-SUMMARY:MHR Practice — Erie Middle School
-DESCRIPTION:1-mile easy jog warmup\, drills\, and accelerators\; 4 x 400 me
- ters at 5k pace (60-second recovery)\; 2-minute active recovery\; 1k (2.5 
- laps) at 10k pace\; 2-minute active recovery\; 4 x 400 meters at 5k pace (
- 60-second recovery)\; 2-minute active recovery\; 1k (2.5 laps) at 10k pace
- \; 4 x 100 meters at FFP\n\nDetails: https://milehighrunners.com/calendar.
- html
-LOCATION:Erie Middle School\, 650 Main Street\, Erie\, CO 80516
-URL;VALUE=URI:https://maps.google.com/?q=Erie+Middle+School,Erie,CO+80516
+UID:5960cf31fa306145b450b8c3b90c8c33d98251d8@milehighrunners.com
+DTSTAMP:20260823T152849Z
+DTSTART;TZID=America/Denver:20260825T050000
+DTEND;TZID=America/Denver:20260825T060000
+SUMMARY:MHR Practice — EMS
+DESCRIPTION:5 x (400m / 800m / 400m)\; 400s at 3k pace\, 800s at 5k pace\, 
+ 90-second recovery between intervals\n\nDetails: https://milehighrunners.c
+ om/calendar.html
+LOCATION:EMS\, EMS
+URL;VALUE=URI:https://maps.app.goo.gl/ydPbP4aTHFD3WmUg9?g_st=ic
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 CATEGORIES:Running,Practice
 BEGIN:VALARM
 TRIGGER:-PT45M
 ACTION:DISPLAY
-DESCRIPTION:MHR Practice — Erie Middle School in 45 minutes
+DESCRIPTION:MHR Practice — EMS in 45 minutes
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:04dba118d3e1511edf9cd59e5d722d364a5c345a@milehighrunners.com
-DTSTAMP:20260817T232003Z
-DTSTART;TZID=America/Denver:20260818T052000
-DTEND;TZID=America/Denver:20260818T062000
-SUMMARY:MHR Practice — Erie Middle School
-DESCRIPTION:1-mile easy jog warmup\, drills\, and accelerators\; 2 x 400 me
- ters at 5k pace (60-second recovery)\; 2-minute active recovery\; 1k at 10
- k pace\; 2-minute active recovery\; 2 x 400 meters at 5k pace (60-second r
- ecovery)\; 2-minute active recovery\; 1k at 10k pace\; 4 x 100 meters at F
- FP\n\nDetails: https://milehighrunners.com/calendar.html
-LOCATION:Erie Middle School\, 650 Main Street\, Erie\, CO 80516
-URL;VALUE=URI:https://maps.google.com/?q=Erie+Middle+School,Erie,CO+80516
+UID:d92b9bbc3e552a2e49cfd1ff74cd36aac048ce97@milehighrunners.com
+DTSTAMP:20260823T152849Z
+DTSTART;TZID=America/Denver:20260825T052000
+DTEND;TZID=America/Denver:20260825T062000
+SUMMARY:MHR Practice — EMS
+DESCRIPTION:3 x (400m / 800m / 400m)\; 400s at 3k pace\, 800s at 5k pace\, 
+ 90-second recovery between intervals\n\nDetails: https://milehighrunners.c
+ om/calendar.html
+LOCATION:EMS\, EMS
+URL;VALUE=URI:https://maps.app.goo.gl/ydPbP4aTHFD3WmUg9?g_st=ic
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 CATEGORIES:Running,Practice
 BEGIN:VALARM
 TRIGGER:-PT45M
 ACTION:DISPLAY
-DESCRIPTION:MHR Practice — Erie Middle School in 45 minutes
+DESCRIPTION:MHR Practice — EMS in 45 minutes
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:b0a43570cd00b82fc4395011b8432a346d770a4e@milehighrunners.com
-DTSTAMP:20260817T232003Z
-DTSTART;TZID=America/Denver:20260820T050000
-DTEND;TZID=America/Denver:20260820T060000
-SUMMARY:MHR Practice — Thomas Reservoir
-DESCRIPTION:1k easy jog warmup\, drills\, and accelerators\; 3 x 3k (1st la
- p at MGP\, 2nd lap at HMP\, 3rd lap at 10k pace\; 90-second recovery betwe
- en sets). Focus: Patience\, control\, and pace awareness\n\nDetails: https
- ://milehighrunners.com/calendar.html
-LOCATION:Thomas Reservoir\, Thomas Reservoir\, Erie\, CO 80516
-URL;VALUE=URI:https://maps.google.com/?q=Thomas+Reservoir,Erie,CO+80516
+UID:1eabedb2662c813623a5467d271183018baeea22@milehighrunners.com
+DTSTAMP:20260823T152849Z
+DTSTART;TZID=America/Denver:20260827T050000
+DTEND;TZID=America/Denver:20260827T060000
+SUMMARY:MHR Practice — Lehigh Park
+DESCRIPTION:8 - 10 x 1200m at 10k pace plus 10 seconds (roughly HMP) with a
+  2-minute recovery between intervals\n\nDetails: https://milehighrunners.c
+ om/calendar.html
+LOCATION:Lehigh Park\, Lehigh Park
+URL;VALUE=URI:https://maps.app.goo.gl/DvggxhzqzyVxdrnR8?g_st=ic
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 CATEGORIES:Running,Practice
 BEGIN:VALARM
 TRIGGER:-PT45M
 ACTION:DISPLAY
-DESCRIPTION:MHR Practice — Thomas Reservoir in 45 minutes
+DESCRIPTION:MHR Practice — Lehigh Park in 45 minutes
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:69f08499c846c49bae8911ce0e6717de5b2c8d0d@milehighrunners.com
-DTSTAMP:20260817T232003Z
-DTSTART;TZID=America/Denver:20260820T052000
-DTEND;TZID=America/Denver:20260820T062000
-SUMMARY:MHR Practice — Thomas Reservoir
-DESCRIPTION:1k easy jog warmup\, drills\, and accelerators\; 3–5 x 1k at 
- 10k pace plus 10 seconds (60-second recovery)\n\nDetails: https://milehigh
- runners.com/calendar.html
-LOCATION:Thomas Reservoir\, Thomas Reservoir\, Erie\, CO 80516
-URL;VALUE=URI:https://maps.google.com/?q=Thomas+Reservoir,Erie,CO+80516
+UID:b332809832b87f0fdc9dc0fc41e539d5b2e92bca@milehighrunners.com
+DTSTAMP:20260823T152849Z
+DTSTART;TZID=America/Denver:20260827T052000
+DTEND;TZID=America/Denver:20260827T062000
+SUMMARY:MHR Practice — Lehigh Park
+DESCRIPTION:4 - 6 x 1200m at 10k pace plus 10 seconds (roughly HMP) with a 
+ 2-minute recovery between intervals\n\nDetails: https://milehighrunners.co
+ m/calendar.html
+LOCATION:Lehigh Park\, Lehigh Park
+URL;VALUE=URI:https://maps.app.goo.gl/DvggxhzqzyVxdrnR8?g_st=ic
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 CATEGORIES:Running,Practice
 BEGIN:VALARM
 TRIGGER:-PT45M
 ACTION:DISPLAY
-DESCRIPTION:MHR Practice — Thomas Reservoir in 45 minutes
+DESCRIPTION:MHR Practice — Lehigh Park in 45 minutes
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:a704b45a30bb0458dd1527968a61df4c2883f22c@milehighrunners.com
-DTSTAMP:20260817T232003Z
-DTSTART;TZID=America/Denver:20260822T063000
-DTEND;TZID=America/Denver:20260822T080000
-SUMMARY:MHR Practice — Fox Dog Coffee Shop
-DESCRIPTION:Social Run. All levels and abilities are welcome to join.\n\nDe
- tails: https://milehighrunners.com/calendar.html
-LOCATION:Fox Dog Coffee Shop\, Fox Dog Coffee Shop
-URL;VALUE=URI:https://maps.google.com/?q=Fox+Dog+Coffee+Shop
+UID:1e9941db848a785ff966d23d05282e95dd161580@milehighrunners.com
+DTSTAMP:20260823T152849Z
+DTSTART;TZID=America/Denver:20260829T063000
+DTEND;TZID=America/Denver:20260829T080000
+SUMMARY:MHR Practice — The Great Dog Bark Park
+DESCRIPTION:Group social run. As always\, all levels are welcome to join us
+ .\n\nDetails: https://milehighrunners.com/calendar.html
+LOCATION:The Great Dog Bark Park\, The Great Dog Bark Park
+URL;VALUE=URI:https://maps.app.goo.gl/iGasDnhAzXgYPxWF6?g_st=ic
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 CATEGORIES:Running,Practice
 BEGIN:VALARM
 TRIGGER:-PT45M
 ACTION:DISPLAY
-DESCRIPTION:MHR Practice — Fox Dog Coffee Shop in 45 minutes
+DESCRIPTION:MHR Practice — The Great Dog Bark Park in 45 minutes
 END:VALARM
 END:VEVENT
 END:VCALENDAR
