@@ -334,5 +334,17 @@
         "time": null
       }
     ]
+  },
+  {
+    "event_name": "Sydney 5k",
+    "date": "2026-08-30",
+    "results": [
+      {
+        "runner": "Maddie",
+        "placement": "N/A",
+        "division": "N/A",
+        "time": "N/A"
+      }
+    ]
   }
 ]

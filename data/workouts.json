@@ -1,67 +1,67 @@
 [
   {
-    "date": "2026-08-25",
+    "date": "2026-09-01",
     "time": "5:00 AM",
     "location": {
       "name": "EMS",
       "address": "EMS",
-      "map_link": "https://maps.app.goo.gl/ydPbP4aTHFD3WmUg9?g_st=ic"
+      "map_link": "https://maps.app.goo.gl/ZMWLa6Kmui876vfw5?g_st=ic"
     },
-    "location_link": "https://maps.app.goo.gl/ydPbP4aTHFD3WmUg9?g_st=ic",
-    "description": "5 x (400m / 800m / 400m); 400s at 3k pace, 800s at 5k pace, 90-second recovery between intervals",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+EMS&dates=20260825T110000Z%2F20260825T120000Z&details=5+x+%28400m+%2F+800m+%2F+400m%29%3B+400s+at+3k+pace%2C+800s+at+5k+pace%2C+90-second+recovery+between+intervals&location=EMS",
-    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwODI1VDExMDAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDgyM1QxNTI4MjZaDQpEVFNUQVJUOjIwMjYwODI1VDExMDAwMFoNCkRURU5EOjIwMjYwODI1VDEyMDAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IEVNUw0KREVTQ1JJUFRJT046NSB4ICg0MDBtIC8gODAwbSAvIDQwMG0pXDsgNDAwcyBhdCAzayBwYWNlXCwgODAwcyBhdCA1ayBwYWNlXCwgOTAtc2Vjb25kIHJlY292ZXJ5IGJldHdlZW4gaW50ZXJ2YWxzDQpMT0NBVElPTjpFTVMNClNUQVRVUzpDT05GSVJNRUQNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVI="
+    "location_link": "https://maps.app.goo.gl/ZMWLa6Kmui876vfw5?g_st=ic",
+    "description": "3 x 1.25 road miles at half marathon goal pace (HMGP) with a 2-minute active recovery between intervals.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+EMS&dates=20260901T110000Z%2F20260901T120000Z&details=3+x+1.25+road+miles+at+half+marathon+goal+pace+%28HMGP%29+with+a+2-minute+active+recovery+between+intervals.&location=EMS",
+    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwOTAxVDExMDAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDgzMFQxOTA3MDFaDQpEVFNUQVJUOjIwMjYwOTAxVDExMDAwMFoNCkRURU5EOjIwMjYwOTAxVDEyMDAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IEVNUw0KREVTQ1JJUFRJT046MyB4IDEuMjUgcm9hZCBtaWxlcyBhdCBoYWxmIG1hcmF0aG9uIGdvYWwgcGFjZSAoSE1HUCkgd2l0aCBhIDItbWludXRlIGFjdGl2ZSByZWNvdmVyeSBiZXR3ZWVuIGludGVydmFscy4NCkxPQ0FUSU9OOkVNUw0KU1RBVFVTOkNPTkZJUk1FRA0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg=="
   },
   {
-    "date": "2026-08-25",
+    "date": "2026-09-01",
     "time": "5:20 AM",
     "location": {
       "name": "EMS",
       "address": "EMS",
-      "map_link": "https://maps.app.goo.gl/ydPbP4aTHFD3WmUg9?g_st=ic"
+      "map_link": "https://maps.app.goo.gl/ZMWLa6Kmui876vfw5?g_st=ic"
     },
-    "location_link": "https://maps.app.goo.gl/ydPbP4aTHFD3WmUg9?g_st=ic",
-    "description": "3 x (400m / 800m / 400m); 400s at 3k pace, 800s at 5k pace, 90-second recovery between intervals",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+EMS&dates=20260825T112000Z%2F20260825T122000Z&details=3+x+%28400m+%2F+800m+%2F+400m%29%3B+400s+at+3k+pace%2C+800s+at+5k+pace%2C+90-second+recovery+between+intervals&location=EMS",
-    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwODI1VDExMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDgyM1QxNTI4MjZaDQpEVFNUQVJUOjIwMjYwODI1VDExMjAwMFoNCkRURU5EOjIwMjYwODI1VDEyMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IEVNUw0KREVTQ1JJUFRJT046MyB4ICg0MDBtIC8gODAwbSAvIDQwMG0pXDsgNDAwcyBhdCAzayBwYWNlXCwgODAwcyBhdCA1ayBwYWNlXCwgOTAtc2Vjb25kIHJlY292ZXJ5IGJldHdlZW4gaW50ZXJ2YWxzDQpMT0NBVElPTjpFTVMNClNUQVRVUzpDT05GSVJNRUQNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVI="
+    "location_link": "https://maps.app.goo.gl/ZMWLa6Kmui876vfw5?g_st=ic",
+    "description": "10 - 12 x 400 meters at 3k pace with a 60 - 90 second recovery between intervals.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+EMS&dates=20260901T112000Z%2F20260901T122000Z&details=10+-+12+x+400+meters+at+3k+pace+with+a+60+-+90+second+recovery+between+intervals.&location=EMS",
+    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwOTAxVDExMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDgzMFQxOTA3MDFaDQpEVFNUQVJUOjIwMjYwOTAxVDExMjAwMFoNCkRURU5EOjIwMjYwOTAxVDEyMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IEVNUw0KREVTQ1JJUFRJT046MTAgLSAxMiB4IDQwMCBtZXRlcnMgYXQgM2sgcGFjZSB3aXRoIGEgNjAgLSA5MCBzZWNvbmQgcmVjb3ZlcnkgYmV0d2VlbiBpbnRlcnZhbHMuDQpMT0NBVElPTjpFTVMNClNUQVRVUzpDT05GSVJNRUQNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVI="
   },
   {
-    "date": "2026-08-27",
+    "date": "2026-09-03",
     "time": "5:00 AM",
     "location": {
-      "name": "Lehigh Park",
-      "address": "Lehigh Park",
-      "map_link": "https://maps.app.goo.gl/DvggxhzqzyVxdrnR8?g_st=ic"
+      "name": "EMS",
+      "address": "EMS",
+      "map_link": "https://maps.app.goo.gl/ZMWLa6Kmui876vfw5?g_st=ic"
     },
-    "location_link": "https://maps.app.goo.gl/DvggxhzqzyVxdrnR8?g_st=ic",
-    "description": "8 - 10 x 1200m at 10k pace plus 10 seconds (roughly HMP) with a 2-minute recovery between intervals",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+Lehigh+Park&dates=20260827T110000Z%2F20260827T120000Z&details=8+-+10+x+1200m+at+10k+pace+plus+10+seconds+%28roughly+HMP%29+with+a+2-minute+recovery+between+intervals&location=Lehigh+Park",
-    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwODI3VDExMDAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDgyM1QxNTI4MjZaDQpEVFNUQVJUOjIwMjYwODI3VDExMDAwMFoNCkRURU5EOjIwMjYwODI3VDEyMDAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IExlaGlnaCBQYXJrDQpERVNDUklQVElPTjo4IC0gMTAgeCAxMjAwbSBhdCAxMGsgcGFjZSBwbHVzIDEwIHNlY29uZHMgKHJvdWdobHkgSE1QKSB3aXRoIGEgMi1taW51dGUgcmVjb3ZlcnkgYmV0d2VlbiBpbnRlcnZhbHMNCkxPQ0FUSU9OOkxlaGlnaCBQYXJrDQpTVEFUVVM6Q09ORklSTUVEDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFS"
+    "location_link": "https://maps.app.goo.gl/ZMWLa6Kmui876vfw5?g_st=ic",
+    "description": "6 - 8 x 400 meters. Run at 10k pace for the first 200 meters, then accelerate to 5k pace for the last 200 meters, with a 90-second recovery between intervals.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+EMS&dates=20260903T110000Z%2F20260903T120000Z&details=6+-+8+x+400+meters.+Run+at+10k+pace+for+the+first+200+meters%2C+then+accelerate+to+5k+pace+for+the+last+200+meters%2C+with+a+90-second+recovery+between+intervals.&location=EMS",
+    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwOTAzVDExMDAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDgzMFQxOTA3MDFaDQpEVFNUQVJUOjIwMjYwOTAzVDExMDAwMFoNCkRURU5EOjIwMjYwOTAzVDEyMDAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IEVNUw0KREVTQ1JJUFRJT046NiAtIDggeCA0MDAgbWV0ZXJzLiBSdW4gYXQgMTBrIHBhY2UgZm9yIHRoZSBmaXJzdCAyMDAgbWV0ZXJzXCwgdGhlbiBhY2NlbGVyYXRlIHRvIDVrIHBhY2UgZm9yIHRoZSBsYXN0IDIwMCBtZXRlcnNcLCB3aXRoIGEgOTAtc2Vjb25kIHJlY292ZXJ5IGJldHdlZW4gaW50ZXJ2YWxzLg0KTE9DQVRJT046RU1TDQpTVEFUVVM6Q09ORklSTUVEDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFS"
   },
   {
-    "date": "2026-08-27",
+    "date": "2026-09-03",
     "time": "5:20 AM",
     "location": {
-      "name": "Lehigh Park",
-      "address": "Lehigh Park",
-      "map_link": "https://maps.app.goo.gl/DvggxhzqzyVxdrnR8?g_st=ic"
+      "name": "EMS",
+      "address": "EMS",
+      "map_link": "https://maps.app.goo.gl/ZMWLa6Kmui876vfw5?g_st=ic"
     },
-    "location_link": "https://maps.app.goo.gl/DvggxhzqzyVxdrnR8?g_st=ic",
-    "description": "4 - 6 x 1200m at 10k pace plus 10 seconds (roughly HMP) with a 2-minute recovery between intervals",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+Lehigh+Park&dates=20260827T112000Z%2F20260827T122000Z&details=4+-+6+x+1200m+at+10k+pace+plus+10+seconds+%28roughly+HMP%29+with+a+2-minute+recovery+between+intervals&location=Lehigh+Park",
-    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwODI3VDExMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDgyM1QxNTI4MjZaDQpEVFNUQVJUOjIwMjYwODI3VDExMjAwMFoNCkRURU5EOjIwMjYwODI3VDEyMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IExlaGlnaCBQYXJrDQpERVNDUklQVElPTjo0IC0gNiB4IDEyMDBtIGF0IDEwayBwYWNlIHBsdXMgMTAgc2Vjb25kcyAocm91Z2hseSBITVApIHdpdGggYSAyLW1pbnV0ZSByZWNvdmVyeSBiZXR3ZWVuIGludGVydmFscw0KTE9DQVRJT046TGVoaWdoIFBhcmsNClNUQVRVUzpDT05GSVJNRUQNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVI="
+    "location_link": "https://maps.app.goo.gl/ZMWLa6Kmui876vfw5?g_st=ic",
+    "description": "5 - 6 x 1k (2.5 laps) at slightly faster than 10k pace with a 200-meter slow walk recovery between intervals.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+EMS&dates=20260903T112000Z%2F20260903T122000Z&details=5+-+6+x+1k+%282.5+laps%29+at+slightly+faster+than+10k+pace+with+a+200-meter+slow+walk+recovery+between+intervals.&location=EMS",
+    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwOTAzVDExMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDgzMFQxOTA3MDFaDQpEVFNUQVJUOjIwMjYwOTAzVDExMjAwMFoNCkRURU5EOjIwMjYwOTAzVDEyMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IEVNUw0KREVTQ1JJUFRJT046NSAtIDYgeCAxayAoMi41IGxhcHMpIGF0IHNsaWdodGx5IGZhc3RlciB0aGFuIDEwayBwYWNlIHdpdGggYSAyMDAtbWV0ZXIgc2xvdyB3YWxrIHJlY292ZXJ5IGJldHdlZW4gaW50ZXJ2YWxzLg0KTE9DQVRJT046RU1TDQpTVEFUVVM6Q09ORklSTUVEDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFS"
   },
   {
-    "date": "2026-08-29",
+    "date": "2026-09-05",
     "time": "6:30 AM",
     "location": {
-      "name": "The Great Dog Bark Park",
-      "address": "The Great Dog Bark Park",
-      "map_link": "https://maps.app.goo.gl/iGasDnhAzXgYPxWF6?g_st=ic"
+      "name": "Bobolink",
+      "address": "Bobolink",
+      "map_link": "https://maps.app.goo.gl/U6Uaz5rNAJjWrins5?g_st=ic"
     },
-    "location_link": "https://maps.app.goo.gl/iGasDnhAzXgYPxWF6?g_st=ic",
-    "description": "Group social run. As always, all levels are welcome to join us.",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+The+Great+Dog+Bark+Park&dates=20260829T123000Z%2F20260829T133000Z&details=Group+social+run.+As+always%2C+all+levels+are+welcome+to+join+us.&location=The+Great+Dog+Bark+Park",
-    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwODI5VDEyMzAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDgyM1QxNTI4MjZaDQpEVFNUQVJUOjIwMjYwODI5VDEyMzAwMFoNCkRURU5EOjIwMjYwODI5VDEzMzAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IFRoZSBHcmVhdCBEb2cgQmFyayBQYXJrDQpERVNDUklQVElPTjpHcm91cCBzb2NpYWwgcnVuLiBBcyBhbHdheXNcLCBhbGwgbGV2ZWxzIGFyZSB3ZWxjb21lIHRvIGpvaW4gdXMuDQpMT0NBVElPTjpUaGUgR3JlYXQgRG9nIEJhcmsgUGFyaw0KU1RBVFVTOkNPTkZJUk1FRA0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg=="
+    "location_link": "https://maps.app.goo.gl/U6Uaz5rNAJjWrins5?g_st=ic",
+    "description": "Group Social Run.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+Bobolink&dates=20260905T123000Z%2F20260905T133000Z&details=Group+Social+Run.&location=Bobolink",
+    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwOTA1VDEyMzAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDgzMFQxOTA3MDFaDQpEVFNUQVJUOjIwMjYwOTA1VDEyMzAwMFoNCkRURU5EOjIwMjYwOTA1VDEzMzAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IEJvYm9saW5rDQpERVNDUklQVElPTjpHcm91cCBTb2NpYWwgUnVuLg0KTE9DQVRJT046Qm9ib2xpbmsNClNUQVRVUzpDT05GSVJNRUQNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVI="
   }
 ]
