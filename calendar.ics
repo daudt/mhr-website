@@ -30,16 +30,16 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:d10e93bcedd693a41c1423aaa2d4c5149518bb6d@milehighrunners.com
-DTSTAMP:20260830T190725Z
-DTSTART;TZID=America/Denver:20260901T050000
-DTEND;TZID=America/Denver:20260901T060000
+UID:04c11286f4a4b3057723a089476bfef90b09411e@milehighrunners.com
+DTSTAMP:20260906T211225Z
+DTSTART;TZID=America/Denver:20260908T052000
+DTEND;TZID=America/Denver:20260908T062000
 SUMMARY:MHR Practice — EMS
-DESCRIPTION:3 x 1.25 road miles at half marathon goal pace (HMGP) with a 2-
- minute active recovery between intervals.\n\nDetails: https://milehighrunn
- ers.com/calendar.html
+DESCRIPTION:5–10 x 500 meters at 5K pace with a 300-meter easy jog recove
+ ry\, plus 6 x 100 meters at mile pace with full recovery between intervals
+ .\n\nDetails: https://milehighrunners.com/calendar.html
 LOCATION:EMS\, EMS
-URL;VALUE=URI:https://maps.app.goo.gl/ZMWLa6Kmui876vfw5?g_st=ic
+URL;VALUE=URI:https://maps.app.goo.gl/mzhZUdZQqoEP2gth8?g_st=ic
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 CATEGORIES:Running,Practice
@@ -50,82 +50,42 @@ DESCRIPTION:MHR Practice — EMS in 45 minutes
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:4f4cec5212cf51ebad98322060f865260346dc74@milehighrunners.com
-DTSTAMP:20260830T190725Z
-DTSTART;TZID=America/Denver:20260901T052000
-DTEND;TZID=America/Denver:20260901T062000
-SUMMARY:MHR Practice — EMS
-DESCRIPTION:10 - 12 x 400 meters at 3k pace with a 60 - 90 second recovery 
- between intervals.\n\nDetails: https://milehighrunners.com/calendar.html
-LOCATION:EMS\, EMS
-URL;VALUE=URI:https://maps.app.goo.gl/ZMWLa6Kmui876vfw5?g_st=ic
+UID:4ab51436ca925365a7d84666fa9457869fd16d15@milehighrunners.com
+DTSTAMP:20260906T211225Z
+DTSTART;TZID=America/Denver:20260910T052000
+DTEND;TZID=America/Denver:20260910T062000
+SUMMARY:MHR Practice — Calvary Bible Church
+DESCRIPTION:4–6 x 1K at 10 seconds faster than 10K pace\, with a walking 
+ recovery to the start of the next K. We will warm up the course.\n\nDetail
+ s: https://milehighrunners.com/calendar.html
+LOCATION:Calvary Bible Church\, Calvary Bible Church
+URL;VALUE=URI:https://maps.app.goo.gl/a3RSqxgjeN48h3cX8?g_st=ic
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 CATEGORIES:Running,Practice
 BEGIN:VALARM
 TRIGGER:-PT45M
 ACTION:DISPLAY
-DESCRIPTION:MHR Practice — EMS in 45 minutes
+DESCRIPTION:MHR Practice — Calvary Bible Church in 45 minutes
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:2f3eb356e15ab932072fe47e903d0bc14f4e56cc@milehighrunners.com
-DTSTAMP:20260830T190725Z
-DTSTART;TZID=America/Denver:20260903T050000
-DTEND;TZID=America/Denver:20260903T060000
-SUMMARY:MHR Practice — EMS
-DESCRIPTION:6 - 8 x 400 meters. Run at 10k pace for the first 200 meters\, 
- then accelerate to 5k pace for the last 200 meters\, with a 90-second reco
- very between intervals.\n\nDetails: https://milehighrunners.com/calendar.h
- tml
-LOCATION:EMS\, EMS
-URL;VALUE=URI:https://maps.app.goo.gl/ZMWLa6Kmui876vfw5?g_st=ic
+UID:bc0bfc1803cad8193089196258b65e1a61c370cb@milehighrunners.com
+DTSTAMP:20260906T211225Z
+DTSTART;TZID=America/Denver:20260912T063000
+DTEND;TZID=America/Denver:20260912T080000
+SUMMARY:MHR Practice — Fox Dog Coffee
+DESCRIPTION:Social Group Run: The more the merrier! All levels and abilitie
+ s are welcome.\n\nDetails: https://milehighrunners.com/calendar.html
+LOCATION:Fox Dog Coffee\, Fox Dog Coffee
+URL;VALUE=URI:https://maps.app.goo.gl/oCt1Z2qAPSNLqnEf8?g_st=ic
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 CATEGORIES:Running,Practice
 BEGIN:VALARM
 TRIGGER:-PT45M
 ACTION:DISPLAY
-DESCRIPTION:MHR Practice — EMS in 45 minutes
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:723967af3a6e104cb8f0199f2b54289f68713e01@milehighrunners.com
-DTSTAMP:20260830T190725Z
-DTSTART;TZID=America/Denver:20260903T052000
-DTEND;TZID=America/Denver:20260903T062000
-SUMMARY:MHR Practice — EMS
-DESCRIPTION:5 - 6 x 1k (2.5 laps) at slightly faster than 10k pace with a 2
- 00-meter slow walk recovery between intervals.\n\nDetails: https://milehig
- hrunners.com/calendar.html
-LOCATION:EMS\, EMS
-URL;VALUE=URI:https://maps.app.goo.gl/ZMWLa6Kmui876vfw5?g_st=ic
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-CATEGORIES:Running,Practice
-BEGIN:VALARM
-TRIGGER:-PT45M
-ACTION:DISPLAY
-DESCRIPTION:MHR Practice — EMS in 45 minutes
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:44e0c1ea7a23a1180de97a652544cd71d10d0036@milehighrunners.com
-DTSTAMP:20260830T190725Z
-DTSTART;TZID=America/Denver:20260905T063000
-DTEND;TZID=America/Denver:20260905T080000
-SUMMARY:MHR Practice — Bobolink
-DESCRIPTION:Group Social Run.\n\nDetails: https://milehighrunners.com/calen
- dar.html
-LOCATION:Bobolink\, Bobolink
-URL;VALUE=URI:https://maps.app.goo.gl/U6Uaz5rNAJjWrins5?g_st=ic
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-CATEGORIES:Running,Practice
-BEGIN:VALARM
-TRIGGER:-PT45M
-ACTION:DISPLAY
-DESCRIPTION:MHR Practice — Bobolink in 45 minutes
+DESCRIPTION:MHR Practice — Fox Dog Coffee in 45 minutes
 END:VALARM
 END:VEVENT
 END:VCALENDAR
