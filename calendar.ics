@@ -30,16 +30,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:04c11286f4a4b3057723a089476bfef90b09411e@milehighrunners.com
-DTSTAMP:20260906T211225Z
-DTSTART;TZID=America/Denver:20260908T052000
-DTEND;TZID=America/Denver:20260908T062000
+UID:983ba609f6ed7a7e22c7beee046428a3665147a5@milehighrunners.com
+DTSTAMP:20260913T173125Z
+DTSTART;TZID=America/Denver:20260915T052000
+DTEND;TZID=America/Denver:20260915T062000
 SUMMARY:MHR Practice — EMS
-DESCRIPTION:5–10 x 500 meters at 5K pace with a 300-meter easy jog recove
- ry\, plus 6 x 100 meters at mile pace with full recovery between intervals
- .\n\nDetails: https://milehighrunners.com/calendar.html
+DESCRIPTION:Warmup: Easy 2-mile warmup + Drills and Accelerators\; Workout:
+  10–14 x 300/100 gear shifters (300 meters at 5k pace with the last 100 
+ meters at mile pace\; 75–90 second recovery) + 4–6 x 100 meters at FFP
+ \n\nDetails: https://milehighrunners.com/calendar.html
 LOCATION:EMS\, EMS
-URL;VALUE=URI:https://maps.app.goo.gl/mzhZUdZQqoEP2gth8?g_st=ic
+URL;VALUE=URI:https://maps.app.goo.gl/eTa9hja85UjRDK148?g_st=ic
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 CATEGORIES:Running,Practice
@@ -50,42 +51,43 @@ DESCRIPTION:MHR Practice — EMS in 45 minutes
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:4ab51436ca925365a7d84666fa9457869fd16d15@milehighrunners.com
-DTSTAMP:20260906T211225Z
-DTSTART;TZID=America/Denver:20260910T052000
-DTEND;TZID=America/Denver:20260910T062000
-SUMMARY:MHR Practice — Calvary Bible Church
-DESCRIPTION:4–6 x 1K at 10 seconds faster than 10K pace\, with a walking 
- recovery to the start of the next K. We will warm up the course.\n\nDetail
- s: https://milehighrunners.com/calendar.html
-LOCATION:Calvary Bible Church\, Calvary Bible Church
-URL;VALUE=URI:https://maps.app.goo.gl/a3RSqxgjeN48h3cX8?g_st=ic
+UID:77574e3c86d0b30896abe68a6aabc4e9ce90a0b8@milehighrunners.com
+DTSTAMP:20260913T173125Z
+DTSTART;TZID=America/Denver:20260917T052000
+DTEND;TZID=America/Denver:20260917T062000
+SUMMARY:MHR Practice — EMS
+DESCRIPTION:Combo Workout: 4 x 400 meters at 5k pace\, followed by a transi
+ tion walk to 1 mile out and 1 mile back at 10k pace\, finishing with a tra
+ nsition walk back to the track for 4 x 400 meters at 5k pace.\n\nDetails: 
+ https://milehighrunners.com/calendar.html
+LOCATION:EMS\, EMS
+URL;VALUE=URI:https://maps.app.goo.gl/eTa9hja85UjRDK148?g_st=ic
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 CATEGORIES:Running,Practice
 BEGIN:VALARM
 TRIGGER:-PT45M
 ACTION:DISPLAY
-DESCRIPTION:MHR Practice — Calvary Bible Church in 45 minutes
+DESCRIPTION:MHR Practice — EMS in 45 minutes
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:bc0bfc1803cad8193089196258b65e1a61c370cb@milehighrunners.com
-DTSTAMP:20260906T211225Z
-DTSTART;TZID=America/Denver:20260912T063000
-DTEND;TZID=America/Denver:20260912T080000
-SUMMARY:MHR Practice — Fox Dog Coffee
-DESCRIPTION:Social Group Run: The more the merrier! All levels and abilitie
- s are welcome.\n\nDetails: https://milehighrunners.com/calendar.html
-LOCATION:Fox Dog Coffee\, Fox Dog Coffee
-URL;VALUE=URI:https://maps.app.goo.gl/oCt1Z2qAPSNLqnEf8?g_st=ic
+UID:94f8c6938c9621f178c7c1ef628a848b54e5d5be@milehighrunners.com
+DTSTAMP:20260913T173125Z
+DTSTART;TZID=America/Denver:20260919T063000
+DTEND;TZID=America/Denver:20260919T080000
+SUMMARY:MHR Practice — Winot Coffee Shop
+DESCRIPTION:Group social run. All levels and abilities are welcome.\n\nDeta
+ ils: https://milehighrunners.com/calendar.html
+LOCATION:Winot Coffee Shop\, Winot Coffee Shop
+URL;VALUE=URI:https://maps.app.goo.gl/w3yHhLxQqv9L5NjQA?g_st=ic
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 CATEGORIES:Running,Practice
 BEGIN:VALARM
 TRIGGER:-PT45M
 ACTION:DISPLAY
-DESCRIPTION:MHR Practice — Fox Dog Coffee in 45 minutes
+DESCRIPTION:MHR Practice — Winot Coffee Shop in 45 minutes
 END:VALARM
 END:VEVENT
 END:VCALENDAR
