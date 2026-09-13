@@ -346,5 +346,35 @@
         "time": "N/A"
       }
     ]
+  },
+  {
+    "event_name": "Devil on the Divide 22k",
+    "date": "2026-09-13",
+    "results": [
+      {
+        "runner": "Eliana",
+        "placement": null,
+        "division": null,
+        "time": null
+      },
+      {
+        "runner": "Danielle",
+        "placement": null,
+        "division": null,
+        "time": null
+      },
+      {
+        "runner": "Nick",
+        "placement": null,
+        "division": null,
+        "time": null
+      },
+      {
+        "runner": "Fionn",
+        "placement": null,
+        "division": null,
+        "time": null
+      }
+    ]
   }
 ]
