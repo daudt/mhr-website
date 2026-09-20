@@ -30,17 +30,16 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:983ba609f6ed7a7e22c7beee046428a3665147a5@milehighrunners.com
-DTSTAMP:20260913T173125Z
-DTSTART;TZID=America/Denver:20260915T052000
-DTEND;TZID=America/Denver:20260915T062000
+UID:09a23e6d03c6d69b345d8cba2406d855c1224533@milehighrunners.com
+DTSTAMP:20260920T185306Z
+DTSTART;TZID=America/Denver:20260922T052000
+DTEND;TZID=America/Denver:20260922T062000
 SUMMARY:MHR Practice — EMS
-DESCRIPTION:Warmup: Easy 2-mile warmup + Drills and Accelerators\; Workout:
-  10–14 x 300/100 gear shifters (300 meters at 5k pace with the last 100 
- meters at mile pace\; 75–90 second recovery) + 4–6 x 100 meters at FFP
- \n\nDetails: https://milehighrunners.com/calendar.html
+DESCRIPTION:6 x 800 meters at 5k pace\, with a 400-meter recovery run at ma
+ rathon pace plus one minute.\n\nDetails: https://milehighrunners.com/calen
+ dar.html
 LOCATION:EMS\, EMS
-URL;VALUE=URI:https://maps.app.goo.gl/eTa9hja85UjRDK148?g_st=ic
+URL;VALUE=URI:https://maps.app.goo.gl/u3jm8LKo5U122p4c8?g_st=ic
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 CATEGORIES:Running,Practice
@@ -51,17 +50,17 @@ DESCRIPTION:MHR Practice — EMS in 45 minutes
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:77574e3c86d0b30896abe68a6aabc4e9ce90a0b8@milehighrunners.com
-DTSTAMP:20260913T173125Z
-DTSTART;TZID=America/Denver:20260917T052000
-DTEND;TZID=America/Denver:20260917T062000
+UID:047ca806278590ef0bef44f37b781e21a35715ad@milehighrunners.com
+DTSTAMP:20260920T185306Z
+DTSTART;TZID=America/Denver:20260924T052000
+DTEND;TZID=America/Denver:20260924T062000
 SUMMARY:MHR Practice — EMS
-DESCRIPTION:Combo Workout: 4 x 400 meters at 5k pace\, followed by a transi
- tion walk to 1 mile out and 1 mile back at 10k pace\, finishing with a tra
- nsition walk back to the track for 4 x 400 meters at 5k pace.\n\nDetails: 
- https://milehighrunners.com/calendar.html
+DESCRIPTION:3 x 1000 meters at 10k pace\, with a 60-second recovery between
+  intervals. 3-minute walking transition to the road. 2 x 1.5 miles at 10k 
+ pace\, with a 90-second moving recovery between intervals.\n\nDetails: htt
+ ps://milehighrunners.com/calendar.html
 LOCATION:EMS\, EMS
-URL;VALUE=URI:https://maps.app.goo.gl/eTa9hja85UjRDK148?g_st=ic
+URL;VALUE=URI:https://maps.app.goo.gl/u3jm8LKo5U122p4c8?g_st=ic
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 CATEGORIES:Running,Practice
@@ -72,22 +71,21 @@ DESCRIPTION:MHR Practice — EMS in 45 minutes
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:94f8c6938c9621f178c7c1ef628a848b54e5d5be@milehighrunners.com
-DTSTAMP:20260913T173125Z
-DTSTART;TZID=America/Denver:20260919T063000
-DTEND;TZID=America/Denver:20260919T080000
-SUMMARY:MHR Practice — Winot Coffee Shop
-DESCRIPTION:Group social run. All levels and abilities are welcome.\n\nDeta
- ils: https://milehighrunners.com/calendar.html
-LOCATION:Winot Coffee Shop\, Winot Coffee Shop
-URL;VALUE=URI:https://maps.app.goo.gl/w3yHhLxQqv9L5NjQA?g_st=ic
+UID:38d71350733e064278a5774a0e8bc0100b64dedc@milehighrunners.com
+DTSTAMP:20260920T185306Z
+DTSTART;TZID=America/Denver:20260926T070000
+DTEND;TZID=America/Denver:20260926T083000
+SUMMARY:MHR Practice — Flagg Park
+DESCRIPTION:Group run\n\nDetails: https://milehighrunners.com/calendar.html
+LOCATION:Flagg Park\, Flagg Park
+URL;VALUE=URI:https://maps.app.goo.gl/9G41YjD2ckuBF2zK7?g_st=ic
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 CATEGORIES:Running,Practice
 BEGIN:VALARM
 TRIGGER:-PT45M
 ACTION:DISPLAY
-DESCRIPTION:MHR Practice — Winot Coffee Shop in 45 minutes
+DESCRIPTION:MHR Practice — Flagg Park in 45 minutes
 END:VALARM
 END:VEVENT
 END:VCALENDAR
