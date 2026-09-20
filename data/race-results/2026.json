@@ -376,5 +376,17 @@
         "time": null
       }
     ]
+  },
+  {
+    "event_name": "Equinox Half",
+    "date": "2026-09-20",
+    "results": [
+      {
+        "runner": "Song",
+        "placement": "Finisher",
+        "division": "Half Marathon",
+        "time": null
+      }
+    ]
   }
 ]
