@@ -5,48 +5,8 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Mile High Runners Race Calendar
 BEGIN:VEVENT
-UID:lead-king-loop-2026@milehighrunners.com
-DTSTAMP:20260913T000000Z
-DTSTART:20260913T080000Z
-DTEND:20260913T120000Z
-SUMMARY:Lead King Loop
-DESCRIPTION:A spectacular fall color run through the Elk Mountains featuring a 25K course through Lead King Basin past Crystal Mill and the historic Town of Crystal\, an 8-mile Quarry Climb along the Yule Marble Quarry Road\, and a 2.5K kids fun run. Includes custom event shirt\, post-race BBQ lunch\, beer (21+)\, and finisher medal. All proceeds benefit Marble Charter School.
-LOCATION:TBD
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:run-rabbit-run-2026@milehighrunners.com
-DTSTAMP:20260913T000000Z
-DTSTART:20260918T090000Z
-DTEND:20260918T130000Z
-SUMMARY:Run Rabbit Run
-DESCRIPTION:Run Rabbit Run offers a 14th Annual 100 Mile Race (Friday\, Sept 18\, limited to 450 entrants with Tortoise 9:00 AM start and Hare 1:00 PM start) and 19th Annual 50 Mile Race (Saturday\, Sept 19\, limited to 200 entrants\, 6:00 AM start). The 100 mile race features a $100\,000 total purse with $20\,000 to the men's and women's winners—the highest purse of any 100 mile race in the USA. Both races are on a challenging\, spectacular course in Steamboat Springs\, Colorado. Registration is currently full but a waitlist is available. The race is a charity event that has donated over $700\,000 to northern Colorado nonprofits since 2007.
-LOCATION:Steamboat Ski Resort\, 2305 Mt Werner Cir\, Steamboat Springs\, CO 80487
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:pikes-peak-ascent-marathon-2026@milehighrunners.com
-DTSTAMP:20260913T000000Z
-DTSTART:20260919T080000Z
-DTEND:20260919T120000Z
-SUMMARY:Pikes Peak Ascent & Marathon
-DESCRIPTION:The Pikes Peak Marathon\, founded in 1956\, is the oldest continually held marathon in the United States. It takes runners from Manitou Springs\, Colorado\, to the summit of Pikes Peak at 14\,115 feet and back down for a total of 26.2 grueling mountain miles with approximately 7\,800 vertical feet of ascent. The sister race\, the Pikes Peak Ascent\, is a 13.3-mile climb to the summit. Both races take place September 19-20\, 2026.
-LOCATION:441 Manitou Ave\, Suite 100\, Manitou Springs\, CO 80829
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:fall-equinox-marathon-2026@milehighrunners.com
-DTSTAMP:20260913T000000Z
-DTSTART:20260920T080000Z
-DTEND:20260920T120000Z
-SUMMARY:Fall Equinox Marathon
-DESCRIPTION:Fall Equinox running event featuring Half Marathon and 5 Mile distances
-LOCATION:Fort Collins\, CO
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:pikes-peak-marathon-2026@milehighrunners.com
-DTSTAMP:20260913T000000Z
+DTSTAMP:20260920T000000Z
 DTSTART:20260920T070000Z
 DTEND:20260920T110000Z
 SUMMARY:Pikes Peak Marathon
@@ -55,8 +15,28 @@ LOCATION:Manitou Ave (City Hall)\, Manitou Springs\, CO 80829
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:fall-equinox-marathon-2026@milehighrunners.com
+DTSTAMP:20260920T000000Z
+DTSTART:20260920T080000Z
+DTEND:20260920T120000Z
+SUMMARY:Fall Equinox Marathon
+DESCRIPTION:Fall Equinox running event featuring Half Marathon and 5 Mile distances
+LOCATION:Fort Collins\, CO
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:west-line-winder-2026@milehighrunners.com
+DTSTAMP:20260920T000000Z
+DTSTART:20260926T080000Z
+DTEND:20260926T120000Z
+SUMMARY:West Line Winder
+DESCRIPTION:The West Line Winder 30K & 50K features miles of buttery single track and forest roads with glorious views of the Collegiate Peaks\, set on arid desert-style trails just outside of Buena Vista\, CO. Suitable for first-time trail runners to veteran ultramarathoners. Hosted by 14er Fest\, the event includes trail events\, clinics\, festival camping\, live music\, local libations\, and vendors.
+LOCATION:Buena Vista\, CO
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:crested-butte-ultra-2026@milehighrunners.com
-DTSTAMP:20260913T000000Z
+DTSTAMP:20260920T000000Z
 DTSTART:20260926T060000Z
 DTEND:20260926T100000Z
 SUMMARY:Crested Butte Ultra
@@ -66,7 +46,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:golden-leaf-half-marathon-2026@milehighrunners.com
-DTSTAMP:20260913T000000Z
+DTSTAMP:20260920T000000Z
 DTSTART:20260926T080000Z
 DTEND:20260926T120000Z
 SUMMARY:Golden Leaf Half Marathon
@@ -75,28 +55,8 @@ LOCATION:Fanny Hill in Snowmass to Koch Lumber Park\, Aspen\, CO
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:cougar-ridge-classic-26k-trail-run-2026@milehighrunners.com
-DTSTAMP:20260913T000000Z
-DTSTART:20260926T070000Z
-DTEND:20260926T110000Z
-SUMMARY:Cougar Ridge Classic 26K Trail Run
-DESCRIPTION:Cougar Ridge Classic 26K - Vail to Minturn Running Race and Cougar Cub 14K Race. Part of the Vail Trail Running Series.
-LOCATION:352 E Meadow Dr.\, Vail\, CO (Start) / 101113 Williams St.\, Minturn\, CO (Finish)
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:west-line-winder-2026@milehighrunners.com
-DTSTAMP:20260913T000000Z
-DTSTART:20260926T080000Z
-DTEND:20260926T120000Z
-SUMMARY:West Line Winder
-DESCRIPTION:The West Line Winder 30K & 50K features miles of buttery single track and forest roads with glorious views of the Collegiate Peaks\, set on arid desert-style trails just outside of Buena Vista\, CO. Suitable for first-time trail runners to veteran ultramarathoners. Hosted by 14er Fest\, the event includes trail events\, clinics\, festival camping\, live music\, local libations\, and vendors.
-LOCATION:Buena Vista\, CO
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:bear-chase-trail-run-2026@milehighrunners.com
-DTSTAMP:20260913T000000Z
+DTSTAMP:20260920T000000Z
 DTSTART:20261002T060000Z
 DTEND:20261002T100000Z
 SUMMARY:Bear Chase Trail Run
@@ -105,28 +65,8 @@ LOCATION:15600 W Morrison Rd\, Lakewood\, CO 80465
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:rim-to-rim-royal-gorge-races-2026@milehighrunners.com
-DTSTAMP:20260913T000000Z
-DTSTART:20261003T080000Z
-DTEND:20261003T120000Z
-SUMMARY:Rim to Rim Royal Gorge Races
-DESCRIPTION:Scenic races including a 5K road run\, an 8-mile trail run\, and a half marathon trail run through the foothills and across the majestic Royal Gorge Bridge. The event also features a free 'Dinosaur Dash' kids race and virtual options.
-LOCATION:Royal Gorge Bridge\, Canon City\, CO
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:colorado-springs-marathon-2026@milehighrunners.com
-DTSTAMP:20260913T000000Z
-DTSTART:20261003T070000Z
-DTEND:20261003T110000Z
-SUMMARY:Colorado Springs Marathon
-DESCRIPTION:A premier road race through the heart of Colorado Springs\, passing America the Beautiful Park and the Olympic & Paralympic Museum. The course is a mix of urban streets and city park trails.
-LOCATION:E Pikes Peak Ave & S Tejon St\, Colorado Springs\, CO 80903
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:the-bear-chase-2026@milehighrunners.com
-DTSTAMP:20260913T000000Z
+DTSTAMP:20260920T000000Z
 DTSTART:20261003T053000Z
 DTEND:20261003T093000Z
 SUMMARY:The Bear Chase
@@ -135,18 +75,38 @@ LOCATION:Bear Creek Lake Park\, Big Soda Lake Beach\, 15600 W. Morrison Road\, L
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:colorado-springs-marathon-2026@milehighrunners.com
+DTSTAMP:20260920T000000Z
+DTSTART:20261003T070000Z
+DTEND:20261003T110000Z
+SUMMARY:Colorado Springs Marathon
+DESCRIPTION:A premier road race through the heart of Colorado Springs\, passing America the Beautiful Park and the Olympic & Paralympic Museum. The course is a mix of urban streets and city park trails.
+LOCATION:E Pikes Peak Ave & S Tejon St\, Colorado Springs\, CO 80903
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:aravaipa-colorado-lakewood-2026@milehighrunners.com
-DTSTAMP:20260913T000000Z
+DTSTAMP:20260920T000000Z
 DTSTART:20261003T080000Z
 DTEND:20261003T120000Z
 SUMMARY:Aravaipa Colorado - Lakewood
-DESCRIPTION:
+DESCRIPTION:Multi-distance trail and ultra running event in Lakewood\, Colorado\, part of Aravaipa Running's 2026 Colorado race calendar
 LOCATION:Lakewood\, CO
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:rim-to-rim-royal-gorge-races-2026@milehighrunners.com
+DTSTAMP:20260920T000000Z
+DTSTART:20261003T080000Z
+DTEND:20261003T120000Z
+SUMMARY:Rim to Rim Royal Gorge Races
+DESCRIPTION:Scenic races including a 5K road run\, an 8-mile trail run\, and a half marathon trail run through the foothills and across the majestic Royal Gorge Bridge. The event also features a free 'Dinosaur Dash' kids race and virtual options.
+LOCATION:Royal Gorge Bridge\, Canon City\, CO
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:windsor-marathon-2026@milehighrunners.com
-DTSTAMP:20260913T000000Z
+DTSTAMP:20260920T000000Z
 DTSTART:20261004T070000Z
 DTEND:20261004T110000Z
 SUMMARY:Windsor Marathon
@@ -156,7 +116,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:long-view-marathon-2026@milehighrunners.com
-DTSTAMP:20260913T000000Z
+DTSTAMP:20260920T000000Z
 DTSTART:20261011T080000Z
 DTEND:20261011T120000Z
 SUMMARY:Long View Marathon
@@ -166,7 +126,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:durango-marathon-2026@milehighrunners.com
-DTSTAMP:20260913T000000Z
+DTSTAMP:20260920T000000Z
 DTSTART:20261011T073000Z
 DTEND:20261011T113000Z
 SUMMARY:Durango Marathon
@@ -176,27 +136,17 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:aravaipa-colorado-colorado-springs-2026@milehighrunners.com
-DTSTAMP:20260913T000000Z
+DTSTAMP:20260920T000000Z
 DTSTART:20261017T080000Z
 DTEND:20261017T120000Z
 SUMMARY:Aravaipa Colorado - Colorado Springs
-DESCRIPTION:
+DESCRIPTION:Trail running event in Colorado Springs featuring multiple distance options from 5K to 50K
 LOCATION:Colorado Springs\, CO
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:blue-sky-marathon-half-marathon-2026@milehighrunners.com
-DTSTAMP:20260913T000000Z
-DTSTART:20261017T080000Z
-DTEND:20261017T120000Z
-SUMMARY:Blue Sky Marathon & Half Marathon
-DESCRIPTION:Trail running event taking place on trails between Horsetooth Mountain Park and Devil's Backbone Open Space. Marathon on Oct 17 (9-hour cutoff) and Half Marathon on Oct 18 (6-hour cutoff). Course features 100% dirt terrain with 90% singletrack\, elevation gain of 3\,500' (marathon) or 1\,800' (half marathon). Includes aid stations\, finisher awards\, race meal\, and generous cutoff times designed for both veteran and first-time trail runners.
-LOCATION:Blue Sky Trailhead\, Horsetooth Mountain Park\, Fort Collins\, Colorado
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:bobcat-trail-races-2026@milehighrunners.com
-DTSTAMP:20260913T000000Z
+DTSTAMP:20260920T000000Z
 DTSTART:20261017T070000Z
 DTEND:20261017T110000Z
 SUMMARY:Bobcat Trail Races
@@ -206,7 +156,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:blue-sky-trail-run-2026@milehighrunners.com
-DTSTAMP:20260913T000000Z
+DTSTAMP:20260920T000000Z
 DTSTART:20261017T080000Z
 DTEND:20261017T120000Z
 SUMMARY:Blue Sky Trail Run
@@ -215,18 +165,28 @@ LOCATION:Blue Sky Trailhead\, Horsetooth Mountain Park\, Fort Collins\, Colorado
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:blue-sky-marathon-half-marathon-2026@milehighrunners.com
+DTSTAMP:20260920T000000Z
+DTSTART:20261017T080000Z
+DTEND:20261017T120000Z
+SUMMARY:Blue Sky Marathon & Half Marathon
+DESCRIPTION:Trail running event taking place on trails between Horsetooth Mountain Park and Devil's Backbone Open Space. Marathon on Oct 17 (9-hour cutoff) and Half Marathon on Oct 18 (6-hour cutoff). Course features 100% dirt terrain with 90% singletrack\, elevation gain of 3\,500' (marathon) or 1\,800' (half marathon). Includes aid stations\, finisher awards\, race meal\, and generous cutoff times designed for both veteran and first-time trail runners.
+LOCATION:Blue Sky Trailhead\, Horsetooth Mountain Park\, Fort Collins\, Colorado
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:weekend-at-burney-runwalkcrawl-2026@milehighrunners.com
-DTSTAMP:20260913T000000Z
+DTSTAMP:20260920T000000Z
 DTSTART:20261022T180000Z
 DTEND:20261022T220000Z
 SUMMARY:Weekend at Burney Run/Walk/Crawl
-DESCRIPTION:Weekend at Burney Run/Walk/Crawl is a laid-back trail adventure featuring a 4.8-mile looped course through beautiful private property near Baum Lake. The course offers a 50/50 mix of flowy single-track and dirt service road with rolling hills\, approximately 370 ft elevation gain/loss per loop. Multiple race options available: 48-Hour Challenge (Oct 22-24)\, 24-Hour Challenge (Oct 23-24)\, 12-Hour\, 4.8-Mile Loop\, and Burro Race. Features aid station with hot food\, broth bar\, and snacks. Cash prize awarded for most miles run. Solo runners completing 100+ miles earn belt buckles; those completing 100 miles in 24 hours earn special ultra buckles. All participants completing one or more loops earn a medal.
+DESCRIPTION:Weekend at Burney Run/Walk/Crawl is a laid-back trail adventure featuring a 4.8-mile looped course with 370 ft elevation gain per loop. The event offers multiple timed options (48-hour\, 24-hour\, 12-hour\, and single loop) on a 50/50 mix of flowy single-track and dirt service road with rolling hills. Includes aid station with food\, broth bar\, and cash prizes for most miles. Solo runners hitting 100+ miles earn belt buckles. Also features a burro race option.
 LOCATION:22800 Guest Ranch Rd\, Cassel\, CA 96016
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:all-out-kooky-spooky-2026@milehighrunners.com
-DTSTAMP:20260913T000000Z
+DTSTAMP:20260920T000000Z
 DTSTART:20261101T090000Z
 DTEND:20261101T130000Z
 SUMMARY:All-Out Kooky-Spooky
@@ -236,7 +196,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:colorado-24-hour-run-2026@milehighrunners.com
-DTSTAMP:20260913T000000Z
+DTSTAMP:20260920T000000Z
 DTSTART:20261107T080000Z
 DTEND:20261107T120000Z
 SUMMARY:Colorado 24 Hour Run
@@ -246,7 +206,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:kessel-run-ultra-2026@milehighrunners.com
-DTSTAMP:20260913T000000Z
+DTSTAMP:20260920T000000Z
 DTSTART:20261107T060000Z
 DTEND:20261107T100000Z
 SUMMARY:Kessel Run Ultra
@@ -256,7 +216,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:moab-trail-marathon-2026@milehighrunners.com
-DTSTAMP:20260913T000000Z
+DTSTAMP:20260920T000000Z
 DTSTART:20261107T080000Z
 DTEND:20261107T120000Z
 SUMMARY:Moab Trail Marathon
@@ -266,7 +226,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:longmont-turkey-trot-2026@milehighrunners.com
-DTSTAMP:20260913T000000Z
+DTSTAMP:20260920T000000Z
 DTSTART:20261114T090000Z
 DTEND:20261114T130000Z
 SUMMARY:Longmont Turkey Trot
@@ -276,7 +236,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:aravaipa-colorado-louisville-2026@milehighrunners.com
-DTSTAMP:20260913T000000Z
+DTSTAMP:20260920T000000Z
 DTSTART:20261114T080000Z
 DTEND:20261114T120000Z
 SUMMARY:Aravaipa Colorado - Louisville
@@ -286,7 +246,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:turkey-trek-2026@milehighrunners.com
-DTSTAMP:20260913T000000Z
+DTSTAMP:20260920T000000Z
 DTSTART:20261121T083000Z
 DTEND:20261121T123000Z
 SUMMARY:Turkey Trek
@@ -296,7 +256,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:pumpkin-pie-5k10k-2026@milehighrunners.com
-DTSTAMP:20260913T000000Z
+DTSTAMP:20260920T000000Z
 DTSTART:20261121T090000Z
 DTEND:20261121T130000Z
 SUMMARY:Pumpkin Pie 5K/10K
@@ -306,7 +266,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:alpine-bank-boulder-thanksgiving-day-5k-2026@milehighrunners.com
-DTSTAMP:20260913T000000Z
+DTSTAMP:20260920T000000Z
 DTSTART:20261126T080000Z
 DTEND:20261126T120000Z
 SUMMARY:Alpine Bank Boulder Thanksgiving Day 5K
@@ -316,7 +276,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:broomfield-turkey-day-5k10k-2026@milehighrunners.com
-DTSTAMP:20260913T000000Z
+DTSTAMP:20260920T000000Z
 DTSTART:20261126T090000Z
 DTEND:20261126T130000Z
 SUMMARY:Broomfield Turkey Day 5K/10K
@@ -326,7 +286,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:gobble-wobble-run-2026@milehighrunners.com
-DTSTAMP:20260913T000000Z
+DTSTAMP:20260920T000000Z
 DTSTART:20261126T083000Z
 DTEND:20261126T123000Z
 SUMMARY:Gobble Wobble Run
@@ -336,7 +296,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:turkey-rock-trot-5k-2026@milehighrunners.com
-DTSTAMP:20260913T000000Z
+DTSTAMP:20260920T000000Z
 DTSTART:20261126T090000Z
 DTEND:20261126T130000Z
 SUMMARY:Turkey ROCK Trot 5k
