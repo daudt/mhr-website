@@ -1,41 +1,41 @@
 [
   {
-    "date": "2026-09-22",
+    "date": "2026-09-29",
     "time": "5:20 AM",
     "location": {
       "name": "EMS",
       "address": "EMS",
-      "map_link": "https://maps.app.goo.gl/u3jm8LKo5U122p4c8?g_st=ic"
+      "map_link": "https://maps.app.goo.gl/ZL4hRLxCm8e1Chj97?g_st=ic"
     },
-    "location_link": "https://maps.app.goo.gl/u3jm8LKo5U122p4c8?g_st=ic",
-    "description": "6 x 800 meters at 5k pace, with a 400-meter recovery run at marathon pace plus one minute.",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+EMS&dates=20260922T112000Z%2F20260922T122000Z&details=6+x+800+meters+at+5k+pace%2C+with+a+400-meter+recovery+run+at+marathon+pace+plus+one+minute.&location=EMS",
-    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwOTIyVDExMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDkyMFQxODUyNDNaDQpEVFNUQVJUOjIwMjYwOTIyVDExMjAwMFoNCkRURU5EOjIwMjYwOTIyVDEyMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IEVNUw0KREVTQ1JJUFRJT046NiB4IDgwMCBtZXRlcnMgYXQgNWsgcGFjZVwsIHdpdGggYSA0MDAtbWV0ZXIgcmVjb3ZlcnkgcnVuIGF0IG1hcmF0aG9uIHBhY2UgcGx1cyBvbmUgbWludXRlLg0KTE9DQVRJT046RU1TDQpTVEFUVVM6Q09ORklSTUVEDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFS"
+    "location_link": "https://maps.app.goo.gl/ZL4hRLxCm8e1Chj97?g_st=ic",
+    "description": "2 x (200m, 400m, 800m, 800m, 400m, 200m) at 5k pace, with a stationary 60\u201390 second recovery between intervals and a 1-lap easy jog between sets.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+EMS&dates=20260929T112000Z%2F20260929T122000Z&details=2+x+%28200m%2C+400m%2C+800m%2C+800m%2C+400m%2C+200m%29+at+5k+pace%2C+with+a+stationary+60%E2%80%9390+second+recovery+between+intervals+and+a+1-lap+easy+jog+between+sets.&location=EMS",
+    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwOTI5VDExMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDkyN1QyMDUwMjVaDQpEVFNUQVJUOjIwMjYwOTI5VDExMjAwMFoNCkRURU5EOjIwMjYwOTI5VDEyMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IEVNUw0KREVTQ1JJUFRJT046MiB4ICgyMDBtXCwgNDAwbVwsIDgwMG1cLCA4MDBtXCwgNDAwbVwsIDIwMG0pIGF0IDVrIHBhY2VcLCB3aXRoIGEgc3RhdGlvbmFyeSA2MOKAkzkwIHNlY29uZCByZWNvdmVyeSBiZXR3ZWVuIGludGVydmFscyBhbmQgYSAxLWxhcCBlYXN5IGpvZyBiZXR3ZWVuIHNldHMuDQpMT0NBVElPTjpFTVMNClNUQVRVUzpDT05GSVJNRUQNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVI="
   },
   {
-    "date": "2026-09-24",
+    "date": "2026-10-01",
     "time": "5:20 AM",
     "location": {
-      "name": "EMS",
-      "address": "EMS",
-      "map_link": "https://maps.app.goo.gl/u3jm8LKo5U122p4c8?g_st=ic"
+      "name": "Lehigh Park",
+      "address": "Lehigh Park",
+      "map_link": "https://maps.app.goo.gl/7i1WBLqBa3taTtX4A?g_st=ic"
     },
-    "location_link": "https://maps.app.goo.gl/u3jm8LKo5U122p4c8?g_st=ic",
-    "description": "3 x 1000 meters at 10k pace, with a 60-second recovery between intervals. 3-minute walking transition to the road. 2 x 1.5 miles at 10k pace, with a 90-second moving recovery between intervals.",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+EMS&dates=20260924T112000Z%2F20260924T122000Z&details=3+x+1000+meters+at+10k+pace%2C+with+a+60-second+recovery+between+intervals.+3-minute+walking+transition+to+the+road.+2+x+1.5+miles+at+10k+pace%2C+with+a+90-second+moving+recovery+between+intervals.&location=EMS",
-    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwOTI0VDExMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDkyMFQxODUyNDNaDQpEVFNUQVJUOjIwMjYwOTI0VDExMjAwMFoNCkRURU5EOjIwMjYwOTI0VDEyMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IEVNUw0KREVTQ1JJUFRJT046MyB4IDEwMDAgbWV0ZXJzIGF0IDEwayBwYWNlXCwgd2l0aCBhIDYwLXNlY29uZCByZWNvdmVyeSBiZXR3ZWVuIGludGVydmFscy4gMy1taW51dGUgd2Fsa2luZyB0cmFuc2l0aW9uIHRvIHRoZSByb2FkLiAyIHggMS41IG1pbGVzIGF0IDEwayBwYWNlXCwgd2l0aCBhIDkwLXNlY29uZCBtb3ZpbmcgcmVjb3ZlcnkgYmV0d2VlbiBpbnRlcnZhbHMuDQpMT0NBVElPTjpFTVMNClNUQVRVUzpDT05GSVJNRUQNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVI="
+    "location_link": "https://maps.app.goo.gl/7i1WBLqBa3taTtX4A?g_st=ic",
+    "description": "1k, 2k, 2k, 1k (1k intervals at 5k pace; 2k intervals at 10k pace) with a 90-second recovery between intervals.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+Lehigh+Park&dates=20261001T112000Z%2F20261001T122000Z&details=1k%2C+2k%2C+2k%2C+1k+%281k+intervals+at+5k+pace%3B+2k+intervals+at+10k+pace%29+with+a+90-second+recovery+between+intervals.&location=Lehigh+Park",
+    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYxMDAxVDExMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDkyN1QyMDUwMjVaDQpEVFNUQVJUOjIwMjYxMDAxVDExMjAwMFoNCkRURU5EOjIwMjYxMDAxVDEyMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IExlaGlnaCBQYXJrDQpERVNDUklQVElPTjoxa1wsIDJrXCwgMmtcLCAxayAoMWsgaW50ZXJ2YWxzIGF0IDVrIHBhY2VcOyAyayBpbnRlcnZhbHMgYXQgMTBrIHBhY2UpIHdpdGggYSA5MC1zZWNvbmQgcmVjb3ZlcnkgYmV0d2VlbiBpbnRlcnZhbHMuDQpMT0NBVElPTjpMZWhpZ2ggUGFyaw0KU1RBVFVTOkNPTkZJUk1FRA0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg=="
   },
   {
-    "date": "2026-09-26",
+    "date": "2026-10-03",
     "time": "7:00 AM",
     "location": {
-      "name": "Flagg Park",
-      "address": "Flagg Park",
-      "map_link": "https://maps.app.goo.gl/9G41YjD2ckuBF2zK7?g_st=ic"
+      "name": "South Public Road Trailhead",
+      "address": "South Public Road Trailhead",
+      "map_link": "https://maps.app.goo.gl/3E3yQCScSUGShM3R9?g_st=ic"
     },
-    "location_link": "https://maps.app.goo.gl/9G41YjD2ckuBF2zK7?g_st=ic",
-    "description": "Group run",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+Flagg+Park&dates=20260926T130000Z%2F20260926T140000Z&details=Group+run&location=Flagg+Park",
-    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYwOTI2VDEzMDAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDkyMFQxODUyNDNaDQpEVFNUQVJUOjIwMjYwOTI2VDEzMDAwMFoNCkRURU5EOjIwMjYwOTI2VDE0MDAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IEZsYWdnIFBhcmsNCkRFU0NSSVBUSU9OOkdyb3VwIHJ1bg0KTE9DQVRJT046RmxhZ2cgUGFyaw0KU1RBVFVTOkNPTkZJUk1FRA0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg=="
+    "location_link": "https://maps.app.goo.gl/3E3yQCScSUGShM3R9?g_st=ic",
+    "description": "Social Run. All levels and abilities are welcome\u2014this is a social gathering with a run blended in.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+South+Public+Road+Trailhead&dates=20261003T130000Z%2F20261003T140000Z&details=Social+Run.+All+levels+and+abilities+are+welcome%E2%80%94this+is+a+social+gathering+with+a+run+blended+in.&location=South+Public+Road+Trailhead",
+    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYxMDAzVDEzMDAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MDkyN1QyMDUwMjVaDQpEVFNUQVJUOjIwMjYxMDAzVDEzMDAwMFoNCkRURU5EOjIwMjYxMDAzVDE0MDAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IFNvdXRoIFB1YmxpYyBSb2FkIFRyYWlsaGVhZA0KREVTQ1JJUFRJT046U29jaWFsIFJ1bi4gQWxsIGxldmVscyBhbmQgYWJpbGl0aWVzIGFyZSB3ZWxjb21l4oCUdGhpcyBpcyBhIHNvY2lhbCBnYXRoZXJpbmcgd2l0aCBhIHJ1biBibGVuZGVkIGluLg0KTE9DQVRJT046U291dGggUHVibGljIFJvYWQgVHJhaWxoZWFkDQpTVEFUVVM6Q09ORklSTUVEDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFS"
   }
 ]
