@@ -400,5 +400,17 @@
         "time": "under 2 hours"
       }
     ]
+  },
+  {
+    "event_name": "TC 5K",
+    "date": "2026-10-03",
+    "results": [
+      {
+        "runner": "Nicole Rubis",
+        "placement": "4th",
+        "division": "age group",
+        "time": null
+      }
+    ]
   }
 ]
