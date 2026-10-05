@@ -30,16 +30,16 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:524e0d61bcfe97b5214adb5f921ef63ca12f44c0@milehighrunners.com
-DTSTAMP:20260927T205049Z
-DTSTART;TZID=America/Denver:20260929T052000
-DTEND;TZID=America/Denver:20260929T062000
+UID:5f721839260e0e7fa5b0f13e6abecf9fd0bbf417@milehighrunners.com
+DTSTAMP:20261005T023948Z
+DTSTART;TZID=America/Denver:20261006T052000
+DTEND;TZID=America/Denver:20261006T062000
 SUMMARY:MHR Practice — EMS
-DESCRIPTION:2 x (200m\, 400m\, 800m\, 800m\, 400m\, 200m) at 5k pace\, with
-  a stationary 60–90 second recovery between intervals and a 1-lap easy j
- og between sets.\n\nDetails: https://milehighrunners.com/calendar.html
+DESCRIPTION:4–12 x 400m at 5k pace (60–90 sec recovery) Plus 4 x 100m a
+ t 1-mile pace/FFP (full recovery)\n\nDetails: https://milehighrunners.com/
+ calendar.html
 LOCATION:EMS\, EMS
-URL;VALUE=URI:https://maps.app.goo.gl/ZL4hRLxCm8e1Chj97?g_st=ic
+URL;VALUE=URI:https://maps.app.goo.gl/4Y7Vmupjf4NpCth28?g_st=ic
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 CATEGORIES:Running,Practice
@@ -50,16 +50,16 @@ DESCRIPTION:MHR Practice — EMS in 45 minutes
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:5444f76cf1a2fbeecd167708752671270bd3c93d@milehighrunners.com
-DTSTAMP:20260927T205049Z
-DTSTART;TZID=America/Denver:20261001T052000
-DTEND;TZID=America/Denver:20261001T062000
+UID:d4f6fbfb3210126346dc77c41bd35640fa5db1bc@milehighrunners.com
+DTSTAMP:20261005T023948Z
+DTSTART;TZID=America/Denver:20261008T052000
+DTEND;TZID=America/Denver:20261008T062000
 SUMMARY:MHR Practice — Lehigh Park
-DESCRIPTION:1k\, 2k\, 2k\, 1k (1k intervals at 5k pace\; 2k intervals at 10
- k pace) with a 90-second recovery between intervals.\n\nDetails: https://m
- ilehighrunners.com/calendar.html
+DESCRIPTION:5 x 1000m at 10k pace (last 200m of each interval at 5k pace\, 
+ 90–120 sec recovery)\n\nDetails: https://milehighrunners.com/calendar.ht
+ ml
 LOCATION:Lehigh Park\, Lehigh Park
-URL;VALUE=URI:https://maps.app.goo.gl/7i1WBLqBa3taTtX4A?g_st=ic
+URL;VALUE=URI:https://maps.app.goo.gl/2diudKK1mLnkhPpMA?g_st=ic
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 CATEGORIES:Running,Practice
@@ -67,26 +67,6 @@ BEGIN:VALARM
 TRIGGER:-PT45M
 ACTION:DISPLAY
 DESCRIPTION:MHR Practice — Lehigh Park in 45 minutes
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:2c7b5a3d73e8ac67da6733b31f62a47ed1780576@milehighrunners.com
-DTSTAMP:20260927T205049Z
-DTSTART;TZID=America/Denver:20261003T070000
-DTEND;TZID=America/Denver:20261003T083000
-SUMMARY:MHR Practice — South Public Road Trailhead
-DESCRIPTION:Social Run. All levels and abilities are welcome—this is a so
- cial gathering with a run blended in.\n\nDetails: https://milehighrunners.
- com/calendar.html
-LOCATION:South Public Road Trailhead\, South Public Road Trailhead
-URL;VALUE=URI:https://maps.app.goo.gl/3E3yQCScSUGShM3R9?g_st=ic
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-CATEGORIES:Running,Practice
-BEGIN:VALARM
-TRIGGER:-PT45M
-ACTION:DISPLAY
-DESCRIPTION:MHR Practice — South Public Road Trailhead in 45 minutes
 END:VALARM
 END:VEVENT
 END:VCALENDAR
