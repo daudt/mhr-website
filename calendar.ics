@@ -30,16 +30,16 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:5f721839260e0e7fa5b0f13e6abecf9fd0bbf417@milehighrunners.com
-DTSTAMP:20261005T023948Z
-DTSTART;TZID=America/Denver:20261006T052000
-DTEND;TZID=America/Denver:20261006T062000
+UID:4c1619680a6b2d3d7e73de54053e8a07851a584c@milehighrunners.com
+DTSTAMP:20261013T135822Z
+DTSTART;TZID=America/Denver:20261013T052000
+DTEND;TZID=America/Denver:20261013T062000
 SUMMARY:MHR Practice — EMS
-DESCRIPTION:4–12 x 400m at 5k pace (60–90 sec recovery) Plus 4 x 100m a
- t 1-mile pace/FFP (full recovery)\n\nDetails: https://milehighrunners.com/
- calendar.html
+DESCRIPTION:3 x 4 laps of curves and straights with a 1-lap easy jog betwee
+ n sets. Curves at Marathon Pace\, Straights at Mile Pace.\n\nDetails: http
+ s://milehighrunners.com/calendar.html
 LOCATION:EMS\, EMS
-URL;VALUE=URI:https://maps.app.goo.gl/4Y7Vmupjf4NpCth28?g_st=ic
+URL;VALUE=URI:https://maps.app.goo.gl/6WHdJDXsiwRFyXfTA?g_st=ic
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 CATEGORIES:Running,Practice
@@ -50,16 +50,16 @@ DESCRIPTION:MHR Practice — EMS in 45 minutes
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:d4f6fbfb3210126346dc77c41bd35640fa5db1bc@milehighrunners.com
-DTSTAMP:20261005T023948Z
-DTSTART;TZID=America/Denver:20261008T052000
-DTEND;TZID=America/Denver:20261008T062000
+UID:da31230dbc6083e244324973530b5f170ead0459@milehighrunners.com
+DTSTAMP:20261013T135822Z
+DTSTART;TZID=America/Denver:20261015T052000
+DTEND;TZID=America/Denver:20261015T062000
 SUMMARY:MHR Practice — Lehigh Park
-DESCRIPTION:5 x 1000m at 10k pace (last 200m of each interval at 5k pace\, 
- 90–120 sec recovery)\n\nDetails: https://milehighrunners.com/calendar.ht
- ml
+DESCRIPTION:Mile Cut Downs: 4 x 1 mile at MP - 5 sec\, HMP - 5 sec\, 10k pa
+ ce\, 10k pace - 5 sec\n\nDetails: https://milehighrunners.com/calendar.htm
+ l
 LOCATION:Lehigh Park\, Lehigh Park
-URL;VALUE=URI:https://maps.app.goo.gl/2diudKK1mLnkhPpMA?g_st=ic
+URL;VALUE=URI:https://maps.app.goo.gl/yQrieVcuVQTqmhkB7?g_st=ic
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 CATEGORIES:Running,Practice
@@ -67,6 +67,25 @@ BEGIN:VALARM
 TRIGGER:-PT45M
 ACTION:DISPLAY
 DESCRIPTION:MHR Practice — Lehigh Park in 45 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:23364425ddeb56a9377684068742e6a91906bb3e@milehighrunners.com
+DTSTAMP:20261013T135822Z
+DTSTART;TZID=America/Denver:20261017T070000
+DTEND;TZID=America/Denver:20261017T083000
+SUMMARY:MHR Practice — North Teller Farms
+DESCRIPTION:Group social run. Come one\, come all! Everyone is welcome to j
+ oin us.\n\nDetails: https://milehighrunners.com/calendar.html
+LOCATION:North Teller Farms\, North Teller Farms
+URL;VALUE=URI:https://maps.app.goo.gl/VqqDjE1Womy4j4kA7?g_st=ic
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CATEGORIES:Running,Practice
+BEGIN:VALARM
+TRIGGER:-PT45M
+ACTION:DISPLAY
+DESCRIPTION:MHR Practice — North Teller Farms in 45 minutes
 END:VALARM
 END:VEVENT
 END:VCALENDAR

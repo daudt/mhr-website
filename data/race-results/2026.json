@@ -412,5 +412,17 @@
         "time": null
       }
     ]
+  },
+  {
+    "event_name": "Chicago Marathon",
+    "date": "2026-10-12",
+    "results": [
+      {
+        "runner": "Bobby",
+        "placement": null,
+        "division": null,
+        "time": "3:52:20"
+      }
+    ]
   }
 ]

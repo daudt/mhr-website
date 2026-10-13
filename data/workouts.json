@@ -1,28 +1,41 @@
 [
   {
-    "date": "2026-10-06",
+    "date": "2026-10-13",
     "time": "5:20 AM",
     "location": {
       "name": "EMS",
       "address": "EMS",
-      "map_link": "https://maps.app.goo.gl/4Y7Vmupjf4NpCth28?g_st=ic"
+      "map_link": "https://maps.app.goo.gl/6WHdJDXsiwRFyXfTA?g_st=ic"
     },
-    "location_link": "https://maps.app.goo.gl/4Y7Vmupjf4NpCth28?g_st=ic",
-    "description": "4\u201312 x 400m at 5k pace (60\u201390 sec recovery) Plus 4 x 100m at 1-mile pace/FFP (full recovery)",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+EMS&dates=20261006T112000Z%2F20261006T122000Z&details=4%E2%80%9312+x+400m+at+5k+pace+%2860%E2%80%9390+sec+recovery%29+Plus+4+x+100m+at+1-mile+pace%2FFFP+%28full+recovery%29&location=EMS",
-    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYxMDA2VDExMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MTAwNVQwMjM5MjVaDQpEVFNUQVJUOjIwMjYxMDA2VDExMjAwMFoNCkRURU5EOjIwMjYxMDA2VDEyMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IEVNUw0KREVTQ1JJUFRJT046NOKAkzEyIHggNDAwbSBhdCA1ayBwYWNlICg2MOKAkzkwIHNlYyByZWNvdmVyeSkgUGx1cyA0IHggMTAwbSBhdCAxLW1pbGUgcGFjZS9GRlAgKGZ1bGwgcmVjb3ZlcnkpDQpMT0NBVElPTjpFTVMNClNUQVRVUzpDT05GSVJNRUQNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVI="
+    "location_link": "https://maps.app.goo.gl/6WHdJDXsiwRFyXfTA?g_st=ic",
+    "description": "3 x 4 laps of curves and straights with a 1-lap easy jog between sets. Curves at Marathon Pace, Straights at Mile Pace.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+EMS&dates=20261013T112000Z%2F20261013T122000Z&details=3+x+4+laps+of+curves+and+straights+with+a+1-lap+easy+jog+between+sets.+Curves+at+Marathon+Pace%2C+Straights+at+Mile+Pace.&location=EMS",
+    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYxMDEzVDExMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MTAxM1QxMzU4MjFaDQpEVFNUQVJUOjIwMjYxMDEzVDExMjAwMFoNCkRURU5EOjIwMjYxMDEzVDEyMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IEVNUw0KREVTQ1JJUFRJT046MyB4IDQgbGFwcyBvZiBjdXJ2ZXMgYW5kIHN0cmFpZ2h0cyB3aXRoIGEgMS1sYXAgZWFzeSBqb2cgYmV0d2VlbiBzZXRzLiBDdXJ2ZXMgYXQgTWFyYXRob24gUGFjZVwsIFN0cmFpZ2h0cyBhdCBNaWxlIFBhY2UuDQpMT0NBVElPTjpFTVMNClNUQVRVUzpDT05GSVJNRUQNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVI="
   },
   {
-    "date": "2026-10-08",
+    "date": "2026-10-15",
     "time": "5:20 AM",
     "location": {
       "name": "Lehigh Park",
       "address": "Lehigh Park",
-      "map_link": "https://maps.app.goo.gl/2diudKK1mLnkhPpMA?g_st=ic"
+      "map_link": "https://maps.app.goo.gl/yQrieVcuVQTqmhkB7?g_st=ic"
     },
-    "location_link": "https://maps.app.goo.gl/2diudKK1mLnkhPpMA?g_st=ic",
-    "description": "5 x 1000m at 10k pace (last 200m of each interval at 5k pace, 90\u2013120 sec recovery)",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+Lehigh+Park&dates=20261008T112000Z%2F20261008T122000Z&details=5+x+1000m+at+10k+pace+%28last+200m+of+each+interval+at+5k+pace%2C+90%E2%80%93120+sec+recovery%29&location=Lehigh+Park",
-    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYxMDA4VDExMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MTAwNVQwMjM5MjVaDQpEVFNUQVJUOjIwMjYxMDA4VDExMjAwMFoNCkRURU5EOjIwMjYxMDA4VDEyMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IExlaGlnaCBQYXJrDQpERVNDUklQVElPTjo1IHggMTAwMG0gYXQgMTBrIHBhY2UgKGxhc3QgMjAwbSBvZiBlYWNoIGludGVydmFsIGF0IDVrIHBhY2VcLCA5MOKAkzEyMCBzZWMgcmVjb3ZlcnkpDQpMT0NBVElPTjpMZWhpZ2ggUGFyaw0KU1RBVFVTOkNPTkZJUk1FRA0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg=="
+    "location_link": "https://maps.app.goo.gl/yQrieVcuVQTqmhkB7?g_st=ic",
+    "description": "Mile Cut Downs: 4 x 1 mile at MP - 5 sec, HMP - 5 sec, 10k pace, 10k pace - 5 sec",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+Lehigh+Park&dates=20261015T112000Z%2F20261015T122000Z&details=Mile+Cut+Downs%3A+4+x+1+mile+at+MP+-+5+sec%2C+HMP+-+5+sec%2C+10k+pace%2C+10k+pace+-+5+sec&location=Lehigh+Park",
+    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYxMDE1VDExMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MTAxM1QxMzU4MjFaDQpEVFNUQVJUOjIwMjYxMDE1VDExMjAwMFoNCkRURU5EOjIwMjYxMDE1VDEyMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IExlaGlnaCBQYXJrDQpERVNDUklQVElPTjpNaWxlIEN1dCBEb3duczogNCB4IDEgbWlsZSBhdCBNUCAtIDUgc2VjXCwgSE1QIC0gNSBzZWNcLCAxMGsgcGFjZVwsIDEwayBwYWNlIC0gNSBzZWMNCkxPQ0FUSU9OOkxlaGlnaCBQYXJrDQpTVEFUVVM6Q09ORklSTUVEDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFS"
+  },
+  {
+    "date": "2026-10-17",
+    "time": "7:00 AM",
+    "location": {
+      "name": "North Teller Farms",
+      "address": "North Teller Farms",
+      "map_link": "https://maps.app.goo.gl/VqqDjE1Womy4j4kA7?g_st=ic"
+    },
+    "location_link": "https://maps.app.goo.gl/VqqDjE1Womy4j4kA7?g_st=ic",
+    "description": "Group social run. Come one, come all! Everyone is welcome to join us.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+North+Teller+Farms&dates=20261017T130000Z%2F20261017T140000Z&details=Group+social+run.+Come+one%2C+come+all%21+Everyone+is+welcome+to+join+us.&location=North+Teller+Farms",
+    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYxMDE3VDEzMDAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MTAxM1QxMzU4MjFaDQpEVFNUQVJUOjIwMjYxMDE3VDEzMDAwMFoNCkRURU5EOjIwMjYxMDE3VDE0MDAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IE5vcnRoIFRlbGxlciBGYXJtcw0KREVTQ1JJUFRJT046R3JvdXAgc29jaWFsIHJ1bi4gQ29tZSBvbmVcLCBjb21lIGFsbCEgRXZlcnlvbmUgaXMgd2VsY29tZSB0byBqb2luIHVzLg0KTE9DQVRJT046Tm9ydGggVGVsbGVyIEZhcm1zDQpTVEFUVVM6Q09ORklSTUVEDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFS"
   }
 ]
