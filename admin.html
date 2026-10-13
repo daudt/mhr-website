@@ -1868,6 +1868,13 @@
                 status.textContent = `Sent to ${res.recipient}`;
                 status.className = 'send-status success';
                 showToast('Workouts saved & email sent!', 'success');
+                if (res.race_results_error) {
+                    // The email went out, but its race results weren't recorded
+                    status.textContent += ` — race results not saved: ${res.race_results_error}`;
+                    showToast(`Race results not saved: ${res.race_results_error}`, 'error');
+                } else if (res.race_results_saved) {
+                    status.textContent += ` — ${res.race_results_saved} race(s) added to results`;
+                }
                 clearDraft();
                 // Keep button disabled to prevent accidental double sends
                 if (sendBtn) {
