@@ -414,8 +414,50 @@
     ]
   },
   {
+    "event_name": "Longview Half Marathon",
+    "date": "2026-10-10",
+    "results": [
+      {
+        "runner": "Dale",
+        "placement": null,
+        "division": null,
+        "time": "2:24:48"
+      },
+      {
+        "runner": "Rafael",
+        "placement": null,
+        "division": null,
+        "time": "2:24:48"
+      },
+      {
+        "runner": "Tiffanie Turner",
+        "placement": null,
+        "division": null,
+        "time": "2:28:48"
+      }
+    ]
+  },
+  {
+    "event_name": "Longview Marathon",
+    "date": "2026-10-10",
+    "results": [
+      {
+        "runner": "Jake K",
+        "placement": null,
+        "division": null,
+        "time": "3:58:27"
+      },
+      {
+        "runner": "Tyko",
+        "placement": null,
+        "division": null,
+        "time": "3:42:57"
+      }
+    ]
+  },
+  {
     "event_name": "Chicago Marathon",
-    "date": "2026-10-12",
+    "date": "2026-10-11",
     "results": [
       {
         "runner": "Bobby",
