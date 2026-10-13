@@ -42,6 +42,108 @@
     ]
   },
   {
+    "event_name": "Tokyo Marathon",
+    "date": "2026-03-01",
+    "results": [
+      {
+        "runner": "Nicole",
+        "placement": null,
+        "division": null,
+        "time": null
+      },
+      {
+        "runner": "Blair",
+        "placement": null,
+        "division": null,
+        "time": null
+      }
+    ]
+  },
+  {
+    "event_name": "Equinox Half Marathon",
+    "date": "2026-03-29",
+    "results": [
+      {
+        "runner": "Bobby-Blair",
+        "placement": null,
+        "division": null,
+        "time": null
+      },
+      {
+        "runner": "Rafael",
+        "placement": null,
+        "division": null,
+        "time": null
+      },
+      {
+        "runner": "Alina",
+        "placement": "1st",
+        "division": "age division",
+        "time": null
+      }
+    ]
+  },
+  {
+    "event_name": "Erie 5k Bunny Hop",
+    "date": "2026-04-04",
+    "results": [
+      {
+        "runner": "Kummi",
+        "placement": null,
+        "division": null,
+        "time": null
+      },
+      {
+        "runner": "Maddie",
+        "placement": null,
+        "division": null,
+        "time": null
+      },
+      {
+        "runner": "Dale",
+        "placement": null,
+        "division": null,
+        "time": null
+      },
+      {
+        "runner": "Ben",
+        "placement": null,
+        "division": null,
+        "time": null
+      },
+      {
+        "runner": "Nick",
+        "placement": null,
+        "division": null,
+        "time": null
+      }
+    ]
+  },
+  {
+    "event_name": "Headlands Half Marathon",
+    "date": "2026-04-05",
+    "results": [
+      {
+        "runner": "Tyko",
+        "placement": null,
+        "division": null,
+        "time": null
+      }
+    ]
+  },
+  {
+    "event_name": "Three Creek Half Marathon",
+    "date": "2026-04-05",
+    "results": [
+      {
+        "runner": "Yiana",
+        "placement": "2nd overall",
+        "division": "women's division",
+        "time": null
+      }
+    ]
+  },
+  {
     "event_name": "Desert Rats 100k, 50k, and 10k",
     "date": "2026-04-12",
     "results": [
@@ -59,6 +161,30 @@
       },
       {
         "runner": "Maddie",
+        "placement": null,
+        "division": null,
+        "time": null
+      }
+    ]
+  },
+  {
+    "event_name": "Horsetooth Half Marathon",
+    "date": "2026-04-19",
+    "results": [
+      {
+        "runner": "Tyko",
+        "placement": null,
+        "division": null,
+        "time": null
+      }
+    ]
+  },
+  {
+    "event_name": "LeftHand Brewing Half Marathon",
+    "date": "2026-04-19",
+    "results": [
+      {
+        "runner": "Jenn Merino",
         "placement": null,
         "division": null,
         "time": null
@@ -103,6 +229,108 @@
         "runner": "Alina",
         "placement": "1st",
         "division": "age group",
+        "time": null
+      }
+    ]
+  },
+  {
+    "event_name": "Colorado Marathon",
+    "date": "2026-05-03",
+    "results": [
+      {
+        "runner": "Rafael",
+        "placement": null,
+        "division": null,
+        "time": null
+      }
+    ]
+  },
+  {
+    "event_name": "Greenland's 25k",
+    "date": "2026-05-03",
+    "results": [
+      {
+        "runner": "Yianna",
+        "placement": "2nd female, 6th overall",
+        "division": "female",
+        "time": null
+      }
+    ]
+  },
+  {
+    "event_name": "Long Island Marathon",
+    "date": "2026-05-03",
+    "results": [
+      {
+        "runner": "William Cheek",
+        "placement": null,
+        "division": null,
+        "time": null
+      }
+    ]
+  },
+  {
+    "event_name": "5K",
+    "date": "2026-05-09",
+    "results": [
+      {
+        "runner": "Jenn Marino",
+        "placement": null,
+        "division": null,
+        "time": null
+      }
+    ]
+  },
+  {
+    "event_name": "5K",
+    "date": "2026-05-10",
+    "results": [
+      {
+        "runner": "Jenn Marino",
+        "placement": null,
+        "division": null,
+        "time": null
+      }
+    ]
+  },
+  {
+    "event_name": "Carbon Valley Half Marathon",
+    "date": "2026-05-10",
+    "results": [
+      {
+        "runner": "Alina",
+        "placement": "2nd",
+        "division": "age group",
+        "time": null
+      },
+      {
+        "runner": "Tyko",
+        "placement": "2nd",
+        "division": "age group",
+        "time": null
+      }
+    ]
+  },
+  {
+    "event_name": "Five Star 5k",
+    "date": "2026-05-10",
+    "results": [
+      {
+        "runner": "Blair",
+        "placement": "1st",
+        "division": "age group",
+        "time": null
+      }
+    ]
+  },
+  {
+    "event_name": "Colfax Half Marathon",
+    "date": "2026-05-17",
+    "results": [
+      {
+        "runner": "Amy Wu",
+        "placement": null,
+        "division": null,
         "time": null
       }
     ]
@@ -234,6 +462,18 @@
     ]
   },
   {
+    "event_name": "Pasta 5k Run in Louisville",
+    "date": "2026-05-31",
+    "results": [
+      {
+        "runner": "Jan Lobato",
+        "placement": "1st",
+        "division": "age group",
+        "time": null
+      }
+    ]
+  },
+  {
     "event_name": "San Diego Rock & Roll Marathon",
     "date": "2026-06-01",
     "results": [
@@ -254,6 +494,18 @@
         "placement": null,
         "division": "10k",
         "time": null
+      }
+    ]
+  },
+  {
+    "event_name": "Super Hyak Marathon",
+    "date": "2026-06-14",
+    "results": [
+      {
+        "runner": "Blair",
+        "placement": null,
+        "division": null,
+        "time": "3:29:19"
       }
     ]
   },
@@ -318,6 +570,42 @@
     ]
   },
   {
+    "event_name": "Marshall Mesa 50-Mile",
+    "date": "2026-07-12",
+    "results": [
+      {
+        "runner": "Blair",
+        "placement": null,
+        "division": "50 miles",
+        "time": null
+      },
+      {
+        "runner": "Tyko",
+        "placement": null,
+        "division": "30 miles",
+        "time": null
+      },
+      {
+        "runner": "Rafa",
+        "placement": null,
+        "division": "46 miles",
+        "time": null
+      }
+    ]
+  },
+  {
+    "event_name": "Boulder Reservoir Half Marathon",
+    "date": "2026-08-15",
+    "results": [
+      {
+        "runner": "Alina",
+        "placement": null,
+        "division": null,
+        "time": null
+      }
+    ]
+  },
+  {
     "event_name": "Aravaipa Westminster Trail 36k and 12k",
     "date": "2026-08-16",
     "results": [
@@ -336,6 +624,18 @@
     ]
   },
   {
+    "event_name": "Human 10k",
+    "date": "2026-08-16",
+    "results": [
+      {
+        "runner": "Song",
+        "placement": null,
+        "division": null,
+        "time": null
+      }
+    ]
+  },
+  {
     "event_name": "Sydney 5k",
     "date": "2026-08-30",
     "results": [
@@ -344,6 +644,18 @@
         "placement": "N/A",
         "division": "N/A",
         "time": "N/A"
+      }
+    ]
+  },
+  {
+    "event_name": "Audax Ninho das Agulhas 50k",
+    "date": "2026-09-13",
+    "results": [
+      {
+        "runner": "Rafael",
+        "placement": "4th",
+        "division": "age group",
+        "time": null
       }
     ]
   },
@@ -390,6 +702,30 @@
     ]
   },
   {
+    "event_name": "Bear 100",
+    "date": "2026-09-27",
+    "results": [
+      {
+        "runner": "Blair",
+        "placement": null,
+        "division": null,
+        "time": null
+      },
+      {
+        "runner": "Scott",
+        "placement": null,
+        "division": null,
+        "time": null
+      },
+      {
+        "runner": "Dale",
+        "placement": null,
+        "division": null,
+        "time": null
+      }
+    ]
+  },
+  {
     "event_name": "Boulderthon Half Marathon",
     "date": "2026-09-27",
     "results": [
@@ -402,6 +738,18 @@
     ]
   },
   {
+    "event_name": "New Belgium Half Marathon (Fort Collins)",
+    "date": "2026-10-03",
+    "results": [
+      {
+        "runner": "Jenn Marino",
+        "placement": null,
+        "division": null,
+        "time": null
+      }
+    ]
+  },
+  {
     "event_name": "TC 5K",
     "date": "2026-10-03",
     "results": [
@@ -409,6 +757,18 @@
         "runner": "Nicole Rubis",
         "placement": "4th",
         "division": "age group",
+        "time": null
+      }
+    ]
+  },
+  {
+    "event_name": "Pretzel Run 5K",
+    "date": "2026-10-04",
+    "results": [
+      {
+        "runner": "Jan",
+        "placement": "2nd",
+        "division": "60\u201369",
         "time": null
       }
     ]
