@@ -30,16 +30,16 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:4c1619680a6b2d3d7e73de54053e8a07851a584c@milehighrunners.com
-DTSTAMP:20261013T135822Z
-DTSTART;TZID=America/Denver:20261013T052000
-DTEND;TZID=America/Denver:20261013T062000
+UID:5109d0ac15af2f4b49a373c98c9fbe45f4cae674@milehighrunners.com
+DTSTAMP:20261018T192312Z
+DTSTART;TZID=America/Denver:20261020T052000
+DTEND;TZID=America/Denver:20261020T062000
 SUMMARY:MHR Practice — EMS
-DESCRIPTION:3 x 4 laps of curves and straights with a 1-lap easy jog betwee
- n sets. Curves at Marathon Pace\, Straights at Mile Pace.\n\nDetails: http
- s://milehighrunners.com/calendar.html
+DESCRIPTION:6 x 400m downhill at 5k pace with a 400m easy jog (no walking).
+  Turn around and do 800m uphill at 10k pace. Take a 120–180 second recov
+ ery after each 800m.\n\nDetails: https://milehighrunners.com/calendar.html
 LOCATION:EMS\, EMS
-URL;VALUE=URI:https://maps.app.goo.gl/6WHdJDXsiwRFyXfTA?g_st=ic
+URL;VALUE=URI:https://maps.app.goo.gl/82oUgPeNL46ULfa38?g_st=ic
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 CATEGORIES:Running,Practice
@@ -50,42 +50,42 @@ DESCRIPTION:MHR Practice — EMS in 45 minutes
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:da31230dbc6083e244324973530b5f170ead0459@milehighrunners.com
-DTSTAMP:20261013T135822Z
-DTSTART;TZID=America/Denver:20261015T052000
-DTEND;TZID=America/Denver:20261015T062000
-SUMMARY:MHR Practice — Lehigh Park
-DESCRIPTION:Mile Cut Downs: 4 x 1 mile at MP - 5 sec\, HMP - 5 sec\, 10k pa
- ce\, 10k pace - 5 sec\n\nDetails: https://milehighrunners.com/calendar.htm
- l
-LOCATION:Lehigh Park\, Lehigh Park
-URL;VALUE=URI:https://maps.app.goo.gl/yQrieVcuVQTqmhkB7?g_st=ic
+UID:9ee21b1b44e760eff7a233fc5e81fb7277e30a45@milehighrunners.com
+DTSTAMP:20261018T192312Z
+DTSTART;TZID=America/Denver:20261022T052000
+DTEND;TZID=America/Denver:20261022T062000
+SUMMARY:MHR Practice — Calvary Bible Church
+DESCRIPTION:2–3 x 2 miles at 10k pace with a 60–90 second recovery. Plu
+ s\, 4 x 100m at a fun\, fast pace with full recovery between intervals.\n\
+ nDetails: https://milehighrunners.com/calendar.html
+LOCATION:Calvary Bible Church\, Calvary Bible Church
+URL;VALUE=URI:https://maps.app.goo.gl/ney8K8mq7UP2KqNDA?g_st=ic
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 CATEGORIES:Running,Practice
 BEGIN:VALARM
 TRIGGER:-PT45M
 ACTION:DISPLAY
-DESCRIPTION:MHR Practice — Lehigh Park in 45 minutes
+DESCRIPTION:MHR Practice — Calvary Bible Church in 45 minutes
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:23364425ddeb56a9377684068742e6a91906bb3e@milehighrunners.com
-DTSTAMP:20261013T135822Z
-DTSTART;TZID=America/Denver:20261017T070000
-DTEND;TZID=America/Denver:20261017T083000
-SUMMARY:MHR Practice — North Teller Farms
-DESCRIPTION:Group social run. Come one\, come all! Everyone is welcome to j
- oin us.\n\nDetails: https://milehighrunners.com/calendar.html
-LOCATION:North Teller Farms\, North Teller Farms
-URL;VALUE=URI:https://maps.app.goo.gl/VqqDjE1Womy4j4kA7?g_st=ic
+UID:3106fe4968e31e5375a9144a38d767a8e2b098ad@milehighrunners.com
+DTSTAMP:20261018T192312Z
+DTSTART;TZID=America/Denver:20261024T070000
+DTEND;TZID=America/Denver:20261024T083000
+SUMMARY:MHR Practice — Bobolink (Boulder)
+DESCRIPTION:Bobolink in Boulder. The more the merrier!!\n\nDetails: https:/
+ /milehighrunners.com/calendar.html
+LOCATION:Bobolink (Boulder)\, Bobolink (Boulder)
+URL;VALUE=URI:https://maps.app.goo.gl/a5Paz2ZTGZqfh6um7?g_st=ic
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 CATEGORIES:Running,Practice
 BEGIN:VALARM
 TRIGGER:-PT45M
 ACTION:DISPLAY
-DESCRIPTION:MHR Practice — North Teller Farms in 45 minutes
+DESCRIPTION:MHR Practice — Bobolink (Boulder) in 45 minutes
 END:VALARM
 END:VEVENT
 END:VCALENDAR

@@ -826,5 +826,29 @@
         "time": "3:52:20"
       }
     ]
+  },
+  {
+    "event_name": "Nevada Half",
+    "date": "2026-10-16",
+    "results": [
+      {
+        "runner": "Jan",
+        "placement": "1st AG",
+        "division": null,
+        "time": null
+      }
+    ]
+  },
+  {
+    "event_name": "Ghost Train Haunted 30 Mile",
+    "date": "2026-10-17",
+    "results": [
+      {
+        "runner": "Nick",
+        "placement": null,
+        "division": null,
+        "time": null
+      }
+    ]
   }
 ]
