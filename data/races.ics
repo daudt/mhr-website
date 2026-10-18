@@ -5,58 +5,18 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Mile High Runners Race Calendar
 BEGIN:VEVENT
-UID:long-view-marathon-2026@milehighrunners.com
-DTSTAMP:20261011T000000Z
-DTSTART:20261011T080000Z
-DTEND:20261011T120000Z
-SUMMARY:Long View Marathon
-DESCRIPTION:8th annual point-to-point race showcasing a unique connection between Fort Collins and Loveland. Organized by Gnar Runners and Sweetheart City Racing.
-LOCATION:Altitude Running\, 2531 S Shields St #2N\, Fort Collins\, CO 80526
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:blue-sky-marathon-half-marathon-2026@milehighrunners.com
-DTSTAMP:20261011T000000Z
-DTSTART:20261017T080000Z
-DTEND:20261017T120000Z
-SUMMARY:Blue Sky Marathon & Half Marathon
-DESCRIPTION:Trail running race taking place on the trails between Horsetooth Mountain Park and Devil's Backbone Open Space. The Blue Sky courses offer a north-south tour of the easternmost hogbacks of Northern Colorado's Front Range mountains. The 100% dirt course is 90% sweet Colorado singletrack with terrain ranging from smooth dirt trail to technical rock gardens. Marathon: 22mi dirt singletrack\, 3mi rocky singletrack\, 2mi dirt road with 3\,500' elevation gain. Half Marathon: 13.0mi dirt singletrack\, 0.5mi dirt road with 1\,800' elevation gain. Elevation range: 5\,300'-6\,500'. Time allowances: 9 hours (Marathon) / 6 hours (Half Marathon). Registration cap: 400 per distance.
-LOCATION:Blue Sky Trailhead\, Horsetooth Mountain Park\, Fort Collins\, Colorado
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:aravaipa-colorado-colorado-springs-2026@milehighrunners.com
-DTSTAMP:20261011T000000Z
-DTSTART:20261017T080000Z
-DTEND:20261017T120000Z
-SUMMARY:Aravaipa Colorado - Colorado Springs
-DESCRIPTION:Trail running event in Colorado Springs featuring multiple distance options from 5K to 50K
-LOCATION:Colorado Springs\, CO
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:bobcat-trail-races-2026@milehighrunners.com
-DTSTAMP:20261011T000000Z
-DTSTART:20261017T070000Z
-DTEND:20261017T110000Z
-SUMMARY:Bobcat Trail Races
-DESCRIPTION:Bobcat Trail Races feature one of Colorado Springs' best city parks\, Palmer Park. Runners will enjoy views of the city and Pikes Peak from the rocky bluffs. Multiple distance options (50K\, 25K\, 10K\, 5K) wind through diverse trails from technical single-track to rolling hills and rocky outcrops. Event includes aid stations\, crew support at start/finish\, and live tracking available.
-LOCATION:Palmer Park\, 3650 Maizeland Rd\, Colorado Springs\, CO 80909
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:weekend-at-burney-runwalkcrawl-2026@milehighrunners.com
-DTSTAMP:20261011T000000Z
+DTSTAMP:20261018T000000Z
 DTSTART:20261022T180000Z
 DTEND:20261022T220000Z
 SUMMARY:Weekend at Burney Run/Walk/Crawl
-DESCRIPTION:Weekend at Burney Run/Walk/Crawl is a laid-back\, high-fun trail event featuring a 4.8-mile looped course with 370 ft elevation gain per loop. The event offers multiple timed options (48-hour\, 24-hour\, 12-hour challenges) with a 50/50 mix of single-track and dirt service road terrain. Participants can run\, walk\, crawl\, or participate in the burro race. Cash prizes awarded for most miles\, with belt buckles for 100+ mile finishers and special ultra buckles for 100+ mile finishers in 24 hours. All participants completing loops earn medals.
+DESCRIPTION:A laid-back\, high-fun trail adventure featuring a 4.8-mile looped course with 370 ft elevation gain per loop. Offers multiple timed event options (48-Hour\, 24-Hour\, 12-Hour challenges) with a 50/50 mix of single-track and dirt service road terrain. Includes burro racing option. Features aid station with snacks\, hot food\, and broth bar. Cash prizes awarded for most miles run\, with belt buckles for 100+ mile finishers.
 LOCATION:22800 Guest Ranch Rd\, Cassel\, CA 96016
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ghosts-and-goblins-5k-2026@milehighrunners.com
-DTSTAMP:20261011T000000Z
+DTSTAMP:20261018T000000Z
 DTSTART:20261025T080000Z
 DTEND:20261025T120000Z
 SUMMARY:Ghosts and Goblins 5K
@@ -66,7 +26,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:all-out-kooky-spooky-2026@milehighrunners.com
-DTSTAMP:20261011T000000Z
+DTSTAMP:20261018T000000Z
 DTSTART:20261101T090000Z
 DTEND:20261101T130000Z
 SUMMARY:All-Out Kooky-Spooky
@@ -76,27 +36,17 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:colorado-24-hour-run-2026@milehighrunners.com
-DTSTAMP:20261011T000000Z
+DTSTAMP:20261018T000000Z
 DTSTART:20261107T080000Z
 DTEND:20261107T120000Z
 SUMMARY:Colorado 24 Hour Run
-DESCRIPTION:A community-focused timed event held on a scenic 1-mile flat dirt loop at the Swift Ponds Campus. Runners can push their limits to see how far they can go in a set amount of time\, with a festive atmosphere and shared meals throughout the day and night.
-LOCATION:4927 County Rd 36\, Fort Collins\, CO 80528
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:kessel-run-ultra-2026@milehighrunners.com
-DTSTAMP:20261011T000000Z
-DTSTART:20261107T060000Z
-DTEND:20261107T100000Z
-SUMMARY:Kessel Run Ultra
-DESCRIPTION:Trail ultramarathon event located in North Fruita Desert\, Colorado featuring world-class single track trails with sweeping views of the San Juan Mountains and Colorado National Monument. All distances begin on fast\, flowing singletrack and progress to steep terrain on the Zippity-Do-Da Trail. Course elevations range from 5\,030' to 5\,541'. Event includes aid stations\, finisher's medal\, custom race shirt\, bib\, and BOCO Technical Trucker hat.
-LOCATION:18 Road Parking\, Fruita\, CO (GPS: 39.31093\, -108.70360)
+DESCRIPTION:A scenic\, fully supported 1-mile dirt loop running event offering 6\, 12\, or 24-hour race options\, as well as relay team formats. Participants can run during the day and/or night with full aid stations\, hot food\, and post-race celebration. The event benefits Colorado Youth Outdoors nonprofit\, with fundraising opportunities available.
+LOCATION:Colorado Youth Outdoors – Swift Ponds Campus\, Fort Collins\, CO
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:moab-trail-marathon-2026@milehighrunners.com
-DTSTAMP:20261011T000000Z
+DTSTAMP:20261018T000000Z
 DTSTART:20261107T080000Z
 DTEND:20261107T120000Z
 SUMMARY:Moab Trail Marathon
@@ -105,18 +55,28 @@ LOCATION:TBD
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:kessel-run-ultra-2026@milehighrunners.com
+DTSTAMP:20261018T000000Z
+DTSTART:20261107T060000Z
+DTEND:20261107T100000Z
+SUMMARY:Kessel Run Ultra
+DESCRIPTION:Trail ultramarathon event located in North Fruita Desert\, Colorado featuring world-class single track trails with sweeping views of the San Juan Mountains and Colorado National Monument. All distances begin on fast\, flowing singletrack and progress to steep terrain on the Zippity-Do-Da Trail. Course elevations range from 5\,030' to 5\,541'. Event includes aid stations\, finisher's medal\, custom race shirt\, bib\, and BOCO Technical Trucker hat.
+LOCATION:18 Road Parking\, Fruita\, CO (GPS: 39.31093\, -108.70360)
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:aravaipa-colorado-louisville-2026@milehighrunners.com
-DTSTAMP:20261011T000000Z
+DTSTAMP:20261018T000000Z
 DTSTART:20261114T080000Z
 DTEND:20261114T120000Z
 SUMMARY:Aravaipa Colorado - Louisville
-DESCRIPTION:
+DESCRIPTION:Trail running event in Louisville\, Colorado hosted by Aravaipa Running
 LOCATION:Louisville\, CO
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:longmont-turkey-trot-2026@milehighrunners.com
-DTSTAMP:20261011T000000Z
+DTSTAMP:20261018T000000Z
 DTSTART:20261114T090000Z
 DTEND:20261114T130000Z
 SUMMARY:Longmont Turkey Trot
@@ -126,7 +86,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:pumpkin-pie-5k10k-2026@milehighrunners.com
-DTSTAMP:20261011T000000Z
+DTSTAMP:20261018T000000Z
 DTSTART:20261121T080000Z
 DTEND:20261121T120000Z
 SUMMARY:Pumpkin Pie 5K/10K
@@ -136,7 +96,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:turkey-trek-2026@milehighrunners.com
-DTSTAMP:20261011T000000Z
+DTSTAMP:20261018T000000Z
 DTSTART:20261121T083000Z
 DTEND:20261121T123000Z
 SUMMARY:Turkey Trek
@@ -146,7 +106,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:gobble-wobble-run-2026@milehighrunners.com
-DTSTAMP:20261011T000000Z
+DTSTAMP:20261018T000000Z
 DTSTART:20261126T083000Z
 DTEND:20261126T123000Z
 SUMMARY:Gobble Wobble Run
@@ -156,7 +116,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:broomfield-turkey-day-5k10k-2026@milehighrunners.com
-DTSTAMP:20261011T000000Z
+DTSTAMP:20261018T000000Z
 DTSTART:20261126T090000Z
 DTEND:20261126T130000Z
 SUMMARY:Broomfield Turkey Day 5K/10K
@@ -166,17 +126,17 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:turkey-rock-trot-5k-2026@milehighrunners.com
-DTSTAMP:20261011T000000Z
+DTSTAMP:20261018T000000Z
 DTSTART:20261126T090000Z
 DTEND:20261126T130000Z
 SUMMARY:Turkey ROCK Trot 5k
-DESCRIPTION:Plum Creek Church 22nd Annual Turkey ROCK Trot Presented by CORE. A Thanksgiving morning 5K family fun run/walk/stroll featuring a live DJ\, live music on course\, indoor health & wellness expo with 30+ vendors\, free food items\, face painting\, balloon twisting\, and bounce house. All proceeds benefit The Help&Hope Center. Features wave corrals\, multiple award categories\, and a costume contest.
+DESCRIPTION:Plum Creek Church 22nd Annual Turkey ROCK Trot Presented by CORE - A Thanksgiving morning 5K family fun run/walk/stroll featuring live DJ at start line\, live music on course\, indoor health & wellness expo with 30+ vendors\, free kids dash\, awards ceremony\, and costume contest. All proceeds benefit the Help&Hope Center. FREE 1K Kids Dash at 8:30 AM sponsored by PR Youth Running.
 LOCATION:Douglas County Event Center\, 500 Fairgrounds Drive\, Castle Rock\, CO
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:alpine-bank-boulder-thanksgiving-day-5k-2026@milehighrunners.com
-DTSTAMP:20261011T000000Z
+DTSTAMP:20261018T000000Z
 DTSTART:20261126T080000Z
 DTEND:20261126T120000Z
 SUMMARY:Alpine Bank Boulder Thanksgiving Day 5K
@@ -185,18 +145,8 @@ LOCATION:TBD
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:mile-high-united-way-turkey-trot-2026@milehighrunners.com
-DTSTAMP:20261011T000000Z
-DTSTART:20261126T090000Z
-DTEND:20261126T130000Z
-SUMMARY:Mile High United Way Turkey Trot
-DESCRIPTION:The 53rd Mile High United Way Turkey Trot is Denver's greatest Thanksgiving Day tradition held at Washington Park. Participants can walk or run a 4-mile course (or 1-mile Lil' Gobbler Family Fun Run). The race supports Mile High United Way's mission to provide families with early learning\, education\, housing support\, and basic needs assistance. Features include multiple start waves\, a Lil' Gobbler Family Fun Zone with games and activities\, and serves as a qualifier race for the BOLDERBoulder 10K.
-LOCATION:1700 E. Louisiana Ave.\, Denver\, CO 80210
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:colderboulder-2026@milehighrunners.com
-DTSTAMP:20261011T000000Z
+DTSTAMP:20261018T000000Z
 DTSTART:20261205T080000Z
 DTEND:20261205T120000Z
 SUMMARY:COLDERBoulder
@@ -206,7 +156,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:us-bank-ugly-sweater-fun-run-2026@milehighrunners.com
-DTSTAMP:20261011T000000Z
+DTSTAMP:20261018T000000Z
 DTSTART:20261213T083000Z
 DTEND:20261213T123000Z
 SUMMARY:U.S. Bank Ugly Sweater Fun Run
@@ -216,7 +166,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ugly-sweater-5k-2026@milehighrunners.com
-DTSTAMP:20261011T000000Z
+DTSTAMP:20261018T000000Z
 DTSTART:20261220T080000Z
 DTEND:20261220T120000Z
 SUMMARY:Ugly Sweater 5K
