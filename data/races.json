@@ -1,73 +1,5 @@
 [
   {
-    "id": "weekend-at-burney-runwalkcrawl-2026",
-    "name": "Weekend at Burney Run/Walk/Crawl",
-    "date": "2026-10-22",
-    "time": "6:00 PM",
-    "distance": "4.8 miles / 12-Hour / 24-Hour / 48-Hour",
-    "location": {
-      "name": "Cassel, CA",
-      "address": "22800 Guest Ranch Rd, Cassel, CA 96016",
-      "map_link": "https://maps.google.com/?q=22800+Guest+Ranch+Rd++Cassel++CA+96016"
-    },
-    "registration_url": "https://ultrasignup.com/register.aspx?did=120894",
-    "website_url": "https://ultrasignup.com/register.aspx?did=120894",
-    "description": "A laid-back, high-fun trail adventure featuring a 4.8-mile looped course with 370 ft elevation gain per loop. Offers multiple timed event options (48-Hour, 24-Hour, 12-Hour challenges) with a 50/50 mix of single-track and dirt service road terrain. Includes burro racing option. Features aid station with snacks, hot food, and broth bar. Cash prizes awarded for most miles run, with belt buckles for 100+ mile finishers.",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Weekend+at+Burney+Run%2FWalk%2FCrawl&dates=20261022T180000Z%2F20261022T220000Z&details=A+laid-back%2C+high-fun+trail+adventure+featuring+a+4.8-mile+looped+course+with+370+ft+elevation+gain+per+loop.+Offers+multiple+timed+event+options+%2848-Hour%2C+24-Hour%2C+12-Hour+challenges%29+with+a+50%2F50+mi&location=22800+Guest+Ranch+Rd%2C+Cassel%2C+CA+96016",
-    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:weekend-at-burney-runwalkcrawl-2026@milehighrunners.com\nDTSTAMP:20261018T000000Z\nDTSTART:20261022T180000Z\nDTEND:20261022T220000Z\nSUMMARY:Weekend at Burney Run/Walk/Crawl\nDESCRIPTION:A laid-back\\, high-fun trail adventure featuring a 4.8-mile looped course with 370 ft elevation gain per loop. Offers multiple timed event options (48-Hour\\, 24-Hour\\, 12-Hour challenges) with a 50/50 mix of single-track and dirt service road terrain. Includes burro racing option. Features aid station with snacks\\, hot food\\, and broth bar. Cash prizes awarded for most miles run\\, with belt buckles for 100+ mile finishers.\nLOCATION:22800 Guest Ranch Rd\\, Cassel\\, CA 96016\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
-  },
-  {
-    "id": "ghosts-and-goblins-5k-2026",
-    "name": "Ghosts and Goblins 5K",
-    "date": "2026-10-25",
-    "time": "TBD",
-    "distance": "5K / 10K",
-    "location": {
-      "name": "Denver, CO",
-      "address": "City Park, Denver, CO",
-      "map_link": "https://maps.google.com/?q=City+Park++Denver++CO"
-    },
-    "registration_url": "https://coloradorunnerevents.com/Ghosts/registration/",
-    "website_url": "https://www.coloradorunnerevents.com/",
-    "description": "A Halloween-themed running event produced by Colorado Runner Events featuring 5K and 10K distances at City Park in Denver.",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Ghosts+and+Goblins+5K&dates=20261025T080000Z%2F20261025T120000Z&details=A+Halloween-themed+running+event+produced+by+Colorado+Runner+Events+featuring+5K+and+10K+distances+at+City+Park+in+Denver.&location=City+Park%2C+Denver%2C+CO",
-    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:ghosts-and-goblins-5k-2026@milehighrunners.com\nDTSTAMP:20261018T000000Z\nDTSTART:20261025T080000Z\nDTEND:20261025T120000Z\nSUMMARY:Ghosts and Goblins 5K\nDESCRIPTION:A Halloween-themed running event produced by Colorado Runner Events featuring 5K and 10K distances at City Park in Denver.\nLOCATION:City Park\\, Denver\\, CO\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
-  },
-  {
-    "id": "all-out-kooky-spooky-2026",
-    "name": "All-Out Kooky-Spooky",
-    "date": "2026-11-01",
-    "time": "9:00 AM",
-    "distance": "5K / 10K / Half Marathon",
-    "location": {
-      "name": "Golden, CO",
-      "address": "Ralston Creek Trail, Golden, CO",
-      "map_link": "https://maps.google.com/?q=Ralston+Creek+Trail++Golden++CO"
-    },
-    "registration_url": "https://www.kookyspookyrun.com",
-    "website_url": "https://www.kookyspookyrun.com",
-    "description": "15th annual Halloween-themed run featuring 5K, 10K, and half marathon distances starting from Jefferson County's NAAC Stadium and winding along scenic Ralston Creek Trail. Official BOLDERBoulder qualifier event benefiting the Colorado National Kidney Foundation. Virtual options available. Costume contest, medals for all distances, and free parking included.",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=All-Out+Kooky-Spooky&dates=20261101T090000Z%2F20261101T130000Z&details=15th+annual+Halloween-themed+run+featuring+5K%2C+10K%2C+and+half+marathon+distances+starting+from+Jefferson+County%27s+NAAC+Stadium+and+winding+along+scenic+Ralston+Creek+Trail.+Official+BOLDERBoulder+quali&location=Ralston+Creek+Trail%2C+Golden%2C+CO",
-    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:all-out-kooky-spooky-2026@milehighrunners.com\nDTSTAMP:20261018T000000Z\nDTSTART:20261101T090000Z\nDTEND:20261101T130000Z\nSUMMARY:All-Out Kooky-Spooky\nDESCRIPTION:15th annual Halloween-themed run featuring 5K\\, 10K\\, and half marathon distances starting from Jefferson County's NAAC Stadium and winding along scenic Ralston Creek Trail. Official BOLDERBoulder qualifier event benefiting the Colorado National Kidney Foundation. Virtual options available. Costume contest\\, medals for all distances\\, and free parking included.\nLOCATION:Ralston Creek Trail\\, Golden\\, CO\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
-  },
-  {
-    "id": "colorado-24-hour-run-2026",
-    "name": "Colorado 24 Hour Run",
-    "date": "2026-11-07",
-    "time": "8:00 AM",
-    "distance": "6 Hour / 12 Hour / 24 Hour",
-    "location": {
-      "name": "Fort Collins, CO",
-      "address": "Colorado Youth Outdoors \u2013 Swift Ponds Campus, Fort Collins, CO",
-      "map_link": "https://maps.google.com/?q=Colorado+Youth+Outdoors+%E2%80%93+Swift+Ponds+Campus++Fort+Collins++CO"
-    },
-    "registration_url": "https://gnarrunners.com/colorado-24-hour-run/",
-    "website_url": "https://gnarrunners.com/colorado-24-hour-run/",
-    "description": "A scenic, fully supported 1-mile dirt loop running event offering 6, 12, or 24-hour race options, as well as relay team formats. Participants can run during the day and/or night with full aid stations, hot food, and post-race celebration. The event benefits Colorado Youth Outdoors nonprofit, with fundraising opportunities available.",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Colorado+24+Hour+Run&dates=20261107T080000Z%2F20261107T120000Z&details=A+scenic%2C+fully+supported+1-mile+dirt+loop+running+event+offering+6%2C+12%2C+or+24-hour+race+options%2C+as+well+as+relay+team+formats.+Participants+can+run+during+the+day+and%2For+night+with+full+aid+stations&location=Colorado+Youth+Outdoors+%E2%80%93+Swift+Ponds+Campus%2C+Fort+Collins%2C+CO",
-    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:colorado-24-hour-run-2026@milehighrunners.com\nDTSTAMP:20261018T000000Z\nDTSTART:20261107T080000Z\nDTEND:20261107T120000Z\nSUMMARY:Colorado 24 Hour Run\nDESCRIPTION:A scenic\\, fully supported 1-mile dirt loop running event offering 6\\, 12\\, or 24-hour race options\\, as well as relay team formats. Participants can run during the day and/or night with full aid stations\\, hot food\\, and post-race celebration. The event benefits Colorado Youth Outdoors nonprofit\\, with fundraising opportunities available.\nLOCATION:Colorado Youth Outdoors \u2013 Swift Ponds Campus\\, Fort Collins\\, CO\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
-  },
-  {
     "id": "moab-trail-marathon-2026",
     "name": "Moab Trail Marathon",
     "date": "2026-11-07",
@@ -80,9 +12,9 @@
     },
     "registration_url": "https://moabtrailmarathon.com/",
     "website_url": "https://moabtrailmarathon.com/",
-    "description": "26 miles of exhilaration through scenic and unique lands. Host of the 2026 USATF Trail Half Marathon National Championships and Collegiate Trail Running Championships.",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Moab+Trail+Marathon&dates=20261107T080000Z%2F20261107T120000Z&details=26+miles+of+exhilaration+through+scenic+and+unique+lands.+Host+of+the+2026+USATF+Trail+Half+Marathon+National+Championships+and+Collegiate+Trail+Running+Championships.&location=TBD",
-    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:moab-trail-marathon-2026@milehighrunners.com\nDTSTAMP:20261018T000000Z\nDTSTART:20261107T080000Z\nDTEND:20261107T120000Z\nSUMMARY:Moab Trail Marathon\nDESCRIPTION:26 miles of exhilaration through scenic and unique lands. Host of the 2026 USATF Trail Half Marathon National Championships and Collegiate Trail Running Championships.\nLOCATION:TBD\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+    "description": "Moab Trail Marathon features 26 miles of exhilaration through scenic and unique landscapes. 2026 USATF Trail Half Marathon National Championships and Host of the Collegiate Trail Running Championships 2026. Multiple distance options available including Marathon, Half Marathon, 10K Adventure Run, and Kids K Race.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Moab+Trail+Marathon&dates=20261107T080000Z%2F20261107T120000Z&details=Moab+Trail+Marathon+features+26+miles+of+exhilaration+through+scenic+and+unique+landscapes.+2026+USATF+Trail+Half+Marathon+National+Championships+and+Host+of+the+Collegiate+Trail+Running+Championships&location=TBD",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:moab-trail-marathon-2026@milehighrunners.com\nDTSTAMP:20261025T000000Z\nDTSTART:20261107T080000Z\nDTEND:20261107T120000Z\nSUMMARY:Moab Trail Marathon\nDESCRIPTION:Moab Trail Marathon features 26 miles of exhilaration through scenic and unique landscapes. 2026 USATF Trail Half Marathon National Championships and Host of the Collegiate Trail Running Championships 2026. Multiple distance options available including Marathon\\, Half Marathon\\, 10K Adventure Run\\, and Kids K Race.\nLOCATION:TBD\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
   },
   {
     "id": "kessel-run-ultra-2026",
@@ -99,7 +31,24 @@
     "website_url": "https://www.madmooseevents.com/kessel-run-ultra",
     "description": "Trail ultramarathon event located in North Fruita Desert, Colorado featuring world-class single track trails with sweeping views of the San Juan Mountains and Colorado National Monument. All distances begin on fast, flowing singletrack and progress to steep terrain on the Zippity-Do-Da Trail. Course elevations range from 5,030' to 5,541'. Event includes aid stations, finisher's medal, custom race shirt, bib, and BOCO Technical Trucker hat.",
     "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Kessel+Run+Ultra&dates=20261107T060000Z%2F20261107T100000Z&details=Trail+ultramarathon+event+located+in+North+Fruita+Desert%2C+Colorado+featuring+world-class+single+track+trails+with+sweeping+views+of+the+San+Juan+Mountains+and+Colorado+National+Monument.+All+distances&location=18+Road+Parking%2C+Fruita%2C+CO+%28GPS%3A+39.31093%2C+-108.70360%29",
-    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:kessel-run-ultra-2026@milehighrunners.com\nDTSTAMP:20261018T000000Z\nDTSTART:20261107T060000Z\nDTEND:20261107T100000Z\nSUMMARY:Kessel Run Ultra\nDESCRIPTION:Trail ultramarathon event located in North Fruita Desert\\, Colorado featuring world-class single track trails with sweeping views of the San Juan Mountains and Colorado National Monument. All distances begin on fast\\, flowing singletrack and progress to steep terrain on the Zippity-Do-Da Trail. Course elevations range from 5\\,030' to 5\\,541'. Event includes aid stations\\, finisher's medal\\, custom race shirt\\, bib\\, and BOCO Technical Trucker hat.\nLOCATION:18 Road Parking\\, Fruita\\, CO (GPS: 39.31093\\, -108.70360)\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:kessel-run-ultra-2026@milehighrunners.com\nDTSTAMP:20261025T000000Z\nDTSTART:20261107T060000Z\nDTEND:20261107T100000Z\nSUMMARY:Kessel Run Ultra\nDESCRIPTION:Trail ultramarathon event located in North Fruita Desert\\, Colorado featuring world-class single track trails with sweeping views of the San Juan Mountains and Colorado National Monument. All distances begin on fast\\, flowing singletrack and progress to steep terrain on the Zippity-Do-Da Trail. Course elevations range from 5\\,030' to 5\\,541'. Event includes aid stations\\, finisher's medal\\, custom race shirt\\, bib\\, and BOCO Technical Trucker hat.\nLOCATION:18 Road Parking\\, Fruita\\, CO (GPS: 39.31093\\, -108.70360)\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+  },
+  {
+    "id": "colorado-24-hour-run-2026",
+    "name": "Colorado 24 Hour Run",
+    "date": "2026-11-07",
+    "time": "8:00 AM",
+    "distance": "6 Hour / 12 Hour / 24 Hour",
+    "location": {
+      "name": "Fort Collins, CO",
+      "address": "Colorado Youth Outdoors \u2013 Swift Ponds Campus, Fort Collins, CO",
+      "map_link": "https://maps.google.com/?q=Colorado+Youth+Outdoors+%E2%80%93+Swift+Ponds+Campus++Fort+Collins++CO"
+    },
+    "registration_url": "https://gnarrunners.com/colorado-24-hour-run/",
+    "website_url": "https://gnarrunners.com/colorado-24-hour-run/",
+    "description": "A scenic, fully supported 1-mile dirt loop running event offering 6, 12, or 24-hour race options, as well as relay team formats. Participants can run during the day and/or night with full aid stations, hot food, and post-race celebration. The event benefits Colorado Youth Outdoors nonprofit, with fundraising opportunities available.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Colorado+24+Hour+Run&dates=20261107T080000Z%2F20261107T120000Z&details=A+scenic%2C+fully+supported+1-mile+dirt+loop+running+event+offering+6%2C+12%2C+or+24-hour+race+options%2C+as+well+as+relay+team+formats.+Participants+can+run+during+the+day+and%2For+night+with+full+aid+stations&location=Colorado+Youth+Outdoors+%E2%80%93+Swift+Ponds+Campus%2C+Fort+Collins%2C+CO",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:colorado-24-hour-run-2026@milehighrunners.com\nDTSTAMP:20261025T000000Z\nDTSTART:20261107T080000Z\nDTEND:20261107T120000Z\nSUMMARY:Colorado 24 Hour Run\nDESCRIPTION:A scenic\\, fully supported 1-mile dirt loop running event offering 6\\, 12\\, or 24-hour race options\\, as well as relay team formats. Participants can run during the day and/or night with full aid stations\\, hot food\\, and post-race celebration. The event benefits Colorado Youth Outdoors nonprofit\\, with fundraising opportunities available.\nLOCATION:Colorado Youth Outdoors \u2013 Swift Ponds Campus\\, Fort Collins\\, CO\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
   },
   {
     "id": "aravaipa-colorado-louisville-2026",
@@ -116,7 +65,7 @@
     "website_url": "https://www.aravaiparunning.com/colorado/",
     "description": "Trail running event in Louisville, Colorado hosted by Aravaipa Running",
     "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Aravaipa+Colorado+-+Louisville&dates=20261114T080000Z%2F20261114T120000Z&details=Trail+running+event+in+Louisville%2C+Colorado+hosted+by+Aravaipa+Running&location=Louisville%2C+CO",
-    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:aravaipa-colorado-louisville-2026@milehighrunners.com\nDTSTAMP:20261018T000000Z\nDTSTART:20261114T080000Z\nDTEND:20261114T120000Z\nSUMMARY:Aravaipa Colorado - Louisville\nDESCRIPTION:Trail running event in Louisville\\, Colorado hosted by Aravaipa Running\nLOCATION:Louisville\\, CO\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:aravaipa-colorado-louisville-2026@milehighrunners.com\nDTSTAMP:20261025T000000Z\nDTSTART:20261114T080000Z\nDTEND:20261114T120000Z\nSUMMARY:Aravaipa Colorado - Louisville\nDESCRIPTION:Trail running event in Louisville\\, Colorado hosted by Aravaipa Running\nLOCATION:Louisville\\, CO\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
   },
   {
     "id": "longmont-turkey-trot-2026",
@@ -129,28 +78,11 @@
       "address": "Altona Middle School, 4600 Clover Basin Dr, Longmont, CO",
       "map_link": "https://maps.google.com/?q=Altona+Middle+School++4600+Clover+Basin+Dr++Longmont++CO"
     },
-    "registration_url": "https://www.recplanner.com or https://www.raceentry.com",
+    "registration_url": "https://www.longmontcolorado.gov/departments/departments-n-z/recreation-services/community-events/turkey-trot",
     "website_url": "https://www.longmontcolorado.gov/departments/departments-n-z/recreation-services/community-events/turkey-trot",
-    "description": "The Longmont Turkey Trot is one of the fastest, most scenic 10K and 2-mile courses in the area. Participants can run, roll, or walk past the finish line with wheelchair divisions available for the 10K race. Awards are given to top 3 finishers in multiple age groups and gender categories. Packet pick-up is Friday, November 13, 4-6pm at Longmont Recreation Center, or on race day. Registration closes at 12pm Thursday, November 12, with late registration available November 13 and race morning.",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Longmont+Turkey+Trot&dates=20261114T090000Z%2F20261114T130000Z&details=The+Longmont+Turkey+Trot+is+one+of+the+fastest%2C+most+scenic+10K+and+2-mile+courses+in+the+area.+Participants+can+run%2C+roll%2C+or+walk+past+the+finish+line+with+wheelchair+divisions+available+for+the+10K&location=Altona+Middle+School%2C+4600+Clover+Basin+Dr%2C+Longmont%2C+CO",
-    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:longmont-turkey-trot-2026@milehighrunners.com\nDTSTAMP:20261018T000000Z\nDTSTART:20261114T090000Z\nDTEND:20261114T130000Z\nSUMMARY:Longmont Turkey Trot\nDESCRIPTION:The Longmont Turkey Trot is one of the fastest\\, most scenic 10K and 2-mile courses in the area. Participants can run\\, roll\\, or walk past the finish line with wheelchair divisions available for the 10K race. Awards are given to top 3 finishers in multiple age groups and gender categories. Packet pick-up is Friday\\, November 13\\, 4-6pm at Longmont Recreation Center\\, or on race day. Registration closes at 12pm Thursday\\, November 12\\, with late registration available November 13 and race morning.\nLOCATION:Altona Middle School\\, 4600 Clover Basin Dr\\, Longmont\\, CO\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
-  },
-  {
-    "id": "pumpkin-pie-5k10k-2026",
-    "name": "Pumpkin Pie 5K/10K",
-    "date": "2026-11-21",
-    "time": "TBD",
-    "distance": "5K / 10K",
-    "location": {
-      "name": "Denver, CO",
-      "address": "City Park, Denver, CO",
-      "map_link": "https://maps.google.com/?q=City+Park++Denver++CO"
-    },
-    "registration_url": "https://www.coloradorunnerevents.com/Pumpkin/",
-    "website_url": "https://www.coloradorunnerevents.com/",
-    "description": "5K and 10K running event produced by Colorado Runner Events",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Pumpkin+Pie+5K%2F10K&dates=20261121T080000Z%2F20261121T120000Z&details=5K+and+10K+running+event+produced+by+Colorado+Runner+Events&location=City+Park%2C+Denver%2C+CO",
-    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:pumpkin-pie-5k10k-2026@milehighrunners.com\nDTSTAMP:20261018T000000Z\nDTSTART:20261121T080000Z\nDTEND:20261121T120000Z\nSUMMARY:Pumpkin Pie 5K/10K\nDESCRIPTION:5K and 10K running event produced by Colorado Runner Events\nLOCATION:City Park\\, Denver\\, CO\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+    "description": "The Longmont Turkey Trot is one of the fastest, most scenic 10K and 2-mile courses. Participants can run, roll, or walk past the finish line with wheelchair division available for the 10K race. The event kicks off the holiday season with age group and gender divisions for awards.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Longmont+Turkey+Trot&dates=20261114T090000Z%2F20261114T130000Z&details=The+Longmont+Turkey+Trot+is+one+of+the+fastest%2C+most+scenic+10K+and+2-mile+courses.+Participants+can+run%2C+roll%2C+or+walk+past+the+finish+line+with+wheelchair+division+available+for+the+10K+race.+The+ev&location=Altona+Middle+School%2C+4600+Clover+Basin+Dr%2C+Longmont%2C+CO",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:longmont-turkey-trot-2026@milehighrunners.com\nDTSTAMP:20261025T000000Z\nDTSTART:20261114T090000Z\nDTEND:20261114T130000Z\nSUMMARY:Longmont Turkey Trot\nDESCRIPTION:The Longmont Turkey Trot is one of the fastest\\, most scenic 10K and 2-mile courses. Participants can run\\, roll\\, or walk past the finish line with wheelchair division available for the 10K race. The event kicks off the holiday season with age group and gender divisions for awards.\nLOCATION:Altona Middle School\\, 4600 Clover Basin Dr\\, Longmont\\, CO\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
   },
   {
     "id": "turkey-trek-2026",
@@ -167,7 +99,24 @@
     "website_url": "https://www.10kturkeytrek.com/",
     "description": "Turkey Trek is a unique holiday running event featuring multiple distance options with three interactive challenges: Eggnog Chug Challenge, Hay Bale Hop Challenge, and Fill Your Pie Hole Challenge. All participants receive a red heavyweight performance-blend hooded sweatshirt. The Half Turkey (13.1 miles) finishers earn a commemorative finisher mug. Proceeds benefit Community Table, a local food bank serving Arvada and surrounding areas.",
     "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Turkey+Trek&dates=20261121T083000Z%2F20261121T123000Z&details=Turkey+Trek+is+a+unique+holiday+running+event+featuring+multiple+distance+options+with+three+interactive+challenges%3A+Eggnog+Chug+Challenge%2C+Hay+Bale+Hop+Challenge%2C+and+Fill+Your+Pie+Hole+Challenge.+Al&location=Long+Lake+Regional+Park%2C+Arvada%2C+CO+80007",
-    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:turkey-trek-2026@milehighrunners.com\nDTSTAMP:20261018T000000Z\nDTSTART:20261121T083000Z\nDTEND:20261121T123000Z\nSUMMARY:Turkey Trek\nDESCRIPTION:Turkey Trek is a unique holiday running event featuring multiple distance options with three interactive challenges: Eggnog Chug Challenge\\, Hay Bale Hop Challenge\\, and Fill Your Pie Hole Challenge. All participants receive a red heavyweight performance-blend hooded sweatshirt. The Half Turkey (13.1 miles) finishers earn a commemorative finisher mug. Proceeds benefit Community Table\\, a local food bank serving Arvada and surrounding areas.\nLOCATION:Long Lake Regional Park\\, Arvada\\, CO 80007\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:turkey-trek-2026@milehighrunners.com\nDTSTAMP:20261025T000000Z\nDTSTART:20261121T083000Z\nDTEND:20261121T123000Z\nSUMMARY:Turkey Trek\nDESCRIPTION:Turkey Trek is a unique holiday running event featuring multiple distance options with three interactive challenges: Eggnog Chug Challenge\\, Hay Bale Hop Challenge\\, and Fill Your Pie Hole Challenge. All participants receive a red heavyweight performance-blend hooded sweatshirt. The Half Turkey (13.1 miles) finishers earn a commemorative finisher mug. Proceeds benefit Community Table\\, a local food bank serving Arvada and surrounding areas.\nLOCATION:Long Lake Regional Park\\, Arvada\\, CO 80007\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+  },
+  {
+    "id": "pumpkin-pie-5k10k-2026",
+    "name": "Pumpkin Pie 5K/10K",
+    "date": "2026-11-21",
+    "time": "TBD",
+    "distance": "5K / 10K",
+    "location": {
+      "name": "Denver, CO",
+      "address": "City Park, Denver, CO",
+      "map_link": "https://maps.google.com/?q=City+Park++Denver++CO"
+    },
+    "registration_url": "https://www.coloradorunnerevents.com/Pumpkin/",
+    "website_url": "https://www.coloradorunnerevents.com/",
+    "description": "5K and 10K race produced by Colorado Runner Events, part of their annual event series in the Denver metro area.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Pumpkin+Pie+5K%2F10K&dates=20261121T080000Z%2F20261121T120000Z&details=5K+and+10K+race+produced+by+Colorado+Runner+Events%2C+part+of+their+annual+event+series+in+the+Denver+metro+area.&location=City+Park%2C+Denver%2C+CO",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:pumpkin-pie-5k10k-2026@milehighrunners.com\nDTSTAMP:20261025T000000Z\nDTSTART:20261121T080000Z\nDTEND:20261121T120000Z\nSUMMARY:Pumpkin Pie 5K/10K\nDESCRIPTION:5K and 10K race produced by Colorado Runner Events\\, part of their annual event series in the Denver metro area.\nLOCATION:City Park\\, Denver\\, CO\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
   },
   {
     "id": "gobble-wobble-run-2026",
@@ -184,24 +133,7 @@
     "website_url": "https://www.gobblewobblerun.com/",
     "description": "Gobble Wobble Run 5K on Thanksgiving Day. Features early packet pickup at Fleet Feet. 2026 beneficiary is the Colorado National Guard Foundation. Title sponsor is The Alan Smith Team at RE/MAX Professionals.",
     "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Gobble+Wobble+Run&dates=20261126T083000Z%2F20261126T123000Z&details=Gobble+Wobble+Run+5K+on+Thanksgiving+Day.+Features+early+packet+pickup+at+Fleet+Feet.+2026+beneficiary+is+the+Colorado+National+Guard+Foundation.+Title+sponsor+is+The+Alan+Smith+Team+at+RE%2FMAX+Profess&location=Clement+Park%2C+Littleton%2C+CO",
-    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:gobble-wobble-run-2026@milehighrunners.com\nDTSTAMP:20261018T000000Z\nDTSTART:20261126T083000Z\nDTEND:20261126T123000Z\nSUMMARY:Gobble Wobble Run\nDESCRIPTION:Gobble Wobble Run 5K on Thanksgiving Day. Features early packet pickup at Fleet Feet. 2026 beneficiary is the Colorado National Guard Foundation. Title sponsor is The Alan Smith Team at RE/MAX Professionals.\nLOCATION:Clement Park\\, Littleton\\, CO\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
-  },
-  {
-    "id": "broomfield-turkey-day-5k10k-2026",
-    "name": "Broomfield Turkey Day 5K/10K",
-    "date": "2026-11-26",
-    "time": "9:00 AM",
-    "distance": "5K / 10K / Kids Fun Run (approx 1/2 mile)",
-    "location": {
-      "name": "Broomfield, CO",
-      "address": "13200 Sheridan Blvd, Broomfield County Commons, Broomfield, CO 80020",
-      "map_link": "https://maps.google.com/?q=13200+Sheridan+Blvd++Broomfield+County+Commons++Broomfield++CO+80020"
-    },
-    "registration_url": "http://broomfieldturkeyday.com",
-    "website_url": "http://broomfieldturkeyday.com",
-    "description": "Colorado's only Thanksgiving Day 10K. Family-friendly fall event welcoming runners, walkers, and participants of all ages. Features finisher medals, free pumpkin pie, winter knit beanies, chip timing, live results, free parking, and a charity food drive for Broomfield FISH. Youth and team pricing available.",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Broomfield+Turkey+Day+5K%2F10K&dates=20261126T090000Z%2F20261126T130000Z&details=Colorado%27s+only+Thanksgiving+Day+10K.+Family-friendly+fall+event+welcoming+runners%2C+walkers%2C+and+participants+of+all+ages.+Features+finisher+medals%2C+free+pumpkin+pie%2C+winter+knit+beanies%2C+chip+timing%2C&location=13200+Sheridan+Blvd%2C+Broomfield+County+Commons%2C+Broomfield%2C+CO+80020",
-    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:broomfield-turkey-day-5k10k-2026@milehighrunners.com\nDTSTAMP:20261018T000000Z\nDTSTART:20261126T090000Z\nDTEND:20261126T130000Z\nSUMMARY:Broomfield Turkey Day 5K/10K\nDESCRIPTION:Colorado's only Thanksgiving Day 10K. Family-friendly fall event welcoming runners\\, walkers\\, and participants of all ages. Features finisher medals\\, free pumpkin pie\\, winter knit beanies\\, chip timing\\, live results\\, free parking\\, and a charity food drive for Broomfield FISH. Youth and team pricing available.\nLOCATION:13200 Sheridan Blvd\\, Broomfield County Commons\\, Broomfield\\, CO 80020\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:gobble-wobble-run-2026@milehighrunners.com\nDTSTAMP:20261025T000000Z\nDTSTART:20261126T083000Z\nDTEND:20261126T123000Z\nSUMMARY:Gobble Wobble Run\nDESCRIPTION:Gobble Wobble Run 5K on Thanksgiving Day. Features early packet pickup at Fleet Feet. 2026 beneficiary is the Colorado National Guard Foundation. Title sponsor is The Alan Smith Team at RE/MAX Professionals.\nLOCATION:Clement Park\\, Littleton\\, CO\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
   },
   {
     "id": "turkey-rock-trot-5k-2026",
@@ -218,14 +150,14 @@
     "website_url": "https://www.turkeyrocktrot.com",
     "description": "Plum Creek Church 22nd Annual Turkey ROCK Trot Presented by CORE - A Thanksgiving morning 5K family fun run/walk/stroll featuring live DJ at start line, live music on course, indoor health & wellness expo with 30+ vendors, free kids dash, awards ceremony, and costume contest. All proceeds benefit the Help&Hope Center. FREE 1K Kids Dash at 8:30 AM sponsored by PR Youth Running.",
     "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Turkey+ROCK+Trot+5k&dates=20261126T090000Z%2F20261126T130000Z&details=Plum+Creek+Church+22nd+Annual+Turkey+ROCK+Trot+Presented+by+CORE+-+A+Thanksgiving+morning+5K+family+fun+run%2Fwalk%2Fstroll+featuring+live+DJ+at+start+line%2C+live+music+on+course%2C+indoor+health+%26+wellness+&location=Douglas+County+Event+Center%2C+500+Fairgrounds+Drive%2C+Castle+Rock%2C+CO",
-    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:turkey-rock-trot-5k-2026@milehighrunners.com\nDTSTAMP:20261018T000000Z\nDTSTART:20261126T090000Z\nDTEND:20261126T130000Z\nSUMMARY:Turkey ROCK Trot 5k\nDESCRIPTION:Plum Creek Church 22nd Annual Turkey ROCK Trot Presented by CORE - A Thanksgiving morning 5K family fun run/walk/stroll featuring live DJ at start line\\, live music on course\\, indoor health & wellness expo with 30+ vendors\\, free kids dash\\, awards ceremony\\, and costume contest. All proceeds benefit the Help&Hope Center. FREE 1K Kids Dash at 8:30 AM sponsored by PR Youth Running.\nLOCATION:Douglas County Event Center\\, 500 Fairgrounds Drive\\, Castle Rock\\, CO\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:turkey-rock-trot-5k-2026@milehighrunners.com\nDTSTAMP:20261025T000000Z\nDTSTART:20261126T090000Z\nDTEND:20261126T130000Z\nSUMMARY:Turkey ROCK Trot 5k\nDESCRIPTION:Plum Creek Church 22nd Annual Turkey ROCK Trot Presented by CORE - A Thanksgiving morning 5K family fun run/walk/stroll featuring live DJ at start line\\, live music on course\\, indoor health & wellness expo with 30+ vendors\\, free kids dash\\, awards ceremony\\, and costume contest. All proceeds benefit the Help&Hope Center. FREE 1K Kids Dash at 8:30 AM sponsored by PR Youth Running.\nLOCATION:Douglas County Event Center\\, 500 Fairgrounds Drive\\, Castle Rock\\, CO\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
   },
   {
     "id": "alpine-bank-boulder-thanksgiving-day-5k-2026",
     "name": "Alpine Bank Boulder Thanksgiving Day 5K",
     "date": "2026-11-26",
     "time": "TBD",
-    "distance": "TBD",
+    "distance": "5K",
     "location": {
       "name": "Boulder, CO",
       "address": "Boulder, CO",
@@ -233,9 +165,26 @@
     },
     "registration_url": "https://www.teamboco.com/#/thanksgivingdayfunrun/",
     "website_url": "https://www.teamboco.com/#/thanksgivingdayfunrun/",
-    "description": "TBD",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Alpine+Bank+Boulder+Thanksgiving+Day+5K&dates=20261126T080000Z%2F20261126T120000Z&details=TBD&location=TBD",
-    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:alpine-bank-boulder-thanksgiving-day-5k-2026@milehighrunners.com\nDTSTAMP:20261018T000000Z\nDTSTART:20261126T080000Z\nDTEND:20261126T120000Z\nSUMMARY:Alpine Bank Boulder Thanksgiving Day 5K\nDESCRIPTION:TBD\nLOCATION:TBD\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+    "description": "Alpine Bank Boulder Thanksgiving Day Fun Run",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Alpine+Bank+Boulder+Thanksgiving+Day+5K&dates=20261126T080000Z%2F20261126T120000Z&details=Alpine+Bank+Boulder+Thanksgiving+Day+Fun+Run&location=TBD",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:alpine-bank-boulder-thanksgiving-day-5k-2026@milehighrunners.com\nDTSTAMP:20261025T000000Z\nDTSTART:20261126T080000Z\nDTEND:20261126T120000Z\nSUMMARY:Alpine Bank Boulder Thanksgiving Day 5K\nDESCRIPTION:Alpine Bank Boulder Thanksgiving Day Fun Run\nLOCATION:TBD\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+  },
+  {
+    "id": "mile-high-united-way-turkey-trot-2026",
+    "name": "Mile High United Way Turkey Trot",
+    "date": "2026-11-26",
+    "time": "9:00 AM",
+    "distance": "4 miles / 1 mile",
+    "location": {
+      "name": "Denver, CO",
+      "address": "1700 E Louisiana Ave, Denver, CO 80210",
+      "map_link": "https://maps.google.com/?q=1700+E+Louisiana+Ave++Denver++CO+80210"
+    },
+    "registration_url": "https://unitedwaydenver.org/turkey-trot/",
+    "website_url": "https://unitedwaydenver.org/turkey-trot/",
+    "description": "The 53rd Mile High United Way Turkey Trot is Denver's beloved Thanksgiving Day tradition featuring a 4-mile race/walk and 1-mile Lil' Gobbler Family Fun Run in Washington Park. The event includes a Family Fun Zone with games, face painting, and photos with Gobbles the Turkey. All proceeds support Mile High United Way's critical work providing early learning, housing support, and basic needs assistance to families in the community.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mile+High+United+Way+Turkey+Trot&dates=20261126T090000Z%2F20261126T130000Z&details=The+53rd+Mile+High+United+Way+Turkey+Trot+is+Denver%27s+beloved+Thanksgiving+Day+tradition+featuring+a+4-mile+race%2Fwalk+and+1-mile+Lil%27+Gobbler+Family+Fun+Run+in+Washington+Park.+The+event+includes+a+Fa&location=1700+E+Louisiana+Ave%2C+Denver%2C+CO+80210",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:mile-high-united-way-turkey-trot-2026@milehighrunners.com\nDTSTAMP:20261025T000000Z\nDTSTART:20261126T090000Z\nDTEND:20261126T130000Z\nSUMMARY:Mile High United Way Turkey Trot\nDESCRIPTION:The 53rd Mile High United Way Turkey Trot is Denver's beloved Thanksgiving Day tradition featuring a 4-mile race/walk and 1-mile Lil' Gobbler Family Fun Run in Washington Park. The event includes a Family Fun Zone with games\\, face painting\\, and photos with Gobbles the Turkey. All proceeds support Mile High United Way's critical work providing early learning\\, housing support\\, and basic needs assistance to families in the community.\nLOCATION:1700 E Louisiana Ave\\, Denver\\, CO 80210\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
   },
   {
     "id": "colderboulder-2026",
@@ -250,16 +199,16 @@
     },
     "registration_url": "https://www.bolderboulder.com/",
     "website_url": "https://www.bolderboulder.com/",
-    "description": "COLDERBoulder 5K winter race featuring 13 invitational races organized by pace (for previous BOLDERBoulder/COLDERBoulder participants), 1 open race, and 1 walking wave. All participants receive medals. Top 3 finishers in each invitational race earn special Cold Medals. Includes Holiday Finish Fest with burritos, doughnuts, coffee, and hot cocoa. Virtual race option available. Registration opens October 1st and sells out annually.",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=COLDERBoulder&dates=20261205T080000Z%2F20261205T120000Z&details=COLDERBoulder+5K+winter+race+featuring+13+invitational+races+organized+by+pace+%28for+previous+BOLDERBoulder%2FCOLDERBoulder+participants%29%2C+1+open+race%2C+and+1+walking+wave.+All+participants+receive+medals&location=CU+Campus%2C+Boulder%2C+CO",
-    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:colderboulder-2026@milehighrunners.com\nDTSTAMP:20261018T000000Z\nDTSTART:20261205T080000Z\nDTEND:20261205T120000Z\nSUMMARY:COLDERBoulder\nDESCRIPTION:COLDERBoulder 5K winter race featuring 13 invitational races organized by pace (for previous BOLDERBoulder/COLDERBoulder participants)\\, 1 open race\\, and 1 walking wave. All participants receive medals. Top 3 finishers in each invitational race earn special Cold Medals. Includes Holiday Finish Fest with burritos\\, doughnuts\\, coffee\\, and hot cocoa. Virtual race option available. Registration opens October 1st and sells out annually.\nLOCATION:CU Campus\\, Boulder\\, CO\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+    "description": "Winter 5K race featuring 14 invitational races organized by pace, an open race category, a walking wave, and virtual race option. All participants receive a medal. Top 3 finishers in each invitational race earn special Cold Medals. Race includes finish fest with burritos, doughnuts, coffee, and hot cocoa.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=COLDERBoulder&dates=20261205T080000Z%2F20261205T120000Z&details=Winter+5K+race+featuring+14+invitational+races+organized+by+pace%2C+an+open+race+category%2C+a+walking+wave%2C+and+virtual+race+option.+All+participants+receive+a+medal.+Top+3+finishers+in+each+invitational&location=CU+Campus%2C+Boulder%2C+CO",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:colderboulder-2026@milehighrunners.com\nDTSTAMP:20261025T000000Z\nDTSTART:20261205T080000Z\nDTEND:20261205T120000Z\nSUMMARY:COLDERBoulder\nDESCRIPTION:Winter 5K race featuring 14 invitational races organized by pace\\, an open race category\\, a walking wave\\, and virtual race option. All participants receive a medal. Top 3 finishers in each invitational race earn special Cold Medals. Race includes finish fest with burritos\\, doughnuts\\, coffee\\, and hot cocoa.\nLOCATION:CU Campus\\, Boulder\\, CO\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
   },
   {
     "id": "us-bank-ugly-sweater-fun-run-2026",
     "name": "U.S. Bank Ugly Sweater Fun Run",
     "date": "2026-12-13",
     "time": "8:30 AM",
-    "distance": "TBD",
+    "distance": "Not specified",
     "location": {
       "name": "Lionshead, CO",
       "address": "Lionshead, CO",
@@ -267,9 +216,9 @@
     },
     "registration_url": "https://www.vailrec.com/races",
     "website_url": "https://www.vailrec.com/races",
-    "description": "Community race - fun run event",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=U.S.+Bank+Ugly+Sweater+Fun+Run&dates=20261213T083000Z%2F20261213T123000Z&details=Community+race+-+fun+run+event&location=Lionshead%2C+CO",
-    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:us-bank-ugly-sweater-fun-run-2026@milehighrunners.com\nDTSTAMP:20261018T000000Z\nDTSTART:20261213T083000Z\nDTEND:20261213T123000Z\nSUMMARY:U.S. Bank Ugly Sweater Fun Run\nDESCRIPTION:Community race - fun run event\nLOCATION:Lionshead\\, CO\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+    "description": "Community fun run featuring ugly sweater theme",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=U.S.+Bank+Ugly+Sweater+Fun+Run&dates=20261213T083000Z%2F20261213T123000Z&details=Community+fun+run+featuring+ugly+sweater+theme&location=Lionshead%2C+CO",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:us-bank-ugly-sweater-fun-run-2026@milehighrunners.com\nDTSTAMP:20261025T000000Z\nDTSTART:20261213T083000Z\nDTEND:20261213T123000Z\nSUMMARY:U.S. Bank Ugly Sweater Fun Run\nDESCRIPTION:Community fun run featuring ugly sweater theme\nLOCATION:Lionshead\\, CO\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
   },
   {
     "id": "ugly-sweater-5k-2026",
@@ -284,8 +233,8 @@
     },
     "registration_url": "https://runsignup.com/Race/CO/Denver/UglySweater5K",
     "website_url": "https://www.coloradorunnerevents.com/",
-    "description": "Ugly Sweater 5K hosted by Colorado Runner Events",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Ugly+Sweater+5K&dates=20261220T080000Z%2F20261220T120000Z&details=Ugly+Sweater+5K+hosted+by+Colorado+Runner+Events&location=Washington+Park%2C+Denver%2C+CO",
-    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:ugly-sweater-5k-2026@milehighrunners.com\nDTSTAMP:20261018T000000Z\nDTSTART:20261220T080000Z\nDTEND:20261220T120000Z\nSUMMARY:Ugly Sweater 5K\nDESCRIPTION:Ugly Sweater 5K hosted by Colorado Runner Events\nLOCATION:Washington Park\\, Denver\\, CO\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+    "description": "Ugly Sweater 5K - A festive 5K race produced by Colorado Runner Events",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Ugly+Sweater+5K&dates=20261220T080000Z%2F20261220T120000Z&details=Ugly+Sweater+5K+-+A+festive+5K+race+produced+by+Colorado+Runner+Events&location=Washington+Park%2C+Denver%2C+CO",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:ugly-sweater-5k-2026@milehighrunners.com\nDTSTAMP:20261025T000000Z\nDTSTART:20261220T080000Z\nDTEND:20261220T120000Z\nSUMMARY:Ugly Sweater 5K\nDESCRIPTION:Ugly Sweater 5K - A festive 5K race produced by Colorado Runner Events\nLOCATION:Washington Park\\, Denver\\, CO\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
   }
 ]
