@@ -850,5 +850,17 @@
         "time": null
       }
     ]
+  },
+  {
+    "event_name": "Louisville 5k Monster Dash",
+    "date": "2026-10-24",
+    "results": [
+      {
+        "runner": "Jan Lobato",
+        "placement": "2nd AG",
+        "division": null,
+        "time": null
+      }
+    ]
   }
 ]

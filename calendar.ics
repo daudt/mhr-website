@@ -30,16 +30,18 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:5109d0ac15af2f4b49a373c98c9fbe45f4cae674@milehighrunners.com
-DTSTAMP:20261018T192312Z
-DTSTART;TZID=America/Denver:20261020T052000
-DTEND;TZID=America/Denver:20261020T062000
+UID:2f5c6827abe05b3cdf164460de1d7e518cc13f5d@milehighrunners.com
+DTSTAMP:20261026T000305Z
+DTSTART;TZID=America/Denver:20261027T052000
+DTEND;TZID=America/Denver:20261027T062000
 SUMMARY:MHR Practice — EMS
-DESCRIPTION:6 x 400m downhill at 5k pace with a 400m easy jog (no walking).
-  Turn around and do 800m uphill at 10k pace. Take a 120–180 second recov
- ery after each 800m.\n\nDetails: https://milehighrunners.com/calendar.html
+DESCRIPTION:Low volume\, high intensity with full recoveries. Warm-up: 2-mi
+ le warm-up\, drills\, and strides. 5k Workout: 3–5 x 600m at 5k pace (20
+ 0m easy jog/walk recovery). 10k Workout: 3–4 x 800m at 10k pace (2-minut
+ e recovery between sets).\n\nDetails: https://milehighrunners.com/calendar
+ .html
 LOCATION:EMS\, EMS
-URL;VALUE=URI:https://maps.app.goo.gl/82oUgPeNL46ULfa38?g_st=ic
+URL;VALUE=URI:https://maps.app.goo.gl/wqjfY8ASYARsFgsx8?g_st=ic
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 CATEGORIES:Running,Practice
@@ -50,42 +52,44 @@ DESCRIPTION:MHR Practice — EMS in 45 minutes
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:9ee21b1b44e760eff7a233fc5e81fb7277e30a45@milehighrunners.com
-DTSTAMP:20261018T192312Z
-DTSTART;TZID=America/Denver:20261022T052000
-DTEND;TZID=America/Denver:20261022T062000
-SUMMARY:MHR Practice — Calvary Bible Church
-DESCRIPTION:2–3 x 2 miles at 10k pace with a 60–90 second recovery. Plu
- s\, 4 x 100m at a fun\, fast pace with full recovery between intervals.\n\
- nDetails: https://milehighrunners.com/calendar.html
-LOCATION:Calvary Bible Church\, Calvary Bible Church
-URL;VALUE=URI:https://maps.app.goo.gl/ney8K8mq7UP2KqNDA?g_st=ic
+UID:d6e928bb7b177c1b0f19b04b8573abbc8e4d69a6@milehighrunners.com
+DTSTAMP:20261026T000305Z
+DTSTART;TZID=America/Denver:20261029T052000
+DTEND;TZID=America/Denver:20261029T062000
+SUMMARY:MHR Practice — EMS
+DESCRIPTION:Warm-up: 2-mile warm-up\, drills\, and strides. Workout: 4–5 
+ x 200m (5k pace down to mile pace\, 200m easy jog/walk recovery)\, plus 4 
+ x 100m at FFP with full recoveries.\n\nDetails: https://milehighrunners.co
+ m/calendar.html
+LOCATION:EMS\, EMS
+URL;VALUE=URI:https://maps.app.goo.gl/wqjfY8ASYARsFgsx8?g_st=ic
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 CATEGORIES:Running,Practice
 BEGIN:VALARM
 TRIGGER:-PT45M
 ACTION:DISPLAY
-DESCRIPTION:MHR Practice — Calvary Bible Church in 45 minutes
+DESCRIPTION:MHR Practice — EMS in 45 minutes
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:3106fe4968e31e5375a9144a38d767a8e2b098ad@milehighrunners.com
-DTSTAMP:20261018T192312Z
-DTSTART;TZID=America/Denver:20261024T070000
-DTEND;TZID=America/Denver:20261024T083000
-SUMMARY:MHR Practice — Bobolink (Boulder)
-DESCRIPTION:Bobolink in Boulder. The more the merrier!!\n\nDetails: https:/
- /milehighrunners.com/calendar.html
-LOCATION:Bobolink (Boulder)\, Bobolink (Boulder)
-URL;VALUE=URI:https://maps.app.goo.gl/a5Paz2ZTGZqfh6um7?g_st=ic
+UID:4c0b4cb3f8d44fdb25e57812bb05a2461602506b@milehighrunners.com
+DTSTAMP:20261026T000305Z
+DTSTART;TZID=America/Denver:20261031T063000
+DTEND;TZID=America/Denver:20261031T080000
+SUMMARY:MHR Practice — Fox Dog Coffee Shop
+DESCRIPTION:Early Bird Gets Worm 5k race starting at 7:00 AM. Course detail
+ s to be decided Saturday morning. Happy Halloween!\n\nDetails: https://mil
+ ehighrunners.com/calendar.html
+LOCATION:Fox Dog Coffee Shop\, Fox Dog Coffee Shop
+URL;VALUE=URI:https://maps.app.goo.gl/koBv8u4Cin3cpGNp9?g_st=ic
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 CATEGORIES:Running,Practice
 BEGIN:VALARM
 TRIGGER:-PT45M
 ACTION:DISPLAY
-DESCRIPTION:MHR Practice — Bobolink (Boulder) in 45 minutes
+DESCRIPTION:MHR Practice — Fox Dog Coffee Shop in 45 minutes
 END:VALARM
 END:VEVENT
 END:VCALENDAR
