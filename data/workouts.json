@@ -1,41 +1,41 @@
 [
   {
-    "date": "2026-10-27",
+    "date": "2026-11-03",
     "time": "5:20 AM",
     "location": {
       "name": "EMS",
       "address": "EMS",
-      "map_link": "https://maps.app.goo.gl/wqjfY8ASYARsFgsx8?g_st=ic"
+      "map_link": "https://maps.app.goo.gl/hK8QbwFG8uc6ptdo6?g_st=ic"
     },
-    "location_link": "https://maps.app.goo.gl/wqjfY8ASYARsFgsx8?g_st=ic",
-    "description": "Low volume, high intensity with full recoveries. Warm-up: 2-mile warm-up, drills, and strides. 5k Workout: 3\u20135 x 600m at 5k pace (200m easy jog/walk recovery). 10k Workout: 3\u20134 x 800m at 10k pace (2-minute recovery between sets).",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+EMS&dates=20261027T112000Z%2F20261027T122000Z&details=Low+volume%2C+high+intensity+with+full+recoveries.+Warm-up%3A+2-mile+warm-up%2C+drills%2C+and+strides.+5k+Workout%3A+3%E2%80%935+x+600m+at+5k+pace+%28200m+easy+jog%2Fwalk+recovery%29.+10k+Workout%3A+3%E2%80%934+x+800m+at+10k+pace+%282-minute+recovery+between+sets%29.&location=EMS",
-    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYxMDI3VDExMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MTAyNlQwMDAzMDRaDQpEVFNUQVJUOjIwMjYxMDI3VDExMjAwMFoNCkRURU5EOjIwMjYxMDI3VDEyMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IEVNUw0KREVTQ1JJUFRJT046TG93IHZvbHVtZVwsIGhpZ2ggaW50ZW5zaXR5IHdpdGggZnVsbCByZWNvdmVyaWVzLiBXYXJtLXVwOiAyLW1pbGUgd2FybS11cFwsIGRyaWxsc1wsIGFuZCBzdHJpZGVzLiA1ayBXb3Jrb3V0OiAz4oCTNSB4IDYwMG0gYXQgNWsgcGFjZSAoMjAwbSBlYXN5IGpvZy93YWxrIHJlY292ZXJ5KS4gMTBrIFdvcmtvdXQ6IDPigJM0IHggODAwbSBhdCAxMGsgcGFjZSAoMi1taW51dGUgcmVjb3ZlcnkgYmV0d2VlbiBzZXRzKS4NCkxPQ0FUSU9OOkVNUw0KU1RBVFVTOkNPTkZJUk1FRA0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg=="
+    "location_link": "https://maps.app.goo.gl/hK8QbwFG8uc6ptdo6?g_st=ic",
+    "description": "If recovering from a race/hard time trial: 4 x 400m at 5k pace (90\u2013120 sec recovery), plus 4 x 100m at mile pace (100m walk recovery). Standard workout: 10\u201312 x 400m at 5k pace (60 sec recovery).",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+EMS&dates=20261103T122000Z%2F20261103T132000Z&details=If+recovering+from+a+race%2Fhard+time+trial%3A+4+x+400m+at+5k+pace+%2890%E2%80%93120+sec+recovery%29%2C+plus+4+x+100m+at+mile+pace+%28100m+walk+recovery%29.+Standard+workout%3A+10%E2%80%9312+x+400m+at+5k+pace+%2860+sec+recovery%29.&location=EMS",
+    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYxMTAzVDEyMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MTEwMVQxNzMzMjhaDQpEVFNUQVJUOjIwMjYxMTAzVDEyMjAwMFoNCkRURU5EOjIwMjYxMTAzVDEzMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IEVNUw0KREVTQ1JJUFRJT046SWYgcmVjb3ZlcmluZyBmcm9tIGEgcmFjZS9oYXJkIHRpbWUgdHJpYWw6IDQgeCA0MDBtIGF0IDVrIHBhY2UgKDkw4oCTMTIwIHNlYyByZWNvdmVyeSlcLCBwbHVzIDQgeCAxMDBtIGF0IG1pbGUgcGFjZSAoMTAwbSB3YWxrIHJlY292ZXJ5KS4gU3RhbmRhcmQgd29ya291dDogMTDigJMxMiB4IDQwMG0gYXQgNWsgcGFjZSAoNjAgc2VjIHJlY292ZXJ5KS4NCkxPQ0FUSU9OOkVNUw0KU1RBVFVTOkNPTkZJUk1FRA0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg=="
   },
   {
-    "date": "2026-10-29",
+    "date": "2026-11-05",
     "time": "5:20 AM",
     "location": {
-      "name": "EMS",
-      "address": "EMS",
-      "map_link": "https://maps.app.goo.gl/wqjfY8ASYARsFgsx8?g_st=ic"
+      "name": "Lehigh Park",
+      "address": "Lehigh Park",
+      "map_link": "https://maps.app.goo.gl/pUXsvdhqDj6Z11Lo6?g_st=ic"
     },
-    "location_link": "https://maps.app.goo.gl/wqjfY8ASYARsFgsx8?g_st=ic",
-    "description": "Warm-up: 2-mile warm-up, drills, and strides. Workout: 4\u20135 x 200m (5k pace down to mile pace, 200m easy jog/walk recovery), plus 4 x 100m at FFP with full recoveries.",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+EMS&dates=20261029T112000Z%2F20261029T122000Z&details=Warm-up%3A+2-mile+warm-up%2C+drills%2C+and+strides.+Workout%3A+4%E2%80%935+x+200m+%285k+pace+down+to+mile+pace%2C+200m+easy+jog%2Fwalk+recovery%29%2C+plus+4+x+100m+at+FFP+with+full+recoveries.&location=EMS",
-    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYxMDI5VDExMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MTAyNlQwMDAzMDRaDQpEVFNUQVJUOjIwMjYxMDI5VDExMjAwMFoNCkRURU5EOjIwMjYxMDI5VDEyMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IEVNUw0KREVTQ1JJUFRJT046V2FybS11cDogMi1taWxlIHdhcm0tdXBcLCBkcmlsbHNcLCBhbmQgc3RyaWRlcy4gV29ya291dDogNOKAkzUgeCAyMDBtICg1ayBwYWNlIGRvd24gdG8gbWlsZSBwYWNlXCwgMjAwbSBlYXN5IGpvZy93YWxrIHJlY292ZXJ5KVwsIHBsdXMgNCB4IDEwMG0gYXQgRkZQIHdpdGggZnVsbCByZWNvdmVyaWVzLg0KTE9DQVRJT046RU1TDQpTVEFUVVM6Q09ORklSTUVEDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFS"
+    "location_link": "https://maps.app.goo.gl/pUXsvdhqDj6Z11Lo6?g_st=ic",
+    "description": "5 intervals of 800m/200m (first 800m at 10k pace, last 200m at 5k pace) with 90\u2013120 sec recovery between intervals.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+Lehigh+Park&dates=20261105T122000Z%2F20261105T132000Z&details=5+intervals+of+800m%2F200m+%28first+800m+at+10k+pace%2C+last+200m+at+5k+pace%29+with+90%E2%80%93120+sec+recovery+between+intervals.&location=Lehigh+Park",
+    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYxMTA1VDEyMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MTEwMVQxNzMzMjhaDQpEVFNUQVJUOjIwMjYxMTA1VDEyMjAwMFoNCkRURU5EOjIwMjYxMTA1VDEzMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IExlaGlnaCBQYXJrDQpERVNDUklQVElPTjo1IGludGVydmFscyBvZiA4MDBtLzIwMG0gKGZpcnN0IDgwMG0gYXQgMTBrIHBhY2VcLCBsYXN0IDIwMG0gYXQgNWsgcGFjZSkgd2l0aCA5MOKAkzEyMCBzZWMgcmVjb3ZlcnkgYmV0d2VlbiBpbnRlcnZhbHMuDQpMT0NBVElPTjpMZWhpZ2ggUGFyaw0KU1RBVFVTOkNPTkZJUk1FRA0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg=="
   },
   {
-    "date": "2026-10-31",
-    "time": "6:30 AM",
+    "date": "2026-11-07",
+    "time": "7:00 AM",
     "location": {
       "name": "Fox Dog Coffee Shop",
       "address": "Fox Dog Coffee Shop",
-      "map_link": "https://maps.app.goo.gl/koBv8u4Cin3cpGNp9?g_st=ic"
+      "map_link": "https://maps.app.goo.gl/H7k9e5wTSJcmwKBt8?g_st=ic"
     },
-    "location_link": "https://maps.app.goo.gl/koBv8u4Cin3cpGNp9?g_st=ic",
-    "description": "Early Bird Gets Worm 5k race starting at 7:00 AM. Course details to be decided Saturday morning. Happy Halloween!",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+Fox+Dog+Coffee+Shop&dates=20261031T123000Z%2F20261031T133000Z&details=Early+Bird+Gets+Worm+5k+race+starting+at+7%3A00+AM.+Course+details+to+be+decided+Saturday+morning.+Happy+Halloween%21&location=Fox+Dog+Coffee+Shop",
-    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYxMDMxVDEyMzAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MTAyNlQwMDAzMDRaDQpEVFNUQVJUOjIwMjYxMDMxVDEyMzAwMFoNCkRURU5EOjIwMjYxMDMxVDEzMzAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IEZveCBEb2cgQ29mZmVlIFNob3ANCkRFU0NSSVBUSU9OOkVhcmx5IEJpcmQgR2V0cyBXb3JtIDVrIHJhY2Ugc3RhcnRpbmcgYXQgNzowMCBBTS4gQ291cnNlIGRldGFpbHMgdG8gYmUgZGVjaWRlZCBTYXR1cmRheSBtb3JuaW5nLiBIYXBweSBIYWxsb3dlZW4hDQpMT0NBVElPTjpGb3ggRG9nIENvZmZlZSBTaG9wDQpTVEFUVVM6Q09ORklSTUVEDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFS"
+    "location_link": "https://maps.app.goo.gl/H7k9e5wTSJcmwKBt8?g_st=ic",
+    "description": "Social Run: All abilities are welcome to join us. The more the merrier!",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+Fox+Dog+Coffee+Shop&dates=20261107T140000Z%2F20261107T150000Z&details=Social+Run%3A+All+abilities+are+welcome+to+join+us.+The+more+the+merrier%21&location=Fox+Dog+Coffee+Shop",
+    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYxMTA3VDE0MDAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MTEwMVQxNzMzMjhaDQpEVFNUQVJUOjIwMjYxMTA3VDE0MDAwMFoNCkRURU5EOjIwMjYxMTA3VDE1MDAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IEZveCBEb2cgQ29mZmVlIFNob3ANCkRFU0NSSVBUSU9OOlNvY2lhbCBSdW46IEFsbCBhYmlsaXRpZXMgYXJlIHdlbGNvbWUgdG8gam9pbiB1cy4gVGhlIG1vcmUgdGhlIG1lcnJpZXIhDQpMT0NBVElPTjpGb3ggRG9nIENvZmZlZSBTaG9wDQpTVEFUVVM6Q09ORklSTUVEDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFS"
   }
 ]

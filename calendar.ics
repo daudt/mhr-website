@@ -30,18 +30,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2f5c6827abe05b3cdf164460de1d7e518cc13f5d@milehighrunners.com
-DTSTAMP:20261026T000305Z
-DTSTART;TZID=America/Denver:20261027T052000
-DTEND;TZID=America/Denver:20261027T062000
+UID:708251ac9fc5880c0471b8bf7ffd25713657aae3@milehighrunners.com
+DTSTAMP:20261101T173328Z
+DTSTART;TZID=America/Denver:20261103T052000
+DTEND;TZID=America/Denver:20261103T062000
 SUMMARY:MHR Practice — EMS
-DESCRIPTION:Low volume\, high intensity with full recoveries. Warm-up: 2-mi
- le warm-up\, drills\, and strides. 5k Workout: 3–5 x 600m at 5k pace (20
- 0m easy jog/walk recovery). 10k Workout: 3–4 x 800m at 10k pace (2-minut
- e recovery between sets).\n\nDetails: https://milehighrunners.com/calendar
- .html
+DESCRIPTION:If recovering from a race/hard time trial: 4 x 400m at 5k pace 
+ (90–120 sec recovery)\, plus 4 x 100m at mile pace (100m walk recovery).
+  Standard workout: 10–12 x 400m at 5k pace (60 sec recovery).\n\nDetails
+ : https://milehighrunners.com/calendar.html
 LOCATION:EMS\, EMS
-URL;VALUE=URI:https://maps.app.goo.gl/wqjfY8ASYARsFgsx8?g_st=ic
+URL;VALUE=URI:https://maps.app.goo.gl/hK8QbwFG8uc6ptdo6?g_st=ic
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 CATEGORIES:Running,Practice
@@ -52,37 +51,35 @@ DESCRIPTION:MHR Practice — EMS in 45 minutes
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:d6e928bb7b177c1b0f19b04b8573abbc8e4d69a6@milehighrunners.com
-DTSTAMP:20261026T000305Z
-DTSTART;TZID=America/Denver:20261029T052000
-DTEND;TZID=America/Denver:20261029T062000
-SUMMARY:MHR Practice — EMS
-DESCRIPTION:Warm-up: 2-mile warm-up\, drills\, and strides. Workout: 4–5 
- x 200m (5k pace down to mile pace\, 200m easy jog/walk recovery)\, plus 4 
- x 100m at FFP with full recoveries.\n\nDetails: https://milehighrunners.co
- m/calendar.html
-LOCATION:EMS\, EMS
-URL;VALUE=URI:https://maps.app.goo.gl/wqjfY8ASYARsFgsx8?g_st=ic
+UID:623edd8ed1c67e0291367950f6a4aa3f0050fcee@milehighrunners.com
+DTSTAMP:20261101T173328Z
+DTSTART;TZID=America/Denver:20261105T052000
+DTEND;TZID=America/Denver:20261105T062000
+SUMMARY:MHR Practice — Lehigh Park
+DESCRIPTION:5 intervals of 800m/200m (first 800m at 10k pace\, last 200m at
+  5k pace) with 90–120 sec recovery between intervals.\n\nDetails: https:
+ //milehighrunners.com/calendar.html
+LOCATION:Lehigh Park\, Lehigh Park
+URL;VALUE=URI:https://maps.app.goo.gl/pUXsvdhqDj6Z11Lo6?g_st=ic
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 CATEGORIES:Running,Practice
 BEGIN:VALARM
 TRIGGER:-PT45M
 ACTION:DISPLAY
-DESCRIPTION:MHR Practice — EMS in 45 minutes
+DESCRIPTION:MHR Practice — Lehigh Park in 45 minutes
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:4c0b4cb3f8d44fdb25e57812bb05a2461602506b@milehighrunners.com
-DTSTAMP:20261026T000305Z
-DTSTART;TZID=America/Denver:20261031T063000
-DTEND;TZID=America/Denver:20261031T080000
+UID:172f93ecf886ea08decdaf464cacd32b548450f7@milehighrunners.com
+DTSTAMP:20261101T173328Z
+DTSTART;TZID=America/Denver:20261107T070000
+DTEND;TZID=America/Denver:20261107T083000
 SUMMARY:MHR Practice — Fox Dog Coffee Shop
-DESCRIPTION:Early Bird Gets Worm 5k race starting at 7:00 AM. Course detail
- s to be decided Saturday morning. Happy Halloween!\n\nDetails: https://mil
- ehighrunners.com/calendar.html
+DESCRIPTION:Social Run: All abilities are welcome to join us. The more the 
+ merrier!\n\nDetails: https://milehighrunners.com/calendar.html
 LOCATION:Fox Dog Coffee Shop\, Fox Dog Coffee Shop
-URL;VALUE=URI:https://maps.app.goo.gl/koBv8u4Cin3cpGNp9?g_st=ic
+URL;VALUE=URI:https://maps.app.goo.gl/H7k9e5wTSJcmwKBt8?g_st=ic
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 CATEGORIES:Running,Practice

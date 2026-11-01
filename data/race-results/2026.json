@@ -862,5 +862,95 @@
         "time": null
       }
     ]
+  },
+  {
+    "event_name": "Eerie Erie 10K",
+    "date": "2026-10-31",
+    "results": [
+      {
+        "runner": "Angela Friend",
+        "placement": null,
+        "division": null,
+        "time": "1:13:24"
+      },
+      {
+        "runner": "Maddie Burris",
+        "placement": null,
+        "division": null,
+        "time": "1:28:21"
+      },
+      {
+        "runner": "Nick Conlon",
+        "placement": null,
+        "division": null,
+        "time": "1:28:21"
+      }
+    ]
+  },
+  {
+    "event_name": "Eerie Erie 5K",
+    "date": "2026-10-31",
+    "results": [
+      {
+        "runner": "Ben Miron",
+        "placement": "1st OA",
+        "division": "Overall Male",
+        "time": "17:31"
+      },
+      {
+        "runner": "Lindsay Knast",
+        "placement": "1st OA",
+        "division": "Overall Female",
+        "time": "19:06"
+      },
+      {
+        "runner": "Tyko Shoji",
+        "placement": "2nd AG",
+        "division": null,
+        "time": "18:53"
+      },
+      {
+        "runner": "Kummi Ka",
+        "placement": "2nd AG",
+        "division": null,
+        "time": "24:20"
+      },
+      {
+        "runner": "Dale Hawkins",
+        "placement": "7th AG",
+        "division": null,
+        "time": "23:57"
+      },
+      {
+        "runner": "Rafael Daudt",
+        "placement": "9th AG",
+        "division": null,
+        "time": "24:49"
+      },
+      {
+        "runner": "Warren Fernandes",
+        "placement": "14th AG",
+        "division": null,
+        "time": "26:52"
+      },
+      {
+        "runner": "Eliana Van Etten",
+        "placement": "9th AG",
+        "division": null,
+        "time": "27:40"
+      },
+      {
+        "runner": "Allie Daudt",
+        "placement": null,
+        "division": null,
+        "time": "46:34"
+      },
+      {
+        "runner": "Amy Wu",
+        "placement": null,
+        "division": null,
+        "time": "35:42"
+      }
+    ]
   }
 ]
