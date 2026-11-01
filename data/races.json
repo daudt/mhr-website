@@ -1,240 +1,240 @@
 [
   {
-    "id": "moab-trail-marathon-2026",
-    "name": "Moab Trail Marathon",
-    "date": "2026-11-07",
-    "time": "TBD",
-    "distance": "Marathon / Half Marathon / 10K / Kids K",
-    "location": {
-      "name": "Moab, UT",
-      "address": "Moab, UT",
-      "map_link": "https://maps.google.com/?q=Moab++UT"
-    },
-    "registration_url": "https://moabtrailmarathon.com/",
-    "website_url": "https://moabtrailmarathon.com/",
-    "description": "Moab Trail Marathon features 26 miles of exhilaration through scenic and unique landscapes. 2026 USATF Trail Half Marathon National Championships and Host of the Collegiate Trail Running Championships 2026. Multiple distance options available including Marathon, Half Marathon, 10K Adventure Run, and Kids K Race.",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Moab+Trail+Marathon&dates=20261107T080000Z%2F20261107T120000Z&details=Moab+Trail+Marathon+features+26+miles+of+exhilaration+through+scenic+and+unique+landscapes.+2026+USATF+Trail+Half+Marathon+National+Championships+and+Host+of+the+Collegiate+Trail+Running+Championships&location=TBD",
-    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:moab-trail-marathon-2026@milehighrunners.com\nDTSTAMP:20261025T000000Z\nDTSTART:20261107T080000Z\nDTEND:20261107T120000Z\nSUMMARY:Moab Trail Marathon\nDESCRIPTION:Moab Trail Marathon features 26 miles of exhilaration through scenic and unique landscapes. 2026 USATF Trail Half Marathon National Championships and Host of the Collegiate Trail Running Championships 2026. Multiple distance options available including Marathon\\, Half Marathon\\, 10K Adventure Run\\, and Kids K Race.\nLOCATION:TBD\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
-  },
-  {
-    "id": "kessel-run-ultra-2026",
-    "name": "Kessel Run Ultra",
-    "date": "2026-11-07",
-    "time": "6:00 AM",
-    "distance": "10 Mile / 20 Mile / 50K / 40 Mile / 50 Mile",
-    "location": {
-      "name": "Fruita, Colorado",
-      "address": "18 Road Parking, Fruita, CO (GPS: 39.31093, -108.70360)",
-      "map_link": "https://maps.google.com/?q=18+Road+Parking++Fruita++CO+%28GPS%3A+39.31093++-108.70360%29"
-    },
-    "registration_url": "https://www.madmooseevents.com/kessel-run-ultra",
-    "website_url": "https://www.madmooseevents.com/kessel-run-ultra",
-    "description": "Trail ultramarathon event located in North Fruita Desert, Colorado featuring world-class single track trails with sweeping views of the San Juan Mountains and Colorado National Monument. All distances begin on fast, flowing singletrack and progress to steep terrain on the Zippity-Do-Da Trail. Course elevations range from 5,030' to 5,541'. Event includes aid stations, finisher's medal, custom race shirt, bib, and BOCO Technical Trucker hat.",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Kessel+Run+Ultra&dates=20261107T060000Z%2F20261107T100000Z&details=Trail+ultramarathon+event+located+in+North+Fruita+Desert%2C+Colorado+featuring+world-class+single+track+trails+with+sweeping+views+of+the+San+Juan+Mountains+and+Colorado+National+Monument.+All+distances&location=18+Road+Parking%2C+Fruita%2C+CO+%28GPS%3A+39.31093%2C+-108.70360%29",
-    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:kessel-run-ultra-2026@milehighrunners.com\nDTSTAMP:20261025T000000Z\nDTSTART:20261107T060000Z\nDTEND:20261107T100000Z\nSUMMARY:Kessel Run Ultra\nDESCRIPTION:Trail ultramarathon event located in North Fruita Desert\\, Colorado featuring world-class single track trails with sweeping views of the San Juan Mountains and Colorado National Monument. All distances begin on fast\\, flowing singletrack and progress to steep terrain on the Zippity-Do-Da Trail. Course elevations range from 5\\,030' to 5\\,541'. Event includes aid stations\\, finisher's medal\\, custom race shirt\\, bib\\, and BOCO Technical Trucker hat.\nLOCATION:18 Road Parking\\, Fruita\\, CO (GPS: 39.31093\\, -108.70360)\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
-  },
-  {
-    "id": "colorado-24-hour-run-2026",
-    "name": "Colorado 24 Hour Run",
-    "date": "2026-11-07",
-    "time": "8:00 AM",
-    "distance": "6 Hour / 12 Hour / 24 Hour",
+    "id": "the-colorado-marathon-2027",
+    "name": "The Colorado Marathon",
+    "date": "2027-05-02",
+    "time": "6:30 AM MDT",
+    "distance": "5K / 10K / Half Marathon / Marathon",
     "location": {
       "name": "Fort Collins, CO",
-      "address": "Colorado Youth Outdoors \u2013 Swift Ponds Campus, Fort Collins, CO",
-      "map_link": "https://maps.google.com/?q=Colorado+Youth+Outdoors+%E2%80%93+Swift+Ponds+Campus++Fort+Collins++CO"
+      "address": "301 Maple St. Fort Collins, CO 80521 US",
+      "map_link": "https://maps.google.com/?q=301+Maple+St.+Fort+Collins++CO+80521+US"
     },
-    "registration_url": "https://gnarrunners.com/colorado-24-hour-run/",
-    "website_url": "https://gnarrunners.com/colorado-24-hour-run/",
-    "description": "A scenic, fully supported 1-mile dirt loop running event offering 6, 12, or 24-hour race options, as well as relay team formats. Participants can run during the day and/or night with full aid stations, hot food, and post-race celebration. The event benefits Colorado Youth Outdoors nonprofit, with fundraising opportunities available.",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Colorado+24+Hour+Run&dates=20261107T080000Z%2F20261107T120000Z&details=A+scenic%2C+fully+supported+1-mile+dirt+loop+running+event+offering+6%2C+12%2C+or+24-hour+race+options%2C+as+well+as+relay+team+formats.+Participants+can+run+during+the+day+and%2For+night+with+full+aid+stations&location=Colorado+Youth+Outdoors+%E2%80%93+Swift+Ponds+Campus%2C+Fort+Collins%2C+CO",
-    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:colorado-24-hour-run-2026@milehighrunners.com\nDTSTAMP:20261025T000000Z\nDTSTART:20261107T080000Z\nDTEND:20261107T120000Z\nSUMMARY:Colorado 24 Hour Run\nDESCRIPTION:A scenic\\, fully supported 1-mile dirt loop running event offering 6\\, 12\\, or 24-hour race options\\, as well as relay team formats. Participants can run during the day and/or night with full aid stations\\, hot food\\, and post-race celebration. The event benefits Colorado Youth Outdoors nonprofit\\, with fundraising opportunities available.\nLOCATION:Colorado Youth Outdoors \u2013 Swift Ponds Campus\\, Fort Collins\\, CO\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+    "registration_url": "https://runsignup.com/Race/CO/FortCollins/TheColoradoMarathon",
+    "website_url": "https://runsignup.com/Race/CO/FortCollins/TheColoradoMarathon",
+    "description": "Annual Colorado Marathon in Fort Collins featuring scenic downhill courses through Poudre Canyon and Northern Colorado natural areas. Four distance options available. Known as one of Colorado's fastest races for Boston Marathon qualification. Event sells out quickly with vibrant community atmosphere.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The+Colorado+Marathon&dates=20270502T063000Z%2F20270502T103000Z&details=Annual+Colorado+Marathon+in+Fort+Collins+featuring+scenic+downhill+courses+through+Poudre+Canyon+and+Northern+Colorado+natural+areas.+Four+distance+options+available.+Known+as+one+of+Colorado%27s+fastes&location=301+Maple+St.+Fort+Collins%2C+CO+80521+US",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:the-colorado-marathon-2027@milehighrunners.com\nDTSTAMP:20261101T000000Z\nDTSTART:20270502T063000Z\nDTEND:20270502T103000Z\nSUMMARY:The Colorado Marathon\nDESCRIPTION:Annual Colorado Marathon in Fort Collins featuring scenic downhill courses through Poudre Canyon and Northern Colorado natural areas. Four distance options available. Known as one of Colorado's fastest races for Boston Marathon qualification. Event sells out quickly with vibrant community atmosphere.\nLOCATION:301 Maple St. Fort Collins\\, CO 80521 US\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
   },
   {
-    "id": "aravaipa-colorado-louisville-2026",
-    "name": "Aravaipa Colorado - Louisville",
-    "date": "2026-11-14",
-    "time": "TBD",
-    "distance": "Half-Marathon / 10K / 5K",
+    "id": "ram-party-trail-runs-2027",
+    "name": "Ram Party Trail Runs",
+    "date": "2027-05-15",
+    "time": "6:00 AM",
+    "distance": "55 Mile / 60K / 50K / 24K / 15K",
+    "location": {
+      "name": "Colorado Springs, CO",
+      "address": "Buffalo Lodge Bicycle Resort, 2 El Paso Blvd, Colorado Springs, CO 80904",
+      "map_link": "https://maps.google.com/?q=Buffalo+Lodge+Bicycle+Resort++2+El+Paso+Blvd++Colorado+Springs++CO+80904"
+    },
+    "registration_url": "https://www.aravaiparunning.com/ram-party/",
+    "website_url": "https://www.aravaiparunning.com/ram-party/",
+    "description": "Ram Party Trail Runs features multiple distance options centered around the beautiful Rampart Reservoir in Woodland Park and Rampart Range Road. The race offers scenic views of Pikes Peak and the front range with elevation gains ranging from 3,279 feet (60K) to 6,964 feet (55 Mile).",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Ram+Party+Trail+Runs&dates=20270515T060000Z%2F20270515T100000Z&details=Ram+Party+Trail+Runs+features+multiple+distance+options+centered+around+the+beautiful+Rampart+Reservoir+in+Woodland+Park+and+Rampart+Range+Road.+The+race+offers+scenic+views+of+Pikes+Peak+and+the+fron&location=Buffalo+Lodge+Bicycle+Resort%2C+2+El+Paso+Blvd%2C+Colorado+Springs%2C+CO+80904",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:ram-party-trail-runs-2027@milehighrunners.com\nDTSTAMP:20261101T000000Z\nDTSTART:20270515T060000Z\nDTEND:20270515T100000Z\nSUMMARY:Ram Party Trail Runs\nDESCRIPTION:Ram Party Trail Runs features multiple distance options centered around the beautiful Rampart Reservoir in Woodland Park and Rampart Range Road. The race offers scenic views of Pikes Peak and the front range with elevation gains ranging from 3\\,279 feet (60K) to 6\\,964 feet (55 Mile).\nLOCATION:Buffalo Lodge Bicycle Resort\\, 2 El Paso Blvd\\, Colorado Springs\\, CO 80904\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+  },
+  {
+    "id": "north-fork-50-2027",
+    "name": "North Fork 50",
+    "date": "2027-05-22",
+    "time": "6:00 AM / 7:00 AM",
+    "distance": "50 Mile / 50K",
+    "location": {
+      "name": "Buffalo Creek, CO",
+      "address": "Buffalo Creek Clubhouse, 18050 S Buffalo Creek Rd, Buffalo Creek, CO 80470",
+      "map_link": "https://maps.google.com/?q=Buffalo+Creek+Clubhouse++18050+S+Buffalo+Creek+Rd++Buffalo+Creek++CO+80470"
+    },
+    "registration_url": "https://www.aravaiparunning.com/north-fork-ultras/",
+    "website_url": "https://www.aravaiparunning.com/north-fork-ultras/",
+    "description": "The North Fork 50 Mile/50K is an ultramarathon in the Colorado mountains southwest of Denver featuring 100% soft surface trails, primarily singletrack through beautiful ponderosa pines and granite rock formations. The course includes sections through open burn areas from a 1996 fire. Race proceeds benefit the North Fork Volunteer Fire Department and local community organizations.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=North+Fork+50&dates=20270522T060000Z%2F20270522T100000Z&details=The+North+Fork+50+Mile%2F50K+is+an+ultramarathon+in+the+Colorado+mountains+southwest+of+Denver+featuring+100%25+soft+surface+trails%2C+primarily+singletrack+through+beautiful+ponderosa+pines+and+granite+roc&location=Buffalo+Creek+Clubhouse%2C+18050+S+Buffalo+Creek+Rd%2C+Buffalo+Creek%2C+CO+80470",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:north-fork-50-2027@milehighrunners.com\nDTSTAMP:20261101T000000Z\nDTSTART:20270522T060000Z\nDTEND:20270522T100000Z\nSUMMARY:North Fork 50\nDESCRIPTION:The North Fork 50 Mile/50K is an ultramarathon in the Colorado mountains southwest of Denver featuring 100% soft surface trails\\, primarily singletrack through beautiful ponderosa pines and granite rock formations. The course includes sections through open burn areas from a 1996 fire. Race proceeds benefit the North Fork Volunteer Fire Department and local community organizations.\nLOCATION:Buffalo Creek Clubhouse\\, 18050 S Buffalo Creek Rd\\, Buffalo Creek\\, CO 80470\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+  },
+  {
+    "id": "colorado-13er-2027",
+    "name": "Colorado 13er",
+    "date": "2027-06-06",
+    "time": "6:30 AM MDT",
+    "distance": "5K / 10K / Half Marathon (13.1 miles)",
     "location": {
       "name": "Louisville, CO",
-      "address": "Louisville, CO",
-      "map_link": "https://maps.google.com/?q=Louisville++CO"
+      "address": "Home Depot, 1200 Dillon Road, Louisville, CO 80027",
+      "map_link": "https://maps.google.com/?q=Home+Depot++1200+Dillon+Road++Louisville++CO+80027"
     },
-    "registration_url": "https://www.aravaiparunning.com/colorado/",
-    "website_url": "https://www.aravaiparunning.com/colorado/",
-    "description": "Trail running event in Louisville, Colorado hosted by Aravaipa Running",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Aravaipa+Colorado+-+Louisville&dates=20261114T080000Z%2F20261114T120000Z&details=Trail+running+event+in+Louisville%2C+Colorado+hosted+by+Aravaipa+Running&location=Louisville%2C+CO",
-    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:aravaipa-colorado-louisville-2026@milehighrunners.com\nDTSTAMP:20261025T000000Z\nDTSTART:20261114T080000Z\nDTEND:20261114T120000Z\nSUMMARY:Aravaipa Colorado - Louisville\nDESCRIPTION:Trail running event in Louisville\\, Colorado hosted by Aravaipa Running\nLOCATION:Louisville\\, CO\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+    "registration_url": "https://www.colorado13er.com/",
+    "website_url": "https://www.colorado13er.com/",
+    "description": "The Colorado 13er is an exceptionally scenic, looped half marathon (13.1 miles) that combines trail running and road racing through Louisville, Colorado with spectacular views of the Flatirons. The course features 9 miles of flat, crushed gravel with 10 water stations, 5 port-a-john passes, free parking, and is chip-timed with live results. All participants receive a performance tee and finishers receive a collector's pint glass. Half marathon finishers also receive a collector's finisher medal. 5K and 10K options are available.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Colorado+13er&dates=20270606T063000Z%2F20270606T103000Z&details=The+Colorado+13er+is+an+exceptionally+scenic%2C+looped+half+marathon+%2813.1+miles%29+that+combines+trail+running+and+road+racing+through+Louisville%2C+Colorado+with+spectacular+views+of+the+Flatirons.+The+co&location=Home+Depot%2C+1200+Dillon+Road%2C+Louisville%2C+CO+80027",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:colorado-13er-2027@milehighrunners.com\nDTSTAMP:20261101T000000Z\nDTSTART:20270606T063000Z\nDTEND:20270606T103000Z\nSUMMARY:Colorado 13er\nDESCRIPTION:The Colorado 13er is an exceptionally scenic\\, looped half marathon (13.1 miles) that combines trail running and road racing through Louisville\\, Colorado with spectacular views of the Flatirons. The course features 9 miles of flat\\, crushed gravel with 10 water stations\\, 5 port-a-john passes\\, free parking\\, and is chip-timed with live results. All participants receive a performance tee and finishers receive a collector's pint glass. Half marathon finishers also receive a collector's finisher medal. 5K and 10K options are available.\nLOCATION:Home Depot\\, 1200 Dillon Road\\, Louisville\\, CO 80027\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
   },
   {
-    "id": "longmont-turkey-trot-2026",
-    "name": "Longmont Turkey Trot",
-    "date": "2026-11-14",
-    "time": "9:00 AM",
-    "distance": "10K / 2 Mile",
+    "id": "ring-the-springs-2027",
+    "name": "Ring the Springs",
+    "date": "2027-06-19",
+    "time": "6:00 AM / 7:00 AM / 8:00 AM",
+    "distance": "100K / 50K / 35K",
     "location": {
-      "name": "Longmont, CO",
-      "address": "Altona Middle School, 4600 Clover Basin Dr, Longmont, CO",
-      "map_link": "https://maps.google.com/?q=Altona+Middle+School++4600+Clover+Basin+Dr++Longmont++CO"
+      "name": "Colorado Springs, CO",
+      "address": "Rock Ledge Ranch at Garden of The Gods, 3105 Gateway Road, Colorado Springs, CO 80904",
+      "map_link": "https://maps.google.com/?q=Rock+Ledge+Ranch+at+Garden+of+The+Gods++3105+Gateway+Road++Colorado+Springs++CO+80904"
     },
-    "registration_url": "https://www.longmontcolorado.gov/departments/departments-n-z/recreation-services/community-events/turkey-trot",
-    "website_url": "https://www.longmontcolorado.gov/departments/departments-n-z/recreation-services/community-events/turkey-trot",
-    "description": "The Longmont Turkey Trot is one of the fastest, most scenic 10K and 2-mile courses. Participants can run, roll, or walk past the finish line with wheelchair division available for the 10K race. The event kicks off the holiday season with age group and gender divisions for awards.",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Longmont+Turkey+Trot&dates=20261114T090000Z%2F20261114T130000Z&details=The+Longmont+Turkey+Trot+is+one+of+the+fastest%2C+most+scenic+10K+and+2-mile+courses.+Participants+can+run%2C+roll%2C+or+walk+past+the+finish+line+with+wheelchair+division+available+for+the+10K+race.+The+ev&location=Altona+Middle+School%2C+4600+Clover+Basin+Dr%2C+Longmont%2C+CO",
-    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:longmont-turkey-trot-2026@milehighrunners.com\nDTSTAMP:20261025T000000Z\nDTSTART:20261114T090000Z\nDTEND:20261114T130000Z\nSUMMARY:Longmont Turkey Trot\nDESCRIPTION:The Longmont Turkey Trot is one of the fastest\\, most scenic 10K and 2-mile courses. Participants can run\\, roll\\, or walk past the finish line with wheelchair division available for the 10K race. The event kicks off the holiday season with age group and gender divisions for awards.\nLOCATION:Altona Middle School\\, 4600 Clover Basin Dr\\, Longmont\\, CO\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+    "registration_url": "https://www.aravaiparunning.com/ring-the-springs/",
+    "website_url": "https://www.aravaiparunning.com/ring-the-springs/",
+    "description": "Ring the Springs is a trail running event featuring three distance options (100K, 50K, and 35K) through the stunning landscapes of Colorado Springs. The course weaves through majestic mountains, scenic city parks, and iconic landmarks including North Cheyenne Ca\u00f1on and Pike National Forest trails. Starting and finishing at historic Rock Ledge Ranch in Garden of the Gods, runners experience exhilarating climbs and rewarding descents while immersed in breathtaking mountain vistas.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Ring+the+Springs&dates=20270619T060000Z%2F20270619T100000Z&details=Ring+the+Springs+is+a+trail+running+event+featuring+three+distance+options+%28100K%2C+50K%2C+and+35K%29+through+the+stunning+landscapes+of+Colorado+Springs.+The+course+weaves+through+majestic+mountains%2C+sceni&location=Rock+Ledge+Ranch+at+Garden+of+The+Gods%2C+3105+Gateway+Road%2C+Colorado+Springs%2C+CO+80904",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:ring-the-springs-2027@milehighrunners.com\nDTSTAMP:20261101T000000Z\nDTSTART:20270619T060000Z\nDTEND:20270619T100000Z\nSUMMARY:Ring the Springs\nDESCRIPTION:Ring the Springs is a trail running event featuring three distance options (100K\\, 50K\\, and 35K) through the stunning landscapes of Colorado Springs. The course weaves through majestic mountains\\, scenic city parks\\, and iconic landmarks including North Cheyenne Ca\u00f1on and Pike National Forest trails. Starting and finishing at historic Rock Ledge Ranch in Garden of the Gods\\, runners experience exhilarating climbs and rewarding descents while immersed in breathtaking mountain vistas.\nLOCATION:Rock Ledge Ranch at Garden of The Gods\\, 3105 Gateway Road\\, Colorado Springs\\, CO 80904\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
   },
   {
-    "id": "turkey-trek-2026",
-    "name": "Turkey Trek",
-    "date": "2026-11-21",
-    "time": "8:30 AM",
-    "distance": "2K / 5K / 10K / 13.1 Miles (Half Turkey)",
+    "id": "vail-hillclimb-2027",
+    "name": "Vail HillClimb",
+    "date": "2027-07-01",
+    "time": "7:00 AM",
+    "distance": "Running Race",
     "location": {
-      "name": "Arvada, CO",
-      "address": "Long Lake Regional Park, Arvada, CO 80007",
-      "map_link": "https://maps.google.com/?q=Long+Lake+Regional+Park++Arvada++CO+80007"
-    },
-    "registration_url": "https://www.10kturkeytrek.com/",
-    "website_url": "https://www.10kturkeytrek.com/",
-    "description": "Turkey Trek is a unique holiday running event featuring multiple distance options with three interactive challenges: Eggnog Chug Challenge, Hay Bale Hop Challenge, and Fill Your Pie Hole Challenge. All participants receive a red heavyweight performance-blend hooded sweatshirt. The Half Turkey (13.1 miles) finishers earn a commemorative finisher mug. Proceeds benefit Community Table, a local food bank serving Arvada and surrounding areas.",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Turkey+Trek&dates=20261121T083000Z%2F20261121T123000Z&details=Turkey+Trek+is+a+unique+holiday+running+event+featuring+multiple+distance+options+with+three+interactive+challenges%3A+Eggnog+Chug+Challenge%2C+Hay+Bale+Hop+Challenge%2C+and+Fill+Your+Pie+Hole+Challenge.+Al&location=Long+Lake+Regional+Park%2C+Arvada%2C+CO+80007",
-    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:turkey-trek-2026@milehighrunners.com\nDTSTAMP:20261025T000000Z\nDTSTART:20261121T083000Z\nDTEND:20261121T123000Z\nSUMMARY:Turkey Trek\nDESCRIPTION:Turkey Trek is a unique holiday running event featuring multiple distance options with three interactive challenges: Eggnog Chug Challenge\\, Hay Bale Hop Challenge\\, and Fill Your Pie Hole Challenge. All participants receive a red heavyweight performance-blend hooded sweatshirt. The Half Turkey (13.1 miles) finishers earn a commemorative finisher mug. Proceeds benefit Community Table\\, a local food bank serving Arvada and surrounding areas.\nLOCATION:Long Lake Regional Park\\, Arvada\\, CO 80007\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
-  },
-  {
-    "id": "pumpkin-pie-5k10k-2026",
-    "name": "Pumpkin Pie 5K/10K",
-    "date": "2026-11-21",
-    "time": "TBD",
-    "distance": "5K / 10K",
-    "location": {
-      "name": "Denver, CO",
-      "address": "City Park, Denver, CO",
-      "map_link": "https://maps.google.com/?q=City+Park++Denver++CO"
-    },
-    "registration_url": "https://www.coloradorunnerevents.com/Pumpkin/",
-    "website_url": "https://www.coloradorunnerevents.com/",
-    "description": "5K and 10K race produced by Colorado Runner Events, part of their annual event series in the Denver metro area.",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Pumpkin+Pie+5K%2F10K&dates=20261121T080000Z%2F20261121T120000Z&details=5K+and+10K+race+produced+by+Colorado+Runner+Events%2C+part+of+their+annual+event+series+in+the+Denver+metro+area.&location=City+Park%2C+Denver%2C+CO",
-    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:pumpkin-pie-5k10k-2026@milehighrunners.com\nDTSTAMP:20261025T000000Z\nDTSTART:20261121T080000Z\nDTEND:20261121T120000Z\nSUMMARY:Pumpkin Pie 5K/10K\nDESCRIPTION:5K and 10K race produced by Colorado Runner Events\\, part of their annual event series in the Denver metro area.\nLOCATION:City Park\\, Denver\\, CO\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
-  },
-  {
-    "id": "gobble-wobble-run-2026",
-    "name": "Gobble Wobble Run",
-    "date": "2026-11-26",
-    "time": "8:30 AM",
-    "distance": "5K",
-    "location": {
-      "name": "Littleton, CO",
-      "address": "Clement Park, Littleton, CO",
-      "map_link": "https://maps.google.com/?q=Clement+Park++Littleton++CO"
-    },
-    "registration_url": "https://www.gobblewobblerun.com/",
-    "website_url": "https://www.gobblewobblerun.com/",
-    "description": "Gobble Wobble Run 5K on Thanksgiving Day. Features early packet pickup at Fleet Feet. 2026 beneficiary is the Colorado National Guard Foundation. Title sponsor is The Alan Smith Team at RE/MAX Professionals.",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Gobble+Wobble+Run&dates=20261126T083000Z%2F20261126T123000Z&details=Gobble+Wobble+Run+5K+on+Thanksgiving+Day.+Features+early+packet+pickup+at+Fleet+Feet.+2026+beneficiary+is+the+Colorado+National+Guard+Foundation.+Title+sponsor+is+The+Alan+Smith+Team+at+RE%2FMAX+Profess&location=Clement+Park%2C+Littleton%2C+CO",
-    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:gobble-wobble-run-2026@milehighrunners.com\nDTSTAMP:20261025T000000Z\nDTSTART:20261126T083000Z\nDTEND:20261126T123000Z\nSUMMARY:Gobble Wobble Run\nDESCRIPTION:Gobble Wobble Run 5K on Thanksgiving Day. Features early packet pickup at Fleet Feet. 2026 beneficiary is the Colorado National Guard Foundation. Title sponsor is The Alan Smith Team at RE/MAX Professionals.\nLOCATION:Clement Park\\, Littleton\\, CO\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
-  },
-  {
-    "id": "turkey-rock-trot-5k-2026",
-    "name": "Turkey ROCK Trot 5k",
-    "date": "2026-11-26",
-    "time": "9:00 AM",
-    "distance": "5K / 1K Kids Dash",
-    "location": {
-      "name": "Castle Rock, CO",
-      "address": "Douglas County Event Center, 500 Fairgrounds Drive, Castle Rock, CO",
-      "map_link": "https://maps.google.com/?q=Douglas+County+Event+Center++500+Fairgrounds+Drive++Castle+Rock++CO"
-    },
-    "registration_url": "https://www.turkeyrocktrot.com",
-    "website_url": "https://www.turkeyrocktrot.com",
-    "description": "Plum Creek Church 22nd Annual Turkey ROCK Trot Presented by CORE - A Thanksgiving morning 5K family fun run/walk/stroll featuring live DJ at start line, live music on course, indoor health & wellness expo with 30+ vendors, free kids dash, awards ceremony, and costume contest. All proceeds benefit the Help&Hope Center. FREE 1K Kids Dash at 8:30 AM sponsored by PR Youth Running.",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Turkey+ROCK+Trot+5k&dates=20261126T090000Z%2F20261126T130000Z&details=Plum+Creek+Church+22nd+Annual+Turkey+ROCK+Trot+Presented+by+CORE+-+A+Thanksgiving+morning+5K+family+fun+run%2Fwalk%2Fstroll+featuring+live+DJ+at+start+line%2C+live+music+on+course%2C+indoor+health+%26+wellness+&location=Douglas+County+Event+Center%2C+500+Fairgrounds+Drive%2C+Castle+Rock%2C+CO",
-    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:turkey-rock-trot-5k-2026@milehighrunners.com\nDTSTAMP:20261025T000000Z\nDTSTART:20261126T090000Z\nDTEND:20261126T130000Z\nSUMMARY:Turkey ROCK Trot 5k\nDESCRIPTION:Plum Creek Church 22nd Annual Turkey ROCK Trot Presented by CORE - A Thanksgiving morning 5K family fun run/walk/stroll featuring live DJ at start line\\, live music on course\\, indoor health & wellness expo with 30+ vendors\\, free kids dash\\, awards ceremony\\, and costume contest. All proceeds benefit the Help&Hope Center. FREE 1K Kids Dash at 8:30 AM sponsored by PR Youth Running.\nLOCATION:Douglas County Event Center\\, 500 Fairgrounds Drive\\, Castle Rock\\, CO\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
-  },
-  {
-    "id": "alpine-bank-boulder-thanksgiving-day-5k-2026",
-    "name": "Alpine Bank Boulder Thanksgiving Day 5K",
-    "date": "2026-11-26",
-    "time": "TBD",
-    "distance": "5K",
-    "location": {
-      "name": "Boulder, CO",
-      "address": "Boulder, CO",
-      "map_link": "https://maps.google.com/?q=Boulder++CO"
-    },
-    "registration_url": "https://www.teamboco.com/#/thanksgivingdayfunrun/",
-    "website_url": "https://www.teamboco.com/#/thanksgivingdayfunrun/",
-    "description": "Alpine Bank Boulder Thanksgiving Day Fun Run",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Alpine+Bank+Boulder+Thanksgiving+Day+5K&dates=20261126T080000Z%2F20261126T120000Z&details=Alpine+Bank+Boulder+Thanksgiving+Day+Fun+Run&location=TBD",
-    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:alpine-bank-boulder-thanksgiving-day-5k-2026@milehighrunners.com\nDTSTAMP:20261025T000000Z\nDTSTART:20261126T080000Z\nDTEND:20261126T120000Z\nSUMMARY:Alpine Bank Boulder Thanksgiving Day 5K\nDESCRIPTION:Alpine Bank Boulder Thanksgiving Day Fun Run\nLOCATION:TBD\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
-  },
-  {
-    "id": "mile-high-united-way-turkey-trot-2026",
-    "name": "Mile High United Way Turkey Trot",
-    "date": "2026-11-26",
-    "time": "9:00 AM",
-    "distance": "4 miles / 1 mile",
-    "location": {
-      "name": "Denver, CO",
-      "address": "1700 E Louisiana Ave, Denver, CO 80210",
-      "map_link": "https://maps.google.com/?q=1700+E+Louisiana+Ave++Denver++CO+80210"
-    },
-    "registration_url": "https://unitedwaydenver.org/turkey-trot/",
-    "website_url": "https://unitedwaydenver.org/turkey-trot/",
-    "description": "The 53rd Mile High United Way Turkey Trot is Denver's beloved Thanksgiving Day tradition featuring a 4-mile race/walk and 1-mile Lil' Gobbler Family Fun Run in Washington Park. The event includes a Family Fun Zone with games, face painting, and photos with Gobbles the Turkey. All proceeds support Mile High United Way's critical work providing early learning, housing support, and basic needs assistance to families in the community.",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mile+High+United+Way+Turkey+Trot&dates=20261126T090000Z%2F20261126T130000Z&details=The+53rd+Mile+High+United+Way+Turkey+Trot+is+Denver%27s+beloved+Thanksgiving+Day+tradition+featuring+a+4-mile+race%2Fwalk+and+1-mile+Lil%27+Gobbler+Family+Fun+Run+in+Washington+Park.+The+event+includes+a+Fa&location=1700+E+Louisiana+Ave%2C+Denver%2C+CO+80210",
-    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:mile-high-united-way-turkey-trot-2026@milehighrunners.com\nDTSTAMP:20261025T000000Z\nDTSTART:20261126T090000Z\nDTEND:20261126T130000Z\nSUMMARY:Mile High United Way Turkey Trot\nDESCRIPTION:The 53rd Mile High United Way Turkey Trot is Denver's beloved Thanksgiving Day tradition featuring a 4-mile race/walk and 1-mile Lil' Gobbler Family Fun Run in Washington Park. The event includes a Family Fun Zone with games\\, face painting\\, and photos with Gobbles the Turkey. All proceeds support Mile High United Way's critical work providing early learning\\, housing support\\, and basic needs assistance to families in the community.\nLOCATION:1700 E Louisiana Ave\\, Denver\\, CO 80210\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
-  },
-  {
-    "id": "colderboulder-2026",
-    "name": "COLDERBoulder",
-    "date": "2026-12-05",
-    "time": "TBD",
-    "distance": "5K",
-    "location": {
-      "name": "Boulder, CO",
-      "address": "CU Campus, Boulder, CO",
-      "map_link": "https://maps.google.com/?q=CU+Campus++Boulder++CO"
-    },
-    "registration_url": "https://www.bolderboulder.com/",
-    "website_url": "https://www.bolderboulder.com/",
-    "description": "Winter 5K race featuring 14 invitational races organized by pace, an open race category, a walking wave, and virtual race option. All participants receive a medal. Top 3 finishers in each invitational race earn special Cold Medals. Race includes finish fest with burritos, doughnuts, coffee, and hot cocoa.",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=COLDERBoulder&dates=20261205T080000Z%2F20261205T120000Z&details=Winter+5K+race+featuring+14+invitational+races+organized+by+pace%2C+an+open+race+category%2C+a+walking+wave%2C+and+virtual+race+option.+All+participants+receive+a+medal.+Top+3+finishers+in+each+invitational&location=CU+Campus%2C+Boulder%2C+CO",
-    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:colderboulder-2026@milehighrunners.com\nDTSTAMP:20261025T000000Z\nDTSTART:20261205T080000Z\nDTEND:20261205T120000Z\nSUMMARY:COLDERBoulder\nDESCRIPTION:Winter 5K race featuring 14 invitational races organized by pace\\, an open race category\\, a walking wave\\, and virtual race option. All participants receive a medal. Top 3 finishers in each invitational race earn special Cold Medals. Race includes finish fest with burritos\\, doughnuts\\, coffee\\, and hot cocoa.\nLOCATION:CU Campus\\, Boulder\\, CO\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
-  },
-  {
-    "id": "us-bank-ugly-sweater-fun-run-2026",
-    "name": "U.S. Bank Ugly Sweater Fun Run",
-    "date": "2026-12-13",
-    "time": "8:30 AM",
-    "distance": "Not specified",
-    "location": {
-      "name": "Lionshead, CO",
-      "address": "Lionshead, CO",
-      "map_link": "https://maps.google.com/?q=Lionshead++CO"
+      "name": "Vail, CO",
+      "address": "Vail, CO",
+      "map_link": "https://maps.google.com/?q=Vail++CO"
     },
     "registration_url": "https://www.vailrec.com/races",
     "website_url": "https://www.vailrec.com/races",
-    "description": "Community fun run featuring ugly sweater theme",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=U.S.+Bank+Ugly+Sweater+Fun+Run&dates=20261213T083000Z%2F20261213T123000Z&details=Community+fun+run+featuring+ugly+sweater+theme&location=Lionshead%2C+CO",
-    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:us-bank-ugly-sweater-fun-run-2026@milehighrunners.com\nDTSTAMP:20261025T000000Z\nDTSTART:20261213T083000Z\nDTEND:20261213T123000Z\nSUMMARY:U.S. Bank Ugly Sweater Fun Run\nDESCRIPTION:Community fun run featuring ugly sweater theme\nLOCATION:Lionshead\\, CO\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+    "description": "Vail Trail Running Series race taking place in July 2027 in Vail",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Vail+HillClimb&dates=20270701T070000Z%2F20270701T110000Z&details=Vail+Trail+Running+Series+race+taking+place+in+July+2027+in+Vail&location=Vail%2C+CO",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:vail-hillclimb-2027@milehighrunners.com\nDTSTAMP:20261101T000000Z\nDTSTART:20270701T070000Z\nDTEND:20270701T110000Z\nSUMMARY:Vail HillClimb\nDESCRIPTION:Vail Trail Running Series race taking place in July 2027 in Vail\nLOCATION:Vail\\, CO\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
   },
   {
-    "id": "ugly-sweater-5k-2026",
-    "name": "Ugly Sweater 5K",
-    "date": "2026-12-20",
-    "time": "TBD",
-    "distance": "5K",
+    "id": "hardrock-100-2027",
+    "name": "Hardrock 100",
+    "date": "2027-07-09",
+    "time": "6:00 AM",
+    "distance": "100 miles",
     "location": {
-      "name": "Denver, CO",
-      "address": "Washington Park, Denver, CO",
-      "map_link": "https://maps.google.com/?q=Washington+Park++Denver++CO"
+      "name": "Silverton, Colorado",
+      "address": "Silverton, Colorado",
+      "map_link": "https://maps.google.com/?q=Silverton++Colorado"
     },
-    "registration_url": "https://runsignup.com/Race/CO/Denver/UglySweater5K",
-    "website_url": "https://www.coloradorunnerevents.com/",
-    "description": "Ugly Sweater 5K - A festive 5K race produced by Colorado Runner Events",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Ugly+Sweater+5K&dates=20261220T080000Z%2F20261220T120000Z&details=Ugly+Sweater+5K+-+A+festive+5K+race+produced+by+Colorado+Runner+Events&location=Washington+Park%2C+Denver%2C+CO",
-    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:ugly-sweater-5k-2026@milehighrunners.com\nDTSTAMP:20261025T000000Z\nDTSTART:20261220T080000Z\nDTEND:20261220T120000Z\nSUMMARY:Ugly Sweater 5K\nDESCRIPTION:Ugly Sweater 5K - A festive 5K race produced by Colorado Runner Events\nLOCATION:Washington Park\\, Denver\\, CO\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+    "registration_url": "https://hardrock100.com/",
+    "website_url": "https://hardrock100.com/",
+    "description": "100-mile endurance run with 33,441 feet of climb and 33,441 feet of descent (66,882 feet total elevation change). Average elevation 11,186 feet, with low point at 7,680 feet (Ouray) and high point at 14,048 feet (Handies Peak). Course runs counter-clockwise direction. Lottery-based entry system with qualifying requirements. Race includes scholarship opportunities and volunteer positions.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Hardrock+100&dates=20270709T060000Z%2F20270709T100000Z&details=100-mile+endurance+run+with+33%2C441+feet+of+climb+and+33%2C441+feet+of+descent+%2866%2C882+feet+total+elevation+change%29.+Average+elevation+11%2C186+feet%2C+with+low+point+at+7%2C680+feet+%28Ouray%29+and+high+point+at+&location=Silverton%2C+Colorado",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:hardrock-100-2027@milehighrunners.com\nDTSTAMP:20261101T000000Z\nDTSTART:20270709T060000Z\nDTEND:20270709T100000Z\nSUMMARY:Hardrock 100\nDESCRIPTION:100-mile endurance run with 33\\,441 feet of climb and 33\\,441 feet of descent (66\\,882 feet total elevation change). Average elevation 11\\,186 feet\\, with low point at 7\\,680 feet (Ouray) and high point at 14\\,048 feet (Handies Peak). Course runs counter-clockwise direction. Lottery-based entry system with qualifying requirements. Race includes scholarship opportunities and volunteer positions.\nLOCATION:Silverton\\, Colorado\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+  },
+  {
+    "id": "pikes-peak-ultra-2027",
+    "name": "Pikes Peak Ultra",
+    "date": "2027-07-24",
+    "time": "5:30 AM",
+    "distance": "20K / 30K / 50K / 50 Mile",
+    "location": {
+      "name": "Colorado Springs, Colorado",
+      "address": "Bear Creek Regional Park, 21st and Argus Blvd, Colorado Springs, CO",
+      "map_link": "https://maps.google.com/?q=Bear+Creek+Regional+Park++21st+and+Argus+Blvd++Colorado+Springs++CO"
+    },
+    "registration_url": "https://www.madmooseevents.com/pikes-peak-ultra",
+    "website_url": "https://www.madmooseevents.com/pikes-peak-ultra",
+    "description": "Pikes Peak Ultra is an ultramarathon event featuring multiple distance options (20K, 30K, 50K, and 50 Mile) starting at Bear Creek Regional Park in Colorado Springs. The course winds through stunning trails including High Drive, Cheyenne Canon, Seven Bridges Trail, and Pipeline Trail, with much of the course on crushed granite. The 50K and 50 Mile options include a summit of Mt. Rosa with panoramic city views. All runners receive a custom race shirt, BOCO trucker hat, and finishers' medal.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Pikes+Peak+Ultra&dates=20270724T053000Z%2F20270724T093000Z&details=Pikes+Peak+Ultra+is+an+ultramarathon+event+featuring+multiple+distance+options+%2820K%2C+30K%2C+50K%2C+and+50+Mile%29+starting+at+Bear+Creek+Regional+Park+in+Colorado+Springs.+The+course+winds+through+stunning+&location=Bear+Creek+Regional+Park%2C+21st+and+Argus+Blvd%2C+Colorado+Springs%2C+CO",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:pikes-peak-ultra-2027@milehighrunners.com\nDTSTAMP:20261101T000000Z\nDTSTART:20270724T053000Z\nDTEND:20270724T093000Z\nSUMMARY:Pikes Peak Ultra\nDESCRIPTION:Pikes Peak Ultra is an ultramarathon event featuring multiple distance options (20K\\, 30K\\, 50K\\, and 50 Mile) starting at Bear Creek Regional Park in Colorado Springs. The course winds through stunning trails including High Drive\\, Cheyenne Canon\\, Seven Bridges Trail\\, and Pipeline Trail\\, with much of the course on crushed granite. The 50K and 50 Mile options include a summit of Mt. Rosa with panoramic city views. All runners receive a custom race shirt\\, BOCO trucker hat\\, and finishers' medal.\nLOCATION:Bear Creek Regional Park\\, 21st and Argus Blvd\\, Colorado Springs\\, CO\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+  },
+  {
+    "id": "leadville-trail-100-mtb-2027",
+    "name": "Leadville Trail 100 MTB",
+    "date": "2027-08-14",
+    "time": "6:00 AM",
+    "distance": "100 miles",
+    "location": {
+      "name": "Leadville, CO",
+      "address": "135 E 6th Street, Leadville, CO",
+      "map_link": "https://maps.google.com/?q=135+E+6th+Street++Leadville++CO"
+    },
+    "registration_url": "https://www.leadvilleraceseries.com/mtb/leadvilletrail100mtb/",
+    "website_url": "https://www.leadvilleraceseries.com/mtb/leadvilletrail100mtb/",
+    "description": "The Life Time Leadville Trail 100 MTB is one of the most prestigious endurance cross-country mountain bike events in the world. Riders tackle a grueling 100-mile course with approximately 12,000 feet of elevation gain, starting at 10,152 feet and reaching a peak elevation of 12,500 feet at Columbine Mine. The race is known as 'Race Across the Sky' and offers finishers the coveted silver and gold beltbuckle. Lottery registration opens December 1-15, 2026 with results announced January 6, 2027. Entry fee: $575.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Leadville+Trail+100+MTB&dates=20270814T060000Z%2F20270814T100000Z&details=The+Life+Time+Leadville+Trail+100+MTB+is+one+of+the+most+prestigious+endurance+cross-country+mountain+bike+events+in+the+world.+Riders+tackle+a+grueling+100-mile+course+with+approximately+12%2C000+feet+&location=135+E+6th+Street%2C+Leadville%2C+CO",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:leadville-trail-100-mtb-2027@milehighrunners.com\nDTSTAMP:20261101T000000Z\nDTSTART:20270814T060000Z\nDTEND:20270814T100000Z\nSUMMARY:Leadville Trail 100 MTB\nDESCRIPTION:The Life Time Leadville Trail 100 MTB is one of the most prestigious endurance cross-country mountain bike events in the world. Riders tackle a grueling 100-mile course with approximately 12\\,000 feet of elevation gain\\, starting at 10\\,152 feet and reaching a peak elevation of 12\\,500 feet at Columbine Mine. The race is known as 'Race Across the Sky' and offers finishers the coveted silver and gold beltbuckle. Lottery registration opens December 1-15\\, 2026 with results announced January 6\\, 2027. Entry fee: $575.\nLOCATION:135 E 6th Street\\, Leadville\\, CO\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+  },
+  {
+    "id": "leadville-trail-100-run-2027",
+    "name": "Leadville Trail 100 Run",
+    "date": "2027-08-21",
+    "time": "4:00 AM",
+    "distance": "100 miles",
+    "location": {
+      "name": "Leadville, CO",
+      "address": "Corner of 6th St & Harrison, Leadville, CO",
+      "map_link": "https://maps.google.com/?q=Corner+of+6th+St+%26+Harrison++Leadville++CO"
+    },
+    "registration_url": "https://www.leadvilleraceseries.com/run/leadvilletrail100run/",
+    "website_url": "https://www.leadvilleraceseries.com/run/leadvilletrail100run/",
+    "description": "The Life Time Leadville Trail 100 RUN presented by La Sportiva is one of the oldest and most storied endurance running events in the world. This brutal out-and-back ultramarathon starts and finishes in Leadville with steep climbs, high-altitude passes, and technical terrain on the Colorado Trail. The course features two climbs over Hope Pass at 12,500 feet elevation. Entry is by lottery.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Leadville+Trail+100+Run&dates=20270821T040000Z%2F20270821T080000Z&details=The+Life+Time+Leadville+Trail+100+RUN+presented+by+La+Sportiva+is+one+of+the+oldest+and+most+storied+endurance+running+events+in+the+world.+This+brutal+out-and-back+ultramarathon+starts+and+finishes+i&location=Corner+of+6th+St+%26+Harrison%2C+Leadville%2C+CO",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:leadville-trail-100-run-2027@milehighrunners.com\nDTSTAMP:20261101T000000Z\nDTSTART:20270821T040000Z\nDTEND:20270821T080000Z\nSUMMARY:Leadville Trail 100 Run\nDESCRIPTION:The Life Time Leadville Trail 100 RUN presented by La Sportiva is one of the oldest and most storied endurance running events in the world. This brutal out-and-back ultramarathon starts and finishes in Leadville with steep climbs\\, high-altitude passes\\, and technical terrain on the Colorado Trail. The course features two climbs over Hope Pass at 12\\,500 feet elevation. Entry is by lottery.\nLOCATION:Corner of 6th St & Harrison\\, Leadville\\, CO\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+  },
+  {
+    "id": "telluride-mountain-run-2027",
+    "name": "Telluride Mountain Run",
+    "date": "2027-08-28",
+    "time": "5:00 AM",
+    "distance": "40 mi / 24 mi / 13 mi",
+    "location": {
+      "name": "Telluride, CO",
+      "address": "Telluride, CO",
+      "map_link": "https://maps.google.com/?q=Telluride++CO"
+    },
+    "registration_url": "https://www.ahotu.com/event/telluride-mountain-run",
+    "website_url": "https://www.ahotu.com/event/telluride-mountain-run",
+    "description": "Trail running event in Telluride, Colorado with three race distance options",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Telluride+Mountain+Run&dates=20270828T050000Z%2F20270828T090000Z&details=Trail+running+event+in+Telluride%2C+Colorado+with+three+race+distance+options&location=Telluride%2C+CO",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:telluride-mountain-run-2027@milehighrunners.com\nDTSTAMP:20261101T000000Z\nDTSTART:20270828T050000Z\nDTEND:20270828T090000Z\nSUMMARY:Telluride Mountain Run\nDESCRIPTION:Trail running event in Telluride\\, Colorado with three race distance options\nLOCATION:Telluride\\, CO\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+  },
+  {
+    "id": "the-grand-traverse-run-2027",
+    "name": "The Grand Traverse Run",
+    "date": "2027-09-04",
+    "time": "6:00 AM",
+    "distance": "40 miles",
+    "location": {
+      "name": "Crested Butte to Aspen, CO",
+      "address": "Town Park, Crested Butte, CO to Ajax Park \u2013 1001 S. Ute Ave, Aspen, CO",
+      "map_link": "https://maps.google.com/?q=Town+Park++Crested+Butte++CO+to+Ajax+Park+%E2%80%93+1001+S.+Ute+Ave++Aspen++CO"
+    },
+    "registration_url": "https://www.cbnordic.org/thegrandtraverse/run",
+    "website_url": "https://www.cbnordic.org/thegrandtraverse/run",
+    "description": "The Grand Traverse Mountain Run is a point-to-point ultramarathon from Crested Butte to Aspen, Colorado. Runners travel 40 miles across the Elk Mountains with over 6,000 feet of elevation gain. The course follows the route of the Grand Traverse Backcountry Ski race. This fundraising event is operated by Crested Butte Nordic, a 501(c)(3) recreational non-profit organization. General registration opens December 1st, 2026 at midnight.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The+Grand+Traverse+Run&dates=20270904T060000Z%2F20270904T100000Z&details=The+Grand+Traverse+Mountain+Run+is+a+point-to-point+ultramarathon+from+Crested+Butte+to+Aspen%2C+Colorado.+Runners+travel+40+miles+across+the+Elk+Mountains+with+over+6%2C000+feet+of+elevation+gain.+The+co&location=Town+Park%2C+Crested+Butte%2C+CO+to+Ajax+Park+%E2%80%93+1001+S.+Ute+Ave%2C+Aspen%2C+CO",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:the-grand-traverse-run-2027@milehighrunners.com\nDTSTAMP:20261101T000000Z\nDTSTART:20270904T060000Z\nDTEND:20270904T100000Z\nSUMMARY:The Grand Traverse Run\nDESCRIPTION:The Grand Traverse Mountain Run is a point-to-point ultramarathon from Crested Butte to Aspen\\, Colorado. Runners travel 40 miles across the Elk Mountains with over 6\\,000 feet of elevation gain. The course follows the route of the Grand Traverse Backcountry Ski race. This fundraising event is operated by Crested Butte Nordic\\, a 501(c)(3) recreational non-profit organization. General registration opens December 1st\\, 2026 at midnight.\nLOCATION:Town Park\\, Crested Butte\\, CO to Ajax Park \u2013 1001 S. Ute Ave\\, Aspen\\, CO\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+  },
+  {
+    "id": "pikes-peak-marathon-2027",
+    "name": "Pikes Peak Marathon",
+    "date": "2027-09-18",
+    "time": "TBD",
+    "distance": "Marathon (26.2 miles) / Ascent (13.3 miles) / Garden To Peak Challenge",
+    "location": {
+      "name": "Manitou Springs, CO",
+      "address": "441 Manitou Ave, Suite 100, Manitou Springs, CO 80829",
+      "map_link": "https://maps.google.com/?q=441+Manitou+Ave++Suite+100++Manitou+Springs++CO+80829"
+    },
+    "registration_url": "https://www.pikespeakmarathon.org/registration",
+    "website_url": "https://www.pikespeakmarathon.org/",
+    "description": "The Pikes Peak Marathon, founded in 1956, is the oldest continually held marathon in the United States. It takes runners from Manitou Springs, Colorado, to the summit of Pikes Peak at 14,115 feet and back down for a total of 26.2 grueling mountain miles, climbing approximately 7,800 vertical feet up the historic Barr Trail. The sister race, the Pikes Peak Ascent, is a 13.3-mile climb to the summit.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Pikes+Peak+Marathon&dates=20270918T080000Z%2F20270918T120000Z&details=The+Pikes+Peak+Marathon%2C+founded+in+1956%2C+is+the+oldest+continually+held+marathon+in+the+United+States.+It+takes+runners+from+Manitou+Springs%2C+Colorado%2C+to+the+summit+of+Pikes+Peak+at+14%2C115+feet+and+&location=441+Manitou+Ave%2C+Suite+100%2C+Manitou+Springs%2C+CO+80829",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:pikes-peak-marathon-2027@milehighrunners.com\nDTSTAMP:20261101T000000Z\nDTSTART:20270918T080000Z\nDTEND:20270918T120000Z\nSUMMARY:Pikes Peak Marathon\nDESCRIPTION:The Pikes Peak Marathon\\, founded in 1956\\, is the oldest continually held marathon in the United States. It takes runners from Manitou Springs\\, Colorado\\, to the summit of Pikes Peak at 14\\,115 feet and back down for a total of 26.2 grueling mountain miles\\, climbing approximately 7\\,800 vertical feet up the historic Barr Trail. The sister race\\, the Pikes Peak Ascent\\, is a 13.3-mile climb to the summit.\nLOCATION:441 Manitou Ave\\, Suite 100\\, Manitou Springs\\, CO 80829\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
+  },
+  {
+    "id": "snow-mountain-ranch-trail-running-festival-2027",
+    "name": "Snow Mountain Ranch Trail Running Festival",
+    "date": "2027-09-18",
+    "time": "6:30 AM",
+    "distance": "50K / 33K / Half Marathon / 10K / 5K",
+    "location": {
+      "name": "Granby, CO",
+      "address": "1101 County Rd 53, Granby, CO 80446",
+      "map_link": "https://maps.google.com/?q=1101+County+Rd+53++Granby++CO+80446"
+    },
+    "registration_url": "https://www.aravaiparunning.com/snow-mountain-ranch/",
+    "website_url": "https://www.aravaiparunning.com/snow-mountain-ranch/",
+    "description": "The 13th annual Snow Mountain Ranch Trail Running Festival features 5 races on wide open Nordic tracks at the YMCA of the Rockies. Courses are 100% dirt terrain with stunning views of changing colors, rolling hills, and picturesque landscapes. Races include a 50K (31.4 miles, 4,236 ft elevation gain), 33K (20.2 miles, 2,443 ft elevation gain), Half Marathon (12.8 miles, 1,707 ft elevation gain), 10K, and 5K. Registration closes September 13, 2027 at 11:59 PM MT.",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Snow+Mountain+Ranch+Trail+Running+Festival&dates=20270918T063000Z%2F20270918T103000Z&details=The+13th+annual+Snow+Mountain+Ranch+Trail+Running+Festival+features+5+races+on+wide+open+Nordic+tracks+at+the+YMCA+of+the+Rockies.+Courses+are+100%25+dirt+terrain+with+stunning+views+of+changing+colors%2C&location=1101+County+Rd+53%2C+Granby%2C+CO+80446",
+    "ics_data": "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//Mile High Runners//Race Calendar//EN\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nBEGIN:VEVENT\nUID:snow-mountain-ranch-trail-running-festival-2027@milehighrunners.com\nDTSTAMP:20261101T000000Z\nDTSTART:20270918T063000Z\nDTEND:20270918T103000Z\nSUMMARY:Snow Mountain Ranch Trail Running Festival\nDESCRIPTION:The 13th annual Snow Mountain Ranch Trail Running Festival features 5 races on wide open Nordic tracks at the YMCA of the Rockies. Courses are 100% dirt terrain with stunning views of changing colors\\, rolling hills\\, and picturesque landscapes. Races include a 50K (31.4 miles\\, 4\\,236 ft elevation gain)\\, 33K (20.2 miles\\, 2\\,443 ft elevation gain)\\, Half Marathon (12.8 miles\\, 1\\,707 ft elevation gain)\\, 10K\\, and 5K. Registration closes September 13\\, 2027 at 11:59 PM MT.\nLOCATION:1101 County Rd 53\\, Granby\\, CO 80446\nSTATUS:CONFIRMED\nEND:VEVENT\nEND:VCALENDAR"
   }
 ]

@@ -5,143 +5,143 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Mile High Runners Race Calendar
 BEGIN:VEVENT
-UID:moab-trail-marathon-2026@milehighrunners.com
-DTSTAMP:20261025T000000Z
-DTSTART:20261107T080000Z
-DTEND:20261107T120000Z
-SUMMARY:Moab Trail Marathon
-DESCRIPTION:Moab Trail Marathon features 26 miles of exhilaration through scenic and unique landscapes. 2026 USATF Trail Half Marathon National Championships and Host of the Collegiate Trail Running Championships 2026. Multiple distance options available including Marathon\, Half Marathon\, 10K Adventure Run\, and Kids K Race.
-LOCATION:TBD
+UID:the-colorado-marathon-2027@milehighrunners.com
+DTSTAMP:20261101T000000Z
+DTSTART:20270502T063000Z
+DTEND:20270502T103000Z
+SUMMARY:The Colorado Marathon
+DESCRIPTION:Annual Colorado Marathon in Fort Collins featuring scenic downhill courses through Poudre Canyon and Northern Colorado natural areas. Four distance options available. Known as one of Colorado's fastest races for Boston Marathon qualification. Event sells out quickly with vibrant community atmosphere.
+LOCATION:301 Maple St. Fort Collins\, CO 80521 US
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:kessel-run-ultra-2026@milehighrunners.com
-DTSTAMP:20261025T000000Z
-DTSTART:20261107T060000Z
-DTEND:20261107T100000Z
-SUMMARY:Kessel Run Ultra
-DESCRIPTION:Trail ultramarathon event located in North Fruita Desert\, Colorado featuring world-class single track trails with sweeping views of the San Juan Mountains and Colorado National Monument. All distances begin on fast\, flowing singletrack and progress to steep terrain on the Zippity-Do-Da Trail. Course elevations range from 5\,030' to 5\,541'. Event includes aid stations\, finisher's medal\, custom race shirt\, bib\, and BOCO Technical Trucker hat.
-LOCATION:18 Road Parking\, Fruita\, CO (GPS: 39.31093\, -108.70360)
+UID:ram-party-trail-runs-2027@milehighrunners.com
+DTSTAMP:20261101T000000Z
+DTSTART:20270515T060000Z
+DTEND:20270515T100000Z
+SUMMARY:Ram Party Trail Runs
+DESCRIPTION:Ram Party Trail Runs features multiple distance options centered around the beautiful Rampart Reservoir in Woodland Park and Rampart Range Road. The race offers scenic views of Pikes Peak and the front range with elevation gains ranging from 3\,279 feet (60K) to 6\,964 feet (55 Mile).
+LOCATION:Buffalo Lodge Bicycle Resort\, 2 El Paso Blvd\, Colorado Springs\, CO 80904
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:colorado-24-hour-run-2026@milehighrunners.com
-DTSTAMP:20261025T000000Z
-DTSTART:20261107T080000Z
-DTEND:20261107T120000Z
-SUMMARY:Colorado 24 Hour Run
-DESCRIPTION:A scenic\, fully supported 1-mile dirt loop running event offering 6\, 12\, or 24-hour race options\, as well as relay team formats. Participants can run during the day and/or night with full aid stations\, hot food\, and post-race celebration. The event benefits Colorado Youth Outdoors nonprofit\, with fundraising opportunities available.
-LOCATION:Colorado Youth Outdoors – Swift Ponds Campus\, Fort Collins\, CO
+UID:north-fork-50-2027@milehighrunners.com
+DTSTAMP:20261101T000000Z
+DTSTART:20270522T060000Z
+DTEND:20270522T100000Z
+SUMMARY:North Fork 50
+DESCRIPTION:The North Fork 50 Mile/50K is an ultramarathon in the Colorado mountains southwest of Denver featuring 100% soft surface trails\, primarily singletrack through beautiful ponderosa pines and granite rock formations. The course includes sections through open burn areas from a 1996 fire. Race proceeds benefit the North Fork Volunteer Fire Department and local community organizations.
+LOCATION:Buffalo Creek Clubhouse\, 18050 S Buffalo Creek Rd\, Buffalo Creek\, CO 80470
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:aravaipa-colorado-louisville-2026@milehighrunners.com
-DTSTAMP:20261025T000000Z
-DTSTART:20261114T080000Z
-DTEND:20261114T120000Z
-SUMMARY:Aravaipa Colorado - Louisville
-DESCRIPTION:Trail running event in Louisville\, Colorado hosted by Aravaipa Running
-LOCATION:Louisville\, CO
+UID:colorado-13er-2027@milehighrunners.com
+DTSTAMP:20261101T000000Z
+DTSTART:20270606T063000Z
+DTEND:20270606T103000Z
+SUMMARY:Colorado 13er
+DESCRIPTION:The Colorado 13er is an exceptionally scenic\, looped half marathon (13.1 miles) that combines trail running and road racing through Louisville\, Colorado with spectacular views of the Flatirons. The course features 9 miles of flat\, crushed gravel with 10 water stations\, 5 port-a-john passes\, free parking\, and is chip-timed with live results. All participants receive a performance tee and finishers receive a collector's pint glass. Half marathon finishers also receive a collector's finisher medal. 5K and 10K options are available.
+LOCATION:Home Depot\, 1200 Dillon Road\, Louisville\, CO 80027
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:longmont-turkey-trot-2026@milehighrunners.com
-DTSTAMP:20261025T000000Z
-DTSTART:20261114T090000Z
-DTEND:20261114T130000Z
-SUMMARY:Longmont Turkey Trot
-DESCRIPTION:The Longmont Turkey Trot is one of the fastest\, most scenic 10K and 2-mile courses. Participants can run\, roll\, or walk past the finish line with wheelchair division available for the 10K race. The event kicks off the holiday season with age group and gender divisions for awards.
-LOCATION:Altona Middle School\, 4600 Clover Basin Dr\, Longmont\, CO
+UID:ring-the-springs-2027@milehighrunners.com
+DTSTAMP:20261101T000000Z
+DTSTART:20270619T060000Z
+DTEND:20270619T100000Z
+SUMMARY:Ring the Springs
+DESCRIPTION:Ring the Springs is a trail running event featuring three distance options (100K\, 50K\, and 35K) through the stunning landscapes of Colorado Springs. The course weaves through majestic mountains\, scenic city parks\, and iconic landmarks including North Cheyenne Cañon and Pike National Forest trails. Starting and finishing at historic Rock Ledge Ranch in Garden of the Gods\, runners experience exhilarating climbs and rewarding descents while immersed in breathtaking mountain vistas.
+LOCATION:Rock Ledge Ranch at Garden of The Gods\, 3105 Gateway Road\, Colorado Springs\, CO 80904
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:turkey-trek-2026@milehighrunners.com
-DTSTAMP:20261025T000000Z
-DTSTART:20261121T083000Z
-DTEND:20261121T123000Z
-SUMMARY:Turkey Trek
-DESCRIPTION:Turkey Trek is a unique holiday running event featuring multiple distance options with three interactive challenges: Eggnog Chug Challenge\, Hay Bale Hop Challenge\, and Fill Your Pie Hole Challenge. All participants receive a red heavyweight performance-blend hooded sweatshirt. The Half Turkey (13.1 miles) finishers earn a commemorative finisher mug. Proceeds benefit Community Table\, a local food bank serving Arvada and surrounding areas.
-LOCATION:Long Lake Regional Park\, Arvada\, CO 80007
+UID:vail-hillclimb-2027@milehighrunners.com
+DTSTAMP:20261101T000000Z
+DTSTART:20270701T070000Z
+DTEND:20270701T110000Z
+SUMMARY:Vail HillClimb
+DESCRIPTION:Vail Trail Running Series race taking place in July 2027 in Vail
+LOCATION:Vail\, CO
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:pumpkin-pie-5k10k-2026@milehighrunners.com
-DTSTAMP:20261025T000000Z
-DTSTART:20261121T080000Z
-DTEND:20261121T120000Z
-SUMMARY:Pumpkin Pie 5K/10K
-DESCRIPTION:5K and 10K race produced by Colorado Runner Events\, part of their annual event series in the Denver metro area.
-LOCATION:City Park\, Denver\, CO
+UID:hardrock-100-2027@milehighrunners.com
+DTSTAMP:20261101T000000Z
+DTSTART:20270709T060000Z
+DTEND:20270709T100000Z
+SUMMARY:Hardrock 100
+DESCRIPTION:100-mile endurance run with 33\,441 feet of climb and 33\,441 feet of descent (66\,882 feet total elevation change). Average elevation 11\,186 feet\, with low point at 7\,680 feet (Ouray) and high point at 14\,048 feet (Handies Peak). Course runs counter-clockwise direction. Lottery-based entry system with qualifying requirements. Race includes scholarship opportunities and volunteer positions.
+LOCATION:Silverton\, Colorado
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:gobble-wobble-run-2026@milehighrunners.com
-DTSTAMP:20261025T000000Z
-DTSTART:20261126T083000Z
-DTEND:20261126T123000Z
-SUMMARY:Gobble Wobble Run
-DESCRIPTION:Gobble Wobble Run 5K on Thanksgiving Day. Features early packet pickup at Fleet Feet. 2026 beneficiary is the Colorado National Guard Foundation. Title sponsor is The Alan Smith Team at RE/MAX Professionals.
-LOCATION:Clement Park\, Littleton\, CO
+UID:pikes-peak-ultra-2027@milehighrunners.com
+DTSTAMP:20261101T000000Z
+DTSTART:20270724T053000Z
+DTEND:20270724T093000Z
+SUMMARY:Pikes Peak Ultra
+DESCRIPTION:Pikes Peak Ultra is an ultramarathon event featuring multiple distance options (20K\, 30K\, 50K\, and 50 Mile) starting at Bear Creek Regional Park in Colorado Springs. The course winds through stunning trails including High Drive\, Cheyenne Canon\, Seven Bridges Trail\, and Pipeline Trail\, with much of the course on crushed granite. The 50K and 50 Mile options include a summit of Mt. Rosa with panoramic city views. All runners receive a custom race shirt\, BOCO trucker hat\, and finishers' medal.
+LOCATION:Bear Creek Regional Park\, 21st and Argus Blvd\, Colorado Springs\, CO
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:turkey-rock-trot-5k-2026@milehighrunners.com
-DTSTAMP:20261025T000000Z
-DTSTART:20261126T090000Z
-DTEND:20261126T130000Z
-SUMMARY:Turkey ROCK Trot 5k
-DESCRIPTION:Plum Creek Church 22nd Annual Turkey ROCK Trot Presented by CORE - A Thanksgiving morning 5K family fun run/walk/stroll featuring live DJ at start line\, live music on course\, indoor health & wellness expo with 30+ vendors\, free kids dash\, awards ceremony\, and costume contest. All proceeds benefit the Help&Hope Center. FREE 1K Kids Dash at 8:30 AM sponsored by PR Youth Running.
-LOCATION:Douglas County Event Center\, 500 Fairgrounds Drive\, Castle Rock\, CO
+UID:leadville-trail-100-mtb-2027@milehighrunners.com
+DTSTAMP:20261101T000000Z
+DTSTART:20270814T060000Z
+DTEND:20270814T100000Z
+SUMMARY:Leadville Trail 100 MTB
+DESCRIPTION:The Life Time Leadville Trail 100 MTB is one of the most prestigious endurance cross-country mountain bike events in the world. Riders tackle a grueling 100-mile course with approximately 12\,000 feet of elevation gain\, starting at 10\,152 feet and reaching a peak elevation of 12\,500 feet at Columbine Mine. The race is known as 'Race Across the Sky' and offers finishers the coveted silver and gold beltbuckle. Lottery registration opens December 1-15\, 2026 with results announced January 6\, 2027. Entry fee: $575.
+LOCATION:135 E 6th Street\, Leadville\, CO
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:alpine-bank-boulder-thanksgiving-day-5k-2026@milehighrunners.com
-DTSTAMP:20261025T000000Z
-DTSTART:20261126T080000Z
-DTEND:20261126T120000Z
-SUMMARY:Alpine Bank Boulder Thanksgiving Day 5K
-DESCRIPTION:Alpine Bank Boulder Thanksgiving Day Fun Run
-LOCATION:TBD
+UID:leadville-trail-100-run-2027@milehighrunners.com
+DTSTAMP:20261101T000000Z
+DTSTART:20270821T040000Z
+DTEND:20270821T080000Z
+SUMMARY:Leadville Trail 100 Run
+DESCRIPTION:The Life Time Leadville Trail 100 RUN presented by La Sportiva is one of the oldest and most storied endurance running events in the world. This brutal out-and-back ultramarathon starts and finishes in Leadville with steep climbs\, high-altitude passes\, and technical terrain on the Colorado Trail. The course features two climbs over Hope Pass at 12\,500 feet elevation. Entry is by lottery.
+LOCATION:Corner of 6th St & Harrison\, Leadville\, CO
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:mile-high-united-way-turkey-trot-2026@milehighrunners.com
-DTSTAMP:20261025T000000Z
-DTSTART:20261126T090000Z
-DTEND:20261126T130000Z
-SUMMARY:Mile High United Way Turkey Trot
-DESCRIPTION:The 53rd Mile High United Way Turkey Trot is Denver's beloved Thanksgiving Day tradition featuring a 4-mile race/walk and 1-mile Lil' Gobbler Family Fun Run in Washington Park. The event includes a Family Fun Zone with games\, face painting\, and photos with Gobbles the Turkey. All proceeds support Mile High United Way's critical work providing early learning\, housing support\, and basic needs assistance to families in the community.
-LOCATION:1700 E Louisiana Ave\, Denver\, CO 80210
+UID:telluride-mountain-run-2027@milehighrunners.com
+DTSTAMP:20261101T000000Z
+DTSTART:20270828T050000Z
+DTEND:20270828T090000Z
+SUMMARY:Telluride Mountain Run
+DESCRIPTION:Trail running event in Telluride\, Colorado with three race distance options
+LOCATION:Telluride\, CO
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:colderboulder-2026@milehighrunners.com
-DTSTAMP:20261025T000000Z
-DTSTART:20261205T080000Z
-DTEND:20261205T120000Z
-SUMMARY:COLDERBoulder
-DESCRIPTION:Winter 5K race featuring 14 invitational races organized by pace\, an open race category\, a walking wave\, and virtual race option. All participants receive a medal. Top 3 finishers in each invitational race earn special Cold Medals. Race includes finish fest with burritos\, doughnuts\, coffee\, and hot cocoa.
-LOCATION:CU Campus\, Boulder\, CO
+UID:the-grand-traverse-run-2027@milehighrunners.com
+DTSTAMP:20261101T000000Z
+DTSTART:20270904T060000Z
+DTEND:20270904T100000Z
+SUMMARY:The Grand Traverse Run
+DESCRIPTION:The Grand Traverse Mountain Run is a point-to-point ultramarathon from Crested Butte to Aspen\, Colorado. Runners travel 40 miles across the Elk Mountains with over 6\,000 feet of elevation gain. The course follows the route of the Grand Traverse Backcountry Ski race. This fundraising event is operated by Crested Butte Nordic\, a 501(c)(3) recreational non-profit organization. General registration opens December 1st\, 2026 at midnight.
+LOCATION:Town Park\, Crested Butte\, CO to Ajax Park – 1001 S. Ute Ave\, Aspen\, CO
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:us-bank-ugly-sweater-fun-run-2026@milehighrunners.com
-DTSTAMP:20261025T000000Z
-DTSTART:20261213T083000Z
-DTEND:20261213T123000Z
-SUMMARY:U.S. Bank Ugly Sweater Fun Run
-DESCRIPTION:Community fun run featuring ugly sweater theme
-LOCATION:Lionshead\, CO
+UID:pikes-peak-marathon-2027@milehighrunners.com
+DTSTAMP:20261101T000000Z
+DTSTART:20270918T080000Z
+DTEND:20270918T120000Z
+SUMMARY:Pikes Peak Marathon
+DESCRIPTION:The Pikes Peak Marathon\, founded in 1956\, is the oldest continually held marathon in the United States. It takes runners from Manitou Springs\, Colorado\, to the summit of Pikes Peak at 14\,115 feet and back down for a total of 26.2 grueling mountain miles\, climbing approximately 7\,800 vertical feet up the historic Barr Trail. The sister race\, the Pikes Peak Ascent\, is a 13.3-mile climb to the summit.
+LOCATION:441 Manitou Ave\, Suite 100\, Manitou Springs\, CO 80829
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:ugly-sweater-5k-2026@milehighrunners.com
-DTSTAMP:20261025T000000Z
-DTSTART:20261220T080000Z
-DTEND:20261220T120000Z
-SUMMARY:Ugly Sweater 5K
-DESCRIPTION:Ugly Sweater 5K - A festive 5K race produced by Colorado Runner Events
-LOCATION:Washington Park\, Denver\, CO
+UID:snow-mountain-ranch-trail-running-festival-2027@milehighrunners.com
+DTSTAMP:20261101T000000Z
+DTSTART:20270918T063000Z
+DTEND:20270918T103000Z
+SUMMARY:Snow Mountain Ranch Trail Running Festival
+DESCRIPTION:The 13th annual Snow Mountain Ranch Trail Running Festival features 5 races on wide open Nordic tracks at the YMCA of the Rockies. Courses are 100% dirt terrain with stunning views of changing colors\, rolling hills\, and picturesque landscapes. Races include a 50K (31.4 miles\, 4\,236 ft elevation gain)\, 33K (20.2 miles\, 2\,443 ft elevation gain)\, Half Marathon (12.8 miles\, 1\,707 ft elevation gain)\, 10K\, and 5K. Registration closes September 13\, 2027 at 11:59 PM MT.
+LOCATION:1101 County Rd 53\, Granby\, CO 80446
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR
