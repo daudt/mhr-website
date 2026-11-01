@@ -864,6 +864,18 @@
     ]
   },
   {
+    "event_name": "Auckland Marathon",
+    "date": "2026-10-31",
+    "results": [
+      {
+        "runner": "Alina",
+        "placement": null,
+        "division": null,
+        "time": "4:27"
+      }
+    ]
+  },
+  {
     "event_name": "Eerie Erie 10K",
     "date": "2026-10-31",
     "results": [
