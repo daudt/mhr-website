@@ -964,5 +964,47 @@
         "time": "35:42"
       }
     ]
+  },
+  {
+    "event_name": "Bear Half Marathon",
+    "date": "2026-11-07",
+    "results": [
+      {
+        "runner": "Kummi KA",
+        "placement": "1st AG",
+        "division": null,
+        "time": "1:37:00"
+      },
+      {
+        "runner": "Bard Higgins",
+        "placement": "4th AG",
+        "division": null,
+        "time": "1:26:33"
+      },
+      {
+        "runner": "Jenny Fisk",
+        "placement": null,
+        "division": null,
+        "time": "1:55:51"
+      }
+    ]
+  },
+  {
+    "event_name": "Bear Marathon",
+    "date": "2026-11-07",
+    "results": [
+      {
+        "runner": "Rafael Daudt",
+        "placement": null,
+        "division": null,
+        "time": "4:37:38"
+      },
+      {
+        "runner": "Dale Hawkins",
+        "placement": null,
+        "division": null,
+        "time": "3:36:11"
+      }
+    ]
   }
 ]

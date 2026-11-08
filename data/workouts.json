@@ -1,41 +1,41 @@
 [
   {
-    "date": "2026-11-03",
+    "date": "2026-11-10",
     "time": "5:20 AM",
     "location": {
       "name": "EMS",
       "address": "EMS",
-      "map_link": "https://maps.app.goo.gl/hK8QbwFG8uc6ptdo6?g_st=ic"
+      "map_link": "https://maps.app.goo.gl/rX9FLxcNrYiQrZcH8?g_st=ic"
     },
-    "location_link": "https://maps.app.goo.gl/hK8QbwFG8uc6ptdo6?g_st=ic",
-    "description": "If recovering from a race/hard time trial: 4 x 400m at 5k pace (90\u2013120 sec recovery), plus 4 x 100m at mile pace (100m walk recovery). Standard workout: 10\u201312 x 400m at 5k pace (60 sec recovery).",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+EMS&dates=20261103T122000Z%2F20261103T132000Z&details=If+recovering+from+a+race%2Fhard+time+trial%3A+4+x+400m+at+5k+pace+%2890%E2%80%93120+sec+recovery%29%2C+plus+4+x+100m+at+mile+pace+%28100m+walk+recovery%29.+Standard+workout%3A+10%E2%80%9312+x+400m+at+5k+pace+%2860+sec+recovery%29.&location=EMS",
-    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYxMTAzVDEyMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MTEwMVQxNzMzMjhaDQpEVFNUQVJUOjIwMjYxMTAzVDEyMjAwMFoNCkRURU5EOjIwMjYxMTAzVDEzMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IEVNUw0KREVTQ1JJUFRJT046SWYgcmVjb3ZlcmluZyBmcm9tIGEgcmFjZS9oYXJkIHRpbWUgdHJpYWw6IDQgeCA0MDBtIGF0IDVrIHBhY2UgKDkw4oCTMTIwIHNlYyByZWNvdmVyeSlcLCBwbHVzIDQgeCAxMDBtIGF0IG1pbGUgcGFjZSAoMTAwbSB3YWxrIHJlY292ZXJ5KS4gU3RhbmRhcmQgd29ya291dDogMTDigJMxMiB4IDQwMG0gYXQgNWsgcGFjZSAoNjAgc2VjIHJlY292ZXJ5KS4NCkxPQ0FUSU9OOkVNUw0KU1RBVFVTOkNPTkZJUk1FRA0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg=="
+    "location_link": "https://maps.app.goo.gl/rX9FLxcNrYiQrZcH8?g_st=ic",
+    "description": "EMS: 4\u20137 x (200m / 400m / 200m). 200s at mile pace (200m easy run/walk recovery). 400s at 5k pace (60\u201390 second recovery).",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+EMS&dates=20261110T122000Z%2F20261110T132000Z&details=EMS%3A+4%E2%80%937+x+%28200m+%2F+400m+%2F+200m%29.+200s+at+mile+pace+%28200m+easy+run%2Fwalk+recovery%29.+400s+at+5k+pace+%2860%E2%80%9390+second+recovery%29.&location=EMS",
+    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYxMTEwVDEyMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MTEwOFQxNzE5MjVaDQpEVFNUQVJUOjIwMjYxMTEwVDEyMjAwMFoNCkRURU5EOjIwMjYxMTEwVDEzMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IEVNUw0KREVTQ1JJUFRJT046RU1TOiA04oCTNyB4ICgyMDBtIC8gNDAwbSAvIDIwMG0pLiAyMDBzIGF0IG1pbGUgcGFjZSAoMjAwbSBlYXN5IHJ1bi93YWxrIHJlY292ZXJ5KS4gNDAwcyBhdCA1ayBwYWNlICg2MOKAkzkwIHNlY29uZCByZWNvdmVyeSkuDQpMT0NBVElPTjpFTVMNClNUQVRVUzpDT05GSVJNRUQNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVI="
   },
   {
-    "date": "2026-11-05",
+    "date": "2026-11-12",
     "time": "5:20 AM",
     "location": {
-      "name": "Lehigh Park",
-      "address": "Lehigh Park",
-      "map_link": "https://maps.app.goo.gl/pUXsvdhqDj6Z11Lo6?g_st=ic"
+      "name": "EMS",
+      "address": "EMS",
+      "map_link": "https://maps.app.goo.gl/rX9FLxcNrYiQrZcH8?g_st=ic"
     },
-    "location_link": "https://maps.app.goo.gl/pUXsvdhqDj6Z11Lo6?g_st=ic",
-    "description": "5 intervals of 800m/200m (first 800m at 10k pace, last 200m at 5k pace) with 90\u2013120 sec recovery between intervals.",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+Lehigh+Park&dates=20261105T122000Z%2F20261105T132000Z&details=5+intervals+of+800m%2F200m+%28first+800m+at+10k+pace%2C+last+200m+at+5k+pace%29+with+90%E2%80%93120+sec+recovery+between+intervals.&location=Lehigh+Park",
-    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYxMTA1VDEyMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MTEwMVQxNzMzMjhaDQpEVFNUQVJUOjIwMjYxMTA1VDEyMjAwMFoNCkRURU5EOjIwMjYxMTA1VDEzMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IExlaGlnaCBQYXJrDQpERVNDUklQVElPTjo1IGludGVydmFscyBvZiA4MDBtLzIwMG0gKGZpcnN0IDgwMG0gYXQgMTBrIHBhY2VcLCBsYXN0IDIwMG0gYXQgNWsgcGFjZSkgd2l0aCA5MOKAkzEyMCBzZWMgcmVjb3ZlcnkgYmV0d2VlbiBpbnRlcnZhbHMuDQpMT0NBVElPTjpMZWhpZ2ggUGFyaw0KU1RBVFVTOkNPTkZJUk1FRA0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg=="
+    "location_link": "https://maps.app.goo.gl/rX9FLxcNrYiQrZcH8?g_st=ic",
+    "description": "EMS: 4\u20137 x 800m at 10k pace (60-second recovery between sets).",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+EMS&dates=20261112T122000Z%2F20261112T132000Z&details=EMS%3A+4%E2%80%937+x+800m+at+10k+pace+%2860-second+recovery+between+sets%29.&location=EMS",
+    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYxMTEyVDEyMjAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MTEwOFQxNzE5MjVaDQpEVFNUQVJUOjIwMjYxMTEyVDEyMjAwMFoNCkRURU5EOjIwMjYxMTEyVDEzMjAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IEVNUw0KREVTQ1JJUFRJT046RU1TOiA04oCTNyB4IDgwMG0gYXQgMTBrIHBhY2UgKDYwLXNlY29uZCByZWNvdmVyeSBiZXR3ZWVuIHNldHMpLg0KTE9DQVRJT046RU1TDQpTVEFUVVM6Q09ORklSTUVEDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFS"
   },
   {
-    "date": "2026-11-07",
+    "date": "2026-11-14",
     "time": "7:00 AM",
     "location": {
-      "name": "Fox Dog Coffee Shop",
-      "address": "Fox Dog Coffee Shop",
-      "map_link": "https://maps.app.goo.gl/H7k9e5wTSJcmwKBt8?g_st=ic"
+      "name": "McKay Lake",
+      "address": "McKay Lake",
+      "map_link": "https://maps.app.goo.gl/NtT46bj7iQobp6oj8?g_st=ic"
     },
-    "location_link": "https://maps.app.goo.gl/H7k9e5wTSJcmwKBt8?g_st=ic",
-    "description": "Social Run: All abilities are welcome to join us. The more the merrier!",
-    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+Fox+Dog+Coffee+Shop&dates=20261107T140000Z%2F20261107T150000Z&details=Social+Run%3A+All+abilities+are+welcome+to+join+us.+The+more+the+merrier%21&location=Fox+Dog+Coffee+Shop",
-    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYxMTA3VDE0MDAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MTEwMVQxNzMzMjhaDQpEVFNUQVJUOjIwMjYxMTA3VDE0MDAwMFoNCkRURU5EOjIwMjYxMTA3VDE1MDAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IEZveCBEb2cgQ29mZmVlIFNob3ANCkRFU0NSSVBUSU9OOlNvY2lhbCBSdW46IEFsbCBhYmlsaXRpZXMgYXJlIHdlbGNvbWUgdG8gam9pbiB1cy4gVGhlIG1vcmUgdGhlIG1lcnJpZXIhDQpMT0NBVElPTjpGb3ggRG9nIENvZmZlZSBTaG9wDQpTVEFUVVM6Q09ORklSTUVEDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFS"
+    "location_link": "https://maps.app.goo.gl/NtT46bj7iQobp6oj8?g_st=ic",
+    "description": "Group social run. The more the merrier!",
+    "google_calendar_link": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MHR+Workout%3A+McKay+Lake&dates=20261114T140000Z%2F20261114T150000Z&details=Group+social+run.+The+more+the+merrier%21&location=McKay+Lake",
+    "apple_calendar_link": "data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpWRVJTSU9OOjIuMA0KUFJPRElEOi0vL01pbGUgSGlnaCBSdW5uZXJzLy9XZWJzaXRlLy9FTg0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UFVCTElTSA0KQkVHSU46VkVWRU5UDQpVSUQ6bWhyLTIwMjYxMTE0VDE0MDAwMFpAbWlsZWhpZ2hydW5uZXJzLmNvbQ0KRFRTVEFNUDoyMDI2MTEwOFQxNzE5MjVaDQpEVFNUQVJUOjIwMjYxMTE0VDE0MDAwMFoNCkRURU5EOjIwMjYxMTE0VDE1MDAwMFoNClNVTU1BUlk6TUhSIFdvcmtvdXQ6IE1jS2F5IExha2UNCkRFU0NSSVBUSU9OOkdyb3VwIHNvY2lhbCBydW4uIFRoZSBtb3JlIHRoZSBtZXJyaWVyIQ0KTE9DQVRJT046TWNLYXkgTGFrZQ0KU1RBVFVTOkNPTkZJUk1FRA0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg=="
   }
 ]
