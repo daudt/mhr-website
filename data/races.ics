@@ -5,58 +5,78 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Mile High Runners Race Calendar
 BEGIN:VEVENT
+UID:time-travel-half-marathon5k10k-chattanooga-2027@milehighrunners.com
+DTSTAMP:20261115T000000Z
+DTSTART:20270206T090000Z
+DTEND:20270206T130000Z
+SUMMARY:Time Travel Half Marathon/5K/10K - Chattanooga
+DESCRIPTION:Time Travel Half Marathon/5K/10K features multiple distance options including a Kid's Dash (ages 10 and under) and 1 Mile untimed run. All registrations include custom bib\, designer shirt\, and finisher medal. Chip-timing with live results and awards for timed events. Virtual race option available. Early bird pricing available through December 13\, 2026.
+LOCATION:Chattanooga\, TN 37406 US
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:mountain-ridge-trail-race-2027@milehighrunners.com
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART:20270410T070000Z
 DTEND:20270410T110000Z
 SUMMARY:Mountain Ridge Trail Race
-DESCRIPTION:Mountain Ridge Trail Race takes place on the Douglas County East-West Regional Trail near Highlands Ranch. The gently rolling course features 100% dirt trail and single-track trails with manageable elevation gains and some of the best views in the front range. Multiple distance options available with staggered start times.
+DESCRIPTION:Mountain Ridge Trail Race takes place on the Douglas County East-West Regional Trail near Highlands Ranch. This gently rolling course features 100% dirt trail and single-track trails with manageable elevation gains and scenic front range views. The race offers four distance options with staggered start times and includes live tracking\, aid stations\, and volunteer opportunities.
 LOCATION:Mountain Ridge Middle School\, 10590 Mountain Vista Ridge\, Highlands Ranch\, CO 80126
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:the-colorado-marathon-2027@milehighrunners.com
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART:20270502T080000Z
 DTEND:20270502T120000Z
 SUMMARY:The Colorado Marathon
-DESCRIPTION:One of Colorado's fastest downhill races set in the scenic Poudre Canyon of the Rocky Mountains along the Cache La Poudre River. Known for high Boston Marathon qualifier rate (16-18% annually) and designated as RRCA Colorado State Marathon Championship.
+DESCRIPTION:One of Colorado's fastest downhill races held in the scenic Poudre Canyon along the Cache La Poudre River in the Rocky Mountains. The race offers four distance options and is designated as the RRCA Colorado State Marathon Championship. Known for stunning mountain scenery\, excellent Boston Marathon qualifier rate (16-18%)\, and commitment to sustainability.
 LOCATION:Poudre Canyon\, Fort Collins\, CO
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:hometown-half-marathon5k10k-denver-2027@milehighrunners.com
+DTSTAMP:20261115T000000Z
+DTSTART:20270509T070000Z
+DTEND:20270509T110000Z
+SUMMARY:Hometown Half Marathon/5K/10K - Denver
+DESCRIPTION:Family-friendly spring race featuring multiple distances with custom bib\, designer shirt\, and finisher medal. Includes kids dash (1 mile\, ages 10 and under)\, virtual run option\, and age group awards. Youth pricing available for ages 12 and under on 5K/10K. Race day schedule: 5:30-6:45am packet pickup\, 6:55am kids dash\, 7:00am national anthem and race start. Snacks and photos provided at finish line. Organized by Bodies Race Company.
+LOCATION:TBD\, Denver\, CO 80202
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:denver-colfax-marathon-2027@milehighrunners.com
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART:20270515T080000Z
 DTEND:20270515T120000Z
 SUMMARY:Denver Colfax Marathon
-DESCRIPTION:Denver's largest marathon weekend in the Rocky Mountain region. Features Denver's only marathon running through Empower Field at Mile High Stadium\, a half marathon through Denver Zoo\, urban 10 miler\, marathon relay (open\, corporate\, government\, and public school divisions)\, and a 5K. Includes race photos\, shirt\, lunch\, drinks\, huge expo at the stadium\, and post-race festival with live music and food.
+DESCRIPTION:Denver's largest marathon weekend in the Rocky Mountain region\, featuring multiple race options including Denver's only marathon running through Empower Field at Mile High Stadium\, a half marathon through Denver Zoo\, an urban 10 miler\, marathon relay\, and 5K. Includes race photos\, shirt\, lunch\, drinks\, huge expo\, and post-race party with live music and food.
 LOCATION:TBD
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ram-party-trail-runs-2027@milehighrunners.com
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART:20270515T060000Z
 DTEND:20270515T100000Z
 SUMMARY:Ram Party Trail Runs
-DESCRIPTION:Ram Party Trail Runs features multiple distance options centered around the beautiful Rampart Reservoir in Woodland Park and Rampart Range Road. The race offers scenic views of Pikes Peak and the front range with elevation gains ranging from 3\,279 feet (60K) to 6\,964 feet (55 Mile).
+DESCRIPTION:Ram Party Trail Runs is a multi-distance trail running event centered around the beautiful Rampart Reservoir in Woodland Park with epic views of Pikes Peak and the front range. Multiple distance options available from 15K to 55 miles with varying elevation gains and stunning Colorado scenery.
 LOCATION:Buffalo Lodge Bicycle Resort\, 2 El Paso Blvd\, Colorado Springs\, CO 80904
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:north-fork-50-2027@milehighrunners.com
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART:20270522T060000Z
 DTEND:20270522T100000Z
 SUMMARY:North Fork 50
-DESCRIPTION:The North Fork 50 Mile/50K is an ultramarathon in the Colorado mountains southwest of Denver featuring 100% soft surface trails\, primarily singletrack through beautiful ponderosa pines and granite rock formations. The course includes sections through open burn areas from a 1996 fire. Race proceeds benefit the North Fork Volunteer Fire Department and local community organizations.
+DESCRIPTION:The North Fork 50 Mile/50K is an ultramarathon in the Colorado mountains southwest of Denver. The course is 100% soft surface\, made up almost entirely of singletrack trails with a few short sections of double track road. Runners will climb through open burn areas from a 1996 fire and wind around towering granite rock formations in the Pike National Forest. A portion of race proceeds goes to the North Fork Volunteer Fire Department\, ProjectPurple.org\, and Conifer's StageDoor Theatre.
 LOCATION:Buffalo Creek Clubhouse\, 18050 S Buffalo Creek Rd\, Buffalo Creek\, CO 80470
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:colorado-13er-2027@milehighrunners.com
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART:20270606T063000Z
 DTEND:20270606T103000Z
 SUMMARY:Colorado 13er
@@ -65,18 +85,28 @@ LOCATION:Home Depot\, 1200 Dillon Road\, Louisville\, CO 80027
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:steamboat-marathon-2027@milehighrunners.com
+DTSTAMP:20261115T000000Z
+DTSTART:20270606T080000Z
+DTEND:20270606T120000Z
+SUMMARY:Steamboat Marathon
+DESCRIPTION:Road marathon race in Steamboat Springs with Boston Marathon qualifying (BQ) potential
+LOCATION:TBD
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:ring-the-springs-2027@milehighrunners.com
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART:20270619T060000Z
 DTEND:20270619T100000Z
 SUMMARY:Ring the Springs
-DESCRIPTION:Ring the Springs is a trail running event featuring three distance options (100K\, 50K\, and 35K) through the stunning landscapes of Colorado Springs. The course weaves through majestic mountains\, scenic city parks\, and iconic landmarks including North Cheyenne Cañon and Pike National Forest trails. Starting and finishing at historic Rock Ledge Ranch in Garden of the Gods\, runners experience exhilarating climbs and rewarding descents while immersed in breathtaking mountain vistas.
+DESCRIPTION:Ring the Springs is a trail running event featuring 100K (64 miles\, 11\,065 ft elevation gain)\, 50K (32.3 miles\, 5\,115 ft elevation gain)\, and 35K (21.5 miles\, 3\,388 ft elevation gain) distances. The courses weave through Colorado Springs' majestic mountains\, scenic city parks\, and iconic landmarks including North Cheyenne Cañon and Pike National Forest\, starting and finishing at historic Rock Ledge Ranch in Garden of the Gods.
 LOCATION:Rock Ledge Ranch at Garden of The Gods\, 3105 Gateway Road\, Colorado Springs\, CO 80904
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:vail-hillclimb-2027@milehighrunners.com
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART:20270701T070000Z
 DTEND:20270701T110000Z
 SUMMARY:Vail HillClimb
@@ -86,17 +116,27 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:hardrock-100-2027@milehighrunners.com
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART:20270709T060000Z
 DTEND:20270709T100000Z
 SUMMARY:Hardrock 100
-DESCRIPTION:100-mile endurance run with 33\,441 feet of climb and 33\,441 feet of descent (66\,882 feet total elevation change). Average elevation 11\,186 feet\, with low point at 7\,680 feet (Ouray) and high point at 14\,048 feet (Handies Peak). Course runs counter-clockwise direction. Lottery-based entry system with qualifying requirements. Race includes scholarship opportunities and volunteer positions.
+DESCRIPTION:100-mile endurance run in the San Juan Mountains of Colorado with 66\,882 feet of total elevation change. Lottery-based entry system with qualifying requirements. 2027 lottery draw scheduled for December 5\, 2026 at 9:00 AM MST.
 LOCATION:Silverton\, Colorado
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:barr-trail-mountain-race-2027@milehighrunners.com
+DTSTAMP:20261115T000000Z
+DTSTART:20270718T080000Z
+DTEND:20270718T120000Z
+SUMMARY:Barr Trail Mountain Race
+DESCRIPTION:The Barr Trail Mountain Race is a 12.6 mile trail run up Pikes Peak to Barr Camp and back to the trailhead\, with a maximum elevation of 10\,200 feet. This race serves as the second component of the Garden to Peak Challenge series and provides runners an opportunity to test their training for the Pikes Peak Ascent or Marathon.
+LOCATION:441 Manitou Ave\, Suite 100\, Manitou Springs\, CO 80829
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:pikes-peak-ultra-2027@milehighrunners.com
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART:20270724T053000Z
 DTEND:20270724T093000Z
 SUMMARY:Pikes Peak Ultra
@@ -106,7 +146,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:aspen-backcountry-2027@milehighrunners.com
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART:20270731T060000Z
 DTEND:20270731T100000Z
 SUMMARY:Aspen Backcountry
@@ -116,62 +156,92 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:leadville-trail-100-mtb-2027@milehighrunners.com
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART:20270814T060000Z
 DTEND:20270814T100000Z
 SUMMARY:Leadville Trail 100 MTB
-DESCRIPTION:The Life Time Leadville Trail 100 MTB is one of the most prestigious endurance cross-country mountain bike events in the world. Riders tackle a grueling 100-mile course with approximately 12\,000 feet of elevation gain\, starting at 10\,152 feet and reaching a peak elevation of 12\,500 feet at Columbine Mine. The race is known as 'Race Across the Sky' and offers finishers the coveted silver and gold beltbuckle. Lottery registration opens December 1-15\, 2026 with results announced January 6\, 2027. Entry fee: $575.
+DESCRIPTION:The Life Time Leadville Trail 100 MTB is one of the most prestigious endurance cross-country mountain bike events in the world. Riders tackle a grueling 100-mile course with approximately 12\,000 feet of elevation gain\, starting at 10\,152 feet and reaching a peak elevation of 12\,500 feet at Columbine Mine. The race features steep climbs\, technical descents\, and stunning Rocky Mountain scenery. Finishers can earn the coveted silver or gold beltbuckle with a 12-hour time limit.
 LOCATION:135 E 6th Street\, Leadville\, CO
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:leadville-trail-100-run-2027@milehighrunners.com
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART:20270821T040000Z
 DTEND:20270821T080000Z
 SUMMARY:Leadville Trail 100 Run
-DESCRIPTION:The Life Time Leadville Trail 100 RUN presented by La Sportiva is one of the oldest and most storied endurance running events in the world. This brutal out-and-back ultramarathon starts and finishes in Leadville with steep climbs\, high-altitude passes\, and technical terrain on the Colorado Trail. The course features two climbs over Hope Pass at 12\,500 feet elevation. Entry is by lottery.
+DESCRIPTION:The Life Time Leadville Trail 100 RUN presented by La Sportiva is one of the oldest and most storied endurance running events in the world. This brutal out-and-back ultramarathon covers 100 miles of high-altitude\, extreme Rocky Mountain terrain starting at 10\,200 feet. The course includes steep climbs of Powerline\, high-altitude passes like Sugarloaf\, technical terrain on the Colorado Trail\, and two climbs on Hope Pass (12\,500 feet). The race is limited to a select handful of gritty runners via lottery entry.
 LOCATION:Corner of 6th St & Harrison\, Leadville\, CO
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:telluride-mountain-run-2027@milehighrunners.com
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART:20270828T050000Z
 DTEND:20270828T090000Z
 SUMMARY:Telluride Mountain Run
-DESCRIPTION:Trail running event in Telluride\, Colorado with three race distance options
+DESCRIPTION:Trail running event in Telluride\, Colorado with three distance options: 40 miler\, 24 miler\, and 13 miler
 LOCATION:Telluride\, CO
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:the-grand-traverse-run-2027@milehighrunners.com
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART:20270904T060000Z
 DTEND:20270904T100000Z
 SUMMARY:The Grand Traverse Run
-DESCRIPTION:A point-to-point ultramarathon from Crested Butte to Aspen\, Colorado covering 40 miles across the Elk Mountains with over 6\,000 feet of elevation gain. The course follows the route of the Grand Traverse Backcountry Ski race. Operated as a fundraising event for Crested Butte Nordic\, a 501(c)(3) recreational non-profit organization.
-LOCATION:Start: Town Park\, Crested Butte\, CO | Finish: Ajax Park\, 1001 S. Ute Ave\, Aspen\, CO
+DESCRIPTION:Point-to-point ultramarathon from Crested Butte to Aspen across the Elk Mountains with over 6\,000' of elevation gain. Follows the route of the Grand Traverse Backcountry Ski race. Fundraising event for Crested Butte Nordic\, a 501(c)(3) recreational non-profit organization. Registration opens December 1\, 2026 at midnight.
+LOCATION:Town Park\, Crested Butte\, CO (Start) / Ajax Park – 1001 S. Ute Ave\, Aspen\, CO (Finish)
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:pikes-peak-marathon-2027@milehighrunners.com
-DTSTAMP:20261108T000000Z
-DTSTART:20270918T080000Z
-DTEND:20270918T120000Z
-SUMMARY:Pikes Peak Marathon
-DESCRIPTION:The Pikes Peak Marathon\, founded in 1956\, is the oldest continually held marathon in the United States. It takes runners from Manitou Springs\, Colorado\, to the summit of Pikes Peak at 14\,115 feet and back down for a total of 26.2 grueling mountain miles\, climbing approximately 7\,800 vertical feet up the historic Barr Trail. The sister race\, the Pikes Peak Ascent\, is a 13.3-mile climb to the summit.
-LOCATION:441 Manitou Ave\, Suite 100\, Manitou Springs\, CO 80829
+UID:golden-harvest-half-marathon-5k10k-denver-2027@milehighrunners.com
+DTSTAMP:20261115T000000Z
+DTSTART:20270911T080000Z
+DTEND:20270911T120000Z
+SUMMARY:Golden Harvest Half Marathon & 5K/10K - Denver
+DESCRIPTION:Family-friendly race featuring multiple distance options with custom finisher medals\, designer shirts\, chip timing\, live results\, and awards. Includes kid's dash (1 mile\, untimed\, ages 10 & under) and virtual event options. Youth pricing available for 12 & under ($17). Race day schedule: 6:30-7:45am packet pickup\, 7:55am kids dash\, 8:00am national anthem and race start.
+LOCATION:TBD\, Denver\, CO 80202
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:snow-mountain-ranch-trail-running-festival-2027@milehighrunners.com
-DTSTAMP:20261108T000000Z
+DTSTAMP:20261115T000000Z
 DTSTART:20270918T063000Z
 DTEND:20270918T103000Z
 SUMMARY:Snow Mountain Ranch Trail Running Festival
-DESCRIPTION:The 13th annual Snow Mountain Ranch Trail Running Festival features 5 races on wide open Nordic tracks at the YMCA of the Rockies. Courses are 100% dirt terrain with stunning views of changing colors\, rolling hills\, and picturesque landscapes. Races include a 50K (31.4 miles\, 4\,236 ft elevation gain)\, 33K (20.2 miles\, 2\,443 ft elevation gain)\, Half Marathon (12.8 miles\, 1\,707 ft elevation gain)\, 10K\, and 5K. Registration closes September 13\, 2027 at 11:59 PM MT.
+DESCRIPTION:The 13th annual Snow Mountain Ranch Trail Running Festival features 5 races on wide open Nordic tracks at the YMCA of the Rockies in Granby. Races include a 50K\, 33K\, Half Marathon\, 10K\, and 5K with courses on 100% dirt terrain surrounded by changing colors\, rolling hills\, and picturesque views. Registration closes September 13\, 2027 at 11:59 PM MT.
 LOCATION:1101 County Rd 53\, Granby\, CO 80446
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:pikes-peak-marathon-2027@milehighrunners.com
+DTSTAMP:20261115T000000Z
+DTSTART:20270918T070000Z
+DTEND:20270918T110000Z
+SUMMARY:Pikes Peak Marathon
+DESCRIPTION:A grueling 13.3 mile trail race from downtown Manitou Springs to the 14\,115 foot summit of Pikes Peak via the historic Barr Trail. Features a vertical climb of 7\,800 feet with an average 11% grade\, winding through pine and aspen forests before climbing above tree line into alpine views. Registration opens March 1\, 2027 at 5:00 AM MST with tiered pricing starting at $175.
+LOCATION:441 Manitou Ave\, Suite 100\, Manitou Springs\, CO 80829
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:boulderthon-2027@milehighrunners.com
+DTSTAMP:20261115T000000Z
+DTSTART:20270926T080000Z
+DTEND:20270926T120000Z
+SUMMARY:Boulderthon
+DESCRIPTION:Colorado's Premier Fall Race Weekend. A boutique marathon experience featuring mountain backdrops\, fall foliage\, and an electric finish line at the foothills of the Rockies. Every finisher receives an exclusive limited-edition lululemon piece. Rated Top 10 in America by USA Today. Features 100% hemp bibs\, recycled medals\, live music\, community cheer zones\, and an epic after-party with outdoor expo on Pearl Street.
+LOCATION:TBD
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:colorado-springs-marathon-2027@milehighrunners.com
+DTSTAMP:20261115T000000Z
+DTSTART:20271002T070000Z
+DTEND:20271002T110000Z
+SUMMARY:Colorado Springs Marathon
+DESCRIPTION:14th Annual Colorado Springs Marathon featuring 4 events. This family-friendly premiere endurance running event showcases the city of Colorado Springs\, taking runners past historic monuments\, through beautiful parks\, culminating in downtown at the Colorado Springs Pioneers Museum with post-race celebration.
+LOCATION:215 S Tejon St\, Colorado Springs\, CO 80903
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR
