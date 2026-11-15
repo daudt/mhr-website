@@ -1006,5 +1006,35 @@
         "time": "3:36:11"
       }
     ]
+  },
+  {
+    "event_name": "Longmont 2-Mile Turkey Trot",
+    "date": "2026-11-14",
+    "results": [
+      {
+        "runner": "Kummi Ka",
+        "placement": "2nd AG",
+        "division": null,
+        "time": null
+      },
+      {
+        "runner": "Dale Hawkins",
+        "placement": "2nd AG",
+        "division": null,
+        "time": null
+      }
+    ]
+  },
+  {
+    "event_name": "Longmont Turkey Trot 10K",
+    "date": "2026-11-14",
+    "results": [
+      {
+        "runner": "Ben Miron",
+        "placement": null,
+        "division": null,
+        "time": "34:23"
+      }
+    ]
   }
 ]

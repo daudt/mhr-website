@@ -30,61 +30,64 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:a94715e7f6fd9ec9ffab72b0d697f0a4e351a0b0@milehighrunners.com
-DTSTAMP:20261108T171926Z
-DTSTART;TZID=America/Denver:20261110T052000
-DTEND;TZID=America/Denver:20261110T062000
-SUMMARY:MHR Practice — EMS
-DESCRIPTION:EMS: 4–7 x (200m / 400m / 200m). 200s at mile pace (200m easy
-  run/walk recovery). 400s at 5k pace (60–90 second recovery).\n\nDetails
- : https://milehighrunners.com/calendar.html
-LOCATION:EMS\, EMS
-URL;VALUE=URI:https://maps.app.goo.gl/rX9FLxcNrYiQrZcH8?g_st=ic
+UID:7882737c79b8fd483cc1070c9520f5e70db6a3d8@milehighrunners.com
+DTSTAMP:20261115T211511Z
+DTSTART;TZID=America/Denver:20261117T052000
+DTEND;TZID=America/Denver:20261117T062000
+SUMMARY:MHR Practice — Erie Middle School
+DESCRIPTION:10–15 x 200m ON at 5k pace\, 200m OFF at marathon pace + 1 mi
+ nute. Continuous running with no stopping.\n\nDetails: https://milehighrun
+ ners.com/calendar.html
+LOCATION:Erie Middle School\, Erie Middle School
+URL;VALUE=URI:https://maps.app.goo.gl/sfsNT43jDCKUGBBr9?g_st=ic
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 CATEGORIES:Running,Practice
 BEGIN:VALARM
 TRIGGER:-PT45M
 ACTION:DISPLAY
-DESCRIPTION:MHR Practice — EMS in 45 minutes
+DESCRIPTION:MHR Practice — Erie Middle School in 45 minutes
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:149342f706bc78f256007117be9f5136aa047731@milehighrunners.com
-DTSTAMP:20261108T171926Z
-DTSTART;TZID=America/Denver:20261112T052000
-DTEND;TZID=America/Denver:20261112T062000
-SUMMARY:MHR Practice — EMS
-DESCRIPTION:EMS: 4–7 x 800m at 10k pace (60-second recovery between sets)
- .\n\nDetails: https://milehighrunners.com/calendar.html
-LOCATION:EMS\, EMS
-URL;VALUE=URI:https://maps.app.goo.gl/rX9FLxcNrYiQrZcH8?g_st=ic
+UID:7ab6138300f72ffb84bb62f09d69680ea39b7ef4@milehighrunners.com
+DTSTAMP:20261115T211511Z
+DTSTART;TZID=America/Denver:20261119T052000
+DTEND;TZID=America/Denver:20261119T062000
+SUMMARY:MHR Practice — Erie Middle School
+DESCRIPTION:2 x (800m\, 1200m\, 800m) at 10k pace\, with 75–90 seconds re
+ covery between intervals. Note: If you are racing this weekend or recoveri
+ ng from a recent race\, do the warmup\, drills\, 4 x 400m at goal race pac
+ e\, and 4 x 100m at mile pace with full recoveries between the 100s.\n\nDe
+ tails: https://milehighrunners.com/calendar.html
+LOCATION:Erie Middle School\, Erie Middle School
+URL;VALUE=URI:https://maps.app.goo.gl/sfsNT43jDCKUGBBr9?g_st=ic
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 CATEGORIES:Running,Practice
 BEGIN:VALARM
 TRIGGER:-PT45M
 ACTION:DISPLAY
-DESCRIPTION:MHR Practice — EMS in 45 minutes
+DESCRIPTION:MHR Practice — Erie Middle School in 45 minutes
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:8b8c17cc7b49ee8286c76b452c3b7fc9d65cf58b@milehighrunners.com
-DTSTAMP:20261108T171926Z
-DTSTART;TZID=America/Denver:20261114T070000
-DTEND;TZID=America/Denver:20261114T083000
-SUMMARY:MHR Practice — McKay Lake
-DESCRIPTION:Group social run. The more the merrier!\n\nDetails: https://mil
- ehighrunners.com/calendar.html
-LOCATION:McKay Lake\, McKay Lake
-URL;VALUE=URI:https://maps.app.goo.gl/NtT46bj7iQobp6oj8?g_st=ic
+UID:d3dac7d4802713aace70f891b9230cce2e17db70@milehighrunners.com
+DTSTAMP:20261115T211511Z
+DTSTART;TZID=America/Denver:20261121T070000
+DTEND;TZID=America/Denver:20261121T083000
+SUMMARY:MHR Practice — Metzger Farms
+DESCRIPTION:Social run on a 2-mile figure-eight dirt loop course. Variety i
+ s the spice of life!\n\nDetails: https://milehighrunners.com/calendar.html
+LOCATION:Metzger Farms\, Metzger Farms
+URL;VALUE=URI:https://maps.app.goo.gl/sJAheQxZwmXQ7XvZ9?g_st=ic
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 CATEGORIES:Running,Practice
 BEGIN:VALARM
 TRIGGER:-PT45M
 ACTION:DISPLAY
-DESCRIPTION:MHR Practice — McKay Lake in 45 minutes
+DESCRIPTION:MHR Practice — Metzger Farms in 45 minutes
 END:VALARM
 END:VEVENT
 END:VCALENDAR
