@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Mile High Runners Race Calendar
 BEGIN:VEVENT
 UID:time-travel-half-marathon5k10k-chattanooga-2027@milehighrunners.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261122T000000Z
 DTSTART:20270206T090000Z
 DTEND:20270206T130000Z
 SUMMARY:Time Travel Half Marathon/5K/10K - Chattanooga
@@ -16,7 +16,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:mountain-ridge-trail-race-2027@milehighrunners.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261122T000000Z
 DTSTART:20270410T070000Z
 DTEND:20270410T110000Z
 SUMMARY:Mountain Ridge Trail Race
@@ -25,8 +25,18 @@ LOCATION:Mountain Ridge Middle School\, 10590 Mountain Vista Ridge\, Highlands R
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:aravaipa-colorado-races-canon-city-2027@milehighrunners.com
+DTSTAMP:20261122T000000Z
+DTSTART:20270424T080000Z
+DTEND:20270424T120000Z
+SUMMARY:Aravaipa Colorado Races - Canon City
+DESCRIPTION:
+LOCATION:Canon City\, CO
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:the-colorado-marathon-2027@milehighrunners.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261122T000000Z
 DTSTART:20270502T080000Z
 DTEND:20270502T120000Z
 SUMMARY:The Colorado Marathon
@@ -36,7 +46,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:hometown-half-marathon5k10k-denver-2027@milehighrunners.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261122T000000Z
 DTSTART:20270509T070000Z
 DTEND:20270509T110000Z
 SUMMARY:Hometown Half Marathon/5K/10K - Denver
@@ -46,7 +56,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:denver-colfax-marathon-2027@milehighrunners.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261122T000000Z
 DTSTART:20270515T080000Z
 DTEND:20270515T120000Z
 SUMMARY:Denver Colfax Marathon
@@ -56,7 +66,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ram-party-trail-runs-2027@milehighrunners.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261122T000000Z
 DTSTART:20270515T060000Z
 DTEND:20270515T100000Z
 SUMMARY:Ram Party Trail Runs
@@ -65,8 +75,18 @@ LOCATION:Buffalo Lodge Bicycle Resort\, 2 El Paso Blvd\, Colorado Springs\, CO 8
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:aravaipa-colorado-races-buffalo-creek-2027@milehighrunners.com
+DTSTAMP:20261122T000000Z
+DTSTART:20270522T080000Z
+DTEND:20270522T120000Z
+SUMMARY:Aravaipa Colorado Races - Buffalo Creek
+DESCRIPTION:
+LOCATION:Buffalo Creek\, CO
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:north-fork-50-2027@milehighrunners.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261122T000000Z
 DTSTART:20270522T060000Z
 DTEND:20270522T100000Z
 SUMMARY:North Fork 50
@@ -75,18 +95,18 @@ LOCATION:Buffalo Creek Clubhouse\, 18050 S Buffalo Creek Rd\, Buffalo Creek\, CO
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:colorado-13er-2027@milehighrunners.com
-DTSTAMP:20261115T000000Z
-DTSTART:20270606T063000Z
-DTEND:20270606T103000Z
-SUMMARY:Colorado 13er
-DESCRIPTION:The Colorado 13er is an exceptionally scenic\, looped half marathon (13.1 miles) that combines trail running and road racing through Louisville\, Colorado with spectacular views of the Flatirons. The course features 9 miles of flat\, crushed gravel with 10 water stations\, 5 port-a-john passes\, free parking\, and is chip-timed with live results. All participants receive a performance tee and finishers receive a collector's pint glass. Half marathon finishers also receive a collector's finisher medal. 5K and 10K options are available.
-LOCATION:Home Depot\, 1200 Dillon Road\, Louisville\, CO 80027
+UID:aravaipa-colorado-races-brighton-2027@milehighrunners.com
+DTSTAMP:20261122T000000Z
+DTSTART:20270605T080000Z
+DTEND:20270605T120000Z
+SUMMARY:Aravaipa Colorado Races - Brighton
+DESCRIPTION:
+LOCATION:Brighton\, CO
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:steamboat-marathon-2027@milehighrunners.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261122T000000Z
 DTSTART:20270606T080000Z
 DTEND:20270606T120000Z
 SUMMARY:Steamboat Marathon
@@ -95,28 +115,38 @@ LOCATION:TBD
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:colorado-13er-2027@milehighrunners.com
+DTSTAMP:20261122T000000Z
+DTSTART:20270606T063000Z
+DTEND:20270606T103000Z
+SUMMARY:Colorado 13er
+DESCRIPTION:The Colorado 13er is an exceptionally scenic\, looped half marathon (13.1 miles) that combines trail running and road racing through Louisville\, Colorado with spectacular views of the Flatirons. The course features 9 miles of flat\, crushed gravel with 10 water stations\, 5 port-a-john passes\, free parking\, and is chip-timed with live results. All participants receive a performance tee and finishers receive a collector's pint glass. Half marathon finishers also receive a collector's finisher medal. 5K and 10K options are available.
+LOCATION:Home Depot\, 1200 Dillon Road\, Louisville\, CO 80027
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:ring-the-springs-2027@milehighrunners.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261122T000000Z
 DTSTART:20270619T060000Z
 DTEND:20270619T100000Z
 SUMMARY:Ring the Springs
-DESCRIPTION:Ring the Springs is a trail running event featuring 100K (64 miles\, 11\,065 ft elevation gain)\, 50K (32.3 miles\, 5\,115 ft elevation gain)\, and 35K (21.5 miles\, 3\,388 ft elevation gain) distances. The courses weave through Colorado Springs' majestic mountains\, scenic city parks\, and iconic landmarks including North Cheyenne Cañon and Pike National Forest\, starting and finishing at historic Rock Ledge Ranch in Garden of the Gods.
+DESCRIPTION:Trail running races featuring 100K (64 miles\, 11\,065 ft elevation gain)\, 50K (32.3 miles\, 5\,115 ft elevation gain)\, and 35K (21.5 miles\, 3\,388 ft elevation gain) distances. The course weaves through majestic mountains\, scenic city parks\, and iconic landmarks of Colorado Springs\, starting and finishing at historic Rock Ledge Ranch in Garden of the Gods. Features multiple aid stations\, crew support options\, and live tracking.
 LOCATION:Rock Ledge Ranch at Garden of The Gods\, 3105 Gateway Road\, Colorado Springs\, CO 80904
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:vail-hillclimb-2027@milehighrunners.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261122T000000Z
 DTSTART:20270701T070000Z
 DTEND:20270701T110000Z
 SUMMARY:Vail HillClimb
-DESCRIPTION:Vail Trail Running Series race taking place in July 2027 in Vail
-LOCATION:Vail\, CO
+DESCRIPTION:Trail running race part of the Vail Trail Running Series\, taking place in July 2027 in Vail.
+LOCATION:TBD
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:hardrock-100-2027@milehighrunners.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261122T000000Z
 DTSTART:20270709T060000Z
 DTEND:20270709T100000Z
 SUMMARY:Hardrock 100
@@ -125,8 +155,18 @@ LOCATION:Silverton\, Colorado
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:aravaipa-colorado-races-silverton-2027@milehighrunners.com
+DTSTAMP:20261122T000000Z
+DTSTART:20270718T080000Z
+DTEND:20270718T120000Z
+SUMMARY:Aravaipa Colorado Races - Silverton
+DESCRIPTION:
+LOCATION:Silverton\, CO
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:barr-trail-mountain-race-2027@milehighrunners.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261122T000000Z
 DTSTART:20270718T080000Z
 DTEND:20270718T120000Z
 SUMMARY:Barr Trail Mountain Race
@@ -136,7 +176,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:pikes-peak-ultra-2027@milehighrunners.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261122T000000Z
 DTSTART:20270724T053000Z
 DTEND:20270724T093000Z
 SUMMARY:Pikes Peak Ultra
@@ -146,17 +186,47 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:aspen-backcountry-2027@milehighrunners.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261122T000000Z
 DTSTART:20270731T060000Z
 DTEND:20270731T100000Z
 SUMMARY:Aspen Backcountry
-DESCRIPTION:Aspen Backcountry offers three race distances (50K\, Marathon\, and Heavy Half-Marathon) run almost exclusively on dirt trails in the beautiful Aspen area. The race features diverse terrain with challenging ascents and descents\, spectacular views of the Elk Mountains\, and will be hosted on the same day as the Duck Derby festival with live music\, food trucks\, and family-friendly activities at Rio Grande Park.
+DESCRIPTION:Three-distance trail running event (50K\, Marathon\, Heavy Half-Marathon) utilizing beautiful dirt trails surrounding Aspen with spectacular views of the Elk Mountains. Features challenging terrain with significant elevation gain. 50K: 30.39 miles\, 5\,512 ft elevation gain. Marathon: 26.35 miles\, 4\,764 ft elevation gain. Limited support race with remote aid stations. Finish line festival includes live music\, food trucks\, and activities hosted by the Rotary Club Duck Derby.
 LOCATION:Rio Grande Park\, Rio Grande Parking\, Aspen\, CO 81611
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:aravaipa-colorado-races-aspen-2027@milehighrunners.com
+DTSTAMP:20261122T000000Z
+DTSTART:20270731T080000Z
+DTEND:20270731T120000Z
+SUMMARY:Aravaipa Colorado Races - Aspen
+DESCRIPTION:
+LOCATION:Aspen\, CO
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:aravaipa-colorado-races-westminster-2027@milehighrunners.com
+DTSTAMP:20261122T000000Z
+DTSTART:20270807T080000Z
+DTEND:20270807T120000Z
+SUMMARY:Aravaipa Colorado Races - Westminster
+DESCRIPTION:
+LOCATION:Westminster\, CO
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:aravaipa-colorado-races-highlands-ranch-2027@milehighrunners.com
+DTSTAMP:20261122T000000Z
+DTSTART:20270814T080000Z
+DTEND:20270814T120000Z
+SUMMARY:Aravaipa Colorado Races - Highlands Ranch
+DESCRIPTION:
+LOCATION:Highlands Ranch\, CO
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:leadville-trail-100-mtb-2027@milehighrunners.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261122T000000Z
 DTSTART:20270814T060000Z
 DTEND:20270814T100000Z
 SUMMARY:Leadville Trail 100 MTB
@@ -166,7 +236,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:leadville-trail-100-run-2027@milehighrunners.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261122T000000Z
 DTSTART:20270821T040000Z
 DTEND:20270821T080000Z
 SUMMARY:Leadville Trail 100 Run
@@ -176,7 +246,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:telluride-mountain-run-2027@milehighrunners.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261122T000000Z
 DTSTART:20270828T050000Z
 DTEND:20270828T090000Z
 SUMMARY:Telluride Mountain Run
@@ -185,18 +255,28 @@ LOCATION:Telluride\, CO
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:aravaipa-colorado-races-castle-rock-2027@milehighrunners.com
+DTSTAMP:20261122T000000Z
+DTSTART:20270828T080000Z
+DTEND:20270828T120000Z
+SUMMARY:Aravaipa Colorado Races - Castle Rock
+DESCRIPTION:
+LOCATION:Castle Rock\, CO
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:the-grand-traverse-run-2027@milehighrunners.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261122T000000Z
 DTSTART:20270904T060000Z
 DTEND:20270904T100000Z
 SUMMARY:The Grand Traverse Run
-DESCRIPTION:Point-to-point ultramarathon from Crested Butte to Aspen across the Elk Mountains with over 6\,000' of elevation gain. Follows the route of the Grand Traverse Backcountry Ski race. Fundraising event for Crested Butte Nordic\, a 501(c)(3) recreational non-profit organization. Registration opens December 1\, 2026 at midnight.
-LOCATION:Town Park\, Crested Butte\, CO (Start) / Ajax Park – 1001 S. Ute Ave\, Aspen\, CO (Finish)
+DESCRIPTION:Point-to-point ultramarathon from Crested Butte to Aspen\, Colorado across the Elk Mountains with over 6\,000 feet of elevation gain. Follows the route of the Grand Traverse Backcountry Ski race. Operated as a fundraising event for Crested Butte Nordic\, a 501(c)(3) recreational non-profit organization. General registration opens December 1\, 2026 at midnight.
+LOCATION:Town Park\, Crested Butte\, CO to Ajax Park – 1001 S. Ute Ave\, Aspen\, CO
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:golden-harvest-half-marathon-5k10k-denver-2027@milehighrunners.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261122T000000Z
 DTSTART:20270911T080000Z
 DTEND:20270911T120000Z
 SUMMARY:Golden Harvest Half Marathon & 5K/10K - Denver
@@ -206,7 +286,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:snow-mountain-ranch-trail-running-festival-2027@milehighrunners.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261122T000000Z
 DTSTART:20270918T063000Z
 DTEND:20270918T103000Z
 SUMMARY:Snow Mountain Ranch Trail Running Festival
@@ -216,7 +296,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:pikes-peak-marathon-2027@milehighrunners.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261122T000000Z
 DTSTART:20270918T070000Z
 DTEND:20270918T110000Z
 SUMMARY:Pikes Peak Marathon
@@ -225,8 +305,18 @@ LOCATION:441 Manitou Ave\, Suite 100\, Manitou Springs\, CO 80829
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:aravaipa-colorado-races-granby-2027@milehighrunners.com
+DTSTAMP:20261122T000000Z
+DTSTART:20270918T080000Z
+DTEND:20270918T120000Z
+SUMMARY:Aravaipa Colorado Races - Granby
+DESCRIPTION:
+LOCATION:Granby\, CO
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:boulderthon-2027@milehighrunners.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261122T000000Z
 DTSTART:20270926T080000Z
 DTEND:20270926T120000Z
 SUMMARY:Boulderthon
@@ -235,13 +325,33 @@ LOCATION:TBD
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:aravaipa-colorado-races-lakewood-2027@milehighrunners.com
+DTSTAMP:20261122T000000Z
+DTSTART:20271002T080000Z
+DTEND:20271002T120000Z
+SUMMARY:Aravaipa Colorado Races - Lakewood
+DESCRIPTION:
+LOCATION:Lakewood\, CO
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:colorado-springs-marathon-2027@milehighrunners.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261122T000000Z
 DTSTART:20271002T070000Z
 DTEND:20271002T110000Z
 SUMMARY:Colorado Springs Marathon
 DESCRIPTION:14th Annual Colorado Springs Marathon featuring 4 events. This family-friendly premiere endurance running event showcases the city of Colorado Springs\, taking runners past historic monuments\, through beautiful parks\, culminating in downtown at the Colorado Springs Pioneers Museum with post-race celebration.
 LOCATION:215 S Tejon St\, Colorado Springs\, CO 80903
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:aravaipa-colorado-races-colorado-springs-2027@milehighrunners.com
+DTSTAMP:20261122T000000Z
+DTSTART:20271016T080000Z
+DTEND:20271016T120000Z
+SUMMARY:Aravaipa Colorado Races - Colorado Springs
+DESCRIPTION:
+LOCATION:Colorado Springs\, CO
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR
