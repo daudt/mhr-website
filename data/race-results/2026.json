@@ -1069,7 +1069,19 @@
         "runner": "Lindsay K",
         "placement": null,
         "division": null,
-        "time": "3:00:09"
+        "time": "3:00:09",
+        "official": {
+          "official_name": "Lindsey Knast",
+          "chip_time": "3:00:10",
+          "gun_time": "3:00:20",
+          "overall_place": "616 of 16672",
+          "gender_place": "46 of 7043",
+          "age_group": "F35-39",
+          "age_group_place": "2",
+          "hometown": "Lafayette, CO",
+          "results_url": "https://www.mychiptime.com/searchevent.php?id=17626",
+          "verified": "2026-11-28"
+        }
       }
     ]
   }
