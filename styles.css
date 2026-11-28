@@ -2035,3 +2035,14 @@ h6 {
 .more-events-btn:hover {
     background-color: #e0e0e0;
 }
+/* "✓ official" link on race results verified against official results */
+.official-result {
+    font-size: 0.85em;
+    color: var(--accent-color);
+    text-decoration: none;
+    white-space: nowrap;
+}
+
+.official-result:hover {
+    text-decoration: underline;
+}

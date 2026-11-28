@@ -202,6 +202,7 @@
     </footer>
 
     <script src="main.js"></script>
+    <script src="lib/race-results.js"></script>
     <script>
         // Initialize the race results page
         initializeRaceResults();
@@ -315,10 +316,7 @@
 
                     race.results.forEach((result, index) => {
                         if (index > 0) html += '<br>';
-                        html += result.runner;
-                        if (result.placement) html += ` – ${result.placement}`;
-                        if (result.division) html += ` ${result.division}`;
-                        if (result.time) html += ` – ${result.time}`;
+                        html += formatResultLine(result);
                     });
 
                     html += '</p>';
