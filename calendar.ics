@@ -30,64 +30,22 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:7882737c79b8fd483cc1070c9520f5e70db6a3d8@milehighrunners.com
-DTSTAMP:20261115T211511Z
-DTSTART;TZID=America/Denver:20261117T052000
-DTEND;TZID=America/Denver:20261117T062000
-SUMMARY:MHR Practice — Erie Middle School
-DESCRIPTION:10–15 x 200m ON at 5k pace\, 200m OFF at marathon pace + 1 mi
- nute. Continuous running with no stopping.\n\nDetails: https://milehighrun
- ners.com/calendar.html
-LOCATION:Erie Middle School\, Erie Middle School
-URL;VALUE=URI:https://maps.app.goo.gl/sfsNT43jDCKUGBBr9?g_st=ic
+UID:26f90ea5d483aa21972e8388016636e57a736d4d@milehighrunners.com
+DTSTAMP:20261128T014007Z
+DTSTART;TZID=America/Denver:20261128T070000
+DTEND;TZID=America/Denver:20261128T083000
+SUMMARY:MHR Practice — Fox Dog Coffee Shop
+DESCRIPTION:Weekend social run starting at Fox Dog Coffee Shop. All levels 
+ are welcome.\n\nDetails: https://milehighrunners.com/calendar.html
+LOCATION:Fox Dog Coffee Shop\, Fox Dog Coffee Shop
+URL;VALUE=URI:https://maps.app.goo.gl/sSfj22yWRmqwR5N37?g_st=ic
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 CATEGORIES:Running,Practice
 BEGIN:VALARM
 TRIGGER:-PT45M
 ACTION:DISPLAY
-DESCRIPTION:MHR Practice — Erie Middle School in 45 minutes
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:7ab6138300f72ffb84bb62f09d69680ea39b7ef4@milehighrunners.com
-DTSTAMP:20261115T211511Z
-DTSTART;TZID=America/Denver:20261119T052000
-DTEND;TZID=America/Denver:20261119T062000
-SUMMARY:MHR Practice — Erie Middle School
-DESCRIPTION:2 x (800m\, 1200m\, 800m) at 10k pace\, with 75–90 seconds re
- covery between intervals. Note: If you are racing this weekend or recoveri
- ng from a recent race\, do the warmup\, drills\, 4 x 400m at goal race pac
- e\, and 4 x 100m at mile pace with full recoveries between the 100s.\n\nDe
- tails: https://milehighrunners.com/calendar.html
-LOCATION:Erie Middle School\, Erie Middle School
-URL;VALUE=URI:https://maps.app.goo.gl/sfsNT43jDCKUGBBr9?g_st=ic
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-CATEGORIES:Running,Practice
-BEGIN:VALARM
-TRIGGER:-PT45M
-ACTION:DISPLAY
-DESCRIPTION:MHR Practice — Erie Middle School in 45 minutes
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:d3dac7d4802713aace70f891b9230cce2e17db70@milehighrunners.com
-DTSTAMP:20261115T211511Z
-DTSTART;TZID=America/Denver:20261121T070000
-DTEND;TZID=America/Denver:20261121T083000
-SUMMARY:MHR Practice — Metzger Farms
-DESCRIPTION:Social run on a 2-mile figure-eight dirt loop course. Variety i
- s the spice of life!\n\nDetails: https://milehighrunners.com/calendar.html
-LOCATION:Metzger Farms\, Metzger Farms
-URL;VALUE=URI:https://maps.app.goo.gl/sJAheQxZwmXQ7XvZ9?g_st=ic
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-CATEGORIES:Running,Practice
-BEGIN:VALARM
-TRIGGER:-PT45M
-ACTION:DISPLAY
-DESCRIPTION:MHR Practice — Metzger Farms in 45 minutes
+DESCRIPTION:MHR Practice — Fox Dog Coffee Shop in 45 minutes
 END:VALARM
 END:VEVENT
 END:VCALENDAR

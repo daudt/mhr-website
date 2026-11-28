@@ -1036,5 +1036,41 @@
         "time": "34:23"
       }
     ]
+  },
+  {
+    "event_name": "Brighton Turkey Trot",
+    "date": "2026-11-21",
+    "results": [
+      {
+        "runner": "Nicole Rubis",
+        "placement": "1st AG",
+        "division": null,
+        "time": "23:43"
+      },
+      {
+        "runner": "Kummi Ka",
+        "placement": "2nd AG",
+        "division": null,
+        "time": "24:52"
+      },
+      {
+        "runner": "Dale Hawkins",
+        "placement": "2nd AG",
+        "division": null,
+        "time": "24:12"
+      }
+    ]
+  },
+  {
+    "event_name": "Philadelphia Marathon",
+    "date": "2026-11-22",
+    "results": [
+      {
+        "runner": "Lindsay K",
+        "placement": null,
+        "division": null,
+        "time": "3:00:09"
+      }
+    ]
   }
 ]
